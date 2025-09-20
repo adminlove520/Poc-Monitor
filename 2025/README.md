@@ -545,6 +545,11 @@
 - [0xZeroSec/CVE-2025-55887](https://github.com/0xZeroSec/CVE-2025-55887)	<img alt="forks" src="https://img.shields.io/github/forks/0xZeroSec/CVE-2025-55887">	<img alt="stars" src="https://img.shields.io/github/stars/0xZeroSec/CVE-2025-55887">
 
 ---
+## CVE-2025-55886 ()
+> 
+- [0xZeroSec/CVE-2025-55886](https://github.com/0xZeroSec/CVE-2025-55886)	<img alt="forks" src="https://img.shields.io/github/forks/0xZeroSec/CVE-2025-55886">	<img alt="stars" src="https://img.shields.io/github/stars/0xZeroSec/CVE-2025-55886">
+
+---
 ## CVE-2025-55763 ()
 > 
 - [krispybyte/CVE-2025-55763](https://github.com/krispybyte/CVE-2025-55763)	<img alt="forks" src="https://img.shields.io/github/forks/krispybyte/CVE-2025-55763">	<img alt="stars" src="https://img.shields.io/github/stars/krispybyte/CVE-2025-55763">
