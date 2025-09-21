@@ -5503,6 +5503,7 @@
 - [tdevworks/CVE-2020-0796-SMBGhost-Exploit-Demo](https://github.com/tdevworks/CVE-2020-0796-SMBGhost-Exploit-Demo)	<img alt="forks" src="https://img.shields.io/github/forks/tdevworks/CVE-2020-0796-SMBGhost-Exploit-Demo">	<img alt="stars" src="https://img.shields.io/github/stars/tdevworks/CVE-2020-0796-SMBGhost-Exploit-Demo">
 - [maqeel-git/CVE-2020-0796](https://github.com/maqeel-git/CVE-2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/maqeel-git/CVE-2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/maqeel-git/CVE-2020-0796">
 - [esmwaSpyware/DoS-PoC-for-CVE-2020-0796-SMBGhost-](https://github.com/esmwaSpyware/DoS-PoC-for-CVE-2020-0796-SMBGhost-)	<img alt="forks" src="https://img.shields.io/github/forks/esmwaSpyware/DoS-PoC-for-CVE-2020-0796-SMBGhost-">	<img alt="stars" src="https://img.shields.io/github/stars/esmwaSpyware/DoS-PoC-for-CVE-2020-0796-SMBGhost-">
+- [Jagadeesh7532/-CVE-2020-0796-SMBGhost-Windows-10-SMBv3-Remote-Code-Execution-Vulnerability](https://github.com/Jagadeesh7532/-CVE-2020-0796-SMBGhost-Windows-10-SMBv3-Remote-Code-Execution-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Jagadeesh7532/-CVE-2020-0796-SMBGhost-Windows-10-SMBv3-Remote-Code-Execution-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Jagadeesh7532/-CVE-2020-0796-SMBGhost-Windows-10-SMBv3-Remote-Code-Execution-Vulnerability">
 
 ---
 ## CVE-2020-0688 (2020-02-11T22:15:00)
