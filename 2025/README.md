@@ -512,6 +512,11 @@
 - [RandomRobbieBF/CVE-2025-5701](https://github.com/RandomRobbieBF/CVE-2025-5701)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2025-5701">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2025-5701">
 
 ---
+## CVE-2025-56819 ()
+> 
+- [xyyzxc/CVE-2025-56819](https://github.com/xyyzxc/CVE-2025-56819)	<img alt="forks" src="https://img.shields.io/github/forks/xyyzxc/CVE-2025-56819">	<img alt="stars" src="https://img.shields.io/github/stars/xyyzxc/CVE-2025-56819">
+
+---
 ## CVE-2025-56815 ()
 > 
 - [xiaoxiaoranxxx/CVE-2025-56815](https://github.com/xiaoxiaoranxxx/CVE-2025-56815)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoxiaoranxxx/CVE-2025-56815">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoxiaoranxxx/CVE-2025-56815">
