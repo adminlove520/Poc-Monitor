@@ -1487,7 +1487,7 @@
 > 
 - [typicalsmc/CVE-2025-49132-PoC](https://github.com/typicalsmc/CVE-2025-49132-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/typicalsmc/CVE-2025-49132-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/typicalsmc/CVE-2025-49132-PoC">
 - [Zen-kun04/CVE-2025-49132](https://github.com/Zen-kun04/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/Zen-kun04/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/Zen-kun04/CVE-2025-49132">
-- [nfoltc/CVE-2025-49132](https://github.com/nfoltc/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/nfoltc/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/nfoltc/CVE-2025-49132">
+- [pxxdrobits/CVE-2025-49132](https://github.com/pxxdrobits/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/pxxdrobits/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/pxxdrobits/CVE-2025-49132">
 - [qiaojojo/CVE-2025-49132_poc](https://github.com/qiaojojo/CVE-2025-49132_poc)	<img alt="forks" src="https://img.shields.io/github/forks/qiaojojo/CVE-2025-49132_poc">	<img alt="stars" src="https://img.shields.io/github/stars/qiaojojo/CVE-2025-49132_poc">
 - [qiaojojo/CVE-2025-49132_poc](https://github.com/qiaojojo/CVE-2025-49132_poc)	<img alt="forks" src="https://img.shields.io/github/forks/qiaojojo/CVE-2025-49132_poc">	<img alt="stars" src="https://img.shields.io/github/stars/qiaojojo/CVE-2025-49132_poc">
 - [63square/CVE-2025-49132](https://github.com/63square/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/63square/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/63square/CVE-2025-49132">
@@ -1495,6 +1495,7 @@
 - [uxieltc/CVE-2025-49132](https://github.com/uxieltc/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/uxieltc/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/uxieltc/CVE-2025-49132">
 - [0xtensho/CVE-2025-49132-poc](https://github.com/0xtensho/CVE-2025-49132-poc)	<img alt="forks" src="https://img.shields.io/github/forks/0xtensho/CVE-2025-49132-poc">	<img alt="stars" src="https://img.shields.io/github/stars/0xtensho/CVE-2025-49132-poc">
 - [GRodolphe/CVE-2025-49132_poc](https://github.com/GRodolphe/CVE-2025-49132_poc)	<img alt="forks" src="https://img.shields.io/github/forks/GRodolphe/CVE-2025-49132_poc">	<img alt="stars" src="https://img.shields.io/github/stars/GRodolphe/CVE-2025-49132_poc">
+- [WebSafety-2tina/CVE-2025-49132](https://github.com/WebSafety-2tina/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/WebSafety-2tina/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/WebSafety-2tina/CVE-2025-49132">
 
 ---
 ## CVE-2025-49125 ()
