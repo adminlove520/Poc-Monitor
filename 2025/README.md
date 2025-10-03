@@ -383,6 +383,11 @@
 - [prabhatverma47/CVE-2025-60787](https://github.com/prabhatverma47/CVE-2025-60787)	<img alt="forks" src="https://img.shields.io/github/forks/prabhatverma47/CVE-2025-60787">	<img alt="stars" src="https://img.shields.io/github/stars/prabhatverma47/CVE-2025-60787">
 
 ---
+## CVE-2025-60736 ()
+> 
+- [WinDyAlphA/CVE-2025-60736](https://github.com/WinDyAlphA/CVE-2025-60736)	<img alt="forks" src="https://img.shields.io/github/forks/WinDyAlphA/CVE-2025-60736">	<img alt="stars" src="https://img.shields.io/github/stars/WinDyAlphA/CVE-2025-60736">
+
+---
 ## CVE-2025-6058 ()
 > 
 - [Nxploited/CVE-2025-6058](https://github.com/Nxploited/CVE-2025-6058)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-6058">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-6058">
