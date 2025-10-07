@@ -382,6 +382,11 @@
 - [absholi7ly/CVE-2025-6218-WinRAR-Directory-Traversal-RCE](https://github.com/absholi7ly/CVE-2025-6218-WinRAR-Directory-Traversal-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/CVE-2025-6218-WinRAR-Directory-Traversal-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/CVE-2025-6218-WinRAR-Directory-Traversal-RCE">
 
 ---
+## CVE-2025-61984 ()
+> 
+- [dgl/cve-2025-61984-poc](https://github.com/dgl/cve-2025-61984-poc)	<img alt="forks" src="https://img.shields.io/github/forks/dgl/cve-2025-61984-poc">	<img alt="stars" src="https://img.shields.io/github/stars/dgl/cve-2025-61984-poc">
+
+---
 ## CVE-2025-61882 ()
 > 
 - [rxerium/CVE-2025-61882](https://github.com/rxerium/CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-61882">
@@ -436,6 +441,11 @@
 - [ibrahmsql/CVE-2025-6018-](https://github.com/ibrahmsql/CVE-2025-6018-)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2025-6018-">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2025-6018-">
 - [ibrahmsql/CVE-2025-6018](https://github.com/ibrahmsql/CVE-2025-6018)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2025-6018">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2025-6018">
 - [B1ack4sh/Blackash-CVE-2025-6018](https://github.com/B1ack4sh/Blackash-CVE-2025-6018)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-6018">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-6018">
+
+---
+## CVE-2025-59934 ()
+> 
+- [suriryuk/cve-2025-59934](https://github.com/suriryuk/cve-2025-59934)	<img alt="forks" src="https://img.shields.io/github/forks/suriryuk/cve-2025-59934">	<img alt="stars" src="https://img.shields.io/github/stars/suriryuk/cve-2025-59934">
 
 ---
 ## CVE-2025-59843 ()
