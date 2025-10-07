@@ -1610,6 +1610,11 @@
 - [NotItsSixtyN3in/CVE-2025-50000](https://github.com/NotItsSixtyN3in/CVE-2025-50000)	<img alt="forks" src="https://img.shields.io/github/forks/NotItsSixtyN3in/CVE-2025-50000">	<img alt="stars" src="https://img.shields.io/github/stars/NotItsSixtyN3in/CVE-2025-50000">
 
 ---
+## CVE-2025-49844 ()
+> 
+- [gopinaath/CVE-2025-49844-discovery](https://github.com/gopinaath/CVE-2025-49844-discovery)	<img alt="forks" src="https://img.shields.io/github/forks/gopinaath/CVE-2025-49844-discovery">	<img alt="stars" src="https://img.shields.io/github/stars/gopinaath/CVE-2025-49844-discovery">
+
+---
 ## CVE-2025-49721 ()
 > 
 - [Lam0x0/CVE-2025-49721_part1](https://github.com/Lam0x0/CVE-2025-49721_part1)	<img alt="forks" src="https://img.shields.io/github/forks/Lam0x0/CVE-2025-49721_part1">	<img alt="stars" src="https://img.shields.io/github/stars/Lam0x0/CVE-2025-49721_part1">
@@ -3053,6 +3058,7 @@
 - [AC8999/CVE-2025-32463](https://github.com/AC8999/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/AC8999/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/AC8999/CVE-2025-32463">
 - [onniio/CVE-2025-32463](https://github.com/onniio/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/onniio/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/onniio/CVE-2025-32463">
 - [onniio/CVE-2025-32463](https://github.com/onniio/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/onniio/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/onniio/CVE-2025-32463">
+- [r3dBust3r/CVE-2025-32463](https://github.com/r3dBust3r/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/r3dBust3r/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/r3dBust3r/CVE-2025-32463">
 
 ---
 ## CVE-2025-32462 ()
