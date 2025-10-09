@@ -3175,7 +3175,7 @@
 ---
 ## CVE-2025-32444 ()
 > 
-- [stuxbench/vLLM-CVE-2025-32444](https://github.com/stuxbench/vLLM-CVE-2025-32444)	<img alt="forks" src="https://img.shields.io/github/forks/stuxbench/vLLM-CVE-2025-32444">	<img alt="stars" src="https://img.shields.io/github/stars/stuxbench/vLLM-CVE-2025-32444">
+- [stuxbench/vllm-cve-2025-32444](https://github.com/stuxbench/vllm-cve-2025-32444)	<img alt="forks" src="https://img.shields.io/github/forks/stuxbench/vllm-cve-2025-32444">	<img alt="stars" src="https://img.shields.io/github/stars/stuxbench/vllm-cve-2025-32444">
 
 ---
 ## CVE-2025-32434 ()
