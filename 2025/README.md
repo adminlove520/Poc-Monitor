@@ -2373,6 +2373,11 @@
 - [skraft9/CVE-2025-44823](https://github.com/skraft9/CVE-2025-44823)	<img alt="forks" src="https://img.shields.io/github/forks/skraft9/CVE-2025-44823">	<img alt="stars" src="https://img.shields.io/github/stars/skraft9/CVE-2025-44823">
 
 ---
+## CVE-2025-4476 ()
+> 
+- [soltanali0/CVE-2025-4476-Exploit](https://github.com/soltanali0/CVE-2025-4476-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/soltanali0/CVE-2025-4476-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/soltanali0/CVE-2025-4476-Exploit">
+
+---
 ## CVE-2025-44608 ()
 > 
 - [mr-xmen786/CVE-2025-44608](https://github.com/mr-xmen786/CVE-2025-44608)	<img alt="forks" src="https://img.shields.io/github/forks/mr-xmen786/CVE-2025-44608">	<img alt="stars" src="https://img.shields.io/github/stars/mr-xmen786/CVE-2025-44608">
