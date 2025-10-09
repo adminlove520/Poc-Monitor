@@ -171,6 +171,7 @@
 - [kyomber/CVE-2025-8088](https://github.com/kyomber/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/kyomber/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/kyomber/CVE-2025-8088">
 - [Fathi-MO/POC-CVE-2025-8088](https://github.com/Fathi-MO/POC-CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/Fathi-MO/POC-CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/Fathi-MO/POC-CVE-2025-8088">
 - [haspread/CVE-2025-8088](https://github.com/haspread/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/haspread/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/haspread/CVE-2025-8088">
+- [tookATE/CVE-2025-8088](https://github.com/tookATE/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/tookATE/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/tookATE/CVE-2025-8088">
 
 ---
 ## CVE-2025-8067 ()
@@ -1658,6 +1659,7 @@
 - [raminfp/redis_exploit](https://github.com/raminfp/redis_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/raminfp/redis_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/raminfp/redis_exploit">
 - [Yuri08loveElaina/CVE-2025-49844](https://github.com/Yuri08loveElaina/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/Yuri08loveElaina/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/Yuri08loveElaina/CVE-2025-49844">
 - [YuanBenSir/CVE-2025-49844_POC](https://github.com/YuanBenSir/CVE-2025-49844_POC)	<img alt="forks" src="https://img.shields.io/github/forks/YuanBenSir/CVE-2025-49844_POC">	<img alt="stars" src="https://img.shields.io/github/stars/YuanBenSir/CVE-2025-49844_POC">
+- [Mufti22/CVE-2025-49844-RediShell-Vulnerability-Scanner](https://github.com/Mufti22/CVE-2025-49844-RediShell-Vulnerability-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Mufti22/CVE-2025-49844-RediShell-Vulnerability-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Mufti22/CVE-2025-49844-RediShell-Vulnerability-Scanner">
 
 ---
 ## CVE-2025-49721 ()
