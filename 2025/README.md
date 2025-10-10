@@ -538,6 +538,11 @@
 - [allinsthon/CVE-2025-59251](https://github.com/allinsthon/CVE-2025-59251)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-59251">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-59251">
 
 ---
+## CVE-2025-59246 ()
+> 
+- [Mpokes/CVE-2025-59246-Exploit](https://github.com/Mpokes/CVE-2025-59246-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Mpokes/CVE-2025-59246-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Mpokes/CVE-2025-59246-Exploit">
+
+---
 ## CVE-2025-58789 ()
 > 
 - [quetuan03/CVE-2025-58789](https://github.com/quetuan03/CVE-2025-58789)	<img alt="forks" src="https://img.shields.io/github/forks/quetuan03/CVE-2025-58789">	<img alt="stars" src="https://img.shields.io/github/stars/quetuan03/CVE-2025-58789">
