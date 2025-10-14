@@ -2070,6 +2070,7 @@
 - [s41r4j/CVE-2025-48384-submodule](https://github.com/s41r4j/CVE-2025-48384-submodule)	<img alt="forks" src="https://img.shields.io/github/forks/s41r4j/CVE-2025-48384-submodule">	<img alt="stars" src="https://img.shields.io/github/stars/s41r4j/CVE-2025-48384-submodule">
 - [s41r4j/CVE-2025-48384](https://github.com/s41r4j/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/s41r4j/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/s41r4j/CVE-2025-48384">
 - [mukesh-610/cve-2025-48384-exploit](https://github.com/mukesh-610/cve-2025-48384-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/mukesh-610/cve-2025-48384-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/mukesh-610/cve-2025-48384-exploit">
+- [mukesh-610/cve-2025-48384](https://github.com/mukesh-610/cve-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/mukesh-610/cve-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/mukesh-610/cve-2025-48384">
 
 ---
 ## CVE-2025-4822 ()
