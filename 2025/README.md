@@ -5511,6 +5511,7 @@
 ## CVE-2025-11001 ()
 > 
 - [pacbypass/CVE-2025-11001](https://github.com/pacbypass/CVE-2025-11001)	<img alt="forks" src="https://img.shields.io/github/forks/pacbypass/CVE-2025-11001">	<img alt="stars" src="https://img.shields.io/github/stars/pacbypass/CVE-2025-11001">
+- [shalevo13/Se7enSlip](https://github.com/shalevo13/Se7enSlip)	<img alt="forks" src="https://img.shields.io/github/forks/shalevo13/Se7enSlip">	<img alt="stars" src="https://img.shields.io/github/stars/shalevo13/Se7enSlip">
 
 ---
 ## CVE-2025-1094 ()
