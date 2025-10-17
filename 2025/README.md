@@ -186,6 +186,7 @@
 - [tookATE/CVE-2025-8088](https://github.com/tookATE/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/tookATE/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/tookATE/CVE-2025-8088">
 - [Snorx-cyber/CVE-2025-8088-builder](https://github.com/Snorx-cyber/CVE-2025-8088-builder)	<img alt="forks" src="https://img.shields.io/github/forks/Snorx-cyber/CVE-2025-8088-builder">	<img alt="stars" src="https://img.shields.io/github/stars/Snorx-cyber/CVE-2025-8088-builder">
 - [aldisakti2/CVE-2025-8088-BUILDER-Winrar-Tool](https://github.com/aldisakti2/CVE-2025-8088-BUILDER-Winrar-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/aldisakti2/CVE-2025-8088-BUILDER-Winrar-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/aldisakti2/CVE-2025-8088-BUILDER-Winrar-Tool">
+- [blowrrr/cve-2025-8088](https://github.com/blowrrr/cve-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/blowrrr/cve-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/blowrrr/cve-2025-8088">
 
 ---
 ## CVE-2025-8081 ()
@@ -3381,6 +3382,7 @@
 - [shazed-x/CVE-2025-32463](https://github.com/shazed-x/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/shazed-x/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/shazed-x/CVE-2025-32463">
 - [cybershaolin47/CVE-2025-32463_POC](https://github.com/cybershaolin47/CVE-2025-32463_POC)	<img alt="forks" src="https://img.shields.io/github/forks/cybershaolin47/CVE-2025-32463_POC">	<img alt="stars" src="https://img.shields.io/github/stars/cybershaolin47/CVE-2025-32463_POC">
 - [cyberajju/CVE-2025-32463](https://github.com/cyberajju/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/cyberajju/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/cyberajju/CVE-2025-32463">
+- [dr4x-c0d3r/sudo-chroot](https://github.com/dr4x-c0d3r/sudo-chroot)	<img alt="forks" src="https://img.shields.io/github/forks/dr4x-c0d3r/sudo-chroot">	<img alt="stars" src="https://img.shields.io/github/stars/dr4x-c0d3r/sudo-chroot">
 
 ---
 ## CVE-2025-32462 ()
