@@ -2094,6 +2094,7 @@
 ## CVE-2025-49002 ()
 > 
 - [Feng-Huang-0520/DataEase_Postgresql_JDBC_Bypass-CVE-2025-49002](https://github.com/Feng-Huang-0520/DataEase_Postgresql_JDBC_Bypass-CVE-2025-49002)	<img alt="forks" src="https://img.shields.io/github/forks/Feng-Huang-0520/DataEase_Postgresql_JDBC_Bypass-CVE-2025-49002">	<img alt="stars" src="https://img.shields.io/github/stars/Feng-Huang-0520/DataEase_Postgresql_JDBC_Bypass-CVE-2025-49002">
+- [jiuzui129-arch/CVE-2025-49002](https://github.com/jiuzui129-arch/CVE-2025-49002)	<img alt="forks" src="https://img.shields.io/github/forks/jiuzui129-arch/CVE-2025-49002">	<img alt="stars" src="https://img.shields.io/github/stars/jiuzui129-arch/CVE-2025-49002">
 
 ---
 ## CVE-2025-48988 ()
