@@ -586,6 +586,11 @@
 - [H4zaz/CVE-2025-60500](https://github.com/H4zaz/CVE-2025-60500)	<img alt="forks" src="https://img.shields.io/github/forks/H4zaz/CVE-2025-60500">	<img alt="stars" src="https://img.shields.io/github/stars/H4zaz/CVE-2025-60500">
 
 ---
+## CVE-2025-60424 ()
+> 
+- [aakashtyal/2FA-Bypass-using-a-Brute-Force-Attack-CVE-2025-60424](https://github.com/aakashtyal/2FA-Bypass-using-a-Brute-Force-Attack-CVE-2025-60424)	<img alt="forks" src="https://img.shields.io/github/forks/aakashtyal/2FA-Bypass-using-a-Brute-Force-Attack-CVE-2025-60424">	<img alt="stars" src="https://img.shields.io/github/stars/aakashtyal/2FA-Bypass-using-a-Brute-Force-Attack-CVE-2025-60424">
+
+---
 ## CVE-2025-60378 ()
 > 
 - [ajansha/CVE-2025-60378](https://github.com/ajansha/CVE-2025-60378)	<img alt="forks" src="https://img.shields.io/github/forks/ajansha/CVE-2025-60378">	<img alt="stars" src="https://img.shields.io/github/stars/ajansha/CVE-2025-60378">
@@ -4121,6 +4126,11 @@
 - [kuyrathdaro/cve-2025-29927](https://github.com/kuyrathdaro/cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/kuyrathdaro/cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/kuyrathdaro/cve-2025-29927">
 - [Bongni/CVE-2025-29927](https://github.com/Bongni/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/Bongni/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/Bongni/CVE-2025-29927">
 - [diogolourencodev/middleforce](https://github.com/diogolourencodev/middleforce)	<img alt="forks" src="https://img.shields.io/github/forks/diogolourencodev/middleforce">	<img alt="stars" src="https://img.shields.io/github/stars/diogolourencodev/middleforce">
+
+---
+## CVE-2025-29891 ()
+> 
+- [Crystallen1/CVE-2025-29891-demo](https://github.com/Crystallen1/CVE-2025-29891-demo)	<img alt="forks" src="https://img.shields.io/github/forks/Crystallen1/CVE-2025-29891-demo">	<img alt="stars" src="https://img.shields.io/github/stars/Crystallen1/CVE-2025-29891-demo">
 
 ---
 ## CVE-2025-29824 ()
