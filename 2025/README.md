@@ -573,6 +573,11 @@
 - [thawphone/CVE-2025-61183](https://github.com/thawphone/CVE-2025-61183)	<img alt="forks" src="https://img.shields.io/github/forks/thawphone/CVE-2025-61183">	<img alt="stars" src="https://img.shields.io/github/stars/thawphone/CVE-2025-61183">
 
 ---
+## CVE-2025-61156 ()
+> 
+- [D7EAD/CVE-2025-61156](https://github.com/D7EAD/CVE-2025-61156)	<img alt="forks" src="https://img.shields.io/github/forks/D7EAD/CVE-2025-61156">	<img alt="stars" src="https://img.shields.io/github/stars/D7EAD/CVE-2025-61156">
+
+---
 ## CVE-2025-61155 ()
 > 
 - [pollotherunner/CVE-2025-61155](https://github.com/pollotherunner/CVE-2025-61155)	<img alt="forks" src="https://img.shields.io/github/forks/pollotherunner/CVE-2025-61155">	<img alt="stars" src="https://img.shields.io/github/stars/pollotherunner/CVE-2025-61155">
@@ -759,6 +764,7 @@
 - [Lupovis/Honeypot-for-CVE-2025-59287-WSUS](https://github.com/Lupovis/Honeypot-for-CVE-2025-59287-WSUS)	<img alt="forks" src="https://img.shields.io/github/forks/Lupovis/Honeypot-for-CVE-2025-59287-WSUS">	<img alt="stars" src="https://img.shields.io/github/stars/Lupovis/Honeypot-for-CVE-2025-59287-WSUS">
 - [tecxx/CVE-2025-59287-WSUS](https://github.com/tecxx/CVE-2025-59287-WSUS)	<img alt="forks" src="https://img.shields.io/github/forks/tecxx/CVE-2025-59287-WSUS">	<img alt="stars" src="https://img.shields.io/github/stars/tecxx/CVE-2025-59287-WSUS">
 - [0xBruno/WSUSploit.NET](https://github.com/0xBruno/WSUSploit.NET)	<img alt="forks" src="https://img.shields.io/github/forks/0xBruno/WSUSploit.NET">	<img alt="stars" src="https://img.shields.io/github/stars/0xBruno/WSUSploit.NET">
+- [RadzaRr/WSUSResponder](https://github.com/RadzaRr/WSUSResponder)	<img alt="forks" src="https://img.shields.io/github/forks/RadzaRr/WSUSResponder">	<img alt="stars" src="https://img.shields.io/github/stars/RadzaRr/WSUSResponder">
 
 ---
 ## CVE-2025-59285 ()
