@@ -1018,6 +1018,11 @@
 - [PhDg1410/CVE-2025-56588](https://github.com/PhDg1410/CVE-2025-56588)	<img alt="forks" src="https://img.shields.io/github/forks/PhDg1410/CVE-2025-56588">	<img alt="stars" src="https://img.shields.io/github/stars/PhDg1410/CVE-2025-56588">
 
 ---
+## CVE-2025-56521 ()
+> 
+- [Dong-hui-li/CVE-2025-56521andCVE-2025-56522](https://github.com/Dong-hui-li/CVE-2025-56521andCVE-2025-56522)	<img alt="forks" src="https://img.shields.io/github/forks/Dong-hui-li/CVE-2025-56521andCVE-2025-56522">	<img alt="stars" src="https://img.shields.io/github/stars/Dong-hui-li/CVE-2025-56521andCVE-2025-56522">
+
+---
 ## CVE-2025-56515 ()
 > 
 - [Kov404/CVE-2025-56515](https://github.com/Kov404/CVE-2025-56515)	<img alt="forks" src="https://img.shields.io/github/forks/Kov404/CVE-2025-56515">	<img alt="stars" src="https://img.shields.io/github/stars/Kov404/CVE-2025-56515">
@@ -5521,6 +5526,11 @@
 - [1ucky7/cve-2025-22223-demo-1.0.0](https://github.com/1ucky7/cve-2025-22223-demo-1.0.0)	<img alt="forks" src="https://img.shields.io/github/forks/1ucky7/cve-2025-22223-demo-1.0.0">	<img alt="stars" src="https://img.shields.io/github/stars/1ucky7/cve-2025-22223-demo-1.0.0">
 
 ---
+## CVE-2025-22167 ()
+> 
+- [issamjr/CVE-2025-22167](https://github.com/issamjr/CVE-2025-22167)	<img alt="forks" src="https://img.shields.io/github/forks/issamjr/CVE-2025-22167">	<img alt="stars" src="https://img.shields.io/github/stars/issamjr/CVE-2025-22167">
+
+---
 ## CVE-2025-22131 ()
 > 
 - [ZzN1NJ4/CVE-2025-22131-PoC](https://github.com/ZzN1NJ4/CVE-2025-22131-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ZzN1NJ4/CVE-2025-22131-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ZzN1NJ4/CVE-2025-22131-PoC">
@@ -5838,6 +5848,12 @@
 ## CVE-2025-11579 ()
 > 
 - [shinigami-777/PoC_CVE-2025-11579](https://github.com/shinigami-777/PoC_CVE-2025-11579)	<img alt="forks" src="https://img.shields.io/github/forks/shinigami-777/PoC_CVE-2025-11579">	<img alt="stars" src="https://img.shields.io/github/stars/shinigami-777/PoC_CVE-2025-11579">
+
+---
+## CVE-2025-11534 ()
+> 
+- [snareloop/CVE-2025-11534](https://github.com/snareloop/CVE-2025-11534)	<img alt="forks" src="https://img.shields.io/github/forks/snareloop/CVE-2025-11534">	<img alt="stars" src="https://img.shields.io/github/stars/snareloop/CVE-2025-11534">
+- [DExplo1ted/CVE-2025-11534-POC](https://github.com/DExplo1ted/CVE-2025-11534-POC)	<img alt="forks" src="https://img.shields.io/github/forks/DExplo1ted/CVE-2025-11534-POC">	<img alt="stars" src="https://img.shields.io/github/stars/DExplo1ted/CVE-2025-11534-POC">
 
 ---
 ## CVE-2025-11449 ()
