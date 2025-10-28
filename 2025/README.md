@@ -772,6 +772,7 @@
 - [0xBruno/WSUSploit.NET](https://github.com/0xBruno/WSUSploit.NET)	<img alt="forks" src="https://img.shields.io/github/forks/0xBruno/WSUSploit.NET">	<img alt="stars" src="https://img.shields.io/github/stars/0xBruno/WSUSploit.NET">
 - [RadzaRr/WSUSResponder](https://github.com/RadzaRr/WSUSResponder)	<img alt="forks" src="https://img.shields.io/github/forks/RadzaRr/WSUSResponder">	<img alt="stars" src="https://img.shields.io/github/stars/RadzaRr/WSUSResponder">
 - [mubix/Find-WSUS](https://github.com/mubix/Find-WSUS)	<img alt="forks" src="https://img.shields.io/github/forks/mubix/Find-WSUS">	<img alt="stars" src="https://img.shields.io/github/stars/mubix/Find-WSUS">
+- [mrk336/Breaking-the-Update-Chain-Inside-CVE-2025-59287-and-the-WSUS-RCE-Threat](https://github.com/mrk336/Breaking-the-Update-Chain-Inside-CVE-2025-59287-and-the-WSUS-RCE-Threat)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/Breaking-the-Update-Chain-Inside-CVE-2025-59287-and-the-WSUS-RCE-Threat">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/Breaking-the-Update-Chain-Inside-CVE-2025-59287-and-the-WSUS-RCE-Threat">
 
 ---
 ## CVE-2025-59285 ()
