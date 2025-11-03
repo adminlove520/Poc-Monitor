@@ -810,6 +810,11 @@
 - [JOOJIII/CVE-2025-59424](https://github.com/JOOJIII/CVE-2025-59424)	<img alt="forks" src="https://img.shields.io/github/forks/JOOJIII/CVE-2025-59424">	<img alt="stars" src="https://img.shields.io/github/stars/JOOJIII/CVE-2025-59424">
 
 ---
+## CVE-2025-59396 ()
+> 
+- [cyberbyte000/CVE-2025-59396](https://github.com/cyberbyte000/CVE-2025-59396)	<img alt="forks" src="https://img.shields.io/github/forks/cyberbyte000/CVE-2025-59396">	<img alt="stars" src="https://img.shields.io/github/stars/cyberbyte000/CVE-2025-59396">
+
+---
 ## CVE-2025-59359 ()
 > 
 - [mrk336/Cluster-Chaos-Exploiting-CVE-2025-59359-for-Kubernetes-Takeover](https://github.com/mrk336/Cluster-Chaos-Exploiting-CVE-2025-59359-for-Kubernetes-Takeover)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/Cluster-Chaos-Exploiting-CVE-2025-59359-for-Kubernetes-Takeover">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/Cluster-Chaos-Exploiting-CVE-2025-59359-for-Kubernetes-Takeover">
@@ -843,6 +848,7 @@
 - [0x7556/CVE-2025-59287](https://github.com/0x7556/CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/0x7556/CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/0x7556/CVE-2025-59287">
 - [QurtiDev/WSUS-CVE-2025-59287-RCE](https://github.com/QurtiDev/WSUS-CVE-2025-59287-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/QurtiDev/WSUS-CVE-2025-59287-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/QurtiDev/WSUS-CVE-2025-59287-RCE">
 - [Sid6Effect/CVE-2025-59287](https://github.com/Sid6Effect/CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/Sid6Effect/CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/Sid6Effect/CVE-2025-59287">
+- [dexterm300/cve-2025-59287-exploit-poc](https://github.com/dexterm300/cve-2025-59287-exploit-poc)	<img alt="forks" src="https://img.shields.io/github/forks/dexterm300/cve-2025-59287-exploit-poc">	<img alt="stars" src="https://img.shields.io/github/stars/dexterm300/cve-2025-59287-exploit-poc">
 
 ---
 ## CVE-2025-59285 ()
