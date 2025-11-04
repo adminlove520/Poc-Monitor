@@ -1535,6 +1535,7 @@
 - [akujedanjedon/CVE-2025-54253-Exploit-Demo](https://github.com/akujedanjedon/CVE-2025-54253-Exploit-Demo)	<img alt="forks" src="https://img.shields.io/github/forks/akujedanjedon/CVE-2025-54253-Exploit-Demo">	<img alt="stars" src="https://img.shields.io/github/stars/akujedanjedon/CVE-2025-54253-Exploit-Demo">
 - [25145hg654511135gfhfkr8488r8r8r8r8r/test2](https://github.com/25145hg654511135gfhfkr8488r8r8r8r8r/test2)	<img alt="forks" src="https://img.shields.io/github/forks/25145hg654511135gfhfkr8488r8r8r8r8r/test2">	<img alt="stars" src="https://img.shields.io/github/stars/25145hg654511135gfhfkr8488r8r8r8r8r/test2">
 - [25145hg654511135gfhfkr8488r8r8r8r8r/test](https://github.com/25145hg654511135gfhfkr8488r8r8r8r8r/test)	<img alt="forks" src="https://img.shields.io/github/forks/25145hg654511135gfhfkr8488r8r8r8r8r/test">	<img alt="stars" src="https://img.shields.io/github/stars/25145hg654511135gfhfkr8488r8r8r8r8r/test">
+- [AdityaBhatt3010/CVE-2025-54253-Inside-the-Adobe-AEM-Forms-Zero-Day](https://github.com/AdityaBhatt3010/CVE-2025-54253-Inside-the-Adobe-AEM-Forms-Zero-Day)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2025-54253-Inside-the-Adobe-AEM-Forms-Zero-Day">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2025-54253-Inside-the-Adobe-AEM-Forms-Zero-Day">
 
 ---
 ## CVE-2025-5419 ()
