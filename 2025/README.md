@@ -452,6 +452,11 @@
 - [maestro-ant/CrafterCMS-CVE-2025-6384](https://github.com/maestro-ant/CrafterCMS-CVE-2025-6384)	<img alt="forks" src="https://img.shields.io/github/forks/maestro-ant/CrafterCMS-CVE-2025-6384">	<img alt="stars" src="https://img.shields.io/github/stars/maestro-ant/CrafterCMS-CVE-2025-6384">
 
 ---
+## CVE-2025-63588 ()
+> 
+- [cybercrewinc/CVE-2025-63588](https://github.com/cybercrewinc/CVE-2025-63588)	<img alt="forks" src="https://img.shields.io/github/forks/cybercrewinc/CVE-2025-63588">	<img alt="stars" src="https://img.shields.io/github/stars/cybercrewinc/CVE-2025-63588">
+
+---
 ## CVE-2025-63579 ()
 > 
 - [barisbaydur/CVE-2025-63579](https://github.com/barisbaydur/CVE-2025-63579)	<img alt="forks" src="https://img.shields.io/github/forks/barisbaydur/CVE-2025-63579">	<img alt="stars" src="https://img.shields.io/github/stars/barisbaydur/CVE-2025-63579">
