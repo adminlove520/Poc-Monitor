@@ -1816,6 +1816,11 @@
 - [joelczk/CVE-2025-52688](https://github.com/joelczk/CVE-2025-52688)	<img alt="forks" src="https://img.shields.io/github/forks/joelczk/CVE-2025-52688">	<img alt="stars" src="https://img.shields.io/github/stars/joelczk/CVE-2025-52688">
 
 ---
+## CVE-2025-52665 ()
+> 
+- [callinston/CVE-2025-52665](https://github.com/callinston/CVE-2025-52665)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-52665">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-52665">
+
+---
 ## CVE-2025-5252 ()
 > 
 - [aydin5245/CVE-2025-5252-CVE-ivanti](https://github.com/aydin5245/CVE-2025-5252-CVE-ivanti)	<img alt="forks" src="https://img.shields.io/github/forks/aydin5245/CVE-2025-5252-CVE-ivanti">	<img alt="stars" src="https://img.shields.io/github/stars/aydin5245/CVE-2025-5252-CVE-ivanti">
