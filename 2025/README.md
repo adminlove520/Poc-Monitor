@@ -773,6 +773,11 @@
 - [0xgh057r3c0n/CVE-2025-6058](https://github.com/0xgh057r3c0n/CVE-2025-6058)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-6058">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-6058">
 
 ---
+## CVE-2025-60574 ()
+> 
+- [jacopoaugelli/CVE-2025-60574](https://github.com/jacopoaugelli/CVE-2025-60574)	<img alt="forks" src="https://img.shields.io/github/forks/jacopoaugelli/CVE-2025-60574">	<img alt="stars" src="https://img.shields.io/github/stars/jacopoaugelli/CVE-2025-60574">
+
+---
 ## CVE-2025-60503 ()
 > 
 - [H4zaz/CVE-2025-60503](https://github.com/H4zaz/CVE-2025-60503)	<img alt="forks" src="https://img.shields.io/github/forks/H4zaz/CVE-2025-60503">	<img alt="stars" src="https://img.shields.io/github/stars/H4zaz/CVE-2025-60503">
