@@ -462,6 +462,7 @@
 ## CVE-2025-64513 ()
 > 
 - [B1ack4sh/Blackash-CVE-2025-64513](https://github.com/B1ack4sh/Blackash-CVE-2025-64513)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-64513">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-64513">
+- [shinyseam/CVE-2025-64513](https://github.com/shinyseam/CVE-2025-64513)	<img alt="forks" src="https://img.shields.io/github/forks/shinyseam/CVE-2025-64513">	<img alt="stars" src="https://img.shields.io/github/stars/shinyseam/CVE-2025-64513">
 
 ---
 ## CVE-2025-64500 ()
@@ -999,6 +1000,11 @@
 - [cyberbyte000/CVE-2025-59396](https://github.com/cyberbyte000/CVE-2025-59396)	<img alt="forks" src="https://img.shields.io/github/forks/cyberbyte000/CVE-2025-59396">	<img alt="stars" src="https://img.shields.io/github/stars/cyberbyte000/CVE-2025-59396">
 
 ---
+## CVE-2025-59367 ()
+> 
+- [B1ack4sh/Blackash-CVE-2025-59367](https://github.com/B1ack4sh/Blackash-CVE-2025-59367)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-59367">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-59367">
+
+---
 ## CVE-2025-59359 ()
 > 
 - [mrk336/Cluster-Chaos-Exploiting-CVE-2025-59359-for-Kubernetes-Takeover](https://github.com/mrk336/Cluster-Chaos-Exploiting-CVE-2025-59359-for-Kubernetes-Takeover)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/Cluster-Chaos-Exploiting-CVE-2025-59359-for-Kubernetes-Takeover">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/Cluster-Chaos-Exploiting-CVE-2025-59359-for-Kubernetes-Takeover">
@@ -1330,6 +1336,11 @@
 ## CVE-2025-56588 ()
 > 
 - [PhDg1410/CVE-2025-56588](https://github.com/PhDg1410/CVE-2025-56588)	<img alt="forks" src="https://img.shields.io/github/forks/PhDg1410/CVE-2025-56588">	<img alt="stars" src="https://img.shields.io/github/stars/PhDg1410/CVE-2025-56588">
+
+---
+## CVE-2025-56526 ()
+> 
+- [HanTul/Kotaemon-CVE-2025-56526-56527-disclosure](https://github.com/HanTul/Kotaemon-CVE-2025-56526-56527-disclosure)	<img alt="forks" src="https://img.shields.io/github/forks/HanTul/Kotaemon-CVE-2025-56526-56527-disclosure">	<img alt="stars" src="https://img.shields.io/github/stars/HanTul/Kotaemon-CVE-2025-56526-56527-disclosure">
 
 ---
 ## CVE-2025-56521 ()
