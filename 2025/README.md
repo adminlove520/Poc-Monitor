@@ -308,6 +308,7 @@
 - [Gabriel-Lacorte/CVE-2025-7771](https://github.com/Gabriel-Lacorte/CVE-2025-7771)	<img alt="forks" src="https://img.shields.io/github/forks/Gabriel-Lacorte/CVE-2025-7771">	<img alt="stars" src="https://img.shields.io/github/stars/Gabriel-Lacorte/CVE-2025-7771">
 - [Demoo1337/ThrottleStop](https://github.com/Demoo1337/ThrottleStop)	<img alt="forks" src="https://img.shields.io/github/forks/Demoo1337/ThrottleStop">	<img alt="stars" src="https://img.shields.io/github/stars/Demoo1337/ThrottleStop">
 - [fxrstor/ThrottleStopPoC](https://github.com/fxrstor/ThrottleStopPoC)	<img alt="forks" src="https://img.shields.io/github/forks/fxrstor/ThrottleStopPoC">	<img alt="stars" src="https://img.shields.io/github/stars/fxrstor/ThrottleStopPoC">
+- [AmrHuss/throttlestop-exploit-rw](https://github.com/AmrHuss/throttlestop-exploit-rw)	<img alt="forks" src="https://img.shields.io/github/forks/AmrHuss/throttlestop-exploit-rw">	<img alt="stars" src="https://img.shields.io/github/stars/AmrHuss/throttlestop-exploit-rw">
 
 ---
 ## CVE-2025-7769 ()
@@ -3774,6 +3775,11 @@
 - [crondenice/CVE-2025-34299](https://github.com/crondenice/CVE-2025-34299)	<img alt="forks" src="https://img.shields.io/github/forks/crondenice/CVE-2025-34299">	<img alt="stars" src="https://img.shields.io/github/stars/crondenice/CVE-2025-34299">
 - [rxerium/CVE-2025-34299](https://github.com/rxerium/CVE-2025-34299)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-34299">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-34299">
 - [B1ack4sh/Blackash-CVE-2025-34299](https://github.com/B1ack4sh/Blackash-CVE-2025-34299)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-34299">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-34299">
+
+---
+## CVE-2025-34227 ()
+> 
+- [mcorybillington/CVE-2025-34227_Nagios-XI-Command-Injection-Configuration-Wizard](https://github.com/mcorybillington/CVE-2025-34227_Nagios-XI-Command-Injection-Configuration-Wizard)	<img alt="forks" src="https://img.shields.io/github/forks/mcorybillington/CVE-2025-34227_Nagios-XI-Command-Injection-Configuration-Wizard">	<img alt="stars" src="https://img.shields.io/github/stars/mcorybillington/CVE-2025-34227_Nagios-XI-Command-Injection-Configuration-Wizard">
 
 ---
 ## CVE-2025-34226 ()
