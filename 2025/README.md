@@ -915,6 +915,11 @@
 - [callinston/CVE-2025-60724](https://github.com/callinston/CVE-2025-60724)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-60724">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-60724">
 
 ---
+## CVE-2025-60715 ()
+> 
+- [velmetrac/CVE-2025-60715](https://github.com/velmetrac/CVE-2025-60715)	<img alt="forks" src="https://img.shields.io/github/forks/velmetrac/CVE-2025-60715">	<img alt="stars" src="https://img.shields.io/github/stars/velmetrac/CVE-2025-60715">
+
+---
 ## CVE-2025-60710 ()
 > 
 - [Wh04m1001/CVE-2025-60710](https://github.com/Wh04m1001/CVE-2025-60710)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/CVE-2025-60710">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/CVE-2025-60710">
