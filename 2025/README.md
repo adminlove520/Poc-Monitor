@@ -501,6 +501,7 @@
 - [B1ack4sh/Blackash-CVE-2025-64446](https://github.com/B1ack4sh/Blackash-CVE-2025-64446)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-64446">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-64446">
 - [soltanali0/CVE-2025-64446-Exploit](https://github.com/soltanali0/CVE-2025-64446-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/soltanali0/CVE-2025-64446-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/soltanali0/CVE-2025-64446-Exploit">
 - [sensepost/CVE-2025-64446](https://github.com/sensepost/CVE-2025-64446)	<img alt="forks" src="https://img.shields.io/github/forks/sensepost/CVE-2025-64446">	<img alt="stars" src="https://img.shields.io/github/stars/sensepost/CVE-2025-64446">
+- [D3crypT0r/CVE-2025-64446](https://github.com/D3crypT0r/CVE-2025-64446)	<img alt="forks" src="https://img.shields.io/github/forks/D3crypT0r/CVE-2025-64446">	<img alt="stars" src="https://img.shields.io/github/stars/D3crypT0r/CVE-2025-64446">
 
 ---
 ## CVE-2025-64403 ()
