@@ -1897,6 +1897,7 @@
 ## CVE-2025-54110 ()
 > 
 - [ByteHawkSec/CVE-2025-54110-POC](https://github.com/ByteHawkSec/CVE-2025-54110-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ByteHawkSec/CVE-2025-54110-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ByteHawkSec/CVE-2025-54110-POC">
+- [canomer/CVE-2025-54110-Kernel-EoP-PoC](https://github.com/canomer/CVE-2025-54110-Kernel-EoP-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/canomer/CVE-2025-54110-Kernel-EoP-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/canomer/CVE-2025-54110-Kernel-EoP-PoC">
 
 ---
 ## CVE-2025-54106 ()
@@ -6777,6 +6778,7 @@
 ## CVE-2025-10230 ()
 > 
 - [dptsec/CVE-2025-10230](https://github.com/dptsec/CVE-2025-10230)	<img alt="forks" src="https://img.shields.io/github/forks/dptsec/CVE-2025-10230">	<img alt="stars" src="https://img.shields.io/github/stars/dptsec/CVE-2025-10230">
+- [B1ack4sh/Blackash-CVE-2025-10230](https://github.com/B1ack4sh/Blackash-CVE-2025-10230)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-10230">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-10230">
 
 ---
 ## CVE-2025-10184 ()
