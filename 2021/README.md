@@ -1413,6 +1413,8 @@
 ## CVE-2021-43267 ()
 > 
 - [YunchoHang/CVE-2021-43267](https://github.com/YunchoHang/CVE-2021-43267)	<img alt="forks" src="https://img.shields.io/github/forks/YunchoHang/CVE-2021-43267">	<img alt="stars" src="https://img.shields.io/github/stars/YunchoHang/CVE-2021-43267">
+- [zzhacked/CVE-2021-43267](https://github.com/zzhacked/CVE-2021-43267)	<img alt="forks" src="https://img.shields.io/github/forks/zzhacked/CVE-2021-43267">	<img alt="stars" src="https://img.shields.io/github/stars/zzhacked/CVE-2021-43267">
+- [DarkSprings/CVE-2021-43267-POC](https://github.com/DarkSprings/CVE-2021-43267-POC)	<img alt="forks" src="https://img.shields.io/github/forks/DarkSprings/CVE-2021-43267-POC">	<img alt="stars" src="https://img.shields.io/github/stars/DarkSprings/CVE-2021-43267-POC">
 
 ---
 ## CVE-2021-43258 (2022-11-23T19:15:00)
