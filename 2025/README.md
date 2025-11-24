@@ -492,6 +492,11 @@
 - [Neo-Neo6/CVE-2025-65018-Heap-buffer-overflow-in-libpng-ps4-ps5-](https://github.com/Neo-Neo6/CVE-2025-65018-Heap-buffer-overflow-in-libpng-ps4-ps5-)	<img alt="forks" src="https://img.shields.io/github/forks/Neo-Neo6/CVE-2025-65018-Heap-buffer-overflow-in-libpng-ps4-ps5-">	<img alt="stars" src="https://img.shields.io/github/stars/Neo-Neo6/CVE-2025-65018-Heap-buffer-overflow-in-libpng-ps4-ps5-">
 
 ---
+## CVE-2025-64720 ()
+> 
+- [truediogo/CVE-2025-64720](https://github.com/truediogo/CVE-2025-64720)	<img alt="forks" src="https://img.shields.io/github/forks/truediogo/CVE-2025-64720">	<img alt="stars" src="https://img.shields.io/github/stars/truediogo/CVE-2025-64720">
+
+---
 ## CVE-2025-64708 ()
 > 
 - [DylanDavis1/CVE-2025-64708](https://github.com/DylanDavis1/CVE-2025-64708)	<img alt="forks" src="https://img.shields.io/github/forks/DylanDavis1/CVE-2025-64708">	<img alt="stars" src="https://img.shields.io/github/stars/DylanDavis1/CVE-2025-64708">
