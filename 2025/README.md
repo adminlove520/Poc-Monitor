@@ -835,6 +835,11 @@
 - [abrewer251/CVE-2025-62215_Windows_Kernel_PE](https://github.com/abrewer251/CVE-2025-62215_Windows_Kernel_PE)	<img alt="forks" src="https://img.shields.io/github/forks/abrewer251/CVE-2025-62215_Windows_Kernel_PE">	<img alt="stars" src="https://img.shields.io/github/stars/abrewer251/CVE-2025-62215_Windows_Kernel_PE">
 
 ---
+## CVE-2025-62207 ()
+> 
+- [stankobra853/CVE-2025-62207](https://github.com/stankobra853/CVE-2025-62207)	<img alt="forks" src="https://img.shields.io/github/forks/stankobra853/CVE-2025-62207">	<img alt="stars" src="https://img.shields.io/github/stars/stankobra853/CVE-2025-62207">
+
+---
 ## CVE-2025-6220 ()
 > 
 - [d0n601/CVE-2025-6220](https://github.com/d0n601/CVE-2025-6220)	<img alt="forks" src="https://img.shields.io/github/forks/d0n601/CVE-2025-6220">	<img alt="stars" src="https://img.shields.io/github/stars/d0n601/CVE-2025-6220">
@@ -7038,6 +7043,7 @@
 - [dptsec/CVE-2025-10230](https://github.com/dptsec/CVE-2025-10230)	<img alt="forks" src="https://img.shields.io/github/forks/dptsec/CVE-2025-10230">	<img alt="stars" src="https://img.shields.io/github/stars/dptsec/CVE-2025-10230">
 - [B1ack4sh/Blackash-CVE-2025-10230](https://github.com/B1ack4sh/Blackash-CVE-2025-10230)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-10230">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-10230">
 - [nehkark/CVE-2025-10230](https://github.com/nehkark/CVE-2025-10230)	<img alt="forks" src="https://img.shields.io/github/forks/nehkark/CVE-2025-10230">	<img alt="stars" src="https://img.shields.io/github/stars/nehkark/CVE-2025-10230">
+- [marcostolosa/CVE-2025-10230](https://github.com/marcostolosa/CVE-2025-10230)	<img alt="forks" src="https://img.shields.io/github/forks/marcostolosa/CVE-2025-10230">	<img alt="stars" src="https://img.shields.io/github/stars/marcostolosa/CVE-2025-10230">
 
 ---
 ## CVE-2025-10184 ()
