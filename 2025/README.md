@@ -6807,6 +6807,7 @@
 ## CVE-2025-13615 ()
 > 
 - [wor41fezil/CVE-2025-13615-POC](https://github.com/wor41fezil/CVE-2025-13615-POC)	<img alt="forks" src="https://img.shields.io/github/forks/wor41fezil/CVE-2025-13615-POC">	<img alt="stars" src="https://img.shields.io/github/stars/wor41fezil/CVE-2025-13615-POC">
+- [blossombutt4063/CVE-2025-13615](https://github.com/blossombutt4063/CVE-2025-13615)	<img alt="forks" src="https://img.shields.io/github/forks/blossombutt4063/CVE-2025-13615">	<img alt="stars" src="https://img.shields.io/github/stars/blossombutt4063/CVE-2025-13615">
 
 ---
 ## CVE-2025-13597 ()
