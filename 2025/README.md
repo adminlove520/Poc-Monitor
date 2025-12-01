@@ -591,8 +591,9 @@
 > 
 - [rockmelodies/django_sqli_target_CVE-2025-64459](https://github.com/rockmelodies/django_sqli_target_CVE-2025-64459)	<img alt="forks" src="https://img.shields.io/github/forks/rockmelodies/django_sqli_target_CVE-2025-64459">	<img alt="stars" src="https://img.shields.io/github/stars/rockmelodies/django_sqli_target_CVE-2025-64459">
 - [nunpa/CVE-2025-64459](https://github.com/nunpa/CVE-2025-64459)	<img alt="forks" src="https://img.shields.io/github/forks/nunpa/CVE-2025-64459">	<img alt="stars" src="https://img.shields.io/github/stars/nunpa/CVE-2025-64459">
-- [B1ack4sh/Blackash-CVE-2025-64459](https://github.com/B1ack4sh/Blackash-CVE-2025-64459)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-64459">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-64459">
+- [Ashwesker/Blackash-CVE-2025-64459](https://github.com/Ashwesker/Blackash-CVE-2025-64459)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-64459">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-64459">
 - [omarkurt/django-connector-CVE-2025-64459-testbed](https://github.com/omarkurt/django-connector-CVE-2025-64459-testbed)	<img alt="forks" src="https://img.shields.io/github/forks/omarkurt/django-connector-CVE-2025-64459-testbed">	<img alt="stars" src="https://img.shields.io/github/stars/omarkurt/django-connector-CVE-2025-64459-testbed">
+- [stanly363/CVE-2025-64459-Poc](https://github.com/stanly363/CVE-2025-64459-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/stanly363/CVE-2025-64459-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/stanly363/CVE-2025-64459-Poc">
 
 ---
 ## CVE-2025-64458 ()
@@ -626,6 +627,7 @@
 - [xxoprt/CVE-2025-6440](https://github.com/xxoprt/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/xxoprt/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/xxoprt/CVE-2025-6440">
 - [Nxploited/CVE-2025-6440](https://github.com/Nxploited/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-6440">
 - [m2hcz/CVE-2025-6440-Poc-Exploit](https://github.com/m2hcz/CVE-2025-6440-Poc-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/m2hcz/CVE-2025-6440-Poc-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/m2hcz/CVE-2025-6440-Poc-Exploit">
+- [smuft1707/CVE-2025-6440](https://github.com/smuft1707/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/smuft1707/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/smuft1707/CVE-2025-6440">
 
 ---
 ## CVE-2025-64328 ()
