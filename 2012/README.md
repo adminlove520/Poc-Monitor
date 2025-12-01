@@ -73,6 +73,10 @@
 ## CVE-2012-2122 ()
 > 
 - [netw0rk7/CVE-2012-2122-Home-Lab](https://github.com/netw0rk7/CVE-2012-2122-Home-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/netw0rk7/CVE-2012-2122-Home-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/netw0rk7/CVE-2012-2122-Home-Lab">
+- [subinyy/docker_CVE_2012_2122](https://github.com/subinyy/docker_CVE_2012_2122)	<img alt="forks" src="https://img.shields.io/github/forks/subinyy/docker_CVE_2012_2122">	<img alt="stars" src="https://img.shields.io/github/stars/subinyy/docker_CVE_2012_2122">
+- [zhangkaibin0921/CVE-2012-2122](https://github.com/zhangkaibin0921/CVE-2012-2122)	<img alt="forks" src="https://img.shields.io/github/forks/zhangkaibin0921/CVE-2012-2122">	<img alt="stars" src="https://img.shields.io/github/stars/zhangkaibin0921/CVE-2012-2122">
+- [cyberharsh/Oracle-mysql-CVE-2012-2122](https://github.com/cyberharsh/Oracle-mysql-CVE-2012-2122)	<img alt="forks" src="https://img.shields.io/github/forks/cyberharsh/Oracle-mysql-CVE-2012-2122">	<img alt="stars" src="https://img.shields.io/github/stars/cyberharsh/Oracle-mysql-CVE-2012-2122">
+- [Avinza/CVE-2012-2122-scanner](https://github.com/Avinza/CVE-2012-2122-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Avinza/CVE-2012-2122-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Avinza/CVE-2012-2122-scanner">
 
 ---
 ## CVE-2012-2012 (2012-06-29T22:55:00)
