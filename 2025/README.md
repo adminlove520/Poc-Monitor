@@ -1598,6 +1598,11 @@
 - [sanchitsahni/CVE-2025-57515](https://github.com/sanchitsahni/CVE-2025-57515)	<img alt="forks" src="https://img.shields.io/github/forks/sanchitsahni/CVE-2025-57515">	<img alt="stars" src="https://img.shields.io/github/stars/sanchitsahni/CVE-2025-57515">
 
 ---
+## CVE-2025-57489 ()
+> 
+- [graypixel2121/CVE-2025-57489](https://github.com/graypixel2121/CVE-2025-57489)	<img alt="forks" src="https://img.shields.io/github/forks/graypixel2121/CVE-2025-57489">	<img alt="stars" src="https://img.shields.io/github/stars/graypixel2121/CVE-2025-57489">
+
+---
 ## CVE-2025-57457 ()
 > 
 - [restdone/CVE-2025-57457](https://github.com/restdone/CVE-2025-57457)	<img alt="forks" src="https://img.shields.io/github/forks/restdone/CVE-2025-57457">	<img alt="stars" src="https://img.shields.io/github/stars/restdone/CVE-2025-57457">
@@ -2007,6 +2012,7 @@
 > 
 - [BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js](https://github.com/BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js)	<img alt="forks" src="https://img.shields.io/github/forks/BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js">	<img alt="stars" src="https://img.shields.io/github/stars/BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js">
 - [callinston/CVE-2025-55182](https://github.com/callinston/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-55182">
+- [ejpir/CVE-2025-55182-poc](https://github.com/ejpir/CVE-2025-55182-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ejpir/CVE-2025-55182-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ejpir/CVE-2025-55182-poc">
 
 ---
 ## CVE-2025-54988 ()
