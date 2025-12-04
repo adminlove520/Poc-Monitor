@@ -2053,6 +2053,8 @@
 - [dwisiswant0/CVE-2025-55182](https://github.com/dwisiswant0/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/dwisiswant0/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/dwisiswant0/CVE-2025-55182">
 - [Chelsea486MHz/CVE-2025-55182-test](https://github.com/Chelsea486MHz/CVE-2025-55182-test)	<img alt="forks" src="https://img.shields.io/github/forks/Chelsea486MHz/CVE-2025-55182-test">	<img alt="stars" src="https://img.shields.io/github/stars/Chelsea486MHz/CVE-2025-55182-test">
 - [oways/React2shell-CVE-2025-55182-checker](https://github.com/oways/React2shell-CVE-2025-55182-checker)	<img alt="forks" src="https://img.shields.io/github/forks/oways/React2shell-CVE-2025-55182-checker">	<img alt="stars" src="https://img.shields.io/github/stars/oways/React2shell-CVE-2025-55182-checker">
+- [CyCognito/cve-2025-55182-rsc-rce](https://github.com/CyCognito/cve-2025-55182-rsc-rce)	<img alt="forks" src="https://img.shields.io/github/forks/CyCognito/cve-2025-55182-rsc-rce">	<img alt="stars" src="https://img.shields.io/github/stars/CyCognito/cve-2025-55182-rsc-rce">
+- [msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/msanft/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/msanft/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
