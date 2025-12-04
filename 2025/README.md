@@ -454,6 +454,7 @@
 - [gensecaihq/react2shell-scanner](https://github.com/gensecaihq/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/gensecaihq/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/gensecaihq/react2shell-scanner">
 - [heiheishushu/rsc_detect_CVE-2025-55182](https://github.com/heiheishushu/rsc_detect_CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/heiheishushu/rsc_detect_CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/heiheishushu/rsc_detect_CVE-2025-55182">
 - [songsanggggg/CVE-2025-55182](https://github.com/songsanggggg/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/songsanggggg/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/songsanggggg/CVE-2025-55182">
+- [Malayke/Next.js-RSC-RCE-Scanner-CVE-2025-66478](https://github.com/Malayke/Next.js-RSC-RCE-Scanner-CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/Malayke/Next.js-RSC-RCE-Scanner-CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/Malayke/Next.js-RSC-RCE-Scanner-CVE-2025-66478">
 
 ---
 ## CVE-2025-66022 ()
@@ -2055,6 +2056,10 @@
 - [oways/React2shell-CVE-2025-55182-checker](https://github.com/oways/React2shell-CVE-2025-55182-checker)	<img alt="forks" src="https://img.shields.io/github/forks/oways/React2shell-CVE-2025-55182-checker">	<img alt="stars" src="https://img.shields.io/github/stars/oways/React2shell-CVE-2025-55182-checker">
 - [CyCognito/cve-2025-55182-rsc-rce](https://github.com/CyCognito/cve-2025-55182-rsc-rce)	<img alt="forks" src="https://img.shields.io/github/forks/CyCognito/cve-2025-55182-rsc-rce">	<img alt="stars" src="https://img.shields.io/github/stars/CyCognito/cve-2025-55182-rsc-rce">
 - [msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/msanft/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/msanft/CVE-2025-55182">
+- [luskafaria/cve-2025-55182](https://github.com/luskafaria/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/luskafaria/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/luskafaria/cve-2025-55182">
+- [c0rydoras/CVE-2025-55182](https://github.com/c0rydoras/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/c0rydoras/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/c0rydoras/CVE-2025-55182">
+- [ivaavimusic/React19-fix-vibecoders](https://github.com/ivaavimusic/React19-fix-vibecoders)	<img alt="forks" src="https://img.shields.io/github/forks/ivaavimusic/React19-fix-vibecoders">	<img alt="stars" src="https://img.shields.io/github/stars/ivaavimusic/React19-fix-vibecoders">
+- [carlosaruy/CVE-2025-55182](https://github.com/carlosaruy/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/carlosaruy/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/carlosaruy/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
