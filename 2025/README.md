@@ -2047,6 +2047,7 @@
 - [aspen-labs/CVE-2025-55182-checker](https://github.com/aspen-labs/CVE-2025-55182-checker)	<img alt="forks" src="https://img.shields.io/github/forks/aspen-labs/CVE-2025-55182-checker">	<img alt="stars" src="https://img.shields.io/github/stars/aspen-labs/CVE-2025-55182-checker">
 - [Rsatan/CVE-2025-55182-Tools](https://github.com/Rsatan/CVE-2025-55182-Tools)	<img alt="forks" src="https://img.shields.io/github/forks/Rsatan/CVE-2025-55182-Tools">	<img alt="stars" src="https://img.shields.io/github/stars/Rsatan/CVE-2025-55182-Tools">
 - [7ealvivek/CVE-2025-55182-by-Realvivek](https://github.com/7ealvivek/CVE-2025-55182-by-Realvivek)	<img alt="forks" src="https://img.shields.io/github/forks/7ealvivek/CVE-2025-55182-by-Realvivek">	<img alt="stars" src="https://img.shields.io/github/stars/7ealvivek/CVE-2025-55182-by-Realvivek">
+- [gensecaihq/react2shell-scanner](https://github.com/gensecaihq/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/gensecaihq/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/gensecaihq/react2shell-scanner">
 
 ---
 ## CVE-2025-54988 ()
