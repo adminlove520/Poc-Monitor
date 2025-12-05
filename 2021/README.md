@@ -1040,6 +1040,7 @@
 - [mgueye3/Log4Shell](https://github.com/mgueye3/Log4Shell)	<img alt="forks" src="https://img.shields.io/github/forks/mgueye3/Log4Shell">	<img alt="stars" src="https://img.shields.io/github/stars/mgueye3/Log4Shell">
 - [timothyjxhn/DeliberatelyVulnerableWebApp](https://github.com/timothyjxhn/DeliberatelyVulnerableWebApp)	<img alt="forks" src="https://img.shields.io/github/forks/timothyjxhn/DeliberatelyVulnerableWebApp">	<img alt="stars" src="https://img.shields.io/github/stars/timothyjxhn/DeliberatelyVulnerableWebApp">
 - [dangducloc/CVE_2021_44228](https://github.com/dangducloc/CVE_2021_44228)	<img alt="forks" src="https://img.shields.io/github/forks/dangducloc/CVE_2021_44228">	<img alt="stars" src="https://img.shields.io/github/stars/dangducloc/CVE_2021_44228">
+- [DrHaitham/Log4Shell-CVE-2021-44228](https://github.com/DrHaitham/Log4Shell-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/DrHaitham/Log4Shell-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/DrHaitham/Log4Shell-CVE-2021-44228">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)

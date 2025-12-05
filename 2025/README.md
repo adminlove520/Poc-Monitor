@@ -2159,6 +2159,7 @@
 - [zzhorc/CVE-2025-55182](https://github.com/zzhorc/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/zzhorc/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/zzhorc/CVE-2025-55182">
 - [Atlantis02-sec/Vulnerability-assessment](https://github.com/Atlantis02-sec/Vulnerability-assessment)	<img alt="forks" src="https://img.shields.io/github/forks/Atlantis02-sec/Vulnerability-assessment">	<img alt="stars" src="https://img.shields.io/github/stars/Atlantis02-sec/Vulnerability-assessment">
 - [f0xyx/CVE-2025-55182-Scanner](https://github.com/f0xyx/CVE-2025-55182-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/f0xyx/CVE-2025-55182-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/f0xyx/CVE-2025-55182-Scanner">
+- [Cr4at0r/Next.js-RCE-Scanner-BurpSuite-Extension-](https://github.com/Cr4at0r/Next.js-RCE-Scanner-BurpSuite-Extension-)	<img alt="forks" src="https://img.shields.io/github/forks/Cr4at0r/Next.js-RCE-Scanner-BurpSuite-Extension-">	<img alt="stars" src="https://img.shields.io/github/stars/Cr4at0r/Next.js-RCE-Scanner-BurpSuite-Extension-">
 
 ---
 ## CVE-2025-54988 ()
