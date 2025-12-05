@@ -2115,6 +2115,7 @@
 - [onlylovetx/CVE-2025-55182-CVE-2025-66478-Exploit-GUI](https://github.com/onlylovetx/CVE-2025-55182-CVE-2025-66478-Exploit-GUI)	<img alt="forks" src="https://img.shields.io/github/forks/onlylovetx/CVE-2025-55182-CVE-2025-66478-Exploit-GUI">	<img alt="stars" src="https://img.shields.io/github/stars/onlylovetx/CVE-2025-55182-CVE-2025-66478-Exploit-GUI">
 - [TH-SecForge/CVE-2025-55182](https://github.com/TH-SecForge/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/TH-SecForge/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/TH-SecForge/CVE-2025-55182">
 - [Chocapikk/CVE-2025-55182](https://github.com/Chocapikk/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2025-55182">
+- [Spritualkb/CVE-2025-55182-exp](https://github.com/Spritualkb/CVE-2025-55182-exp)	<img alt="forks" src="https://img.shields.io/github/forks/Spritualkb/CVE-2025-55182-exp">	<img alt="stars" src="https://img.shields.io/github/stars/Spritualkb/CVE-2025-55182-exp">
 
 ---
 ## CVE-2025-54988 ()
