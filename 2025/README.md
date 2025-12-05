@@ -2123,6 +2123,8 @@
 - [RuoJi6/CVE-2025-55182-RCE-shell](https://github.com/RuoJi6/CVE-2025-55182-RCE-shell)	<img alt="forks" src="https://img.shields.io/github/forks/RuoJi6/CVE-2025-55182-RCE-shell">	<img alt="stars" src="https://img.shields.io/github/stars/RuoJi6/CVE-2025-55182-RCE-shell">
 - [hualy13/CVE-2025-55182](https://github.com/hualy13/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/hualy13/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/hualy13/CVE-2025-55182">
 - [sherlocksecurity/CVE-2025-55182-Exploit-scanner](https://github.com/sherlocksecurity/CVE-2025-55182-Exploit-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/sherlocksecurity/CVE-2025-55182-Exploit-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/sherlocksecurity/CVE-2025-55182-Exploit-scanner">
+- [Saturate/CVE-2025-55182-Scanner](https://github.com/Saturate/CVE-2025-55182-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Saturate/CVE-2025-55182-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Saturate/CVE-2025-55182-Scanner">
+- [hoosin/CVE-2025-55182](https://github.com/hoosin/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/hoosin/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/hoosin/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
