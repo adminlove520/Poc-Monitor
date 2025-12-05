@@ -2112,8 +2112,9 @@
 - [emadshanab/POC-for-CVE-2025-55182](https://github.com/emadshanab/POC-for-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/emadshanab/POC-for-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/emadshanab/POC-for-CVE-2025-55182">
 - [Darker-Ink/react-ssr-vulnerability](https://github.com/Darker-Ink/react-ssr-vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Darker-Ink/react-ssr-vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Darker-Ink/react-ssr-vulnerability">
 - [selectarget/CVE-2025-55182-Exploit](https://github.com/selectarget/CVE-2025-55182-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/selectarget/CVE-2025-55182-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/selectarget/CVE-2025-55182-Exploit">
-- [onlylovetx/CVE-2025-55182-CVE-2025-66478-GUI](https://github.com/onlylovetx/CVE-2025-55182-CVE-2025-66478-GUI)	<img alt="forks" src="https://img.shields.io/github/forks/onlylovetx/CVE-2025-55182-CVE-2025-66478-GUI">	<img alt="stars" src="https://img.shields.io/github/stars/onlylovetx/CVE-2025-55182-CVE-2025-66478-GUI">
+- [onlylovetx/CVE-2025-55182-CVE-2025-66478-Exploit-GUI](https://github.com/onlylovetx/CVE-2025-55182-CVE-2025-66478-Exploit-GUI)	<img alt="forks" src="https://img.shields.io/github/forks/onlylovetx/CVE-2025-55182-CVE-2025-66478-Exploit-GUI">	<img alt="stars" src="https://img.shields.io/github/stars/onlylovetx/CVE-2025-55182-CVE-2025-66478-Exploit-GUI">
 - [TH-SecForge/CVE-2025-55182](https://github.com/TH-SecForge/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/TH-SecForge/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/TH-SecForge/CVE-2025-55182">
+- [Chocapikk/CVE-2025-55182](https://github.com/Chocapikk/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
