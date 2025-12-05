@@ -2126,6 +2126,7 @@
 - [Saturate/CVE-2025-55182-Scanner](https://github.com/Saturate/CVE-2025-55182-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Saturate/CVE-2025-55182-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Saturate/CVE-2025-55182-Scanner">
 - [hoosin/CVE-2025-55182](https://github.com/hoosin/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/hoosin/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/hoosin/CVE-2025-55182">
 - [lachlan2k/React2Shell-CVE-2025-55182-original-poc](https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc)	<img alt="forks" src="https://img.shields.io/github/forks/lachlan2k/React2Shell-CVE-2025-55182-original-poc">	<img alt="stars" src="https://img.shields.io/github/stars/lachlan2k/React2Shell-CVE-2025-55182-original-poc">
+- [Pizz33/CVE-2025-55182-burpscanner](https://github.com/Pizz33/CVE-2025-55182-burpscanner)	<img alt="forks" src="https://img.shields.io/github/forks/Pizz33/CVE-2025-55182-burpscanner">	<img alt="stars" src="https://img.shields.io/github/stars/Pizz33/CVE-2025-55182-burpscanner">
 
 ---
 ## CVE-2025-54988 ()
