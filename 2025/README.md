@@ -2129,6 +2129,7 @@
 - [Pizz33/CVE-2025-55182-burpscanner](https://github.com/Pizz33/CVE-2025-55182-burpscanner)	<img alt="forks" src="https://img.shields.io/github/forks/Pizz33/CVE-2025-55182-burpscanner">	<img alt="stars" src="https://img.shields.io/github/stars/Pizz33/CVE-2025-55182-burpscanner">
 - [Sotatek-KhaiNguyen3/CVE-2025-55182](https://github.com/Sotatek-KhaiNguyen3/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Sotatek-KhaiNguyen3/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Sotatek-KhaiNguyen3/CVE-2025-55182">
 - [Y3B3L4Y3/CVE-2025-55182-test](https://github.com/Y3B3L4Y3/CVE-2025-55182-test)	<img alt="forks" src="https://img.shields.io/github/forks/Y3B3L4Y3/CVE-2025-55182-test">	<img alt="stars" src="https://img.shields.io/github/stars/Y3B3L4Y3/CVE-2025-55182-test">
+- [ngvcanh/CVE-2025-55182-Attack-Analysis](https://github.com/ngvcanh/CVE-2025-55182-Attack-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/ngvcanh/CVE-2025-55182-Attack-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/ngvcanh/CVE-2025-55182-Attack-Analysis">
 
 ---
 ## CVE-2025-54988 ()
