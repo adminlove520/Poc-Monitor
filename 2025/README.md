@@ -2157,6 +2157,7 @@
 - [nerium-security/CVE-2025-55182](https://github.com/nerium-security/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/nerium-security/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/nerium-security/CVE-2025-55182">
 - [rl0x01/CVE-2025-55182_PoC](https://github.com/rl0x01/CVE-2025-55182_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/rl0x01/CVE-2025-55182_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/rl0x01/CVE-2025-55182_PoC">
 - [zzhorc/CVE-2025-55182](https://github.com/zzhorc/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/zzhorc/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/zzhorc/CVE-2025-55182">
+- [Atlantis02-sec/Vulnerability-assessment](https://github.com/Atlantis02-sec/Vulnerability-assessment)	<img alt="forks" src="https://img.shields.io/github/forks/Atlantis02-sec/Vulnerability-assessment">	<img alt="stars" src="https://img.shields.io/github/stars/Atlantis02-sec/Vulnerability-assessment">
 
 ---
 ## CVE-2025-54988 ()
@@ -7082,6 +7083,7 @@
 - [0xanis/CVE-2025-13486-POC](https://github.com/0xanis/CVE-2025-13486-POC)	<img alt="forks" src="https://img.shields.io/github/forks/0xanis/CVE-2025-13486-POC">	<img alt="stars" src="https://img.shields.io/github/stars/0xanis/CVE-2025-13486-POC">
 - [KrE80r/cve-2025-13486-vuln-setup](https://github.com/KrE80r/cve-2025-13486-vuln-setup)	<img alt="forks" src="https://img.shields.io/github/forks/KrE80r/cve-2025-13486-vuln-setup">	<img alt="stars" src="https://img.shields.io/github/stars/KrE80r/cve-2025-13486-vuln-setup">
 - [MataKucing-OFC/CVE-2025-13486](https://github.com/MataKucing-OFC/CVE-2025-13486)	<img alt="forks" src="https://img.shields.io/github/forks/MataKucing-OFC/CVE-2025-13486">	<img alt="stars" src="https://img.shields.io/github/stars/MataKucing-OFC/CVE-2025-13486">
+- [glasteddyweddy5752/CVE-2025-13486---Mass-RCE](https://github.com/glasteddyweddy5752/CVE-2025-13486---Mass-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/glasteddyweddy5752/CVE-2025-13486---Mass-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/glasteddyweddy5752/CVE-2025-13486---Mass-RCE">
 
 ---
 ## CVE-2025-13390 ()
