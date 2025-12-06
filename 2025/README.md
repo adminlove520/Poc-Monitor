@@ -2209,6 +2209,9 @@
 - [sumanrox/rschunter](https://github.com/sumanrox/rschunter)	<img alt="forks" src="https://img.shields.io/github/forks/sumanrox/rschunter">	<img alt="stars" src="https://img.shields.io/github/stars/sumanrox/rschunter">
 - [joaonevess/chain-reaction](https://github.com/joaonevess/chain-reaction)	<img alt="forks" src="https://img.shields.io/github/forks/joaonevess/chain-reaction">	<img alt="stars" src="https://img.shields.io/github/stars/joaonevess/chain-reaction">
 - [ayoub-intigriti/react2shell-cve](https://github.com/ayoub-intigriti/react2shell-cve)	<img alt="forks" src="https://img.shields.io/github/forks/ayoub-intigriti/react2shell-cve">	<img alt="stars" src="https://img.shields.io/github/stars/ayoub-intigriti/react2shell-cve">
+- [MaxK9999/CVE-2025-55182](https://github.com/MaxK9999/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/MaxK9999/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/MaxK9999/CVE-2025-55182">
+- [zorejt/Rust_CVE-2025-55182](https://github.com/zorejt/Rust_CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/zorejt/Rust_CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/zorejt/Rust_CVE-2025-55182">
+- [StillSoul/CVE-2025-55182](https://github.com/StillSoul/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/StillSoul/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/StillSoul/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
