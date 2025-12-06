@@ -605,6 +605,11 @@
 - [Smarttfoxx/CVE-2025-65320](https://github.com/Smarttfoxx/CVE-2025-65320)	<img alt="forks" src="https://img.shields.io/github/forks/Smarttfoxx/CVE-2025-65320">	<img alt="stars" src="https://img.shields.io/github/stars/Smarttfoxx/CVE-2025-65320">
 
 ---
+## CVE-2025-65300 ()
+> 
+- [garux-sec/CVE-2025-65300](https://github.com/garux-sec/CVE-2025-65300)	<img alt="forks" src="https://img.shields.io/github/forks/garux-sec/CVE-2025-65300">	<img alt="stars" src="https://img.shields.io/github/stars/garux-sec/CVE-2025-65300">
+
+---
 ## CVE-2025-6514 ()
 > 
 - [ChaseHCS/CVE-2025-6514](https://github.com/ChaseHCS/CVE-2025-6514)	<img alt="forks" src="https://img.shields.io/github/forks/ChaseHCS/CVE-2025-6514">	<img alt="stars" src="https://img.shields.io/github/stars/ChaseHCS/CVE-2025-6514">
@@ -2191,6 +2196,8 @@
 - [5olitude/CVES](https://github.com/5olitude/CVES)	<img alt="forks" src="https://img.shields.io/github/forks/5olitude/CVES">	<img alt="stars" src="https://img.shields.io/github/stars/5olitude/CVES">
 - [mohit121312/CVE-2025-55182_full_exploit](https://github.com/mohit121312/CVE-2025-55182_full_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/mohit121312/CVE-2025-55182_full_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/mohit121312/CVE-2025-55182_full_exploit">
 - [fankh/cve-2025-55182-test-lab-windows](https://github.com/fankh/cve-2025-55182-test-lab-windows)	<img alt="forks" src="https://img.shields.io/github/forks/fankh/cve-2025-55182-test-lab-windows">	<img alt="stars" src="https://img.shields.io/github/stars/fankh/cve-2025-55182-test-lab-windows">
+- [shren207/CVE-2025-55182](https://github.com/shren207/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/shren207/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/shren207/CVE-2025-55182">
+- [cypholab/evilact](https://github.com/cypholab/evilact)	<img alt="forks" src="https://img.shields.io/github/forks/cypholab/evilact">	<img alt="stars" src="https://img.shields.io/github/stars/cypholab/evilact">
 
 ---
 ## CVE-2025-54988 ()
