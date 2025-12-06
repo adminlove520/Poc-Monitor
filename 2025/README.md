@@ -2230,6 +2230,7 @@
 - [alessiodos/react2shell-scanner](https://github.com/alessiodos/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/alessiodos/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/alessiodos/react2shell-scanner">
 - [fullhunt/react2shell-test-server](https://github.com/fullhunt/react2shell-test-server)	<img alt="forks" src="https://img.shields.io/github/forks/fullhunt/react2shell-test-server">	<img alt="stars" src="https://img.shields.io/github/stars/fullhunt/react2shell-test-server">
 - [keklick1337/CVE-2025-55182-golang-PoC](https://github.com/keklick1337/CVE-2025-55182-golang-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/keklick1337/CVE-2025-55182-golang-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/keklick1337/CVE-2025-55182-golang-PoC">
+- [rubensuxo-eh/react2shell-exploit](https://github.com/rubensuxo-eh/react2shell-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/rubensuxo-eh/react2shell-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/rubensuxo-eh/react2shell-exploit">
 
 ---
 ## CVE-2025-54988 ()
