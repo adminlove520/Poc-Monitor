@@ -497,6 +497,7 @@
 - [ayoub-intigriti/react2shell-cve](https://github.com/ayoub-intigriti/react2shell-cve)	<img alt="forks" src="https://img.shields.io/github/forks/ayoub-intigriti/react2shell-cve">	<img alt="stars" src="https://img.shields.io/github/stars/ayoub-intigriti/react2shell-cve">
 - [StillSoul/CVE-2025-55182](https://github.com/StillSoul/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/StillSoul/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/StillSoul/CVE-2025-55182">
 - [rocklambros/React2Shell_Hunter](https://github.com/rocklambros/React2Shell_Hunter)	<img alt="forks" src="https://img.shields.io/github/forks/rocklambros/React2Shell_Hunter">	<img alt="stars" src="https://img.shields.io/github/stars/rocklambros/React2Shell_Hunter">
+- [alessiodos/react2shell-scanner](https://github.com/alessiodos/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/alessiodos/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/alessiodos/react2shell-scanner">
 
 ---
 ## CVE-2025-66022 ()
@@ -2198,7 +2199,7 @@
 - [alsaut1/react2shell-lab](https://github.com/alsaut1/react2shell-lab)	<img alt="forks" src="https://img.shields.io/github/forks/alsaut1/react2shell-lab">	<img alt="stars" src="https://img.shields.io/github/stars/alsaut1/react2shell-lab">
 - [pax-k/react2shell-CVE-2025-55182-full-rce-script](https://github.com/pax-k/react2shell-CVE-2025-55182-full-rce-script)	<img alt="forks" src="https://img.shields.io/github/forks/pax-k/react2shell-CVE-2025-55182-full-rce-script">	<img alt="stars" src="https://img.shields.io/github/stars/pax-k/react2shell-CVE-2025-55182-full-rce-script">
 - [kOaDT/poc-cve-2025-55182](https://github.com/kOaDT/poc-cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/kOaDT/poc-cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/kOaDT/poc-cve-2025-55182">
-- [yanoshercohen/CVE-2025-55182](https://github.com/yanoshercohen/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/yanoshercohen/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/yanoshercohen/CVE-2025-55182">
+- [yanoshercohen/React2Shell_CVE-2025-55182](https://github.com/yanoshercohen/React2Shell_CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/yanoshercohen/React2Shell_CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/yanoshercohen/React2Shell_CVE-2025-55182">
 - [StealthMoud/CVE-2025-55182-Scanner](https://github.com/StealthMoud/CVE-2025-55182-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/StealthMoud/CVE-2025-55182-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/StealthMoud/CVE-2025-55182-Scanner">
 - [hackersatyamrastogi/react2shell-ultimate](https://github.com/hackersatyamrastogi/react2shell-ultimate)	<img alt="forks" src="https://img.shields.io/github/forks/hackersatyamrastogi/react2shell-ultimate">	<img alt="stars" src="https://img.shields.io/github/stars/hackersatyamrastogi/react2shell-ultimate">
 - [mxm0z/r2s](https://github.com/mxm0z/r2s)	<img alt="forks" src="https://img.shields.io/github/forks/mxm0z/r2s">	<img alt="stars" src="https://img.shields.io/github/stars/mxm0z/r2s">
@@ -2228,6 +2229,7 @@
 - [Bashamega/react-CVE-2025-55182-fixer](https://github.com/Bashamega/react-CVE-2025-55182-fixer)	<img alt="forks" src="https://img.shields.io/github/forks/Bashamega/react-CVE-2025-55182-fixer">	<img alt="stars" src="https://img.shields.io/github/stars/Bashamega/react-CVE-2025-55182-fixer">
 - [alessiodos/react2shell-scanner](https://github.com/alessiodos/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/alessiodos/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/alessiodos/react2shell-scanner">
 - [fullhunt/react2shell-test-server](https://github.com/fullhunt/react2shell-test-server)	<img alt="forks" src="https://img.shields.io/github/forks/fullhunt/react2shell-test-server">	<img alt="stars" src="https://img.shields.io/github/stars/fullhunt/react2shell-test-server">
+- [keklick1337/CVE-2025-55182-golang-PoC](https://github.com/keklick1337/CVE-2025-55182-golang-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/keklick1337/CVE-2025-55182-golang-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/keklick1337/CVE-2025-55182-golang-PoC">
 
 ---
 ## CVE-2025-54988 ()
