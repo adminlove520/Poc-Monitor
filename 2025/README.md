@@ -7156,6 +7156,7 @@
 - [KrE80r/cve-2025-13486-vuln-setup](https://github.com/KrE80r/cve-2025-13486-vuln-setup)	<img alt="forks" src="https://img.shields.io/github/forks/KrE80r/cve-2025-13486-vuln-setup">	<img alt="stars" src="https://img.shields.io/github/stars/KrE80r/cve-2025-13486-vuln-setup">
 - [MataKucing-OFC/CVE-2025-13486](https://github.com/MataKucing-OFC/CVE-2025-13486)	<img alt="forks" src="https://img.shields.io/github/forks/MataKucing-OFC/CVE-2025-13486">	<img alt="stars" src="https://img.shields.io/github/stars/MataKucing-OFC/CVE-2025-13486">
 - [glasteddyweddy5752/CVE-2025-13486---Mass-RCE](https://github.com/glasteddyweddy5752/CVE-2025-13486---Mass-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/glasteddyweddy5752/CVE-2025-13486---Mass-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/glasteddyweddy5752/CVE-2025-13486---Mass-RCE">
+- [0xgh057r3c0n/CVE-2025-13486](https://github.com/0xgh057r3c0n/CVE-2025-13486)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-13486">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-13486">
 
 ---
 ## CVE-2025-13390 ()
