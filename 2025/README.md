@@ -496,6 +496,7 @@
 - [joaonevess/chain-reaction](https://github.com/joaonevess/chain-reaction)	<img alt="forks" src="https://img.shields.io/github/forks/joaonevess/chain-reaction">	<img alt="stars" src="https://img.shields.io/github/stars/joaonevess/chain-reaction">
 - [ayoub-intigriti/react2shell-cve](https://github.com/ayoub-intigriti/react2shell-cve)	<img alt="forks" src="https://img.shields.io/github/forks/ayoub-intigriti/react2shell-cve">	<img alt="stars" src="https://img.shields.io/github/stars/ayoub-intigriti/react2shell-cve">
 - [StillSoul/CVE-2025-55182](https://github.com/StillSoul/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/StillSoul/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/StillSoul/CVE-2025-55182">
+- [rocklambros/React2Shell_Hunter](https://github.com/rocklambros/React2Shell_Hunter)	<img alt="forks" src="https://img.shields.io/github/forks/rocklambros/React2Shell_Hunter">	<img alt="stars" src="https://img.shields.io/github/stars/rocklambros/React2Shell_Hunter">
 
 ---
 ## CVE-2025-66022 ()
@@ -2220,6 +2221,8 @@
 - [MrSol0/CVE-2025-55182-Terminal](https://github.com/MrSol0/CVE-2025-55182-Terminal)	<img alt="forks" src="https://img.shields.io/github/forks/MrSol0/CVE-2025-55182-Terminal">	<img alt="stars" src="https://img.shields.io/github/stars/MrSol0/CVE-2025-55182-Terminal">
 - [zack0x01/CVE-2025-55182-advanced-scanner-](https://github.com/zack0x01/CVE-2025-55182-advanced-scanner-)	<img alt="forks" src="https://img.shields.io/github/forks/zack0x01/CVE-2025-55182-advanced-scanner-">	<img alt="stars" src="https://img.shields.io/github/stars/zack0x01/CVE-2025-55182-advanced-scanner-">
 - [zack0x01/vuln-app-CVE-2025-55182](https://github.com/zack0x01/vuln-app-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/zack0x01/vuln-app-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/zack0x01/vuln-app-CVE-2025-55182">
+- [rocklambros/React2Shell_Hunter](https://github.com/rocklambros/React2Shell_Hunter)	<img alt="forks" src="https://img.shields.io/github/forks/rocklambros/React2Shell_Hunter">	<img alt="stars" src="https://img.shields.io/github/stars/rocklambros/React2Shell_Hunter">
+- [philparzer/nextjs-react2shell-detect](https://github.com/philparzer/nextjs-react2shell-detect)	<img alt="forks" src="https://img.shields.io/github/forks/philparzer/nextjs-react2shell-detect">	<img alt="stars" src="https://img.shields.io/github/stars/philparzer/nextjs-react2shell-detect">
 
 ---
 ## CVE-2025-54988 ()
