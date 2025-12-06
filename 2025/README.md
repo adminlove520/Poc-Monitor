@@ -2180,6 +2180,7 @@
 - [StealthMoud/CVE-2025-55182-Scanner](https://github.com/StealthMoud/CVE-2025-55182-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/StealthMoud/CVE-2025-55182-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/StealthMoud/CVE-2025-55182-Scanner">
 - [hackersatyamrastogi/react2shell-ultimate](https://github.com/hackersatyamrastogi/react2shell-ultimate)	<img alt="forks" src="https://img.shields.io/github/forks/hackersatyamrastogi/react2shell-ultimate">	<img alt="stars" src="https://img.shields.io/github/stars/hackersatyamrastogi/react2shell-ultimate">
 - [mxm0z/r2s](https://github.com/mxm0z/r2s)	<img alt="forks" src="https://img.shields.io/github/forks/mxm0z/r2s">	<img alt="stars" src="https://img.shields.io/github/stars/mxm0z/r2s">
+- [emredavut/CVE-2025-55182](https://github.com/emredavut/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/emredavut/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/emredavut/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
