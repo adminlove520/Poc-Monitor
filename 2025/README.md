@@ -2214,6 +2214,7 @@
 - [zorejt/Rust_CVE-2025-55182](https://github.com/zorejt/Rust_CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/zorejt/Rust_CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/zorejt/Rust_CVE-2025-55182">
 - [StillSoul/CVE-2025-55182](https://github.com/StillSoul/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/StillSoul/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/StillSoul/CVE-2025-55182">
 - [Archerkong/CVE-2025-55182](https://github.com/Archerkong/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Archerkong/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Archerkong/CVE-2025-55182">
+- [Kryptopacy/Next.js-RCE-Patcher--CVE-2025-55182-](https://github.com/Kryptopacy/Next.js-RCE-Patcher--CVE-2025-55182-)	<img alt="forks" src="https://img.shields.io/github/forks/Kryptopacy/Next.js-RCE-Patcher--CVE-2025-55182-">	<img alt="stars" src="https://img.shields.io/github/stars/Kryptopacy/Next.js-RCE-Patcher--CVE-2025-55182-">
 
 ---
 ## CVE-2025-54988 ()
