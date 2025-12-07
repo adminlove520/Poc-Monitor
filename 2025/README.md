@@ -2297,6 +2297,7 @@
 - [nightmare653/react-scanner-CVE-2025-55182-recon](https://github.com/nightmare653/react-scanner-CVE-2025-55182-recon)	<img alt="forks" src="https://img.shields.io/github/forks/nightmare653/react-scanner-CVE-2025-55182-recon">	<img alt="stars" src="https://img.shields.io/github/stars/nightmare653/react-scanner-CVE-2025-55182-recon">
 - [cyberleelawat/CVE-2025-55182](https://github.com/cyberleelawat/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/cyberleelawat/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/cyberleelawat/CVE-2025-55182">
 - [satriarizka/CVE-2025-55182-Simple-Scanner](https://github.com/satriarizka/CVE-2025-55182-Simple-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/satriarizka/CVE-2025-55182-Simple-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/satriarizka/CVE-2025-55182-Simple-Scanner">
+- [xcanwin/CVE-2025-55182-React-RCE](https://github.com/xcanwin/CVE-2025-55182-React-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/xcanwin/CVE-2025-55182-React-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/xcanwin/CVE-2025-55182-React-RCE">
 
 ---
 ## CVE-2025-54988 ()
