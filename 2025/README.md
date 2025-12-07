@@ -502,6 +502,7 @@
 - [vercel-labs/fix-react2shell-next](https://github.com/vercel-labs/fix-react2shell-next)	<img alt="forks" src="https://img.shields.io/github/forks/vercel-labs/fix-react2shell-next">	<img alt="stars" src="https://img.shields.io/github/stars/vercel-labs/fix-react2shell-next">
 - [Rhyru9/CVE-2025-66478](https://github.com/Rhyru9/CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/Rhyru9/CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/Rhyru9/CVE-2025-66478">
 - [aiexz/CVE-2025-66478-kinda-waf](https://github.com/aiexz/CVE-2025-66478-kinda-waf)	<img alt="forks" src="https://img.shields.io/github/forks/aiexz/CVE-2025-66478-kinda-waf">	<img alt="stars" src="https://img.shields.io/github/stars/aiexz/CVE-2025-66478-kinda-waf">
+- [Jibaru/CVE-2025-66478-github-patcher](https://github.com/Jibaru/CVE-2025-66478-github-patcher)	<img alt="forks" src="https://img.shields.io/github/forks/Jibaru/CVE-2025-66478-github-patcher">	<img alt="stars" src="https://img.shields.io/github/stars/Jibaru/CVE-2025-66478-github-patcher">
 
 ---
 ## CVE-2025-66022 ()
@@ -2257,6 +2258,7 @@
 - [klassiker/CVE-2025-55182](https://github.com/klassiker/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/klassiker/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/klassiker/CVE-2025-55182">
 - [hlsitechio/cve-2025-55182-tools](https://github.com/hlsitechio/cve-2025-55182-tools)	<img alt="forks" src="https://img.shields.io/github/forks/hlsitechio/cve-2025-55182-tools">	<img alt="stars" src="https://img.shields.io/github/stars/hlsitechio/cve-2025-55182-tools">
 - [MikeTheHash/CVE-2025-55182](https://github.com/MikeTheHash/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/MikeTheHash/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/MikeTheHash/CVE-2025-55182">
+- [Qixinlee/CVE-2025-55182-Scanner](https://github.com/Qixinlee/CVE-2025-55182-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Qixinlee/CVE-2025-55182-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Qixinlee/CVE-2025-55182-Scanner">
 
 ---
 ## CVE-2025-54988 ()
