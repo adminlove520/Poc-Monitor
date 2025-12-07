@@ -2268,6 +2268,7 @@
 - [DelvyGonzalez/react2shell-security-toolkit](https://github.com/DelvyGonzalez/react2shell-security-toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/DelvyGonzalez/react2shell-security-toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/DelvyGonzalez/react2shell-security-toolkit">
 - [vyvivekyadav04/RSC-Infra-Scanner](https://github.com/vyvivekyadav04/RSC-Infra-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/vyvivekyadav04/RSC-Infra-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/vyvivekyadav04/RSC-Infra-Scanner">
 - [mil4ne/CVE-2025-55182-React2Shell-](https://github.com/mil4ne/CVE-2025-55182-React2Shell-)	<img alt="forks" src="https://img.shields.io/github/forks/mil4ne/CVE-2025-55182-React2Shell-">	<img alt="stars" src="https://img.shields.io/github/stars/mil4ne/CVE-2025-55182-React2Shell-">
+- [ethicalrohitt/React2Shell_cve-2025-55182](https://github.com/ethicalrohitt/React2Shell_cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ethicalrohitt/React2Shell_cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ethicalrohitt/React2Shell_cve-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
