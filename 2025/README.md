@@ -2353,6 +2353,7 @@
 - [Ibonok/CVE-2025-55182-Burp-Passive-Extension](https://github.com/Ibonok/CVE-2025-55182-Burp-Passive-Extension)	<img alt="forks" src="https://img.shields.io/github/forks/Ibonok/CVE-2025-55182-Burp-Passive-Extension">	<img alt="stars" src="https://img.shields.io/github/stars/Ibonok/CVE-2025-55182-Burp-Passive-Extension">
 - [cahyod/react2shell](https://github.com/cahyod/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/cahyod/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/cahyod/react2shell">
 - [FurkanKAYAPINAR/React-Next-Scanner](https://github.com/FurkanKAYAPINAR/React-Next-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/FurkanKAYAPINAR/React-Next-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/FurkanKAYAPINAR/React-Next-Scanner">
+- [lowercasenumbers/CVE-2025-55182](https://github.com/lowercasenumbers/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/lowercasenumbers/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/lowercasenumbers/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
