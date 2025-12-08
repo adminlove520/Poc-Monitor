@@ -520,6 +520,7 @@
 - [ToritoIO/Torito-R2S](https://github.com/ToritoIO/Torito-R2S)	<img alt="forks" src="https://img.shields.io/github/forks/ToritoIO/Torito-R2S">	<img alt="stars" src="https://img.shields.io/github/stars/ToritoIO/Torito-R2S">
 - [cybertechajju/R2C-CVE-2025-55182-66478](https://github.com/cybertechajju/R2C-CVE-2025-55182-66478)	<img alt="forks" src="https://img.shields.io/github/forks/cybertechajju/R2C-CVE-2025-55182-66478">	<img alt="stars" src="https://img.shields.io/github/stars/cybertechajju/R2C-CVE-2025-55182-66478">
 - [C00LN3T/React2Shell](https://github.com/C00LN3T/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/C00LN3T/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/C00LN3T/React2Shell">
+- [enesbuyuk/react2shell-security-tool](https://github.com/enesbuyuk/react2shell-security-tool)	<img alt="forks" src="https://img.shields.io/github/forks/enesbuyuk/react2shell-security-tool">	<img alt="stars" src="https://img.shields.io/github/stars/enesbuyuk/react2shell-security-tool">
 
 ---
 ## CVE-2025-66022 ()
@@ -2336,6 +2337,9 @@
 - [enesbuyuk/react2shell-security-tool](https://github.com/enesbuyuk/react2shell-security-tool)	<img alt="forks" src="https://img.shields.io/github/forks/enesbuyuk/react2shell-security-tool">	<img alt="stars" src="https://img.shields.io/github/stars/enesbuyuk/react2shell-security-tool">
 - [hamm0nz/react2shell-audit](https://github.com/hamm0nz/react2shell-audit)	<img alt="forks" src="https://img.shields.io/github/forks/hamm0nz/react2shell-audit">	<img alt="stars" src="https://img.shields.io/github/stars/hamm0nz/react2shell-audit">
 - [randarts/react-rce](https://github.com/randarts/react-rce)	<img alt="forks" src="https://img.shields.io/github/forks/randarts/react-rce">	<img alt="stars" src="https://img.shields.io/github/stars/randarts/react-rce">
+- [LvMalware/CVE-2025-55182](https://github.com/LvMalware/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/LvMalware/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/LvMalware/CVE-2025-55182">
+- [Macaroniwdcheese/CVE-2025-55182-Lab](https://github.com/Macaroniwdcheese/CVE-2025-55182-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/Macaroniwdcheese/CVE-2025-55182-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/Macaroniwdcheese/CVE-2025-55182-Lab">
+- [MrRockettt/CVE-2025-55182](https://github.com/MrRockettt/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/MrRockettt/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/MrRockettt/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
