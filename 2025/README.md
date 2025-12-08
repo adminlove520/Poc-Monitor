@@ -527,6 +527,8 @@
 - [adrianhazgarcia/React4Shell](https://github.com/adrianhazgarcia/React4Shell)	<img alt="forks" src="https://img.shields.io/github/forks/adrianhazgarcia/React4Shell">	<img alt="stars" src="https://img.shields.io/github/stars/adrianhazgarcia/React4Shell">
 - [xiaopeng-ye/react2shell-detector](https://github.com/xiaopeng-ye/react2shell-detector)	<img alt="forks" src="https://img.shields.io/github/forks/xiaopeng-ye/react2shell-detector">	<img alt="stars" src="https://img.shields.io/github/stars/xiaopeng-ye/react2shell-detector">
 - [hlsitechio/shellockolm](https://github.com/hlsitechio/shellockolm)	<img alt="forks" src="https://img.shields.io/github/forks/hlsitechio/shellockolm">	<img alt="stars" src="https://img.shields.io/github/stars/hlsitechio/shellockolm">
+- [Shield-Cyber/react2shell-scanner](https://github.com/Shield-Cyber/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Shield-Cyber/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Shield-Cyber/react2shell-scanner">
+- [strainxx/react2shell-honeypot](https://github.com/strainxx/react2shell-honeypot)	<img alt="forks" src="https://img.shields.io/github/forks/strainxx/react2shell-honeypot">	<img alt="stars" src="https://img.shields.io/github/stars/strainxx/react2shell-honeypot">
 
 ---
 ## CVE-2025-66022 ()
@@ -2373,6 +2375,7 @@
 - [I3r1h0n/React2Shell](https://github.com/I3r1h0n/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/I3r1h0n/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/I3r1h0n/React2Shell">
 - [xiaopeng-ye/react2shell-detector](https://github.com/xiaopeng-ye/react2shell-detector)	<img alt="forks" src="https://img.shields.io/github/forks/xiaopeng-ye/react2shell-detector">	<img alt="stars" src="https://img.shields.io/github/stars/xiaopeng-ye/react2shell-detector">
 - [ejpir/CVE-2025-55182-bypass](https://github.com/ejpir/CVE-2025-55182-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/ejpir/CVE-2025-55182-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/ejpir/CVE-2025-55182-bypass">
+- [vulncheck-oss/cve-2025-55182](https://github.com/vulncheck-oss/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/vulncheck-oss/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/vulncheck-oss/cve-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
