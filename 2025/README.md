@@ -512,6 +512,7 @@
 - [Jibaru/CVE-2025-66478-github-patcher](https://github.com/Jibaru/CVE-2025-66478-github-patcher)	<img alt="forks" src="https://img.shields.io/github/forks/Jibaru/CVE-2025-66478-github-patcher">	<img alt="stars" src="https://img.shields.io/github/stars/Jibaru/CVE-2025-66478-github-patcher">
 - [vyvivekyadav04/RSC-Infra-Scanner](https://github.com/vyvivekyadav04/RSC-Infra-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/vyvivekyadav04/RSC-Infra-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/vyvivekyadav04/RSC-Infra-Scanner">
 - [ExpTechTW/CVE-2025-66478](https://github.com/ExpTechTW/CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/ExpTechTW/CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/ExpTechTW/CVE-2025-66478">
+- [abhirajranjan/cve-2025-66478](https://github.com/abhirajranjan/cve-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/abhirajranjan/cve-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/abhirajranjan/cve-2025-66478">
 
 ---
 ## CVE-2025-66022 ()
@@ -2313,6 +2314,8 @@
 - [arashiyans/CVE-2025-55182-CVE-2025-66478](https://github.com/arashiyans/CVE-2025-55182-CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/arashiyans/CVE-2025-55182-CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/arashiyans/CVE-2025-55182-CVE-2025-66478">
 - [faizdotid/rust-cve-2025-55182](https://github.com/faizdotid/rust-cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/faizdotid/rust-cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/faizdotid/rust-cve-2025-55182">
 - [LucasPDiniz/CVE-2025-55182](https://github.com/LucasPDiniz/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/LucasPDiniz/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/LucasPDiniz/CVE-2025-55182">
+- [wangzhengquan/CVE-2025-55182](https://github.com/wangzhengquan/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/wangzhengquan/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/wangzhengquan/CVE-2025-55182">
+- [lincemorado97/CVE-2025-55182_CVE-2025-66478](https://github.com/lincemorado97/CVE-2025-55182_CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/lincemorado97/CVE-2025-55182_CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/lincemorado97/CVE-2025-55182_CVE-2025-66478">
 
 ---
 ## CVE-2025-54988 ()
