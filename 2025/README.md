@@ -526,6 +526,7 @@
 - [FurkanKAYAPINAR/ReactNext2Shell](https://github.com/FurkanKAYAPINAR/ReactNext2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/FurkanKAYAPINAR/ReactNext2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/FurkanKAYAPINAR/ReactNext2Shell">
 - [adrianhazgarcia/React4Shell](https://github.com/adrianhazgarcia/React4Shell)	<img alt="forks" src="https://img.shields.io/github/forks/adrianhazgarcia/React4Shell">	<img alt="stars" src="https://img.shields.io/github/stars/adrianhazgarcia/React4Shell">
 - [xiaopeng-ye/react2shell-detector](https://github.com/xiaopeng-ye/react2shell-detector)	<img alt="forks" src="https://img.shields.io/github/forks/xiaopeng-ye/react2shell-detector">	<img alt="stars" src="https://img.shields.io/github/stars/xiaopeng-ye/react2shell-detector">
+- [hlsitechio/shellockolm](https://github.com/hlsitechio/shellockolm)	<img alt="forks" src="https://img.shields.io/github/forks/hlsitechio/shellockolm">	<img alt="stars" src="https://img.shields.io/github/stars/hlsitechio/shellockolm">
 
 ---
 ## CVE-2025-66022 ()
@@ -556,6 +557,11 @@
 ## CVE-2025-65806 ()
 > 
 - [Bidon47/CVE-2025-65806](https://github.com/Bidon47/CVE-2025-65806)	<img alt="forks" src="https://img.shields.io/github/forks/Bidon47/CVE-2025-65806">	<img alt="stars" src="https://img.shields.io/github/stars/Bidon47/CVE-2025-65806">
+
+---
+## CVE-2025-65741 ()
+> 
+- [vinicius-batistella/CVE-2025-65741](https://github.com/vinicius-batistella/CVE-2025-65741)	<img alt="forks" src="https://img.shields.io/github/forks/vinicius-batistella/CVE-2025-65741">	<img alt="stars" src="https://img.shields.io/github/stars/vinicius-batistella/CVE-2025-65741">
 
 ---
 ## CVE-2025-65681 ()
