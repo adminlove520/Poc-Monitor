@@ -2358,6 +2358,10 @@
 - [lowercasenumbers/CVE-2025-55182](https://github.com/lowercasenumbers/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/lowercasenumbers/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/lowercasenumbers/CVE-2025-55182">
 - [horsenyet/RSC-Detect-CVE-2025-55182](https://github.com/horsenyet/RSC-Detect-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/horsenyet/RSC-Detect-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/horsenyet/RSC-Detect-CVE-2025-55182">
 - [racall/cve-2025-55182-node](https://github.com/racall/cve-2025-55182-node)	<img alt="forks" src="https://img.shields.io/github/forks/racall/cve-2025-55182-node">	<img alt="stars" src="https://img.shields.io/github/stars/racall/cve-2025-55182-node">
+- [LQTjim/next-bug-CVE-2025-55182](https://github.com/LQTjim/next-bug-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/LQTjim/next-bug-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/LQTjim/next-bug-CVE-2025-55182">
+- [AliAbdollahiii/react2shell_detector](https://github.com/AliAbdollahiii/react2shell_detector)	<img alt="forks" src="https://img.shields.io/github/forks/AliAbdollahiii/react2shell_detector">	<img alt="stars" src="https://img.shields.io/github/stars/AliAbdollahiii/react2shell_detector">
+- [FurkanKAYAPINAR/ReactNext2Shell](https://github.com/FurkanKAYAPINAR/ReactNext2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/FurkanKAYAPINAR/ReactNext2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/FurkanKAYAPINAR/ReactNext2Shell">
+- [AggressiveUser/React2Hell](https://github.com/AggressiveUser/React2Hell)	<img alt="forks" src="https://img.shields.io/github/forks/AggressiveUser/React2Hell">	<img alt="stars" src="https://img.shields.io/github/stars/AggressiveUser/React2Hell">
 
 ---
 ## CVE-2025-54988 ()
