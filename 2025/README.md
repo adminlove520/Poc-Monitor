@@ -2384,6 +2384,7 @@
 - [sun977/CVE-2025-55182](https://github.com/sun977/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/sun977/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/sun977/CVE-2025-55182">
 - [garux-sec/PoC-react2shell-CVE-2025-55182](https://github.com/garux-sec/PoC-react2shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/garux-sec/PoC-react2shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/garux-sec/PoC-react2shell-CVE-2025-55182">
 - [ancs21/react2shell-scanner-rust](https://github.com/ancs21/react2shell-scanner-rust)	<img alt="forks" src="https://img.shields.io/github/forks/ancs21/react2shell-scanner-rust">	<img alt="stars" src="https://img.shields.io/github/stars/ancs21/react2shell-scanner-rust">
+- [imbas007/POC-CVE-2025-55182](https://github.com/imbas007/POC-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/POC-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/POC-CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
