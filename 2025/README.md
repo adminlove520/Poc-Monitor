@@ -2467,6 +2467,7 @@
 - [ihsansencan/React2Shell-CVE-2025-55182](https://github.com/ihsansencan/React2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ihsansencan/React2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ihsansencan/React2Shell-CVE-2025-55182">
 - [Stonelinks/react-cve-2025-55182](https://github.com/Stonelinks/react-cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Stonelinks/react-cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Stonelinks/react-cve-2025-55182">
 - [VeilVulp/rscscan](https://github.com/VeilVulp/rscscan)	<img alt="forks" src="https://img.shields.io/github/forks/VeilVulp/rscscan">	<img alt="stars" src="https://img.shields.io/github/stars/VeilVulp/rscscan">
+- [trax69/cve-2025-55182-poc](https://github.com/trax69/cve-2025-55182-poc)	<img alt="forks" src="https://img.shields.io/github/forks/trax69/cve-2025-55182-poc">	<img alt="stars" src="https://img.shields.io/github/stars/trax69/cve-2025-55182-poc">
 
 ---
 ## CVE-2025-54988 ()
