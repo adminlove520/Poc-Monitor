@@ -2407,6 +2407,7 @@
 - [rsch-io/CVE-2025-55182-React2Shell](https://github.com/rsch-io/CVE-2025-55182-React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/rsch-io/CVE-2025-55182-React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/rsch-io/CVE-2025-55182-React2Shell">
 - [ilixm/PoC-RCE-CVE-2025-55182](https://github.com/ilixm/PoC-RCE-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ilixm/PoC-RCE-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ilixm/PoC-RCE-CVE-2025-55182">
 - [Chocapikk/malware_analysis_react2shell](https://github.com/Chocapikk/malware_analysis_react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/malware_analysis_react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/malware_analysis_react2shell">
+- [iamblacksolo2-BugBounty/POC-CVE-2025-55182](https://github.com/iamblacksolo2-BugBounty/POC-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/iamblacksolo2-BugBounty/POC-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/iamblacksolo2-BugBounty/POC-CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
