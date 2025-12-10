@@ -587,6 +587,7 @@
 ## CVE-2025-65964 ()
 > 
 - [Anthony558238/CVE-2025-65964-poc](https://github.com/Anthony558238/CVE-2025-65964-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Anthony558238/CVE-2025-65964-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Anthony558238/CVE-2025-65964-poc">
+- [Syzygy-K/CVE-2025-65964-Exploit](https://github.com/Syzygy-K/CVE-2025-65964-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Syzygy-K/CVE-2025-65964-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Syzygy-K/CVE-2025-65964-Exploit">
 
 ---
 ## CVE-2025-65900 ()
