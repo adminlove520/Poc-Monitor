@@ -2473,6 +2473,7 @@
 - [osman-butt/CVE-2025-55182-demo](https://github.com/osman-butt/CVE-2025-55182-demo)	<img alt="forks" src="https://img.shields.io/github/forks/osman-butt/CVE-2025-55182-demo">	<img alt="stars" src="https://img.shields.io/github/stars/osman-butt/CVE-2025-55182-demo">
 - [dr4xp/react2shell](https://github.com/dr4xp/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/dr4xp/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/dr4xp/react2shell">
 - [Arcueld/CVE-2025-55182](https://github.com/Arcueld/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Arcueld/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Arcueld/CVE-2025-55182">
+- [notkittenn/poc_react2shell](https://github.com/notkittenn/poc_react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/notkittenn/poc_react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/notkittenn/poc_react2shell">
 
 ---
 ## CVE-2025-54988 ()
