@@ -2485,6 +2485,7 @@
 - [gunyakit/CVE-2025-55182-PoC-exploit](https://github.com/gunyakit/CVE-2025-55182-PoC-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/gunyakit/CVE-2025-55182-PoC-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/gunyakit/CVE-2025-55182-PoC-exploit">
 - [VeilVulp/Rscscan](https://github.com/VeilVulp/Rscscan)	<img alt="forks" src="https://img.shields.io/github/forks/VeilVulp/Rscscan">	<img alt="stars" src="https://img.shields.io/github/stars/VeilVulp/Rscscan">
 - [VeilVulp/Rscscan](https://github.com/VeilVulp/Rscscan)	<img alt="forks" src="https://img.shields.io/github/forks/VeilVulp/Rscscan">	<img alt="stars" src="https://img.shields.io/github/stars/VeilVulp/Rscscan">
+- [Sotatek-KhaiNguyen3/CVE-2025-55182](https://github.com/Sotatek-KhaiNguyen3/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Sotatek-KhaiNguyen3/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Sotatek-KhaiNguyen3/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
