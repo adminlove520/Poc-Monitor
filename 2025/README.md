@@ -2542,6 +2542,8 @@
 - [VeilVulp/RscScan](https://github.com/VeilVulp/RscScan)	<img alt="forks" src="https://img.shields.io/github/forks/VeilVulp/RscScan">	<img alt="stars" src="https://img.shields.io/github/stars/VeilVulp/RscScan">
 - [JahazielLem/NSE_CVE-2025-55182](https://github.com/JahazielLem/NSE_CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/JahazielLem/NSE_CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/JahazielLem/NSE_CVE-2025-55182">
 - [CerberusMrX/Cerberus-React2Shell-Scanner-Exploit](https://github.com/CerberusMrX/Cerberus-React2Shell-Scanner-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrX/Cerberus-React2Shell-Scanner-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrX/Cerberus-React2Shell-Scanner-Exploit">
+- [VeilVulp/RscScan](https://github.com/VeilVulp/RscScan)	<img alt="forks" src="https://img.shields.io/github/forks/VeilVulp/RscScan">	<img alt="stars" src="https://img.shields.io/github/stars/VeilVulp/RscScan">
+- [Saad-Ayady/react2shellNSE](https://github.com/Saad-Ayady/react2shellNSE)	<img alt="forks" src="https://img.shields.io/github/forks/Saad-Ayady/react2shellNSE">	<img alt="stars" src="https://img.shields.io/github/stars/Saad-Ayady/react2shellNSE">
 
 ---
 ## CVE-2025-54988 ()
