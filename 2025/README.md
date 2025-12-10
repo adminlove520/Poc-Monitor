@@ -2474,6 +2474,7 @@
 - [dr4xp/react2shell](https://github.com/dr4xp/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/dr4xp/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/dr4xp/react2shell">
 - [Arcueld/CVE-2025-55182](https://github.com/Arcueld/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Arcueld/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Arcueld/CVE-2025-55182">
 - [notkittenn/poc_react2shell](https://github.com/notkittenn/poc_react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/notkittenn/poc_react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/notkittenn/poc_react2shell">
+- [theori-io/reactguard](https://github.com/theori-io/reactguard)	<img alt="forks" src="https://img.shields.io/github/forks/theori-io/reactguard">	<img alt="stars" src="https://img.shields.io/github/stars/theori-io/reactguard">
 
 ---
 ## CVE-2025-54988 ()
@@ -4983,7 +4984,7 @@
 - [imbas007/CVE-2025-3248](https://github.com/imbas007/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2025-3248">
 - [0xgh057r3c0n/CVE-2025-3248](https://github.com/0xgh057r3c0n/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-3248">
 - [zapstiko/CVE-2025-3248](https://github.com/zapstiko/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/zapstiko/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/zapstiko/CVE-2025-3248">
-- [B1ack4sh/Blackash-CVE-2025-3248](https://github.com/B1ack4sh/Blackash-CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-3248">
+- [Ashwesker/Blackash-CVE-2025-3248](https://github.com/Ashwesker/Blackash-CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-3248">
 - [issamjr/CVE-2025-3248-Scanner](https://github.com/issamjr/CVE-2025-3248-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/issamjr/CVE-2025-3248-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/issamjr/CVE-2025-3248-Scanner">
 - [0-d3y/langflow-rce-exploit](https://github.com/0-d3y/langflow-rce-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0-d3y/langflow-rce-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0-d3y/langflow-rce-exploit">
 - [dennisec/Mass-CVE-2025-3248](https://github.com/dennisec/Mass-CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/dennisec/Mass-CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/dennisec/Mass-CVE-2025-3248">
@@ -4997,6 +4998,7 @@
 - [Kiraly07/Demo_CVE-2025-3248](https://github.com/Kiraly07/Demo_CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/Kiraly07/Demo_CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/Kiraly07/Demo_CVE-2025-3248">
 - [bambooqj/cve-2025-3248](https://github.com/bambooqj/cve-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/bambooqj/cve-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/bambooqj/cve-2025-3248">
 - [drackyjr/cve-2025-3248-exploit](https://github.com/drackyjr/cve-2025-3248-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/drackyjr/cve-2025-3248-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/drackyjr/cve-2025-3248-exploit">
+- [b0ySie7e/CVE-2025-3248-POC](https://github.com/b0ySie7e/CVE-2025-3248-POC)	<img alt="forks" src="https://img.shields.io/github/forks/b0ySie7e/CVE-2025-3248-POC">	<img alt="stars" src="https://img.shields.io/github/stars/b0ySie7e/CVE-2025-3248-POC">
 
 ---
 ## CVE-2025-32463 ()
