@@ -587,6 +587,9 @@
 - [shyambhanushali/React2Shell](https://github.com/shyambhanushali/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/shyambhanushali/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/shyambhanushali/React2Shell">
 - [ihsansencan/React2Shell-CVE-2025-55182](https://github.com/ihsansencan/React2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ihsansencan/React2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ihsansencan/React2Shell-CVE-2025-55182">
 - [changgun-lee/Next.js-RSC-RCE-Scanner-CVE-2025-66478](https://github.com/changgun-lee/Next.js-RSC-RCE-Scanner-CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/changgun-lee/Next.js-RSC-RCE-Scanner-CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/changgun-lee/Next.js-RSC-RCE-Scanner-CVE-2025-66478">
+- [rix4uni/CVE-2025-55182](https://github.com/rix4uni/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/rix4uni/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/rix4uni/CVE-2025-55182">
+- [Saad-Ayady/react2shellNSE](https://github.com/Saad-Ayady/react2shellNSE)	<img alt="forks" src="https://img.shields.io/github/forks/Saad-Ayady/react2shellNSE">	<img alt="stars" src="https://img.shields.io/github/stars/Saad-Ayady/react2shellNSE">
+- [dr4xp/react2shell](https://github.com/dr4xp/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/dr4xp/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/dr4xp/react2shell">
 
 ---
 ## CVE-2025-66022 ()
@@ -2552,6 +2555,8 @@
 - [oscarmine/R2SAE](https://github.com/oscarmine/R2SAE)	<img alt="forks" src="https://img.shields.io/github/forks/oscarmine/R2SAE">	<img alt="stars" src="https://img.shields.io/github/stars/oscarmine/R2SAE">
 - [min8282/CVE-2025-55182](https://github.com/min8282/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/min8282/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/min8282/CVE-2025-55182">
 - [MoisesTapia/react2shell-metasploit](https://github.com/MoisesTapia/react2shell-metasploit)	<img alt="forks" src="https://img.shields.io/github/forks/MoisesTapia/react2shell-metasploit">	<img alt="stars" src="https://img.shields.io/github/stars/MoisesTapia/react2shell-metasploit">
+- [exrienz/CVE-2025-55182-NextJS-Scanner-React2Shell-PoC](https://github.com/exrienz/CVE-2025-55182-NextJS-Scanner-React2Shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/exrienz/CVE-2025-55182-NextJS-Scanner-React2Shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/exrienz/CVE-2025-55182-NextJS-Scanner-React2Shell-PoC">
+- [Machine-farmer/PunchingBag-for-React2Shell](https://github.com/Machine-farmer/PunchingBag-for-React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/Machine-farmer/PunchingBag-for-React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/Machine-farmer/PunchingBag-for-React2Shell">
 
 ---
 ## CVE-2025-54988 ()
