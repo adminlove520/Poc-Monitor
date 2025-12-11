@@ -601,6 +601,7 @@
 - [Saad-Ayady/react2shellNSE](https://github.com/Saad-Ayady/react2shellNSE)	<img alt="forks" src="https://img.shields.io/github/forks/Saad-Ayady/react2shellNSE">	<img alt="stars" src="https://img.shields.io/github/stars/Saad-Ayady/react2shellNSE">
 - [dr4xp/react2shell](https://github.com/dr4xp/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/dr4xp/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/dr4xp/react2shell">
 - [l4rm4nd/CVE-2025-55182](https://github.com/l4rm4nd/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/l4rm4nd/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/l4rm4nd/CVE-2025-55182">
+- [Code42Cate/nexts-cve-2025-66478-exploit](https://github.com/Code42Cate/nexts-cve-2025-66478-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Code42Cate/nexts-cve-2025-66478-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Code42Cate/nexts-cve-2025-66478-exploit">
 
 ---
 ## CVE-2025-66470 ()
@@ -2598,6 +2599,7 @@
 - [xalgord1/CVE-2025-55182-POC](https://github.com/xalgord1/CVE-2025-55182-POC)	<img alt="forks" src="https://img.shields.io/github/forks/xalgord1/CVE-2025-55182-POC">	<img alt="stars" src="https://img.shields.io/github/stars/xalgord1/CVE-2025-55182-POC">
 - [Tiger-Foxx/exploit-react-CVE-2025-55182](https://github.com/Tiger-Foxx/exploit-react-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Tiger-Foxx/exploit-react-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Tiger-Foxx/exploit-react-CVE-2025-55182">
 - [trilogy-group/react2shell-scan](https://github.com/trilogy-group/react2shell-scan)	<img alt="forks" src="https://img.shields.io/github/forks/trilogy-group/react2shell-scan">	<img alt="stars" src="https://img.shields.io/github/stars/trilogy-group/react2shell-scan">
+- [anuththara2007-W/CVE-2025-55182-Exploit-extension](https://github.com/anuththara2007-W/CVE-2025-55182-Exploit-extension)	<img alt="forks" src="https://img.shields.io/github/forks/anuththara2007-W/CVE-2025-55182-Exploit-extension">	<img alt="stars" src="https://img.shields.io/github/stars/anuththara2007-W/CVE-2025-55182-Exploit-extension">
 
 ---
 ## CVE-2025-54988 ()
