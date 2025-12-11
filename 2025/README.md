@@ -606,6 +606,7 @@
 ## CVE-2025-66470 ()
 > 
 - [Jmehta10/CVE-2025-66470](https://github.com/Jmehta10/CVE-2025-66470)	<img alt="forks" src="https://img.shields.io/github/forks/Jmehta10/CVE-2025-66470">	<img alt="stars" src="https://img.shields.io/github/stars/Jmehta10/CVE-2025-66470">
+- [Jmehta10/CVE-2025-66470](https://github.com/Jmehta10/CVE-2025-66470)	<img alt="forks" src="https://img.shields.io/github/forks/Jmehta10/CVE-2025-66470">	<img alt="stars" src="https://img.shields.io/github/stars/Jmehta10/CVE-2025-66470">
 
 ---
 ## CVE-2025-66022 ()
