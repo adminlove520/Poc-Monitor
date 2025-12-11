@@ -2284,6 +2284,11 @@
 - [Sh3ruman/CVE-2025-55188-7z-exploit](https://github.com/Sh3ruman/CVE-2025-55188-7z-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Sh3ruman/CVE-2025-55188-7z-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Sh3ruman/CVE-2025-55188-7z-exploit">
 
 ---
+## CVE-2025-55183 ()
+> 
+- [Saturate/CVE-2025-55183](https://github.com/Saturate/CVE-2025-55183)	<img alt="forks" src="https://img.shields.io/github/forks/Saturate/CVE-2025-55183">	<img alt="stars" src="https://img.shields.io/github/stars/Saturate/CVE-2025-55183">
+
+---
 ## CVE-2025-55182 ()
 > 
 - [BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js](https://github.com/BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js)	<img alt="forks" src="https://img.shields.io/github/forks/BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js">	<img alt="stars" src="https://img.shields.io/github/stars/BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js">
@@ -2613,6 +2618,8 @@
 - [VolksRat71/react2shellexploitvisualized](https://github.com/VolksRat71/react2shellexploitvisualized)	<img alt="forks" src="https://img.shields.io/github/forks/VolksRat71/react2shellexploitvisualized">	<img alt="stars" src="https://img.shields.io/github/stars/VolksRat71/react2shellexploitvisualized">
 - [andrei2308/react2shell](https://github.com/andrei2308/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/andrei2308/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/andrei2308/react2shell">
 - [Nkwenti-Severian-Ndongtsop/POC_react2shell_CVE-2025-55182](https://github.com/Nkwenti-Severian-Ndongtsop/POC_react2shell_CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Nkwenti-Severian-Ndongtsop/POC_react2shell_CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Nkwenti-Severian-Ndongtsop/POC_react2shell_CVE-2025-55182">
+- [j0lt-github/react2shell-burp](https://github.com/j0lt-github/react2shell-burp)	<img alt="forks" src="https://img.shields.io/github/forks/j0lt-github/react2shell-burp">	<img alt="stars" src="https://img.shields.io/github/stars/j0lt-github/react2shell-burp">
+- [4nuxd/React2Shell](https://github.com/4nuxd/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/4nuxd/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/4nuxd/React2Shell">
 
 ---
 ## CVE-2025-54988 ()
