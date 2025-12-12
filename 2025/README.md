@@ -800,6 +800,11 @@
 - [shinyseam/CVE-2025-64513](https://github.com/shinyseam/CVE-2025-64513)	<img alt="forks" src="https://img.shields.io/github/forks/shinyseam/CVE-2025-64513">	<img alt="stars" src="https://img.shields.io/github/stars/shinyseam/CVE-2025-64513">
 
 ---
+## CVE-2025-64512 ()
+> 
+- [luigigubello/CVE-2025-64512-Polyglot-PoC](https://github.com/luigigubello/CVE-2025-64512-Polyglot-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/luigigubello/CVE-2025-64512-Polyglot-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/luigigubello/CVE-2025-64512-Polyglot-PoC">
+
+---
 ## CVE-2025-64500 ()
 > 
 - [B1ack4sh/Blackash-CVE-2025-64500](https://github.com/B1ack4sh/Blackash-CVE-2025-64500)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-64500">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-64500">
@@ -2298,7 +2303,7 @@
 - [Saturate/CVE-2025-55183](https://github.com/Saturate/CVE-2025-55183)	<img alt="forks" src="https://img.shields.io/github/forks/Saturate/CVE-2025-55183">	<img alt="stars" src="https://img.shields.io/github/stars/Saturate/CVE-2025-55183">
 - [kimtruth/CVE-2025-55183-poc](https://github.com/kimtruth/CVE-2025-55183-poc)	<img alt="forks" src="https://img.shields.io/github/forks/kimtruth/CVE-2025-55183-poc">	<img alt="stars" src="https://img.shields.io/github/stars/kimtruth/CVE-2025-55183-poc">
 - [williavs/nextjs-security-update](https://github.com/williavs/nextjs-security-update)	<img alt="forks" src="https://img.shields.io/github/forks/williavs/nextjs-security-update">	<img alt="stars" src="https://img.shields.io/github/stars/williavs/nextjs-security-update">
-- [X-Cotang/CVE-2025-55183-POC](https://github.com/X-Cotang/CVE-2025-55183-POC)	<img alt="forks" src="https://img.shields.io/github/forks/X-Cotang/CVE-2025-55183-POC">	<img alt="stars" src="https://img.shields.io/github/stars/X-Cotang/CVE-2025-55183-POC">
+- [X-Cotang/CVE-2025-55183_POC](https://github.com/X-Cotang/CVE-2025-55183_POC)	<img alt="forks" src="https://img.shields.io/github/forks/X-Cotang/CVE-2025-55183_POC">	<img alt="stars" src="https://img.shields.io/github/stars/X-Cotang/CVE-2025-55183_POC">
 
 ---
 ## CVE-2025-55182 ()
@@ -2638,6 +2643,7 @@
 - [securifyai/React2Shell-CVE-2025-55182](https://github.com/securifyai/React2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/securifyai/React2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/securifyai/React2Shell-CVE-2025-55182">
 - [W41T3D3V1L/COMPLETE-CVE-2025-55182](https://github.com/W41T3D3V1L/COMPLETE-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/W41T3D3V1L/COMPLETE-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/W41T3D3V1L/COMPLETE-CVE-2025-55182">
 - [gagaltotal/tot-react-rce-CVE-2025-55182](https://github.com/gagaltotal/tot-react-rce-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/tot-react-rce-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/tot-react-rce-CVE-2025-55182">
+- [0x5k/rs_CVE-2025-55182_React2Shell](https://github.com/0x5k/rs_CVE-2025-55182_React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/0x5k/rs_CVE-2025-55182_React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/0x5k/rs_CVE-2025-55182_React2Shell">
 
 ---
 ## CVE-2025-54988 ()
