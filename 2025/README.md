@@ -2284,6 +2284,12 @@
 - [Sh3ruman/CVE-2025-55188-7z-exploit](https://github.com/Sh3ruman/CVE-2025-55188-7z-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Sh3ruman/CVE-2025-55188-7z-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Sh3ruman/CVE-2025-55188-7z-exploit">
 
 ---
+## CVE-2025-55184 ()
+> 
+- [ejpir/CVE-2025-55184](https://github.com/ejpir/CVE-2025-55184)	<img alt="forks" src="https://img.shields.io/github/forks/ejpir/CVE-2025-55184">	<img alt="stars" src="https://img.shields.io/github/stars/ejpir/CVE-2025-55184">
+- [hans362/CVE-2025-55184-poc](https://github.com/hans362/CVE-2025-55184-poc)	<img alt="forks" src="https://img.shields.io/github/forks/hans362/CVE-2025-55184-poc">	<img alt="stars" src="https://img.shields.io/github/stars/hans362/CVE-2025-55184-poc">
+
+---
 ## CVE-2025-55183 ()
 > 
 - [Saturate/CVE-2025-55183](https://github.com/Saturate/CVE-2025-55183)	<img alt="forks" src="https://img.shields.io/github/forks/Saturate/CVE-2025-55183">	<img alt="stars" src="https://img.shields.io/github/stars/Saturate/CVE-2025-55183">
@@ -7562,6 +7568,11 @@
 ## CVE-2025-13796 ()
 > 
 - [0xcucumbersalad/CVE-2025-13796-PoC](https://github.com/0xcucumbersalad/CVE-2025-13796-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xcucumbersalad/CVE-2025-13796-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xcucumbersalad/CVE-2025-13796-PoC">
+
+---
+## CVE-2025-13780 ()
+> 
+- [zeropwn/pgadmin4-9.10-CVE-2025-13780](https://github.com/zeropwn/pgadmin4-9.10-CVE-2025-13780)	<img alt="forks" src="https://img.shields.io/github/forks/zeropwn/pgadmin4-9.10-CVE-2025-13780">	<img alt="stars" src="https://img.shields.io/github/stars/zeropwn/pgadmin4-9.10-CVE-2025-13780">
 
 ---
 ## CVE-2025-13615 ()
