@@ -6913,6 +6913,7 @@
 ## CVE-2025-24367 ()
 > 
 - [TheCyberGeek/CVE-2025-24367-Cacti-PoC](https://github.com/TheCyberGeek/CVE-2025-24367-Cacti-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TheCyberGeek/CVE-2025-24367-Cacti-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TheCyberGeek/CVE-2025-24367-Cacti-PoC">
+- [r0tn3x/CVE-2025-24367](https://github.com/r0tn3x/CVE-2025-24367)	<img alt="forks" src="https://img.shields.io/github/forks/r0tn3x/CVE-2025-24367">	<img alt="stars" src="https://img.shields.io/github/stars/r0tn3x/CVE-2025-24367">
 
 ---
 ## CVE-2025-24354 ()
@@ -7591,6 +7592,7 @@
 ## CVE-2025-13780 ()
 > 
 - [zeropwn/pgadmin4-9.10-CVE-2025-13780](https://github.com/zeropwn/pgadmin4-9.10-CVE-2025-13780)	<img alt="forks" src="https://img.shields.io/github/forks/zeropwn/pgadmin4-9.10-CVE-2025-13780">	<img alt="stars" src="https://img.shields.io/github/stars/zeropwn/pgadmin4-9.10-CVE-2025-13780">
+- [meenakshisl/PoC-CVE-2025-13780](https://github.com/meenakshisl/PoC-CVE-2025-13780)	<img alt="forks" src="https://img.shields.io/github/forks/meenakshisl/PoC-CVE-2025-13780">	<img alt="stars" src="https://img.shields.io/github/stars/meenakshisl/PoC-CVE-2025-13780">
 
 ---
 ## CVE-2025-13615 ()
