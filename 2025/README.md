@@ -2871,6 +2871,7 @@
 ## CVE-2025-54100 ()
 > 
 - [osman1337-security/CVE-2025-54100](https://github.com/osman1337-security/CVE-2025-54100)	<img alt="forks" src="https://img.shields.io/github/forks/osman1337-security/CVE-2025-54100">	<img alt="stars" src="https://img.shields.io/github/stars/osman1337-security/CVE-2025-54100">
+- [ThemeHackers/CVE-2025-54100](https://github.com/ThemeHackers/CVE-2025-54100)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2025-54100">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2025-54100">
 
 ---
 ## CVE-2025-53964 ()
