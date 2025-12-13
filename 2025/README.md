@@ -2673,6 +2673,8 @@
 - [eaizy/react2hulud-scan](https://github.com/eaizy/react2hulud-scan)	<img alt="forks" src="https://img.shields.io/github/forks/eaizy/react2hulud-scan">	<img alt="stars" src="https://img.shields.io/github/stars/eaizy/react2hulud-scan">
 - [gguatit/React2Shell-CVE-2025-55182-](https://github.com/gguatit/React2Shell-CVE-2025-55182-)	<img alt="forks" src="https://img.shields.io/github/forks/gguatit/React2Shell-CVE-2025-55182-">	<img alt="stars" src="https://img.shields.io/github/stars/gguatit/React2Shell-CVE-2025-55182-">
 - [TheStingR/ReactOOPS-WriteUp](https://github.com/TheStingR/ReactOOPS-WriteUp)	<img alt="forks" src="https://img.shields.io/github/forks/TheStingR/ReactOOPS-WriteUp">	<img alt="stars" src="https://img.shields.io/github/stars/TheStingR/ReactOOPS-WriteUp">
+- [mantvmass/react2shell](https://github.com/mantvmass/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/mantvmass/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/mantvmass/react2shell">
+- [MoLeft/React2Shell-Toolbox](https://github.com/MoLeft/React2Shell-Toolbox)	<img alt="forks" src="https://img.shields.io/github/forks/MoLeft/React2Shell-Toolbox">	<img alt="stars" src="https://img.shields.io/github/stars/MoLeft/React2Shell-Toolbox">
 
 ---
 ## CVE-2025-54988 ()
