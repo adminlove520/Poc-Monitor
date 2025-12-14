@@ -622,6 +622,7 @@
 - [mantvmass/react2shell](https://github.com/mantvmass/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/mantvmass/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/mantvmass/react2shell">
 - [gagaltotal/tot-react-rce-CVE-2025-55182](https://github.com/gagaltotal/tot-react-rce-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/tot-react-rce-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/tot-react-rce-CVE-2025-55182">
 - [viperh/poc-cve-next](https://github.com/viperh/poc-cve-next)	<img alt="forks" src="https://img.shields.io/github/forks/viperh/poc-cve-next">	<img alt="stars" src="https://img.shields.io/github/stars/viperh/poc-cve-next">
+- [DavionGowie/-vercel-application-is-vulnerable-to-CVE-2025-66478.](https://github.com/DavionGowie/-vercel-application-is-vulnerable-to-CVE-2025-66478.)	<img alt="forks" src="https://img.shields.io/github/forks/DavionGowie/-vercel-application-is-vulnerable-to-CVE-2025-66478.">	<img alt="stars" src="https://img.shields.io/github/stars/DavionGowie/-vercel-application-is-vulnerable-to-CVE-2025-66478.">
 
 ---
 ## CVE-2025-66470 ()
@@ -804,6 +805,7 @@
 - [truediogo/CVE-2025-64720-PoC](https://github.com/truediogo/CVE-2025-64720-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/truediogo/CVE-2025-64720-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/truediogo/CVE-2025-64720-PoC">
 - [truediogo/CVE-2025-64720-PoC](https://github.com/truediogo/CVE-2025-64720-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/truediogo/CVE-2025-64720-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/truediogo/CVE-2025-64720-PoC">
 - [truediogo/CVE-2025-64720-PoC](https://github.com/truediogo/CVE-2025-64720-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/truediogo/CVE-2025-64720-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/truediogo/CVE-2025-64720-PoC">
+- [dantsco/CVE-2025-64720-PoC](https://github.com/dantsco/CVE-2025-64720-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/dantsco/CVE-2025-64720-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/dantsco/CVE-2025-64720-PoC">
 
 ---
 ## CVE-2025-64708 ()
@@ -2328,6 +2330,7 @@
 - [StealthMoud/react-server-cve-lab](https://github.com/StealthMoud/react-server-cve-lab)	<img alt="forks" src="https://img.shields.io/github/forks/StealthMoud/react-server-cve-lab">	<img alt="stars" src="https://img.shields.io/github/stars/StealthMoud/react-server-cve-lab">
 - [cyberleelawat/CVE-2025-55184](https://github.com/cyberleelawat/CVE-2025-55184)	<img alt="forks" src="https://img.shields.io/github/forks/cyberleelawat/CVE-2025-55184">	<img alt="stars" src="https://img.shields.io/github/stars/cyberleelawat/CVE-2025-55184">
 - [Kajal5414/CVE-2025-55184_Testing](https://github.com/Kajal5414/CVE-2025-55184_Testing)	<img alt="forks" src="https://img.shields.io/github/forks/Kajal5414/CVE-2025-55184_Testing">	<img alt="stars" src="https://img.shields.io/github/stars/Kajal5414/CVE-2025-55184_Testing">
+- [KingHacker353/CVE-2025-55184](https://github.com/KingHacker353/CVE-2025-55184)	<img alt="forks" src="https://img.shields.io/github/forks/KingHacker353/CVE-2025-55184">	<img alt="stars" src="https://img.shields.io/github/stars/KingHacker353/CVE-2025-55184">
 
 ---
 ## CVE-2025-55183 ()
