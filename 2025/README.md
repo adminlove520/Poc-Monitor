@@ -1203,6 +1203,7 @@
 - [absholi7ly/CVE-2025-6218-WinRAR-Directory-Traversal-RCE](https://github.com/absholi7ly/CVE-2025-6218-WinRAR-Directory-Traversal-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/CVE-2025-6218-WinRAR-Directory-Traversal-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/CVE-2025-6218-WinRAR-Directory-Traversal-RCE">
 - [Chrxstxqn/CVE-2025-6218-WinRAR-RCE-POC](https://github.com/Chrxstxqn/CVE-2025-6218-WinRAR-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Chrxstxqn/CVE-2025-6218-WinRAR-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Chrxstxqn/CVE-2025-6218-WinRAR-RCE-POC">
 - [hatchepsoout/sigma-rules](https://github.com/hatchepsoout/sigma-rules)	<img alt="forks" src="https://img.shields.io/github/forks/hatchepsoout/sigma-rules">	<img alt="stars" src="https://img.shields.io/github/stars/hatchepsoout/sigma-rules">
+- [Chrxstxqn/RARPathStorm](https://github.com/Chrxstxqn/RARPathStorm)	<img alt="forks" src="https://img.shields.io/github/forks/Chrxstxqn/RARPathStorm">	<img alt="stars" src="https://img.shields.io/github/stars/Chrxstxqn/RARPathStorm">
 
 ---
 ## CVE-2025-62168 ()
@@ -2725,6 +2726,7 @@
 - [mivmi/CVE-2025-55182](https://github.com/mivmi/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/mivmi/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/mivmi/CVE-2025-55182">
 - [subhdotsol/CVE-2025-55182](https://github.com/subhdotsol/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/subhdotsol/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/subhdotsol/CVE-2025-55182">
 - [Call123X/-cve-2025-55182](https://github.com/Call123X/-cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Call123X/-cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Call123X/-cve-2025-55182">
+- [hulh122/CVE-2025-55182](https://github.com/hulh122/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/hulh122/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/hulh122/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
