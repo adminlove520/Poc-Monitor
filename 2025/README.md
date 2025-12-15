@@ -624,6 +624,7 @@
 - [gagaltotal/tot-react-rce-CVE-2025-55182](https://github.com/gagaltotal/tot-react-rce-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/tot-react-rce-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/tot-react-rce-CVE-2025-55182">
 - [viperh/poc-cve-next](https://github.com/viperh/poc-cve-next)	<img alt="forks" src="https://img.shields.io/github/forks/viperh/poc-cve-next">	<img alt="stars" src="https://img.shields.io/github/stars/viperh/poc-cve-next">
 - [DavionGowie/-vercel-application-is-vulnerable-to-CVE-2025-66478.](https://github.com/DavionGowie/-vercel-application-is-vulnerable-to-CVE-2025-66478.)	<img alt="forks" src="https://img.shields.io/github/forks/DavionGowie/-vercel-application-is-vulnerable-to-CVE-2025-66478.">	<img alt="stars" src="https://img.shields.io/github/stars/DavionGowie/-vercel-application-is-vulnerable-to-CVE-2025-66478.">
+- [zhixiangyao/CVE-2025-66478-Exploit-Poc](https://github.com/zhixiangyao/CVE-2025-66478-Exploit-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/zhixiangyao/CVE-2025-66478-Exploit-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/zhixiangyao/CVE-2025-66478-Exploit-Poc">
 
 ---
 ## CVE-2025-66470 ()
