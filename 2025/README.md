@@ -635,6 +635,7 @@
 - [viperh/poc-cve-next](https://github.com/viperh/poc-cve-next)	<img alt="forks" src="https://img.shields.io/github/forks/viperh/poc-cve-next">	<img alt="stars" src="https://img.shields.io/github/stars/viperh/poc-cve-next">
 - [DavionGowie/-vercel-application-is-vulnerable-to-CVE-2025-66478.](https://github.com/DavionGowie/-vercel-application-is-vulnerable-to-CVE-2025-66478.)	<img alt="forks" src="https://img.shields.io/github/forks/DavionGowie/-vercel-application-is-vulnerable-to-CVE-2025-66478.">	<img alt="stars" src="https://img.shields.io/github/stars/DavionGowie/-vercel-application-is-vulnerable-to-CVE-2025-66478.">
 - [zhixiangyao/CVE-2025-66478-Exploit-PoC](https://github.com/zhixiangyao/CVE-2025-66478-Exploit-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/zhixiangyao/CVE-2025-66478-Exploit-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/zhixiangyao/CVE-2025-66478-Exploit-PoC">
+- [Geekujin/React2-Power-Shell---CVE-Checker](https://github.com/Geekujin/React2-Power-Shell---CVE-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/Geekujin/React2-Power-Shell---CVE-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/Geekujin/React2-Power-Shell---CVE-Checker">
 
 ---
 ## CVE-2025-66470 ()
