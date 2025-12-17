@@ -2806,6 +2806,7 @@
 - [S-Mughal/NextJS-app-CVE-2025-55182](https://github.com/S-Mughal/NextJS-app-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/S-Mughal/NextJS-app-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/S-Mughal/NextJS-app-CVE-2025-55182">
 - [M4rgs/CVE-2025-55182-React2Shell-Exploit](https://github.com/M4rgs/CVE-2025-55182-React2Shell-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/M4rgs/CVE-2025-55182-React2Shell-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/M4rgs/CVE-2025-55182-React2Shell-Exploit">
 - [nulltrace1336/CVE-2025-55182-Metasploit-exploit-skeleton-real-flow-](https://github.com/nulltrace1336/CVE-2025-55182-Metasploit-exploit-skeleton-real-flow-)	<img alt="forks" src="https://img.shields.io/github/forks/nulltrace1336/CVE-2025-55182-Metasploit-exploit-skeleton-real-flow-">	<img alt="stars" src="https://img.shields.io/github/stars/nulltrace1336/CVE-2025-55182-Metasploit-exploit-skeleton-real-flow-">
+- [ceh-aditya-raj/CVE-2025-55182](https://github.com/ceh-aditya-raj/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ceh-aditya-raj/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ceh-aditya-raj/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
@@ -7792,6 +7793,11 @@
 ## CVE-2025-1461 ()
 > 
 - [neverendingsupport/nes-vuetify-cve-2025-1461](https://github.com/neverendingsupport/nes-vuetify-cve-2025-1461)	<img alt="forks" src="https://img.shields.io/github/forks/neverendingsupport/nes-vuetify-cve-2025-1461">	<img alt="stars" src="https://img.shields.io/github/stars/neverendingsupport/nes-vuetify-cve-2025-1461">
+
+---
+## CVE-2025-14269 ()
+> 
+- [r0binak/CVE-2025-14269](https://github.com/r0binak/CVE-2025-14269)	<img alt="forks" src="https://img.shields.io/github/forks/r0binak/CVE-2025-14269">	<img alt="stars" src="https://img.shields.io/github/stars/r0binak/CVE-2025-14269">
 
 ---
 ## CVE-2025-14221 ()
