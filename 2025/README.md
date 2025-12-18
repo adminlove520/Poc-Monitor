@@ -4914,6 +4914,11 @@
 - [omr00t/CVE-2025-40629](https://github.com/omr00t/CVE-2025-40629)	<img alt="forks" src="https://img.shields.io/github/forks/omr00t/CVE-2025-40629">	<img alt="stars" src="https://img.shields.io/github/stars/omr00t/CVE-2025-40629">
 
 ---
+## CVE-2025-40602 ()
+> 
+- [rxerium/CVE-2025-40602](https://github.com/rxerium/CVE-2025-40602)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-40602">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-40602">
+
+---
 ## CVE-2025-40547 ()
 > 
 - [B1ack4sh/Blackash-CVE-2025-40547](https://github.com/B1ack4sh/Blackash-CVE-2025-40547)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-40547">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-40547">
