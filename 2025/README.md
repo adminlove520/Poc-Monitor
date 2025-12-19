@@ -475,6 +475,11 @@
 - [x0root/CVE-2025-68116](https://github.com/x0root/CVE-2025-68116)	<img alt="forks" src="https://img.shields.io/github/forks/x0root/CVE-2025-68116">	<img alt="stars" src="https://img.shields.io/github/stars/x0root/CVE-2025-68116">
 
 ---
+## CVE-2025-68055 ()
+> 
+- [Nosiume/CVE-2025-68055-poc](https://github.com/Nosiume/CVE-2025-68055-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Nosiume/CVE-2025-68055-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Nosiume/CVE-2025-68055-poc">
+
+---
 ## CVE-2025-67888 ()
 > 
 - [reewardius/CVE-2025-67888](https://github.com/reewardius/CVE-2025-67888)	<img alt="forks" src="https://img.shields.io/github/forks/reewardius/CVE-2025-67888">	<img alt="stars" src="https://img.shields.io/github/stars/reewardius/CVE-2025-67888">
@@ -2860,6 +2865,7 @@
 - [RavinduRathnayaka/CVE-2025-55182-PoC](https://github.com/RavinduRathnayaka/CVE-2025-55182-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/RavinduRathnayaka/CVE-2025-55182-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/RavinduRathnayaka/CVE-2025-55182-PoC">
 - [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/dajneem23/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/dajneem23/CVE-2025-55182">
 - [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/dajneem23/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/dajneem23/CVE-2025-55182">
+- [chrahman/react2shell-CVE-2025-55182-full-rce-script](https://github.com/chrahman/react2shell-CVE-2025-55182-full-rce-script)	<img alt="forks" src="https://img.shields.io/github/forks/chrahman/react2shell-CVE-2025-55182-full-rce-script">	<img alt="stars" src="https://img.shields.io/github/stars/chrahman/react2shell-CVE-2025-55182-full-rce-script">
 
 ---
 ## CVE-2025-54988 ()
