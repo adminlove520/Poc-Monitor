@@ -464,6 +464,7 @@
 - [TheStingR/CVE-2025-68613-POC](https://github.com/TheStingR/CVE-2025-68613-POC)	<img alt="forks" src="https://img.shields.io/github/forks/TheStingR/CVE-2025-68613-POC">	<img alt="stars" src="https://img.shields.io/github/stars/TheStingR/CVE-2025-68613-POC">
 - [TheStingR/CVE-2025-68613-POC](https://github.com/TheStingR/CVE-2025-68613-POC)	<img alt="forks" src="https://img.shields.io/github/forks/TheStingR/CVE-2025-68613-POC">	<img alt="stars" src="https://img.shields.io/github/stars/TheStingR/CVE-2025-68613-POC">
 - [wioui/n8n-CVE-2025-68613-exploit](https://github.com/wioui/n8n-CVE-2025-68613-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/wioui/n8n-CVE-2025-68613-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/wioui/n8n-CVE-2025-68613-exploit">
+- [intbjw/CVE-2025-68613-poc-via-copilot](https://github.com/intbjw/CVE-2025-68613-poc-via-copilot)	<img alt="forks" src="https://img.shields.io/github/forks/intbjw/CVE-2025-68613-poc-via-copilot">	<img alt="stars" src="https://img.shields.io/github/stars/intbjw/CVE-2025-68613-poc-via-copilot">
 
 ---
 ## CVE-2025-6860 ()
@@ -743,6 +744,7 @@
 - [Geekby/n8n-CVE-2025-65964](https://github.com/Geekby/n8n-CVE-2025-65964)	<img alt="forks" src="https://img.shields.io/github/forks/Geekby/n8n-CVE-2025-65964">	<img alt="stars" src="https://img.shields.io/github/stars/Geekby/n8n-CVE-2025-65964">
 - [Ashwesker/Blackash-CVE-2025-65964](https://github.com/Ashwesker/Blackash-CVE-2025-65964)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-65964">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-65964">
 - [Saboor-Hakimi-23/CVE-2025-65964](https://github.com/Saboor-Hakimi-23/CVE-2025-65964)	<img alt="forks" src="https://img.shields.io/github/forks/Saboor-Hakimi-23/CVE-2025-65964">	<img alt="stars" src="https://img.shields.io/github/stars/Saboor-Hakimi-23/CVE-2025-65964">
+- [Pinus97/CVE-2025-65964-POC](https://github.com/Pinus97/CVE-2025-65964-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Pinus97/CVE-2025-65964-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Pinus97/CVE-2025-65964-POC">
 
 ---
 ## CVE-2025-65945 ()
