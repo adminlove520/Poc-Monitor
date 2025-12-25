@@ -484,6 +484,7 @@
 - [r4j3sh-com/CVE-2025-68613-n8n-lab](https://github.com/r4j3sh-com/CVE-2025-68613-n8n-lab)	<img alt="forks" src="https://img.shields.io/github/forks/r4j3sh-com/CVE-2025-68613-n8n-lab">	<img alt="stars" src="https://img.shields.io/github/stars/r4j3sh-com/CVE-2025-68613-n8n-lab">
 - [manyaigdtuw/CVE-2025-68613_Scanner](https://github.com/manyaigdtuw/CVE-2025-68613_Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/manyaigdtuw/CVE-2025-68613_Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/manyaigdtuw/CVE-2025-68613_Scanner">
 - [AbdulRKB/n8n-RCE](https://github.com/AbdulRKB/n8n-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AbdulRKB/n8n-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AbdulRKB/n8n-RCE">
+- [JohannesLks/CVE-2025-68613-Python-Exploit](https://github.com/JohannesLks/CVE-2025-68613-Python-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/JohannesLks/CVE-2025-68613-Python-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/JohannesLks/CVE-2025-68613-Python-Exploit">
 
 ---
 ## CVE-2025-6860 ()
