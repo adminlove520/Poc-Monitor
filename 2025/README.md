@@ -3871,6 +3871,7 @@
 - [Ashwesker/Blackash-CVE-2025-49844](https://github.com/Ashwesker/Blackash-CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-49844">
 - [saneki/cve-2025-49844](https://github.com/saneki/cve-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/saneki/cve-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/saneki/cve-2025-49844">
 - [Network-Sec/CVE-2025-49844-RediShell-AI-made-Revshell](https://github.com/Network-Sec/CVE-2025-49844-RediShell-AI-made-Revshell)	<img alt="forks" src="https://img.shields.io/github/forks/Network-Sec/CVE-2025-49844-RediShell-AI-made-Revshell">	<img alt="stars" src="https://img.shields.io/github/stars/Network-Sec/CVE-2025-49844-RediShell-AI-made-Revshell">
+- [hzhsec/redis-cve_2025_49844](https://github.com/hzhsec/redis-cve_2025_49844)	<img alt="forks" src="https://img.shields.io/github/forks/hzhsec/redis-cve_2025_49844">	<img alt="stars" src="https://img.shields.io/github/stars/hzhsec/redis-cve_2025_49844">
 
 ---
 ## CVE-2025-49752 ()
@@ -8009,6 +8010,11 @@
 ## CVE-2025-15033 ()
 > 
 - [Octolus/CVE-2025-15033](https://github.com/Octolus/CVE-2025-15033)	<img alt="forks" src="https://img.shields.io/github/forks/Octolus/CVE-2025-15033">	<img alt="stars" src="https://img.shields.io/github/stars/Octolus/CVE-2025-15033">
+
+---
+## CVE-2025-14765 ()
+> 
+- [InfoSecAntara/CVE-2025-14765-and-CVE-2025-14766](https://github.com/InfoSecAntara/CVE-2025-14765-and-CVE-2025-14766)	<img alt="forks" src="https://img.shields.io/github/forks/InfoSecAntara/CVE-2025-14765-and-CVE-2025-14766">	<img alt="stars" src="https://img.shields.io/github/stars/InfoSecAntara/CVE-2025-14765-and-CVE-2025-14766">
 
 ---
 ## CVE-2025-14733 ()
