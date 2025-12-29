@@ -482,7 +482,7 @@
 ## CVE-2025-68613 ()
 > 
 - [rxerium/CVE-2025-68613](https://github.com/rxerium/CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-68613">
-- [Ashwesker/Blackash-CVE-2025-68613](https://github.com/Ashwesker/Blackash-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-68613">
+- [Ashwesker/Ashwesker-CVE-2025-68613](https://github.com/Ashwesker/Ashwesker-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2025-68613">
 - [TheStingR/CVE-2025-68613-POC](https://github.com/TheStingR/CVE-2025-68613-POC)	<img alt="forks" src="https://img.shields.io/github/forks/TheStingR/CVE-2025-68613-POC">	<img alt="stars" src="https://img.shields.io/github/stars/TheStingR/CVE-2025-68613-POC">
 - [TheStingR/CVE-2025-68613-POC](https://github.com/TheStingR/CVE-2025-68613-POC)	<img alt="forks" src="https://img.shields.io/github/forks/TheStingR/CVE-2025-68613-POC">	<img alt="stars" src="https://img.shields.io/github/stars/TheStingR/CVE-2025-68613-POC">
 - [wioui/n8n-CVE-2025-68613-exploit](https://github.com/wioui/n8n-CVE-2025-68613-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/wioui/n8n-CVE-2025-68613-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/wioui/n8n-CVE-2025-68613-exploit">
@@ -5536,7 +5536,7 @@
 - [sleepasleepzzz/CVE-2025-33073](https://github.com/sleepasleepzzz/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/sleepasleepzzz/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/sleepasleepzzz/CVE-2025-33073">
 - [SFRDevelopment/windows-smb-vulnerability-framework-cve-2025-33073](https://github.com/SFRDevelopment/windows-smb-vulnerability-framework-cve-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/SFRDevelopment/windows-smb-vulnerability-framework-cve-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/SFRDevelopment/windows-smb-vulnerability-framework-cve-2025-33073">
 - [uziii2208/CVE-2025-33073](https://github.com/uziii2208/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/uziii2208/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/uziii2208/CVE-2025-33073">
-- [Ashwesker/Blackash-CVE-2025-33073](https://github.com/Ashwesker/Blackash-CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-33073">
+- [Ashwesker/Ashwesker-CVE-2025-33073](https://github.com/Ashwesker/Ashwesker-CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2025-33073">
 - [Iddygodwin/CVE-2025-33073](https://github.com/Iddygodwin/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/Iddygodwin/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/Iddygodwin/CVE-2025-33073">
 
 ---
