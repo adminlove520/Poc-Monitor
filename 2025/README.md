@@ -3272,6 +3272,7 @@
 > 
 - [osman1337-security/CVE-2025-54100](https://github.com/osman1337-security/CVE-2025-54100)	<img alt="forks" src="https://img.shields.io/github/forks/osman1337-security/CVE-2025-54100">	<img alt="stars" src="https://img.shields.io/github/stars/osman1337-security/CVE-2025-54100">
 - [ThemeHackers/CVE-2025-54100](https://github.com/ThemeHackers/CVE-2025-54100)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2025-54100">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2025-54100">
+- [xiaoLvChen/CVE-2025-54100](https://github.com/xiaoLvChen/CVE-2025-54100)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoLvChen/CVE-2025-54100">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoLvChen/CVE-2025-54100">
 
 ---
 ## CVE-2025-53964 ()
@@ -8143,6 +8144,7 @@
 - [JemHadar/MongoBleed-DFIR-Triage-Script-CVE-2025-14847](https://github.com/JemHadar/MongoBleed-DFIR-Triage-Script-CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/JemHadar/MongoBleed-DFIR-Triage-Script-CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/JemHadar/MongoBleed-DFIR-Triage-Script-CVE-2025-14847">
 - [franksec42/mongobleed-exploit-CVE-2025-14847](https://github.com/franksec42/mongobleed-exploit-CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/franksec42/mongobleed-exploit-CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/franksec42/mongobleed-exploit-CVE-2025-14847">
 - [lincemorado97/CVE-2025-14847](https://github.com/lincemorado97/CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/lincemorado97/CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/lincemorado97/CVE-2025-14847">
+- [kuyrathdaro/cve-2025-14847](https://github.com/kuyrathdaro/cve-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/kuyrathdaro/cve-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/kuyrathdaro/cve-2025-14847">
 
 ---
 ## CVE-2025-14765 ()
