@@ -1747,6 +1747,11 @@
 - [H4zaz/CVE-2025-60500](https://github.com/H4zaz/CVE-2025-60500)	<img alt="forks" src="https://img.shields.io/github/forks/H4zaz/CVE-2025-60500">	<img alt="stars" src="https://img.shields.io/github/stars/H4zaz/CVE-2025-60500">
 
 ---
+## CVE-2025-60458 ()
+> 
+- [0pepsi/CVE-2025-60458](https://github.com/0pepsi/CVE-2025-60458)	<img alt="forks" src="https://img.shields.io/github/forks/0pepsi/CVE-2025-60458">	<img alt="stars" src="https://img.shields.io/github/stars/0pepsi/CVE-2025-60458">
+
+---
 ## CVE-2025-60425 ()
 > 
 - [aakashtyal/Session-Persistence-After-Enabling-2FA-CVE-2025-60425](https://github.com/aakashtyal/Session-Persistence-After-Enabling-2FA-CVE-2025-60425)	<img alt="forks" src="https://img.shields.io/github/forks/aakashtyal/Session-Persistence-After-Enabling-2FA-CVE-2025-60425">	<img alt="stars" src="https://img.shields.io/github/stars/aakashtyal/Session-Persistence-After-Enabling-2FA-CVE-2025-60425">
