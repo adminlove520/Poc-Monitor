@@ -540,6 +540,7 @@
 - [cv-sai-kamesh/n8n-CVE-2025-68613](https://github.com/cv-sai-kamesh/n8n-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/cv-sai-kamesh/n8n-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/cv-sai-kamesh/n8n-CVE-2025-68613">
 - [ahmedshamsddin/n8n-RCE-CVE-2025-68613](https://github.com/ahmedshamsddin/n8n-RCE-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/ahmedshamsddin/n8n-RCE-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/ahmedshamsddin/n8n-RCE-CVE-2025-68613">
 - [TheInterception/n8n_CVE-2025-68613_exploit_payloads](https://github.com/TheInterception/n8n_CVE-2025-68613_exploit_payloads)	<img alt="forks" src="https://img.shields.io/github/forks/TheInterception/n8n_CVE-2025-68613_exploit_payloads">	<img alt="stars" src="https://img.shields.io/github/stars/TheInterception/n8n_CVE-2025-68613_exploit_payloads">
+- [shibaaa204/CVE-2025-68613](https://github.com/shibaaa204/CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/shibaaa204/CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/shibaaa204/CVE-2025-68613">
 
 ---
 ## CVE-2025-6860 ()
@@ -5941,6 +5942,7 @@
 - [justjoeyking/CVE-2025-32463](https://github.com/justjoeyking/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/justjoeyking/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/justjoeyking/CVE-2025-32463">
 - [Mr-Alperen/CVE-2025-32463](https://github.com/Mr-Alperen/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-Alperen/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-Alperen/CVE-2025-32463">
 - [aexdyhaxor/CVE-2025-32463](https://github.com/aexdyhaxor/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/aexdyhaxor/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/aexdyhaxor/CVE-2025-32463">
+- [wvverez/CVE-2025-32463](https://github.com/wvverez/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/wvverez/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/wvverez/CVE-2025-32463">
 - [wvverez/CVE-2025-32463](https://github.com/wvverez/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/wvverez/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/wvverez/CVE-2025-32463">
 
 ---
