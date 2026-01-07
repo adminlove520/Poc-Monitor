@@ -7,6 +7,11 @@
 - [daytriftnewgen/CVE-2026-21876](https://github.com/daytriftnewgen/CVE-2026-21876)	<img alt="forks" src="https://img.shields.io/github/forks/daytriftnewgen/CVE-2026-21876">	<img alt="stars" src="https://img.shields.io/github/stars/daytriftnewgen/CVE-2026-21876">
 
 ---
+## CVE-2026-21858 ()
+> 
+- [eduardorossi84/CVE-2026-21858-POC](https://github.com/eduardorossi84/CVE-2026-21858-POC)	<img alt="forks" src="https://img.shields.io/github/forks/eduardorossi84/CVE-2026-21858-POC">	<img alt="stars" src="https://img.shields.io/github/stars/eduardorossi84/CVE-2026-21858-POC">
+
+---
 ## CVE-2026-21451 ()
 > 
 - [Ashwesker/Ashwesker-CVE-2026-21451](https://github.com/Ashwesker/Ashwesker-CVE-2026-21451)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-21451">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-21451">
@@ -31,6 +36,11 @@
 ## CVE-2026-21436 ()
 > 
 - [osmancanvural/CVE-2026-21436](https://github.com/osmancanvural/CVE-2026-21436)	<img alt="forks" src="https://img.shields.io/github/forks/osmancanvural/CVE-2026-21436">	<img alt="stars" src="https://img.shields.io/github/stars/osmancanvural/CVE-2026-21436">
+
+---
+## CVE-2026-0628 ()
+> 
+- [fevar54/CVE-2026-0628-POC](https://github.com/fevar54/CVE-2026-0628-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-0628-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-0628-POC">
 
 ---
 ## CVE-2026-0547 ()
