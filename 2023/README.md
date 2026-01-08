@@ -3908,6 +3908,7 @@ prior to
 
 - [Dreamy-elfland/CVE-2023-36846](https://github.com/Dreamy-elfland/CVE-2023-36846)	<img alt="forks" src="https://img.shields.io/github/forks/Dreamy-elfland/CVE-2023-36846">	<img alt="stars" src="https://img.shields.io/github/stars/Dreamy-elfland/CVE-2023-36846">
 - [r3dcl1ff/CVE-2023-36844_Juniper_RCE](https://github.com/r3dcl1ff/CVE-2023-36844_Juniper_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/r3dcl1ff/CVE-2023-36844_Juniper_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/r3dcl1ff/CVE-2023-36844_Juniper_RCE">
+- [Chocapikk/CVE-2023-36846](https://github.com/Chocapikk/CVE-2023-36846)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-36846">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-36846">
 
 ---
 ## CVE-2023-36845 (2023-08-17T20:15:00)
@@ -4408,6 +4409,11 @@ This issue affects RT-AX56U V2: 3.0.0.4.386_50460; RT-AC86U: 3.0.0.4_386_51529.
 ## CVE-2023-35085 ()
 > 
 - [maoruiQa/CVE-2023-35085-POC-EXP](https://github.com/maoruiQa/CVE-2023-35085-POC-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/maoruiQa/CVE-2023-35085-POC-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/maoruiQa/CVE-2023-35085-POC-EXP">
+
+---
+## CVE-2023-35082 ()
+> 
+- [Chocapikk/CVE-2023-35082](https://github.com/Chocapikk/CVE-2023-35082)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-35082">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-35082">
 
 ---
 ## CVE-2023-35080 (2023-11-15T00:15:00)
