@@ -2120,6 +2120,11 @@
 - [stalker110119/CVE-2025-59230](https://github.com/stalker110119/CVE-2025-59230)	<img alt="forks" src="https://img.shields.io/github/forks/stalker110119/CVE-2025-59230">	<img alt="stars" src="https://img.shields.io/github/stars/stalker110119/CVE-2025-59230">
 
 ---
+## CVE-2025-59194 ()
+> 
+- [kawaii-ghost/CVE-2025-59194](https://github.com/kawaii-ghost/CVE-2025-59194)	<img alt="forks" src="https://img.shields.io/github/forks/kawaii-ghost/CVE-2025-59194">	<img alt="stars" src="https://img.shields.io/github/stars/kawaii-ghost/CVE-2025-59194">
+
+---
 ## CVE-2025-59118 ()
 > 
 - [B1ack4sh/Blackash-CVE-2025-59118](https://github.com/B1ack4sh/Blackash-CVE-2025-59118)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-59118">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-59118">
@@ -3254,6 +3259,7 @@
 - [mooowu/cve-2025-55182-poc](https://github.com/mooowu/cve-2025-55182-poc)	<img alt="forks" src="https://img.shields.io/github/forks/mooowu/cve-2025-55182-poc">	<img alt="stars" src="https://img.shields.io/github/stars/mooowu/cve-2025-55182-poc">
 - [Sown0205/CVE_2025_55182](https://github.com/Sown0205/CVE_2025_55182)	<img alt="forks" src="https://img.shields.io/github/forks/Sown0205/CVE_2025_55182">	<img alt="stars" src="https://img.shields.io/github/stars/Sown0205/CVE_2025_55182">
 - [Faithtiannn/CVE-2025-55182](https://github.com/Faithtiannn/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Faithtiannn/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Faithtiannn/CVE-2025-55182">
+- [Vanbinh-dev/CVE_2025_55182_testing](https://github.com/Vanbinh-dev/CVE_2025_55182_testing)	<img alt="forks" src="https://img.shields.io/github/forks/Vanbinh-dev/CVE_2025_55182_testing">	<img alt="stars" src="https://img.shields.io/github/stars/Vanbinh-dev/CVE_2025_55182_testing">
 
 ---
 ## CVE-2025-54988 ()
