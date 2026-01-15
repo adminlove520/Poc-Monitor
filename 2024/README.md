@@ -6381,6 +6381,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [Ashwesker/Blackash-CVE-2024-3094](https://github.com/Ashwesker/Blackash-CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2024-3094">
 - [hariskhalil555000-sketch/What-utility-does-CVE-2024-3094-refer-to-](https://github.com/hariskhalil555000-sketch/What-utility-does-CVE-2024-3094-refer-to-)	<img alt="forks" src="https://img.shields.io/github/forks/hariskhalil555000-sketch/What-utility-does-CVE-2024-3094-refer-to-">	<img alt="stars" src="https://img.shields.io/github/stars/hariskhalil555000-sketch/What-utility-does-CVE-2024-3094-refer-to-">
 - [encikayelwhitehat-glitch/CVE-2024-3094](https://github.com/encikayelwhitehat-glitch/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/encikayelwhitehat-glitch/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/encikayelwhitehat-glitch/CVE-2024-3094">
+- [BOSE122/CVE-2024-3094](https://github.com/BOSE122/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/BOSE122/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/BOSE122/CVE-2024-3094">
 
 ---
 ## CVE-2024-30937 ()
