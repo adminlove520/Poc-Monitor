@@ -2133,6 +2133,7 @@
 - [17patmaks/CVE-2025-59287-Sigma-Rule](https://github.com/17patmaks/CVE-2025-59287-Sigma-Rule)	<img alt="forks" src="https://img.shields.io/github/forks/17patmaks/CVE-2025-59287-Sigma-Rule">	<img alt="stars" src="https://img.shields.io/github/stars/17patmaks/CVE-2025-59287-Sigma-Rule">
 - [gud425/gud425.github.io](https://github.com/gud425/gud425.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/gud425/gud425.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/gud425/gud425.github.io">
 - [vtntkmfyyftrem/CVE-2025-59287](https://github.com/vtntkmfyyftrem/CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/vtntkmfyyftrem/CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/vtntkmfyyftrem/CVE-2025-59287">
+- [LuemmelSec/CVE-2025-59287---WSUS-SCCM-RCE](https://github.com/LuemmelSec/CVE-2025-59287---WSUS-SCCM-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/LuemmelSec/CVE-2025-59287---WSUS-SCCM-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/LuemmelSec/CVE-2025-59287---WSUS-SCCM-RCE">
 
 ---
 ## CVE-2025-59285 ()
@@ -3318,6 +3319,7 @@
 - [tiago4lexandre/React2Shell](https://github.com/tiago4lexandre/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/tiago4lexandre/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/tiago4lexandre/React2Shell">
 - [Least-Significant-Bit/CVE-2025-55182](https://github.com/Least-Significant-Bit/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Least-Significant-Bit/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Least-Significant-Bit/CVE-2025-55182">
 - [Least-Significant-Bit/CVE-2025-55182](https://github.com/Least-Significant-Bit/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Least-Significant-Bit/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Least-Significant-Bit/CVE-2025-55182">
+- [faisha1311/React2Shell-CVE-2025-55182-TryHackMe](https://github.com/faisha1311/React2Shell-CVE-2025-55182-TryHackMe)	<img alt="forks" src="https://img.shields.io/github/forks/faisha1311/React2Shell-CVE-2025-55182-TryHackMe">	<img alt="stars" src="https://img.shields.io/github/stars/faisha1311/React2Shell-CVE-2025-55182-TryHackMe">
 
 ---
 ## CVE-2025-54988 ()
