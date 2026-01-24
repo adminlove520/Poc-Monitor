@@ -8484,6 +8484,7 @@
 - [cyberdudebivash/CYBERDUDEBIVASH-Cisco-AsyncOS-CVE-2025-20393-Scanner](https://github.com/cyberdudebivash/CYBERDUDEBIVASH-Cisco-AsyncOS-CVE-2025-20393-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/cyberdudebivash/CYBERDUDEBIVASH-Cisco-AsyncOS-CVE-2025-20393-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/cyberdudebivash/CYBERDUDEBIVASH-Cisco-AsyncOS-CVE-2025-20393-Scanner">
 - [MRH701/cisco-sa-sma-attack-N9bf4](https://github.com/MRH701/cisco-sa-sma-attack-N9bf4)	<img alt="forks" src="https://img.shields.io/github/forks/MRH701/cisco-sa-sma-attack-N9bf4">	<img alt="stars" src="https://img.shields.io/github/stars/MRH701/cisco-sa-sma-attack-N9bf4">
 - [MRH701/mrh701.github.io](https://github.com/MRH701/mrh701.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/MRH701/mrh701.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/MRH701/mrh701.github.io">
+- [ONYXZER0/CVE-2025-20393](https://github.com/ONYXZER0/CVE-2025-20393)	<img alt="forks" src="https://img.shields.io/github/forks/ONYXZER0/CVE-2025-20393">	<img alt="stars" src="https://img.shields.io/github/stars/ONYXZER0/CVE-2025-20393">
 
 ---
 ## CVE-2025-20384 ()
