@@ -2323,6 +2323,7 @@ use after free.
 ## CVE-2019-17147 ()
 > 
 - [imnot-ye/CVE-2019-17147](https://github.com/imnot-ye/CVE-2019-17147)	<img alt="forks" src="https://img.shields.io/github/forks/imnot-ye/CVE-2019-17147">	<img alt="stars" src="https://img.shields.io/github/stars/imnot-ye/CVE-2019-17147">
+- [DrmnSamoLiu/CVE-2019-17147_Practice_Material](https://github.com/DrmnSamoLiu/CVE-2019-17147_Practice_Material)	<img alt="forks" src="https://img.shields.io/github/forks/DrmnSamoLiu/CVE-2019-17147_Practice_Material">	<img alt="stars" src="https://img.shields.io/github/stars/DrmnSamoLiu/CVE-2019-17147_Practice_Material">
 
 ---
 ## CVE-2019-17133 (2019-10-04T12:15:00)
