@@ -8726,7 +8726,7 @@
 ---
 ## CVE-2025-14855 ()
 > 
-- [ch4r0nn/CVE-2025-14855](https://github.com/ch4r0nn/CVE-2025-14855)	<img alt="forks" src="https://img.shields.io/github/forks/ch4r0nn/CVE-2025-14855">	<img alt="stars" src="https://img.shields.io/github/stars/ch4r0nn/CVE-2025-14855">
+- [ch4r0nn/CVE-2025-14855-POC](https://github.com/ch4r0nn/CVE-2025-14855-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ch4r0nn/CVE-2025-14855-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ch4r0nn/CVE-2025-14855-POC">
 
 ---
 ## CVE-2025-14847 ()
