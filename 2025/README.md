@@ -3443,6 +3443,7 @@
 - [Supertej0622/supertej0622.github.io](https://github.com/Supertej0622/supertej0622.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/Supertej0622/supertej0622.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/Supertej0622/supertej0622.github.io">
 - [MemerGamer/CVE-2025-55182](https://github.com/MemerGamer/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/MemerGamer/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/MemerGamer/CVE-2025-55182">
 - [Sairbo/Unihackers---CVE-2025-55182-](https://github.com/Sairbo/Unihackers---CVE-2025-55182-)	<img alt="forks" src="https://img.shields.io/github/forks/Sairbo/Unihackers---CVE-2025-55182-">	<img alt="stars" src="https://img.shields.io/github/stars/Sairbo/Unihackers---CVE-2025-55182-">
+- [lizimu1518-snow/cve-2025-55182](https://github.com/lizimu1518-snow/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/lizimu1518-snow/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/lizimu1518-snow/cve-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
@@ -3534,7 +3535,7 @@
 ---
 ## CVE-2025-54574 ()
 > 
-- [B1ack4sh/Blackash-CVE-2025-54574](https://github.com/B1ack4sh/Blackash-CVE-2025-54574)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-54574">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-54574">
+- [Ashwesker/Ashwesker-CVE-2025-54574](https://github.com/Ashwesker/Ashwesker-CVE-2025-54574)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2025-54574">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2025-54574">
 - [starrynightsecurity/CVE-2025-54574-Squid-Heap-Buffer-Overflow](https://github.com/starrynightsecurity/CVE-2025-54574-Squid-Heap-Buffer-Overflow)	<img alt="forks" src="https://img.shields.io/github/forks/starrynightsecurity/CVE-2025-54574-Squid-Heap-Buffer-Overflow">	<img alt="stars" src="https://img.shields.io/github/stars/starrynightsecurity/CVE-2025-54574-Squid-Heap-Buffer-Overflow">
 
 ---
