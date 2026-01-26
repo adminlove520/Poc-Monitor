@@ -5577,6 +5577,11 @@
 - [IBO-ATTACKS/CVE-2025-41244](https://github.com/IBO-ATTACKS/CVE-2025-41244)	<img alt="forks" src="https://img.shields.io/github/forks/IBO-ATTACKS/CVE-2025-41244">	<img alt="stars" src="https://img.shields.io/github/stars/IBO-ATTACKS/CVE-2025-41244">
 
 ---
+## CVE-2025-41243 ()
+> 
+- [SFN233/CVE-2025-41243-Vulnerability-Lab](https://github.com/SFN233/CVE-2025-41243-Vulnerability-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/SFN233/CVE-2025-41243-Vulnerability-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/SFN233/CVE-2025-41243-Vulnerability-Lab">
+
+---
 ## CVE-2025-4123 ()
 > 
 - [NightBloodz/CVE-2025-4123](https://github.com/NightBloodz/CVE-2025-4123)	<img alt="forks" src="https://img.shields.io/github/forks/NightBloodz/CVE-2025-4123">	<img alt="stars" src="https://img.shields.io/github/stars/NightBloodz/CVE-2025-4123">
@@ -8717,6 +8722,11 @@
 ## CVE-2025-14857 ()
 > 
 - [Ermensonx/CVE-2025-14857-MongoBleed](https://github.com/Ermensonx/CVE-2025-14857-MongoBleed)	<img alt="forks" src="https://img.shields.io/github/forks/Ermensonx/CVE-2025-14857-MongoBleed">	<img alt="stars" src="https://img.shields.io/github/stars/Ermensonx/CVE-2025-14857-MongoBleed">
+
+---
+## CVE-2025-14855 ()
+> 
+- [ch4r0nn/CVE-2025-14855](https://github.com/ch4r0nn/CVE-2025-14855)	<img alt="forks" src="https://img.shields.io/github/forks/ch4r0nn/CVE-2025-14855">	<img alt="stars" src="https://img.shields.io/github/stars/ch4r0nn/CVE-2025-14855">
 
 ---
 ## CVE-2025-14847 ()
