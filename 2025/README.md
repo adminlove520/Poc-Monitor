@@ -3488,6 +3488,7 @@
 - [Nullsecur1ty/React2shell-RCE-MassScanner](https://github.com/Nullsecur1ty/React2shell-RCE-MassScanner)	<img alt="forks" src="https://img.shields.io/github/forks/Nullsecur1ty/React2shell-RCE-MassScanner">	<img alt="stars" src="https://img.shields.io/github/stars/Nullsecur1ty/React2shell-RCE-MassScanner">
 - [deepankarkumar1/CVE-2025-55182_Vulnerable-Application](https://github.com/deepankarkumar1/CVE-2025-55182_Vulnerable-Application)	<img alt="forks" src="https://img.shields.io/github/forks/deepankarkumar1/CVE-2025-55182_Vulnerable-Application">	<img alt="stars" src="https://img.shields.io/github/stars/deepankarkumar1/CVE-2025-55182_Vulnerable-Application">
 - [wnaspy/CVE-2025-55182](https://github.com/wnaspy/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/wnaspy/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/wnaspy/CVE-2025-55182">
+- [woorifisa-service-dev-6th/tech-seminar-React2Shell](https://github.com/woorifisa-service-dev-6th/tech-seminar-React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/woorifisa-service-dev-6th/tech-seminar-React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/woorifisa-service-dev-6th/tech-seminar-React2Shell">
 
 ---
 ## CVE-2025-55130 ()
@@ -6092,6 +6093,7 @@
 - [uziii2208/CVE-2025-33073](https://github.com/uziii2208/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/uziii2208/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/uziii2208/CVE-2025-33073">
 - [Ashwesker/Ashwesker-CVE-2025-33073](https://github.com/Ashwesker/Ashwesker-CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2025-33073">
 - [Iddygodwin/CVE-2025-33073](https://github.com/Iddygodwin/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/Iddygodwin/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/Iddygodwin/CVE-2025-33073">
+- [irjfifndn-prog/Blackash-CVE-2025-33073](https://github.com/irjfifndn-prog/Blackash-CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/irjfifndn-prog/Blackash-CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/irjfifndn-prog/Blackash-CVE-2025-33073">
 
 ---
 ## CVE-2025-33053 ()
