@@ -307,8 +307,9 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 ---
 ## CVE-2024-8856 (2024-11-16T05:15:00)
 > The Backup and Staging by WP Time Capsule plugin for WordPress is vulnerable to arbitrary file uploads due to missing file type validation in the the UploadHandler.php file and no direct file access prevention in all versions up to, and including, 1.22.21. This makes it possible for unauthenticated attackers to upload arbitrary files on the affected site's server which may make remote code execution possible.
-- [ubaii/CVE-2024-8856](https://github.com/ubaii/CVE-2024-8856)	<img alt="forks" src="https://img.shields.io/github/forks/ubaii/CVE-2024-8856">	<img alt="stars" src="https://img.shields.io/github/stars/ubaii/CVE-2024-8856">
+- [ubaydev/CVE-2024-8856](https://github.com/ubaydev/CVE-2024-8856)	<img alt="forks" src="https://img.shields.io/github/forks/ubaydev/CVE-2024-8856">	<img alt="stars" src="https://img.shields.io/github/stars/ubaydev/CVE-2024-8856">
 - [Jenderal92/CVE-2024-8856](https://github.com/Jenderal92/CVE-2024-8856)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2024-8856">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2024-8856">
+- [Evillm/CVE-2024-8856-PoC](https://github.com/Evillm/CVE-2024-8856-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Evillm/CVE-2024-8856-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Evillm/CVE-2024-8856-PoC">
 
 ---
 ## CVE-2024-8752 (2024-09-16T16:15:00)
@@ -3137,6 +3138,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 > body-parser is Node.js body parsing middleware. body-parser <1.20.3 is vulnerable to denial of service when url encoding is enabled. A malicious actor using a specially crafted payload could flood the server with a large number of requests, resulting in denial of service. This issue is patched in 1.20.3.
 - [AliMilani/CVE-2024-45590](https://github.com/AliMilani/CVE-2024-45590)	<img alt="forks" src="https://img.shields.io/github/forks/AliMilani/CVE-2024-45590">	<img alt="stars" src="https://img.shields.io/github/stars/AliMilani/CVE-2024-45590">
 - [dhruvik-git/CVE-2024-45590](https://github.com/dhruvik-git/CVE-2024-45590)	<img alt="forks" src="https://img.shields.io/github/forks/dhruvik-git/CVE-2024-45590">	<img alt="stars" src="https://img.shields.io/github/stars/dhruvik-git/CVE-2024-45590">
+- [Evillm/CVE-2024-45590-PoC](https://github.com/Evillm/CVE-2024-45590-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Evillm/CVE-2024-45590-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Evillm/CVE-2024-45590-PoC">
 
 ---
 ## CVE-2024-45589 (2024-09-05T16:15:00)
