@@ -499,6 +499,11 @@
 - [DeathShotXD/0xKern3lCrush-Foreverday-BYOVD-CVE-2026-0828](https://github.com/DeathShotXD/0xKern3lCrush-Foreverday-BYOVD-CVE-2026-0828)	<img alt="forks" src="https://img.shields.io/github/forks/DeathShotXD/0xKern3lCrush-Foreverday-BYOVD-CVE-2026-0828">	<img alt="stars" src="https://img.shields.io/github/stars/DeathShotXD/0xKern3lCrush-Foreverday-BYOVD-CVE-2026-0828">
 
 ---
+## CVE-2026-0770 ()
+> 
+- [affix/CVE-2026-0770-PoC](https://github.com/affix/CVE-2026-0770-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/affix/CVE-2026-0770-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/affix/CVE-2026-0770-PoC">
+
+---
 ## CVE-2026-0628 ()
 > 
 - [fevar54/CVE-2026-0628-POC](https://github.com/fevar54/CVE-2026-0628-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-0628-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-0628-POC">
