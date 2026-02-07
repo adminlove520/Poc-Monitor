@@ -285,6 +285,7 @@
 - [ossf-cve-benchmark/CVE-2019-8331](https://github.com/ossf-cve-benchmark/CVE-2019-8331)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2019-8331">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2019-8331">
 - [CQ-Tools/CVE-2019-8331-unfixed](https://github.com/CQ-Tools/CVE-2019-8331-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2019-8331-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2019-8331-unfixed">
 - [CQ-Tools/CVE-2019-8331-fixed](https://github.com/CQ-Tools/CVE-2019-8331-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2019-8331-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2019-8331-fixed">
+- [Yumeae/Bootstrap-with-XSS](https://github.com/Yumeae/Bootstrap-with-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/Yumeae/Bootstrap-with-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/Yumeae/Bootstrap-with-XSS">
 
 ---
 ## CVE-2019-8292 (2019-10-01T20:15:00)
