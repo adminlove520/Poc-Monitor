@@ -532,6 +532,7 @@
 ## CVE-2026-1560 ()
 > 
 - [Z3YR0xX/CVE-2026-1560-Authenticated-Remote-Code-Execution-in-Lazy-Blocks-4.2.0](https://github.com/Z3YR0xX/CVE-2026-1560-Authenticated-Remote-Code-Execution-in-Lazy-Blocks-4.2.0)	<img alt="forks" src="https://img.shields.io/github/forks/Z3YR0xX/CVE-2026-1560-Authenticated-Remote-Code-Execution-in-Lazy-Blocks-4.2.0">	<img alt="stars" src="https://img.shields.io/github/stars/Z3YR0xX/CVE-2026-1560-Authenticated-Remote-Code-Execution-in-Lazy-Blocks-4.2.0">
+- [Z3YR0xX/CVE-2026-1560-Authenticated-Remote-Code-Execution-in-Lazy-Blocks-4.2.0](https://github.com/Z3YR0xX/CVE-2026-1560-Authenticated-Remote-Code-Execution-in-Lazy-Blocks-4.2.0)	<img alt="forks" src="https://img.shields.io/github/forks/Z3YR0xX/CVE-2026-1560-Authenticated-Remote-Code-Execution-in-Lazy-Blocks-4.2.0">	<img alt="stars" src="https://img.shields.io/github/stars/Z3YR0xX/CVE-2026-1560-Authenticated-Remote-Code-Execution-in-Lazy-Blocks-4.2.0">
 
 ---
 ## CVE-2026-1529 ()
