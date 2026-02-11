@@ -460,6 +460,11 @@
 - [PinPin1140/cve-2026-21509](https://github.com/PinPin1140/cve-2026-21509)	<img alt="forks" src="https://img.shields.io/github/forks/PinPin1140/cve-2026-21509">	<img alt="stars" src="https://img.shields.io/github/stars/PinPin1140/cve-2026-21509">
 
 ---
+## CVE-2026-21508 ()
+> 
+- [0xc4r/CVE-2026-21508_POC](https://github.com/0xc4r/CVE-2026-21508_POC)	<img alt="forks" src="https://img.shields.io/github/forks/0xc4r/CVE-2026-21508_POC">	<img alt="stars" src="https://img.shields.io/github/stars/0xc4r/CVE-2026-21508_POC">
+
+---
 ## CVE-2026-21451 ()
 > 
 - [Ashwesker/Ashwesker-CVE-2026-21451](https://github.com/Ashwesker/Ashwesker-CVE-2026-21451)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-21451">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-21451">
@@ -533,6 +538,7 @@
 ## CVE-2026-1731 ()
 > 
 - [z3r0h3ro/CVE-2026-1731-exp](https://github.com/z3r0h3ro/CVE-2026-1731-exp)	<img alt="forks" src="https://img.shields.io/github/forks/z3r0h3ro/CVE-2026-1731-exp">	<img alt="stars" src="https://img.shields.io/github/stars/z3r0h3ro/CVE-2026-1731-exp">
+- [win3zz/CVE-2026-1731](https://github.com/win3zz/CVE-2026-1731)	<img alt="forks" src="https://img.shields.io/github/forks/win3zz/CVE-2026-1731">	<img alt="stars" src="https://img.shields.io/github/stars/win3zz/CVE-2026-1731">
 
 ---
 ## CVE-2026-1560 ()
