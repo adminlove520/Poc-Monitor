@@ -2170,6 +2170,7 @@
 - [MichaelVenturella/CVE-2025-6018-6019-PoC](https://github.com/MichaelVenturella/CVE-2025-6018-6019-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelVenturella/CVE-2025-6018-6019-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelVenturella/CVE-2025-6018-6019-PoC">
 - [0rionCollector/Exploit-Chain-CVE-2025-6018-6019](https://github.com/0rionCollector/Exploit-Chain-CVE-2025-6018-6019)	<img alt="forks" src="https://img.shields.io/github/forks/0rionCollector/Exploit-Chain-CVE-2025-6018-6019">	<img alt="stars" src="https://img.shields.io/github/stars/0rionCollector/Exploit-Chain-CVE-2025-6018-6019">
 - [muyuanlove/CVE-2025-6018-CVE-2025-6019-Privilege-Escalation-Exploit](https://github.com/muyuanlove/CVE-2025-6018-CVE-2025-6019-Privilege-Escalation-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/muyuanlove/CVE-2025-6018-CVE-2025-6019-Privilege-Escalation-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/muyuanlove/CVE-2025-6018-CVE-2025-6019-Privilege-Escalation-Exploit">
+- [boboaung1337/CVE-2025-6019](https://github.com/boboaung1337/CVE-2025-6019)	<img alt="forks" src="https://img.shields.io/github/forks/boboaung1337/CVE-2025-6019">	<img alt="stars" src="https://img.shields.io/github/stars/boboaung1337/CVE-2025-6019">
 
 ---
 ## CVE-2025-60188 ()
