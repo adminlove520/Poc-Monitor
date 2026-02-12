@@ -489,6 +489,7 @@
 - [kaizensecurity/CVE-2026-21509](https://github.com/kaizensecurity/CVE-2026-21509)	<img alt="forks" src="https://img.shields.io/github/forks/kaizensecurity/CVE-2026-21509">	<img alt="stars" src="https://img.shields.io/github/stars/kaizensecurity/CVE-2026-21509">
 - [kimstars/Ashwesker-CVE-2026-21509](https://github.com/kimstars/Ashwesker-CVE-2026-21509)	<img alt="forks" src="https://img.shields.io/github/forks/kimstars/Ashwesker-CVE-2026-21509">	<img alt="stars" src="https://img.shields.io/github/stars/kimstars/Ashwesker-CVE-2026-21509">
 - [PinPin1140/cve-2026-21509](https://github.com/PinPin1140/cve-2026-21509)	<img alt="forks" src="https://img.shields.io/github/forks/PinPin1140/cve-2026-21509">	<img alt="stars" src="https://img.shields.io/github/stars/PinPin1140/cve-2026-21509">
+- [planetoid/cve-2026-21509-mitigation](https://github.com/planetoid/cve-2026-21509-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/planetoid/cve-2026-21509-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/planetoid/cve-2026-21509-mitigation">
 
 ---
 ## CVE-2026-21508 ()
@@ -540,6 +541,7 @@
 - [RajaUzairAbdullah/CVE-2026-20841](https://github.com/RajaUzairAbdullah/CVE-2026-20841)	<img alt="forks" src="https://img.shields.io/github/forks/RajaUzairAbdullah/CVE-2026-20841">	<img alt="stars" src="https://img.shields.io/github/stars/RajaUzairAbdullah/CVE-2026-20841">
 - [tangent65536/CVE-2026-20841](https://github.com/tangent65536/CVE-2026-20841)	<img alt="forks" src="https://img.shields.io/github/forks/tangent65536/CVE-2026-20841">	<img alt="stars" src="https://img.shields.io/github/stars/tangent65536/CVE-2026-20841">
 - [patchpoint/CVE-2026-20841](https://github.com/patchpoint/CVE-2026-20841)	<img alt="forks" src="https://img.shields.io/github/forks/patchpoint/CVE-2026-20841">	<img alt="stars" src="https://img.shields.io/github/stars/patchpoint/CVE-2026-20841">
+- [uky007/CVE-2026-20841_notepad_analysis](https://github.com/uky007/CVE-2026-20841_notepad_analysis)	<img alt="forks" src="https://img.shields.io/github/forks/uky007/CVE-2026-20841_notepad_analysis">	<img alt="stars" src="https://img.shields.io/github/stars/uky007/CVE-2026-20841_notepad_analysis">
 
 ---
 ## CVE-2026-20805 ()
