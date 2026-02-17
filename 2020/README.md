@@ -5107,6 +5107,11 @@
 - [limon768/CVE-2020-11652-POC](https://github.com/limon768/CVE-2020-11652-POC)	<img alt="forks" src="https://img.shields.io/github/forks/limon768/CVE-2020-11652-POC">	<img alt="stars" src="https://img.shields.io/github/stars/limon768/CVE-2020-11652-POC">
 
 ---
+## CVE-2020-11620 ()
+> 
+- [andikahilmy/CVE-2020-11620-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2020-11620-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-11620-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-11620-jackson-databind-vulnerable">
+
+---
 ## CVE-2020-11579 (2020-09-03T18:15:00)
 > An issue was discovered in Chadha PHPKB 9.0 Enterprise Edition. installer/test-connection.php (part of the installation process) allows a remote unauthenticated attacker to disclose local files on hosts running PHP before 7.2.16, or on hosts where the MySQL ALLOW LOCAL DATA INFILE option is enabled.
 - [ShielderSec/CVE-2020-11579](https://github.com/ShielderSec/CVE-2020-11579)	<img alt="forks" src="https://img.shields.io/github/forks/ShielderSec/CVE-2020-11579">	<img alt="stars" src="https://img.shields.io/github/stars/ShielderSec/CVE-2020-11579">
