@@ -67,6 +67,7 @@
 > 
 - [shoucheng3/perwendel__spark_CVE-2018-9159_2-7-1](https://github.com/shoucheng3/perwendel__spark_CVE-2018-9159_2-7-1)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/perwendel__spark_CVE-2018-9159_2-7-1">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/perwendel__spark_CVE-2018-9159_2-7-1">
 - [shoucheng3/perwendel__spark_CVE-2018-9159_2_7_2_fixed](https://github.com/shoucheng3/perwendel__spark_CVE-2018-9159_2_7_2_fixed)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/perwendel__spark_CVE-2018-9159_2_7_2_fixed">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/perwendel__spark_CVE-2018-9159_2_7_2_fixed">
+- [andikahilmy/CVE-2018-9159-perwendel-spark-vulnerable](https://github.com/andikahilmy/CVE-2018-9159-perwendel-spark-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-9159-perwendel-spark-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-9159-perwendel-spark-vulnerable">
 
 ---
 ## CVE-2018-9035 ()
@@ -463,6 +464,11 @@
 - [austinhartzheim/fusee-gelee](https://github.com/austinhartzheim/fusee-gelee)	<img alt="forks" src="https://img.shields.io/github/forks/austinhartzheim/fusee-gelee">	<img alt="stars" src="https://img.shields.io/github/stars/austinhartzheim/fusee-gelee">
 - [DavidBuchanan314/NXLoader](https://github.com/DavidBuchanan314/NXLoader)	<img alt="forks" src="https://img.shields.io/github/forks/DavidBuchanan314/NXLoader">	<img alt="stars" src="https://img.shields.io/github/stars/DavidBuchanan314/NXLoader">
 - [reswitched/rcm-modchips](https://github.com/reswitched/rcm-modchips)	<img alt="forks" src="https://img.shields.io/github/forks/reswitched/rcm-modchips">	<img alt="stars" src="https://img.shields.io/github/stars/reswitched/rcm-modchips">
+
+---
+## CVE-2018-5968 ()
+> 
+- [andikahilmy/CVE-2018-5968-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2018-5968-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-5968-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-5968-jackson-databind-vulnerable">
 
 ---
 ## CVE-2018-5955 (2018-01-21T22:29:00)
@@ -915,6 +921,11 @@
 ## CVE-2018-20463 (2018-12-25T21:29:00)
 > An issue was discovered in the JSmol2WP plugin 1.07 for WordPress. There is an arbitrary file read vulnerability via ../ directory traversal in query=php://filter/resource= in the jsmol.php query string. This can also be used for SSRF.
 - [Henry4E36/CVE-2018-20463](https://github.com/Henry4E36/CVE-2018-20463)	<img alt="forks" src="https://img.shields.io/github/forks/Henry4E36/CVE-2018-20463">	<img alt="stars" src="https://img.shields.io/github/stars/Henry4E36/CVE-2018-20463">
+
+---
+## CVE-2018-20318 ()
+> 
+- [andikahilmy/CVE-2018-20318-weixin-java-tools-vulnerable](https://github.com/andikahilmy/CVE-2018-20318-weixin-java-tools-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-20318-weixin-java-tools-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-20318-weixin-java-tools-vulnerable">
 
 ---
 ## CVE-2018-20250 (2019-02-05T20:29:00)
@@ -1522,6 +1533,11 @@
 - [tausifzaman/CVE-2018-14847](https://github.com/tausifzaman/CVE-2018-14847)	<img alt="forks" src="https://img.shields.io/github/forks/tausifzaman/CVE-2018-14847">	<img alt="stars" src="https://img.shields.io/github/stars/tausifzaman/CVE-2018-14847">
 
 ---
+## CVE-2018-14721 ()
+> 
+- [andikahilmy/CVE-2018-14721-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2018-14721-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-14721-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-14721-jackson-databind-vulnerable">
+
+---
 ## CVE-2018-14719 ()
 > 
 - [andikahilmy/CVE-2018-14719-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2018-14719-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-14719-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-14719-jackson-databind-vulnerable">
@@ -1679,6 +1695,7 @@
 > 
 - [Imsol0/APACHE-CVE-2018-1306-Lab-project](https://github.com/Imsol0/APACHE-CVE-2018-1306-Lab-project)	<img alt="forks" src="https://img.shields.io/github/forks/Imsol0/APACHE-CVE-2018-1306-Lab-project">	<img alt="stars" src="https://img.shields.io/github/stars/Imsol0/APACHE-CVE-2018-1306-Lab-project">
 - [JJSO12/Apache-Pluto-3.0.0--CVE-2018-1306](https://github.com/JJSO12/Apache-Pluto-3.0.0--CVE-2018-1306)	<img alt="forks" src="https://img.shields.io/github/forks/JJSO12/Apache-Pluto-3.0.0--CVE-2018-1306">	<img alt="stars" src="https://img.shields.io/github/stars/JJSO12/Apache-Pluto-3.0.0--CVE-2018-1306">
+- [andikahilmy/CVE-2018-1306-portals-pluto-vulnerable](https://github.com/andikahilmy/CVE-2018-1306-portals-pluto-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-1306-portals-pluto-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-1306-portals-pluto-vulnerable">
 
 ---
 ## CVE-2018-1297 (2018-02-13T12:29:00)
