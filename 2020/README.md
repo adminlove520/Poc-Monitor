@@ -1500,11 +1500,14 @@
 > FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to org.apache.commons.dbcp2.cpdsadapter.DriverAdapterCPDS.
 - [Live-Hack-CVE/CVE-2020-36180](https://github.com/Live-Hack-CVE/CVE-2020-36180)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36180">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36180">
 - [cuijiung/jackson-CVE-2020-36180](https://github.com/cuijiung/jackson-CVE-2020-36180)	<img alt="forks" src="https://img.shields.io/github/forks/cuijiung/jackson-CVE-2020-36180">	<img alt="stars" src="https://img.shields.io/github/stars/cuijiung/jackson-CVE-2020-36180">
+- [andikahilmy/CVE-2020-36180-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2020-36180-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-36180-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-36180-jackson-databind-vulnerable">
 
 ---
 ## CVE-2020-36179 (2021-01-07T00:15:00)
 > FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to oadd.org.apache.commons.dbcp.cpdsadapter.DriverAdapterCPDS.
 - [Live-Hack-CVE/CVE-2020-36179](https://github.com/Live-Hack-CVE/CVE-2020-36179)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36179">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36179">
+- [andikahilmy/CVE-2020-36179-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2020-36179-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-36179-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-36179-jackson-databind-vulnerable">
+- [Al1ex/CVE-2020-36179](https://github.com/Al1ex/CVE-2020-36179)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/CVE-2020-36179">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/CVE-2020-36179">
 
 ---
 ## CVE-2020-36109 (2021-02-01T14:15:00)
@@ -2663,6 +2666,7 @@
 - [cuijiung/xstream-CVE-2020-26259](https://github.com/cuijiung/xstream-CVE-2020-26259)	<img alt="forks" src="https://img.shields.io/github/forks/cuijiung/xstream-CVE-2020-26259">	<img alt="stars" src="https://img.shields.io/github/stars/cuijiung/xstream-CVE-2020-26259">
 - [Al1ex/CVE-2020-26259](https://github.com/Al1ex/CVE-2020-26259)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/CVE-2020-26259">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/CVE-2020-26259">
 - [jas502n/CVE-2020-26259](https://github.com/jas502n/CVE-2020-26259)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2020-26259">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2020-26259">
+- [andikahilmy/CVE-2020-26259-xstream-vulnerable](https://github.com/andikahilmy/CVE-2020-26259-xstream-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-26259-xstream-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-26259-xstream-vulnerable">
 
 ---
 ## CVE-2020-26258 ()
@@ -3142,6 +3146,11 @@
 ## CVE-2020-24642 (2023-01-06T16:15:00)
 > CVE was unused by HPE.
 - [Live-Hack-CVE/CVE-2020-24642](https://github.com/Live-Hack-CVE/CVE-2020-24642)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24642">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24642">
+
+---
+## CVE-2020-24616 ()
+> 
+- [andikahilmy/CVE-2020-24616-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2020-24616-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-24616-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-24616-jackson-databind-vulnerable">
 
 ---
 ## CVE-2020-24609 (2020-08-25T15:15:00)
@@ -4534,6 +4543,11 @@
 - [andikahilmy/CVE-2020-14061-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2020-14061-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-14061-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-14061-jackson-databind-vulnerable">
 
 ---
+## CVE-2020-14060 ()
+> 
+- [andikahilmy/CVE-2020-14060-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2020-14060-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-14060-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-14060-jackson-databind-vulnerable">
+
+---
 ## CVE-2020-14044 (2020-08-24T16:15:00)
 > ** PRODUCT NOT SUPPORTED WHEN ASSIGNED ** A Server-Side Request Forgery (SSRF) vulnerability was found in Codiad v1.7.8 and later. A user with admin privileges could use the plugin install feature to make the server request any URL via components/market/class.market.php. This could potentially result in remote code execution. NOTE: the vendor states "Codiad is no longer under active maintenance by core contributors."
 - [Live-Hack-CVE/CVE-2020-14044](https://github.com/Live-Hack-CVE/CVE-2020-14044)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14044">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14044">
@@ -4573,6 +4587,11 @@
 ## CVE-2020-13963 (2021-03-21T21:15:00)
 > SOPlanning before 1.47 has Incorrect Access Control because certain secret key information, and the related authentication algorithm, is public. The key for admin is hardcoded in the installation code, and there is no key for publicsp (which is a guest account).
 - [Live-Hack-CVE/CVE-2020-13963](https://github.com/Live-Hack-CVE/CVE-2020-13963)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13963">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13963">
+
+---
+## CVE-2020-13959 ()
+> 
+- [andikahilmy/CVE-2020-13959-velocity-tools-vulnerable](https://github.com/andikahilmy/CVE-2020-13959-velocity-tools-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-13959-velocity-tools-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-13959-velocity-tools-vulnerable">
 
 ---
 ## CVE-2020-13958 (2020-11-17T16:15:00)
@@ -5169,6 +5188,11 @@
 ## CVE-2020-11015 (2020-04-30T18:15:00)
 > A vulnerability has been disclosed in thinx-device-api IoT Device Management Server before version 2.5.0. Device MAC address can be spoofed. This means initial registration requests without UDID and spoofed MAC address may pass to create new UDID with same MAC address. Full impact needs to be reviewed further. Applies to all (mostly ESP8266/ESP32) users. This has been fixed in firmware version 2.5.0.
 - [Live-Hack-CVE/CVE-2020-11015](https://github.com/Live-Hack-CVE/CVE-2020-11015)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-11015">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-11015">
+
+---
+## CVE-2020-10969 ()
+> 
+- [andikahilmy/CVE-2020-10969-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2020-10969-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-10969-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-10969-jackson-databind-vulnerable">
 
 ---
 ## CVE-2020-10968 ()

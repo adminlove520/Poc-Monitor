@@ -279,6 +279,11 @@
 - [Live-Hack-CVE/CVE-2017-7605](https://github.com/Live-Hack-CVE/CVE-2017-7605)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-7605">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-7605">
 
 ---
+## CVE-2017-7559 ()
+> 
+- [andikahilmy/CVE-2017-7559-undertow-vulnerable](https://github.com/andikahilmy/CVE-2017-7559-undertow-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2017-7559-undertow-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2017-7559-undertow-vulnerable">
+
+---
 ## CVE-2017-7529 (2017-07-13T13:29:00)
 > Nginx versions since 0.5.6 up to and including 1.13.2 are vulnerable to integer overflow vulnerability in nginx range filter module resulting into leak of potentially sensitive information triggered by specially crafted request.
 - [Shehzadcyber/CVE-2017-7529](https://github.com/Shehzadcyber/CVE-2017-7529)	<img alt="forks" src="https://img.shields.io/github/forks/Shehzadcyber/CVE-2017-7529">	<img alt="stars" src="https://img.shields.io/github/stars/Shehzadcyber/CVE-2017-7529">
@@ -765,6 +770,11 @@
 - [BaderSZ/CVE-2017-2751](https://github.com/BaderSZ/CVE-2017-2751)	<img alt="forks" src="https://img.shields.io/github/forks/BaderSZ/CVE-2017-2751">	<img alt="stars" src="https://img.shields.io/github/stars/BaderSZ/CVE-2017-2751">
 
 ---
+## CVE-2017-2666 ()
+> 
+- [andikahilmy/CVE-2017-2666-undertow-vulnerable](https://github.com/andikahilmy/CVE-2017-2666-undertow-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2017-2666-undertow-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2017-2666-undertow-vulnerable">
+
+---
 ## CVE-2017-2649 ()
 > 
 - [andikahilmy/CVE-2017-2649-active-directory-plugin-vulnerable](https://github.com/andikahilmy/CVE-2017-2649-active-directory-plugin-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2017-2649-active-directory-plugin-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2017-2649-active-directory-plugin-vulnerable">
@@ -1125,6 +1135,11 @@
 ## CVE-2017-15896 (2017-12-11T21:29:00)
 > Node.js was affected by OpenSSL vulnerability CVE-2017-3737 in regards to the use of SSL_read() due to TLS handshake failure. The result was that an active network attacker could send application data to Node.js using the TLS or HTTP2 modules in a way that bypassed TLS authentication and encryption.
 - [Live-Hack-CVE/CVE-2017-15896](https://github.com/Live-Hack-CVE/CVE-2017-15896)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-15896">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-15896">
+
+---
+## CVE-2017-15717 ()
+> 
+- [andikahilmy/CVE-2017-15717-sling-org-apache-sling-xss-vulnerable](https://github.com/andikahilmy/CVE-2017-15717-sling-org-apache-sling-xss-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2017-15717-sling-org-apache-sling-xss-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2017-15717-sling-org-apache-sling-xss-vulnerable">
 
 ---
 ## CVE-2017-15428 (2019-01-09T19:29:00)
@@ -1708,6 +1723,7 @@
 ## CVE-2017-1000487 ()
 > 
 - [shoucheng3/codehaus-plexus__plexus-utils_CVE-2017-1000487_3-0-15](https://github.com/shoucheng3/codehaus-plexus__plexus-utils_CVE-2017-1000487_3-0-15)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/codehaus-plexus__plexus-utils_CVE-2017-1000487_3-0-15">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/codehaus-plexus__plexus-utils_CVE-2017-1000487_3-0-15">
+- [andikahilmy/CVE-2017-1000487-plexus-utils-vulnerable](https://github.com/andikahilmy/CVE-2017-1000487-plexus-utils-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2017-1000487-plexus-utils-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2017-1000487-plexus-utils-vulnerable">
 
 ---
 ## CVE-2017-1000486 (2018-01-03T20:29:00)
