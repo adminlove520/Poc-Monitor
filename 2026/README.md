@@ -50,6 +50,7 @@
 ## CVE-2026-26012 ()
 > 
 - [Dulieno/CVE-2026-26012](https://github.com/Dulieno/CVE-2026-26012)	<img alt="forks" src="https://img.shields.io/github/forks/Dulieno/CVE-2026-26012">	<img alt="stars" src="https://img.shields.io/github/stars/Dulieno/CVE-2026-26012">
+- [diegobaelen/CVE-2026-26012](https://github.com/diegobaelen/CVE-2026-26012)	<img alt="forks" src="https://img.shields.io/github/forks/diegobaelen/CVE-2026-26012">	<img alt="stars" src="https://img.shields.io/github/stars/diegobaelen/CVE-2026-26012">
 
 ---
 ## CVE-2026-25961 ()
@@ -211,6 +212,7 @@
 ## CVE-2026-2441 ()
 > 
 - [b1gchoi/CVE-2026-2441_POC](https://github.com/b1gchoi/CVE-2026-2441_POC)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2026-2441_POC">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2026-2441_POC">
+- [huseyinstif/CVE-2026-2441-PoC](https://github.com/huseyinstif/CVE-2026-2441-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/huseyinstif/CVE-2026-2441-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/huseyinstif/CVE-2026-2441-PoC">
 
 ---
 ## CVE-2026-24306 ()
