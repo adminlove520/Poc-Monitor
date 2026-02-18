@@ -19,6 +19,7 @@
 - [openexecution-coder/demo-cve-2026-4821](https://github.com/openexecution-coder/demo-cve-2026-4821)	<img alt="forks" src="https://img.shields.io/github/forks/openexecution-coder/demo-cve-2026-4821">	<img alt="stars" src="https://img.shields.io/github/stars/openexecution-coder/demo-cve-2026-4821">
 - [openexecution-coder/demo-cve-2026-4821](https://github.com/openexecution-coder/demo-cve-2026-4821)	<img alt="forks" src="https://img.shields.io/github/forks/openexecution-coder/demo-cve-2026-4821">	<img alt="stars" src="https://img.shields.io/github/stars/openexecution-coder/demo-cve-2026-4821">
 - [openexecution-coder/demo-cve-2026-4821](https://github.com/openexecution-coder/demo-cve-2026-4821)	<img alt="forks" src="https://img.shields.io/github/forks/openexecution-coder/demo-cve-2026-4821">	<img alt="stars" src="https://img.shields.io/github/stars/openexecution-coder/demo-cve-2026-4821">
+- [openexecution-coder/demo-cve-2026-4821](https://github.com/openexecution-coder/demo-cve-2026-4821)	<img alt="forks" src="https://img.shields.io/github/forks/openexecution-coder/demo-cve-2026-4821">	<img alt="stars" src="https://img.shields.io/github/stars/openexecution-coder/demo-cve-2026-4821">
 
 ---
 ## CVE-2026-3098 ()
@@ -351,6 +352,7 @@
 - [buzz075/CVE-2026-24061](https://github.com/buzz075/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/buzz075/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/buzz075/CVE-2026-24061">
 - [0xXyc/telnet-inetutils-auth-bypass-CVE-2026-24061](https://github.com/0xXyc/telnet-inetutils-auth-bypass-CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/0xXyc/telnet-inetutils-auth-bypass-CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/0xXyc/telnet-inetutils-auth-bypass-CVE-2026-24061">
 - [tiborscholtz/CVE-2026-24061](https://github.com/tiborscholtz/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/tiborscholtz/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/tiborscholtz/CVE-2026-24061">
+- [mbanyamer/CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-](https://github.com/mbanyamer/CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-">
 
 ---
 ## CVE-2026-2395 ()

@@ -5494,6 +5494,9 @@
 - [AzureADTrent/CVE-2025-4517-POC-HTB-WingData](https://github.com/AzureADTrent/CVE-2025-4517-POC-HTB-WingData)	<img alt="forks" src="https://img.shields.io/github/forks/AzureADTrent/CVE-2025-4517-POC-HTB-WingData">	<img alt="stars" src="https://img.shields.io/github/stars/AzureADTrent/CVE-2025-4517-POC-HTB-WingData">
 - [Rohitberiwala/PyPath-Escape-CVE-2025-4517-Exploit-Research](https://github.com/Rohitberiwala/PyPath-Escape-CVE-2025-4517-Exploit-Research)	<img alt="forks" src="https://img.shields.io/github/forks/Rohitberiwala/PyPath-Escape-CVE-2025-4517-Exploit-Research">	<img alt="stars" src="https://img.shields.io/github/stars/Rohitberiwala/PyPath-Escape-CVE-2025-4517-Exploit-Research">
 - [UmbraDeorum/CVE-2025-4517-PoC](https://github.com/UmbraDeorum/CVE-2025-4517-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/UmbraDeorum/CVE-2025-4517-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/UmbraDeorum/CVE-2025-4517-PoC">
+- [bgutowski/CVE-2025-4517-POC-Sudoers](https://github.com/bgutowski/CVE-2025-4517-POC-Sudoers)	<img alt="forks" src="https://img.shields.io/github/forks/bgutowski/CVE-2025-4517-POC-Sudoers">	<img alt="stars" src="https://img.shields.io/github/stars/bgutowski/CVE-2025-4517-POC-Sudoers">
+- [kerburenthusiasm/CVE-2025-4517-PoC](https://github.com/kerburenthusiasm/CVE-2025-4517-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/kerburenthusiasm/CVE-2025-4517-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/kerburenthusiasm/CVE-2025-4517-PoC">
+- [kyakei/CVE-2025-4138-poc](https://github.com/kyakei/CVE-2025-4138-poc)	<img alt="forks" src="https://img.shields.io/github/forks/kyakei/CVE-2025-4138-poc">	<img alt="stars" src="https://img.shields.io/github/stars/kyakei/CVE-2025-4138-poc">
 
 ---
 ## CVE-2025-45072 ()
