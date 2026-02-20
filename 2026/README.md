@@ -267,6 +267,7 @@
 - [jermaine22sei/CVE-2026-2441-exp](https://github.com/jermaine22sei/CVE-2026-2441-exp)	<img alt="forks" src="https://img.shields.io/github/forks/jermaine22sei/CVE-2026-2441-exp">	<img alt="stars" src="https://img.shields.io/github/stars/jermaine22sei/CVE-2026-2441-exp">
 - [jermaine22sei/CVE-2026-2441](https://github.com/jermaine22sei/CVE-2026-2441)	<img alt="forks" src="https://img.shields.io/github/forks/jermaine22sei/CVE-2026-2441">	<img alt="stars" src="https://img.shields.io/github/stars/jermaine22sei/CVE-2026-2441">
 - [theemperorspath/CVE-2026-2441-PoC](https://github.com/theemperorspath/CVE-2026-2441-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/theemperorspath/CVE-2026-2441-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/theemperorspath/CVE-2026-2441-PoC">
+- [RootAid/CVE-2026-2441](https://github.com/RootAid/CVE-2026-2441)	<img alt="forks" src="https://img.shields.io/github/forks/RootAid/CVE-2026-2441">	<img alt="stars" src="https://img.shields.io/github/stars/RootAid/CVE-2026-2441">
 
 ---
 ## CVE-2026-24306 ()
@@ -619,6 +620,7 @@
 - [Pairs34/RDPVulnarableCheck](https://github.com/Pairs34/RDPVulnarableCheck)	<img alt="forks" src="https://img.shields.io/github/forks/Pairs34/RDPVulnarableCheck">	<img alt="stars" src="https://img.shields.io/github/stars/Pairs34/RDPVulnarableCheck">
 - [elvin31thai/CVE-2026-21533](https://github.com/elvin31thai/CVE-2026-21533)	<img alt="forks" src="https://img.shields.io/github/forks/elvin31thai/CVE-2026-21533">	<img alt="stars" src="https://img.shields.io/github/stars/elvin31thai/CVE-2026-21533">
 - [jenniferreire26/CVE-2026-21533](https://github.com/jenniferreire26/CVE-2026-21533)	<img alt="forks" src="https://img.shields.io/github/forks/jenniferreire26/CVE-2026-21533">	<img alt="stars" src="https://img.shields.io/github/stars/jenniferreire26/CVE-2026-21533">
+- [washingtonmaister/CVE-2026-21533](https://github.com/washingtonmaister/CVE-2026-21533)	<img alt="forks" src="https://img.shields.io/github/forks/washingtonmaister/CVE-2026-21533">	<img alt="stars" src="https://img.shields.io/github/stars/washingtonmaister/CVE-2026-21533">
 
 ---
 ## CVE-2026-21531 ()
