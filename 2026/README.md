@@ -42,6 +42,11 @@
 - [lorenzobruno7/CVE-2026-26744](https://github.com/lorenzobruno7/CVE-2026-26744)	<img alt="forks" src="https://img.shields.io/github/forks/lorenzobruno7/CVE-2026-26744">	<img alt="stars" src="https://img.shields.io/github/stars/lorenzobruno7/CVE-2026-26744">
 
 ---
+## CVE-2026-2670 ()
+> 
+- [ali-py3/exploi-CVE-2026-2670](https://github.com/ali-py3/exploi-CVE-2026-2670)	<img alt="forks" src="https://img.shields.io/github/forks/ali-py3/exploi-CVE-2026-2670">	<img alt="stars" src="https://img.shields.io/github/stars/ali-py3/exploi-CVE-2026-2670">
+
+---
 ## CVE-2026-26335 ()
 > 
 - [mbanyamer/CVE-2026-26335-Calero-VeraSMART-RCE](https://github.com/mbanyamer/CVE-2026-26335-Calero-VeraSMART-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-26335-Calero-VeraSMART-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-26335-Calero-VeraSMART-RCE">
@@ -222,6 +227,11 @@
 ## CVE-2026-2461 ()
 > 
 - [destiny-creates/CVE-2026-2461-poc](https://github.com/destiny-creates/CVE-2026-2461-poc)	<img alt="forks" src="https://img.shields.io/github/forks/destiny-creates/CVE-2026-2461-poc">	<img alt="stars" src="https://img.shields.io/github/stars/destiny-creates/CVE-2026-2461-poc">
+
+---
+## CVE-2026-24514 ()
+> 
+- [mbanyamer/cve-2026-24514-Kubernetes-Dos](https://github.com/mbanyamer/cve-2026-24514-Kubernetes-Dos)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/cve-2026-24514-Kubernetes-Dos">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/cve-2026-24514-Kubernetes-Dos">
 
 ---
 ## CVE-2026-24423 ()
