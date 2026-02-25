@@ -1142,6 +1142,11 @@
 - [andikahilmy/CVE-2017-15717-sling-org-apache-sling-xss-vulnerable](https://github.com/andikahilmy/CVE-2017-15717-sling-org-apache-sling-xss-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2017-15717-sling-org-apache-sling-xss-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2017-15717-sling-org-apache-sling-xss-vulnerable">
 
 ---
+## CVE-2017-15700 ()
+> 
+- [andikahilmy/CVE-2017-15700-sling-org-apache-sling-auth-core-vulnerable](https://github.com/andikahilmy/CVE-2017-15700-sling-org-apache-sling-auth-core-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2017-15700-sling-org-apache-sling-auth-core-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2017-15700-sling-org-apache-sling-auth-core-vulnerable">
+
+---
 ## CVE-2017-15428 (2019-01-09T19:29:00)
 > Insufficient data validation in V8 builtins string generator could lead to out of bounds read and write access in V8 in Google Chrome prior to 62.0.3202.94 and allowed a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page.
 - [Michelangelo-S/CVE-2017-15428](https://github.com/Michelangelo-S/CVE-2017-15428)	<img alt="forks" src="https://img.shields.io/github/forks/Michelangelo-S/CVE-2017-15428">	<img alt="stars" src="https://img.shields.io/github/stars/Michelangelo-S/CVE-2017-15428">
