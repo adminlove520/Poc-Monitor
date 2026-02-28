@@ -9314,7 +9314,7 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 - [Sk3pper/CVE-2024-21626-old-docker-versions](https://github.com/Sk3pper/CVE-2024-21626-old-docker-versions)	<img alt="forks" src="https://img.shields.io/github/forks/Sk3pper/CVE-2024-21626-old-docker-versions">	<img alt="stars" src="https://img.shields.io/github/stars/Sk3pper/CVE-2024-21626-old-docker-versions">
 - [adaammmeeee/little-joke](https://github.com/adaammmeeee/little-joke)	<img alt="forks" src="https://img.shields.io/github/forks/adaammmeeee/little-joke">	<img alt="stars" src="https://img.shields.io/github/stars/adaammmeeee/little-joke">
 - [R4mbb/CVE-2024-21626-PoC](https://github.com/R4mbb/CVE-2024-21626-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/R4mbb/CVE-2024-21626-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/R4mbb/CVE-2024-21626-PoC">
-- [strikoder/cve-2024-21626-runc-escape](https://github.com/strikoder/cve-2024-21626-runc-escape)	<img alt="forks" src="https://img.shields.io/github/forks/strikoder/cve-2024-21626-runc-escape">	<img alt="stars" src="https://img.shields.io/github/stars/strikoder/cve-2024-21626-runc-escape">
+- [strikoder/cve-2024-21626-runc-1.1.11-escape](https://github.com/strikoder/cve-2024-21626-runc-1.1.11-escape)	<img alt="forks" src="https://img.shields.io/github/forks/strikoder/cve-2024-21626-runc-1.1.11-escape">	<img alt="stars" src="https://img.shields.io/github/stars/strikoder/cve-2024-21626-runc-1.1.11-escape">
 
 ---
 ## CVE-2024-21591 (2024-01-12T01:15:00)
