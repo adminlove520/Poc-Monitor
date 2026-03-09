@@ -628,6 +628,7 @@
 - [tiborscholtz/CVE-2026-24061](https://github.com/tiborscholtz/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/tiborscholtz/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/tiborscholtz/CVE-2026-24061">
 - [mbanyamer/CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-](https://github.com/mbanyamer/CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-">
 - [Remnant-DB/CVE-2026-24061](https://github.com/Remnant-DB/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/Remnant-DB/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/Remnant-DB/CVE-2026-24061">
+- [0xAshwesker/CVE-2026-24061](https://github.com/0xAshwesker/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/0xAshwesker/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/0xAshwesker/CVE-2026-24061">
 
 ---
 ## CVE-2026-2402 ()
@@ -883,6 +884,7 @@
 - [jenniferreire26/CVE-2026-21533](https://github.com/jenniferreire26/CVE-2026-21533)	<img alt="forks" src="https://img.shields.io/github/forks/jenniferreire26/CVE-2026-21533">	<img alt="stars" src="https://img.shields.io/github/stars/jenniferreire26/CVE-2026-21533">
 - [washingtonmaister/CVE-2026-21533](https://github.com/washingtonmaister/CVE-2026-21533)	<img alt="forks" src="https://img.shields.io/github/forks/washingtonmaister/CVE-2026-21533">	<img alt="stars" src="https://img.shields.io/github/stars/washingtonmaister/CVE-2026-21533">
 - [richardpaimu34/CVE-2026-21533](https://github.com/richardpaimu34/CVE-2026-21533)	<img alt="forks" src="https://img.shields.io/github/forks/richardpaimu34/CVE-2026-21533">	<img alt="stars" src="https://img.shields.io/github/stars/richardpaimu34/CVE-2026-21533">
+- [fevar54/CVE-2026-21533_Scanner.py](https://github.com/fevar54/CVE-2026-21533_Scanner.py)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-21533_Scanner.py">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-21533_Scanner.py">
 
 ---
 ## CVE-2026-21531 ()
