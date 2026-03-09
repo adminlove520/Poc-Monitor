@@ -1170,6 +1170,7 @@
 ## CVE-2017-15220 ()
 > 
 - [vasilerevnic/CVE-2017-15220-vxsearch-rce](https://github.com/vasilerevnic/CVE-2017-15220-vxsearch-rce)	<img alt="forks" src="https://img.shields.io/github/forks/vasilerevnic/CVE-2017-15220-vxsearch-rce">	<img alt="stars" src="https://img.shields.io/github/stars/vasilerevnic/CVE-2017-15220-vxsearch-rce">
+- [vasilerevnic/CVE-2017-15220-vxsearch-rce](https://github.com/vasilerevnic/CVE-2017-15220-vxsearch-rce)	<img alt="forks" src="https://img.shields.io/github/forks/vasilerevnic/CVE-2017-15220-vxsearch-rce">	<img alt="stars" src="https://img.shields.io/github/stars/vasilerevnic/CVE-2017-15220-vxsearch-rce">
 
 ---
 ## CVE-2017-15108 (2018-01-20T00:29:00)
