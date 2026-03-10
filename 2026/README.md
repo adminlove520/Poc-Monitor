@@ -1225,6 +1225,11 @@
 - [blackhatlegend/CVE-2026-0745](https://github.com/blackhatlegend/CVE-2026-0745)	<img alt="forks" src="https://img.shields.io/github/forks/blackhatlegend/CVE-2026-0745">	<img alt="stars" src="https://img.shields.io/github/stars/blackhatlegend/CVE-2026-0745">
 
 ---
+## CVE-2026-0730 ()
+> 
+- [rsecroot/CVE-2026-0730](https://github.com/rsecroot/CVE-2026-0730)	<img alt="forks" src="https://img.shields.io/github/forks/rsecroot/CVE-2026-0730">	<img alt="stars" src="https://img.shields.io/github/stars/rsecroot/CVE-2026-0730">
+
+---
 ## CVE-2026-0709 ()
 > 
 - [SnipersMaster/CVE-2026-0709](https://github.com/SnipersMaster/CVE-2026-0709)	<img alt="forks" src="https://img.shields.io/github/forks/SnipersMaster/CVE-2026-0709">	<img alt="stars" src="https://img.shields.io/github/stars/SnipersMaster/CVE-2026-0709">
