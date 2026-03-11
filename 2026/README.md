@@ -64,6 +64,11 @@
 - [George0Papasotiriou/LLM-Jailbreak-via-Chain-of-Logic-Injection-CVE-2026-3098](https://github.com/George0Papasotiriou/LLM-Jailbreak-via-Chain-of-Logic-Injection-CVE-2026-3098)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/LLM-Jailbreak-via-Chain-of-Logic-Injection-CVE-2026-3098">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/LLM-Jailbreak-via-Chain-of-Logic-Injection-CVE-2026-3098">
 
 ---
+## CVE-2026-30944 ()
+> 
+- [FilipeGaudard/CVE-2026-30944-PoC](https://github.com/FilipeGaudard/CVE-2026-30944-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/FilipeGaudard/CVE-2026-30944-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/FilipeGaudard/CVE-2026-30944-PoC">
+
+---
 ## CVE-2026-30863 ()
 > 
 - [Worthes/CVE-2026-30863-Exploit](https://github.com/Worthes/CVE-2026-30863-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Worthes/CVE-2026-30863-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Worthes/CVE-2026-30863-Exploit">
@@ -1048,6 +1053,7 @@
 > 
 - [Sushilsin/CVE-2026-20131](https://github.com/Sushilsin/CVE-2026-20131)	<img alt="forks" src="https://img.shields.io/github/forks/Sushilsin/CVE-2026-20131">	<img alt="stars" src="https://img.shields.io/github/stars/Sushilsin/CVE-2026-20131">
 - [p3Nt3st3r-sTAr/CVE-2026-20131-POC](https://github.com/p3Nt3st3r-sTAr/CVE-2026-20131-POC)	<img alt="forks" src="https://img.shields.io/github/forks/p3Nt3st3r-sTAr/CVE-2026-20131-POC">	<img alt="stars" src="https://img.shields.io/github/stars/p3Nt3st3r-sTAr/CVE-2026-20131-POC">
+- [sak110/CVE-2026-20131](https://github.com/sak110/CVE-2026-20131)	<img alt="forks" src="https://img.shields.io/github/forks/sak110/CVE-2026-20131">	<img alt="stars" src="https://img.shields.io/github/stars/sak110/CVE-2026-20131">
 
 ---
 ## CVE-2026-20127 ()
