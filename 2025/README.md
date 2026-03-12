@@ -3139,6 +3139,7 @@
 ## CVE-2025-5548 ()
 > 
 - [TheMalwareGuardian/CVE-2025-5548](https://github.com/TheMalwareGuardian/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2025-5548">
+- [alanschmidt81/CVE-2025-5548](https://github.com/alanschmidt81/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/alanschmidt81/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/alanschmidt81/CVE-2025-5548">
 
 ---
 ## CVE-2025-55462 ()
@@ -4009,6 +4010,7 @@
 - [z0d131482700x/Livewire2025CVE](https://github.com/z0d131482700x/Livewire2025CVE)	<img alt="forks" src="https://img.shields.io/github/forks/z0d131482700x/Livewire2025CVE">	<img alt="stars" src="https://img.shields.io/github/stars/z0d131482700x/Livewire2025CVE">
 - [synacktiv/Livepyre](https://github.com/synacktiv/Livepyre)	<img alt="forks" src="https://img.shields.io/github/forks/synacktiv/Livepyre">	<img alt="stars" src="https://img.shields.io/github/stars/synacktiv/Livepyre">
 - [haxorstars/CVE-2025-54068](https://github.com/haxorstars/CVE-2025-54068)	<img alt="forks" src="https://img.shields.io/github/forks/haxorstars/CVE-2025-54068">	<img alt="stars" src="https://img.shields.io/github/stars/haxorstars/CVE-2025-54068">
+- [Jenderal92/livewire-vuln-scanner](https://github.com/Jenderal92/livewire-vuln-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/livewire-vuln-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/livewire-vuln-scanner">
 
 ---
 ## CVE-2025-53964 ()
