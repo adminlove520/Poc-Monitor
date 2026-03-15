@@ -3179,6 +3179,7 @@
 - [celiagomezserra/CVE-2025-5548](https://github.com/celiagomezserra/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/celiagomezserra/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/celiagomezserra/CVE-2025-5548">
 - [ZoneToolsCiber/Explotando-FreeFloatFTP-CVE-2025-5548](https://github.com/ZoneToolsCiber/Explotando-FreeFloatFTP-CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/ZoneToolsCiber/Explotando-FreeFloatFTP-CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/ZoneToolsCiber/Explotando-FreeFloatFTP-CVE-2025-5548">
 - [alfa8sa/CVE-2025-5548](https://github.com/alfa8sa/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/alfa8sa/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/alfa8sa/CVE-2025-5548">
+- [iamEscri/CVE-2025-5548-FreeFloat-FTP-Buffer-Overflow](https://github.com/iamEscri/CVE-2025-5548-FreeFloat-FTP-Buffer-Overflow)	<img alt="forks" src="https://img.shields.io/github/forks/iamEscri/CVE-2025-5548-FreeFloat-FTP-Buffer-Overflow">	<img alt="stars" src="https://img.shields.io/github/stars/iamEscri/CVE-2025-5548-FreeFloat-FTP-Buffer-Overflow">
 
 ---
 ## CVE-2025-55462 ()
@@ -3813,6 +3814,7 @@
 - [DeDnY/CVE-2025-55182-in-docker](https://github.com/DeDnY/CVE-2025-55182-in-docker)	<img alt="forks" src="https://img.shields.io/github/forks/DeDnY/CVE-2025-55182-in-docker">	<img alt="stars" src="https://img.shields.io/github/stars/DeDnY/CVE-2025-55182-in-docker">
 - [luoqichen/CVE-2025-55182-POC](https://github.com/luoqichen/CVE-2025-55182-POC)	<img alt="forks" src="https://img.shields.io/github/forks/luoqichen/CVE-2025-55182-POC">	<img alt="stars" src="https://img.shields.io/github/stars/luoqichen/CVE-2025-55182-POC">
 - [lutraat/CVE-2025-55182-React-RSC-Exploit](https://github.com/lutraat/CVE-2025-55182-React-RSC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/lutraat/CVE-2025-55182-React-RSC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/lutraat/CVE-2025-55182-React-RSC-Exploit">
+- [orgito1015/CVE-2025-55182-Researching-process](https://github.com/orgito1015/CVE-2025-55182-Researching-process)	<img alt="forks" src="https://img.shields.io/github/forks/orgito1015/CVE-2025-55182-Researching-process">	<img alt="stars" src="https://img.shields.io/github/stars/orgito1015/CVE-2025-55182-Researching-process">
 
 ---
 ## CVE-2025-55130 ()
