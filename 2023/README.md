@@ -7125,6 +7125,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [poppylarrry/firefox-rce-poc](https://github.com/poppylarrry/firefox-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/poppylarrry/firefox-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/poppylarrry/firefox-rce-poc">
 
 ---
+## CVE-2023-24054 ()
+> 
+- [ghost-zz/CVE-2023-24054-zz-faker-poc-test](https://github.com/ghost-zz/CVE-2023-24054-zz-faker-poc-test)	<img alt="forks" src="https://img.shields.io/github/forks/ghost-zz/CVE-2023-24054-zz-faker-poc-test">	<img alt="stars" src="https://img.shields.io/github/stars/ghost-zz/CVE-2023-24054-zz-faker-poc-test">
+
+---
 ## CVE-2023-24044 (2023-01-22T03:15:00)
 > A Host Header Injection issue on the Login page of Plesk Obsidian through 18.0.49 allows attackers to redirect users to malicious websites via a Host request header. NOTE: the vendor's position is "the ability to use arbitrary domain names to access the panel is an intended feature."
 - [Cappricio-Securities/CVE-2023-24044](https://github.com/Cappricio-Securities/CVE-2023-24044)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2023-24044">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2023-24044">
