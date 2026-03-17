@@ -3843,6 +3843,7 @@
 - [luoqichen/CVE-2025-55182-POC](https://github.com/luoqichen/CVE-2025-55182-POC)	<img alt="forks" src="https://img.shields.io/github/forks/luoqichen/CVE-2025-55182-POC">	<img alt="stars" src="https://img.shields.io/github/stars/luoqichen/CVE-2025-55182-POC">
 - [lutraat/CVE-2025-55182-React-RSC-Exploit](https://github.com/lutraat/CVE-2025-55182-React-RSC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/lutraat/CVE-2025-55182-React-RSC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/lutraat/CVE-2025-55182-React-RSC-Exploit">
 - [orgito1015/CVE-2025-55182-Researching-process](https://github.com/orgito1015/CVE-2025-55182-Researching-process)	<img alt="forks" src="https://img.shields.io/github/forks/orgito1015/CVE-2025-55182-Researching-process">	<img alt="stars" src="https://img.shields.io/github/stars/orgito1015/CVE-2025-55182-Researching-process">
+- [monarchfish/cve-2025-55182-poc](https://github.com/monarchfish/cve-2025-55182-poc)	<img alt="forks" src="https://img.shields.io/github/forks/monarchfish/cve-2025-55182-poc">	<img alt="stars" src="https://img.shields.io/github/stars/monarchfish/cve-2025-55182-poc">
 
 ---
 ## CVE-2025-55130 ()
@@ -7526,6 +7527,7 @@
 - [encrypter15/CVE-2025-29824](https://github.com/encrypter15/CVE-2025-29824)	<img alt="forks" src="https://img.shields.io/github/forks/encrypter15/CVE-2025-29824">	<img alt="stars" src="https://img.shields.io/github/stars/encrypter15/CVE-2025-29824">
 - [AfanPan/CVE-2025-29824-Exploit](https://github.com/AfanPan/CVE-2025-29824-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AfanPan/CVE-2025-29824-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AfanPan/CVE-2025-29824-Exploit">
 - [zmkeh/CVE-2025-29824-CLFS-Local-privilege-escalation](https://github.com/zmkeh/CVE-2025-29824-CLFS-Local-privilege-escalation)	<img alt="forks" src="https://img.shields.io/github/forks/zmkeh/CVE-2025-29824-CLFS-Local-privilege-escalation">	<img alt="stars" src="https://img.shields.io/github/stars/zmkeh/CVE-2025-29824-CLFS-Local-privilege-escalation">
+- [uname1able/CVE-2025-29824](https://github.com/uname1able/CVE-2025-29824)	<img alt="forks" src="https://img.shields.io/github/forks/uname1able/CVE-2025-29824">	<img alt="stars" src="https://img.shields.io/github/stars/uname1able/CVE-2025-29824">
 
 ---
 ## CVE-2025-29814 ()
