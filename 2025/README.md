@@ -5121,6 +5121,11 @@
 - [gmh5225/CVE-2025-48799-](https://github.com/gmh5225/CVE-2025-48799-)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/CVE-2025-48799-">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/CVE-2025-48799-">
 
 ---
+## CVE-2025-48784 ()
+> 
+- [h3raklez/CVE-2025-48784](https://github.com/h3raklez/CVE-2025-48784)	<img alt="forks" src="https://img.shields.io/github/forks/h3raklez/CVE-2025-48784">	<img alt="stars" src="https://img.shields.io/github/stars/h3raklez/CVE-2025-48784">
+
+---
 ## CVE-2025-48769 ()
 > 
 - [b1gchoi/CVE-2025-48769](https://github.com/b1gchoi/CVE-2025-48769)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2025-48769">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2025-48769">
