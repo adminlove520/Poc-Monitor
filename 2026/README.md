@@ -99,6 +99,7 @@
 ## CVE-2026-32746 ()
 > 
 - [jeffaf/cve-2026-32746](https://github.com/jeffaf/cve-2026-32746)	<img alt="forks" src="https://img.shields.io/github/forks/jeffaf/cve-2026-32746">	<img alt="stars" src="https://img.shields.io/github/stars/jeffaf/cve-2026-32746">
+- [chosenonehacks/CVE-2026-32746](https://github.com/chosenonehacks/CVE-2026-32746)	<img alt="forks" src="https://img.shields.io/github/forks/chosenonehacks/CVE-2026-32746">	<img alt="stars" src="https://img.shields.io/github/stars/chosenonehacks/CVE-2026-32746">
 
 ---
 ## CVE-2026-32731 ()
@@ -1018,6 +1019,11 @@
 ## CVE-2026-22785 ()
 > 
 - [langbyyi/CVE-2026-22785](https://github.com/langbyyi/CVE-2026-22785)	<img alt="forks" src="https://img.shields.io/github/forks/langbyyi/CVE-2026-22785">	<img alt="stars" src="https://img.shields.io/github/stars/langbyyi/CVE-2026-22785">
+
+---
+## CVE-2026-22730 ()
+> 
+- [NULL200OK/CVE-2026-22730-Scanner](https://github.com/NULL200OK/CVE-2026-22730-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/NULL200OK/CVE-2026-22730-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/NULL200OK/CVE-2026-22730-Scanner">
 
 ---
 ## CVE-2026-22722 ()
