@@ -100,6 +100,8 @@
 > 
 - [jeffaf/cve-2026-32746](https://github.com/jeffaf/cve-2026-32746)	<img alt="forks" src="https://img.shields.io/github/forks/jeffaf/cve-2026-32746">	<img alt="stars" src="https://img.shields.io/github/stars/jeffaf/cve-2026-32746">
 - [chosenonehacks/CVE-2026-32746](https://github.com/chosenonehacks/CVE-2026-32746)	<img alt="forks" src="https://img.shields.io/github/forks/chosenonehacks/CVE-2026-32746">	<img alt="stars" src="https://img.shields.io/github/stars/chosenonehacks/CVE-2026-32746">
+- [danindiana/cve-2026-32746-mitigation](https://github.com/danindiana/cve-2026-32746-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/danindiana/cve-2026-32746-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/danindiana/cve-2026-32746-mitigation">
+- [watchtowrlabs/watchtowr-vs-telnetd-CVE-2026-32746](https://github.com/watchtowrlabs/watchtowr-vs-telnetd-CVE-2026-32746)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchtowr-vs-telnetd-CVE-2026-32746">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchtowr-vs-telnetd-CVE-2026-32746">
 
 ---
 ## CVE-2026-32731 ()
@@ -1091,6 +1093,11 @@
 ## CVE-2026-21994 ()
 > 
 - [TEXploited/CVE-2026-21994](https://github.com/TEXploited/CVE-2026-21994)	<img alt="forks" src="https://img.shields.io/github/forks/TEXploited/CVE-2026-21994">	<img alt="stars" src="https://img.shields.io/github/stars/TEXploited/CVE-2026-21994">
+
+---
+## CVE-2026-21992 ()
+> 
+- [TEXploited/CVE-2026-21992](https://github.com/TEXploited/CVE-2026-21992)	<img alt="forks" src="https://img.shields.io/github/forks/TEXploited/CVE-2026-21992">	<img alt="stars" src="https://img.shields.io/github/stars/TEXploited/CVE-2026-21992">
 
 ---
 ## CVE-2026-21962 ()
