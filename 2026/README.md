@@ -239,6 +239,11 @@
 - [redyank/CVE-2026-29780](https://github.com/redyank/CVE-2026-29780)	<img alt="forks" src="https://img.shields.io/github/forks/redyank/CVE-2026-29780">	<img alt="stars" src="https://img.shields.io/github/stars/redyank/CVE-2026-29780">
 
 ---
+## CVE-2026-2964 ()
+> 
+- [thegenetic/CVE-2026-2964-Lab](https://github.com/thegenetic/CVE-2026-2964-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/thegenetic/CVE-2026-2964-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/thegenetic/CVE-2026-2964-Lab">
+
+---
 ## CVE-2026-29053 ()
 > 
 - [rootxran/CVE-2026-29053](https://github.com/rootxran/CVE-2026-29053)	<img alt="forks" src="https://img.shields.io/github/forks/rootxran/CVE-2026-29053">	<img alt="stars" src="https://img.shields.io/github/stars/rootxran/CVE-2026-29053">
