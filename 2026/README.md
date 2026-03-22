@@ -1299,6 +1299,11 @@
 - [osmancanvural/CVE-2026-21436](https://github.com/osmancanvural/CVE-2026-21436)	<img alt="forks" src="https://img.shields.io/github/forks/osmancanvural/CVE-2026-21436">	<img alt="stars" src="https://img.shields.io/github/stars/osmancanvural/CVE-2026-21436">
 
 ---
+## CVE-2026-21385 ()
+> 
+- [unionnx/CVE-2026-21385](https://github.com/unionnx/CVE-2026-21385)	<img alt="forks" src="https://img.shields.io/github/forks/unionnx/CVE-2026-21385">	<img alt="stars" src="https://img.shields.io/github/stars/unionnx/CVE-2026-21385">
+
+---
 ## CVE-2026-2113 ()
 > 
 - [MaxMnMl/tpadmin-CVE-2026-2113-poc](https://github.com/MaxMnMl/tpadmin-CVE-2026-2113-poc)	<img alt="forks" src="https://img.shields.io/github/forks/MaxMnMl/tpadmin-CVE-2026-2113-poc">	<img alt="stars" src="https://img.shields.io/github/stars/MaxMnMl/tpadmin-CVE-2026-2113-poc">
