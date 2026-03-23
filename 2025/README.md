@@ -2438,6 +2438,7 @@
 ## CVE-2025-6002 ()
 > 
 - [schn1tzelme1ster/CVE-2025-6002](https://github.com/schn1tzelme1ster/CVE-2025-6002)	<img alt="forks" src="https://img.shields.io/github/forks/schn1tzelme1ster/CVE-2025-6002">	<img alt="stars" src="https://img.shields.io/github/stars/schn1tzelme1ster/CVE-2025-6002">
+- [Mefhika120/Ashwesker-CVE-2025-60021](https://github.com/Mefhika120/Ashwesker-CVE-2025-60021)	<img alt="forks" src="https://img.shields.io/github/forks/Mefhika120/Ashwesker-CVE-2025-60021">	<img alt="stars" src="https://img.shields.io/github/stars/Mefhika120/Ashwesker-CVE-2025-60021">
 
 ---
 ## CVE-2025-60012 ()
@@ -8414,6 +8415,11 @@
 ## CVE-2025-25231 ()
 > 
 - [ashkan-pu/CVE-CVE-2025-25231](https://github.com/ashkan-pu/CVE-CVE-2025-25231)	<img alt="forks" src="https://img.shields.io/github/forks/ashkan-pu/CVE-CVE-2025-25231">	<img alt="stars" src="https://img.shields.io/github/stars/ashkan-pu/CVE-CVE-2025-25231">
+
+---
+## CVE-2025-25200 ()
+> 
+- [dwictor0/PoC-CVE-2025-25200](https://github.com/dwictor0/PoC-CVE-2025-25200)	<img alt="forks" src="https://img.shields.io/github/forks/dwictor0/PoC-CVE-2025-25200">	<img alt="stars" src="https://img.shields.io/github/stars/dwictor0/PoC-CVE-2025-25200">
 
 ---
 ## CVE-2025-25198 ()
