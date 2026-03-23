@@ -3169,6 +3169,12 @@
 - [Jimmy01240397/CVE-2025-55752](https://github.com/Jimmy01240397/CVE-2025-55752)	<img alt="forks" src="https://img.shields.io/github/forks/Jimmy01240397/CVE-2025-55752">	<img alt="stars" src="https://img.shields.io/github/stars/Jimmy01240397/CVE-2025-55752">
 
 ---
+## CVE-2025-55746 ()
+> 
+- [4osp3l/CVE-2025-55746](https://github.com/4osp3l/CVE-2025-55746)	<img alt="forks" src="https://img.shields.io/github/forks/4osp3l/CVE-2025-55746">	<img alt="stars" src="https://img.shields.io/github/stars/4osp3l/CVE-2025-55746">
+- [r4bbit-r4/directus-preso](https://github.com/r4bbit-r4/directus-preso)	<img alt="forks" src="https://img.shields.io/github/forks/r4bbit-r4/directus-preso">	<img alt="stars" src="https://img.shields.io/github/stars/r4bbit-r4/directus-preso">
+
+---
 ## CVE-2025-55668 ()
 > 
 - [gregk4sec/CVE-2025-55668](https://github.com/gregk4sec/CVE-2025-55668)	<img alt="forks" src="https://img.shields.io/github/forks/gregk4sec/CVE-2025-55668">	<img alt="stars" src="https://img.shields.io/github/stars/gregk4sec/CVE-2025-55668">
