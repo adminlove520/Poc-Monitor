@@ -115,9 +115,19 @@
 - [skoveit/CVE-2026-32941](https://github.com/skoveit/CVE-2026-32941)	<img alt="forks" src="https://img.shields.io/github/forks/skoveit/CVE-2026-32941">	<img alt="stars" src="https://img.shields.io/github/stars/skoveit/CVE-2026-32941">
 
 ---
+## CVE-2026-32885 ()
+> 
+- [SnailSploit/CVE-2026-32885](https://github.com/SnailSploit/CVE-2026-32885)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2026-32885">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2026-32885">
+
+---
 ## CVE-2026-3288 ()
 > 
 - [SnailSploit/CVE-2026-3288](https://github.com/SnailSploit/CVE-2026-3288)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2026-3288">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2026-3288">
+
+---
+## CVE-2026-32809 ()
+> 
+- [SnailSploit/CVE-2026-32809](https://github.com/SnailSploit/CVE-2026-32809)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2026-32809">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2026-32809">
 
 ---
 ## CVE-2026-32746 ()
