@@ -301,6 +301,11 @@
 - [joshuavanderpoll/CVE-2026-2991](https://github.com/joshuavanderpoll/CVE-2026-2991)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2026-2991">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2026-2991">
 
 ---
+## CVE-2026-29905 ()
+> 
+- [Stalin-143/CVE-2026-29905](https://github.com/Stalin-143/CVE-2026-29905)	<img alt="forks" src="https://img.shields.io/github/forks/Stalin-143/CVE-2026-29905">	<img alt="stars" src="https://img.shields.io/github/stars/Stalin-143/CVE-2026-29905">
+
+---
 ## CVE-2026-29786 ()
 > 
 - [Jvr2022/CVE-2026-29786](https://github.com/Jvr2022/CVE-2026-29786)	<img alt="forks" src="https://img.shields.io/github/forks/Jvr2022/CVE-2026-29786">	<img alt="stars" src="https://img.shields.io/github/stars/Jvr2022/CVE-2026-29786">
@@ -395,6 +400,11 @@
 - [NULL200OK/CVE-2026-27944](https://github.com/NULL200OK/CVE-2026-27944)	<img alt="forks" src="https://img.shields.io/github/forks/NULL200OK/CVE-2026-27944">	<img alt="stars" src="https://img.shields.io/github/stars/NULL200OK/CVE-2026-27944">
 - [Skynoxk/CVE-2026-27944](https://github.com/Skynoxk/CVE-2026-27944)	<img alt="forks" src="https://img.shields.io/github/forks/Skynoxk/CVE-2026-27944">	<img alt="stars" src="https://img.shields.io/github/stars/Skynoxk/CVE-2026-27944">
 - [NULL200OK/-nginxui_discover](https://github.com/NULL200OK/-nginxui_discover)	<img alt="forks" src="https://img.shields.io/github/forks/NULL200OK/-nginxui_discover">	<img alt="stars" src="https://img.shields.io/github/stars/NULL200OK/-nginxui_discover">
+
+---
+## CVE-2026-27940 ()
+> 
+- [ngtuonghung/CVE-2026-27940](https://github.com/ngtuonghung/CVE-2026-27940)	<img alt="forks" src="https://img.shields.io/github/forks/ngtuonghung/CVE-2026-27940">	<img alt="stars" src="https://img.shields.io/github/stars/ngtuonghung/CVE-2026-27940">
 
 ---
 ## CVE-2026-27884 ()
