@@ -301,6 +301,11 @@
 - [bx33661/CVE-2026-30039](https://github.com/bx33661/CVE-2026-30039)	<img alt="forks" src="https://img.shields.io/github/forks/bx33661/CVE-2026-30039">	<img alt="stars" src="https://img.shields.io/github/stars/bx33661/CVE-2026-30039">
 
 ---
+## CVE-2026-29971 ()
+> 
+- [tharunchidurala-cyber/CVE-2026-29971](https://github.com/tharunchidurala-cyber/CVE-2026-29971)	<img alt="forks" src="https://img.shields.io/github/forks/tharunchidurala-cyber/CVE-2026-29971">	<img alt="stars" src="https://img.shields.io/github/stars/tharunchidurala-cyber/CVE-2026-29971">
+
+---
 ## CVE-2026-2991 ()
 > 
 - [joshuavanderpoll/CVE-2026-2991](https://github.com/joshuavanderpoll/CVE-2026-2991)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2026-2991">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2026-2991">
@@ -1111,6 +1116,7 @@
 - [fckoo/mcpjaminspector-unauth-rce](https://github.com/fckoo/mcpjaminspector-unauth-rce)	<img alt="forks" src="https://img.shields.io/github/forks/fckoo/mcpjaminspector-unauth-rce">	<img alt="stars" src="https://img.shields.io/github/stars/fckoo/mcpjaminspector-unauth-rce">
 - [z4yd3/PoC-CVE-2026-23744](https://github.com/z4yd3/PoC-CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/z4yd3/PoC-CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/z4yd3/PoC-CVE-2026-23744">
 - [yassertioursi/htb-kobold-writeup](https://github.com/yassertioursi/htb-kobold-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/yassertioursi/htb-kobold-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/yassertioursi/htb-kobold-writeup">
+- [ctzisme/CVE-2026-23744](https://github.com/ctzisme/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/ctzisme/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/ctzisme/CVE-2026-23744">
 
 ---
 ## CVE-2026-23723 ()
