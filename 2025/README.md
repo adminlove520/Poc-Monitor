@@ -6551,6 +6551,11 @@
 - [KrE80r/CVE-2025-34299-lab](https://github.com/KrE80r/CVE-2025-34299-lab)	<img alt="forks" src="https://img.shields.io/github/forks/KrE80r/CVE-2025-34299-lab">	<img alt="stars" src="https://img.shields.io/github/stars/KrE80r/CVE-2025-34299-lab">
 
 ---
+## CVE-2025-34282 ()
+> 
+- [mathitam/thingsboard-ssrf-cve-2025-34282](https://github.com/mathitam/thingsboard-ssrf-cve-2025-34282)	<img alt="forks" src="https://img.shields.io/github/forks/mathitam/thingsboard-ssrf-cve-2025-34282">	<img alt="stars" src="https://img.shields.io/github/stars/mathitam/thingsboard-ssrf-cve-2025-34282">
+
+---
 ## CVE-2025-34227 ()
 > 
 - [mcorybillington/CVE-2025-34227_Nagios-XI-Command-Injection-Configuration-Wizard](https://github.com/mcorybillington/CVE-2025-34227_Nagios-XI-Command-Injection-Configuration-Wizard)	<img alt="forks" src="https://img.shields.io/github/forks/mcorybillington/CVE-2025-34227_Nagios-XI-Command-Injection-Configuration-Wizard">	<img alt="stars" src="https://img.shields.io/github/stars/mcorybillington/CVE-2025-34227_Nagios-XI-Command-Injection-Configuration-Wizard">
@@ -6624,6 +6629,11 @@
 ## CVE-2025-34040 ()
 > 
 - [jisi-001/CVE-2025-34040Exp](https://github.com/jisi-001/CVE-2025-34040Exp)	<img alt="forks" src="https://img.shields.io/github/forks/jisi-001/CVE-2025-34040Exp">	<img alt="stars" src="https://img.shields.io/github/stars/jisi-001/CVE-2025-34040Exp">
+
+---
+## CVE-2025-34037 ()
+> 
+- [Taxanehh/CVE-2025-34037](https://github.com/Taxanehh/CVE-2025-34037)	<img alt="forks" src="https://img.shields.io/github/forks/Taxanehh/CVE-2025-34037">	<img alt="stars" src="https://img.shields.io/github/stars/Taxanehh/CVE-2025-34037">
 
 ---
 ## CVE-2025-34036 ()
