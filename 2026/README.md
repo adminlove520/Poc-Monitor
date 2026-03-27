@@ -94,6 +94,11 @@
 - [hacker1337itme/CVE-2026-3442](https://github.com/hacker1337itme/CVE-2026-3442)	<img alt="forks" src="https://img.shields.io/github/forks/hacker1337itme/CVE-2026-3442">	<img alt="stars" src="https://img.shields.io/github/stars/hacker1337itme/CVE-2026-3442">
 
 ---
+## CVE-2026-34227 ()
+> 
+- [skoveit/CVE-2026-34227](https://github.com/skoveit/CVE-2026-34227)	<img alt="forks" src="https://img.shields.io/github/forks/skoveit/CVE-2026-34227">	<img alt="stars" src="https://img.shields.io/github/stars/skoveit/CVE-2026-34227">
+
+---
 ## CVE-2026-34200 ()
 > 
 - [skoveit/CVE-2026-34200](https://github.com/skoveit/CVE-2026-34200)	<img alt="forks" src="https://img.shields.io/github/forks/skoveit/CVE-2026-34200">	<img alt="stars" src="https://img.shields.io/github/stars/skoveit/CVE-2026-34200">
@@ -1140,6 +1145,7 @@
 - [z4yd3/PoC-CVE-2026-23744](https://github.com/z4yd3/PoC-CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/z4yd3/PoC-CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/z4yd3/PoC-CVE-2026-23744">
 - [yassertioursi/htb-kobold-writeup](https://github.com/yassertioursi/htb-kobold-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/yassertioursi/htb-kobold-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/yassertioursi/htb-kobold-writeup">
 - [ctzisme/CVE-2026-23744](https://github.com/ctzisme/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/ctzisme/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/ctzisme/CVE-2026-23744">
+- [AhmadF77/CVE-2026-23744](https://github.com/AhmadF77/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/AhmadF77/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/AhmadF77/CVE-2026-23744">
 
 ---
 ## CVE-2026-23723 ()
