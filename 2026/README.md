@@ -130,6 +130,11 @@
 - [SnailSploit/CVE-2026-33693](https://github.com/SnailSploit/CVE-2026-33693)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2026-33693">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2026-33693">
 
 ---
+## CVE-2026-33531 ()
+> 
+- [alonaki/InvenTree-Path-Traversal-CVE-2026-33531](https://github.com/alonaki/InvenTree-Path-Traversal-CVE-2026-33531)	<img alt="forks" src="https://img.shields.io/github/forks/alonaki/InvenTree-Path-Traversal-CVE-2026-33531">	<img alt="stars" src="https://img.shields.io/github/stars/alonaki/InvenTree-Path-Traversal-CVE-2026-33531">
+
+---
 ## CVE-2026-3304 ()
 > 
 - [Mkway/CVE-2026-3304](https://github.com/Mkway/CVE-2026-3304)	<img alt="forks" src="https://img.shields.io/github/forks/Mkway/CVE-2026-3304">	<img alt="stars" src="https://img.shields.io/github/stars/Mkway/CVE-2026-3304">
@@ -996,7 +1001,7 @@
 - [Ali-brarou/telnest](https://github.com/Ali-brarou/telnest)	<img alt="forks" src="https://img.shields.io/github/forks/Ali-brarou/telnest">	<img alt="stars" src="https://img.shields.io/github/stars/Ali-brarou/telnest">
 - [ibrahmsql/CVE-2026-24061-PoC](https://github.com/ibrahmsql/CVE-2026-24061-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2026-24061-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2026-24061-PoC">
 - [SeptembersEND/CVE--2026-24061](https://github.com/SeptembersEND/CVE--2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/SeptembersEND/CVE--2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/SeptembersEND/CVE--2026-24061">
-- [franckferman/CVE_2026_24061_PoC](https://github.com/franckferman/CVE_2026_24061_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/franckferman/CVE_2026_24061_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/franckferman/CVE_2026_24061_PoC">
+- [franckferman/CVE_2026_24061](https://github.com/franckferman/CVE_2026_24061)	<img alt="forks" src="https://img.shields.io/github/forks/franckferman/CVE_2026_24061">	<img alt="stars" src="https://img.shields.io/github/stars/franckferman/CVE_2026_24061">
 - [Good123321-bot/CVE-2026-24061-POC](https://github.com/Good123321-bot/CVE-2026-24061-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Good123321-bot/CVE-2026-24061-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Good123321-bot/CVE-2026-24061-POC">
 - [Good123321-bot/good123321-bot.github.io](https://github.com/Good123321-bot/good123321-bot.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/Good123321-bot/good123321-bot.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/Good123321-bot/good123321-bot.github.io">
 - [Moxxic1/moxxic1.github.io](https://github.com/Moxxic1/moxxic1.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/Moxxic1/moxxic1.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/Moxxic1/moxxic1.github.io">
