@@ -1091,7 +1091,7 @@
 - [tiborscholtz/CVE-2026-24061](https://github.com/tiborscholtz/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/tiborscholtz/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/tiborscholtz/CVE-2026-24061">
 - [mbanyamer/CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-](https://github.com/mbanyamer/CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-">
 - [Remnant-DB/CVE-2026-24061](https://github.com/Remnant-DB/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/Remnant-DB/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/Remnant-DB/CVE-2026-24061">
-- [0xAshwesker/CVE-2026-24061](https://github.com/0xAshwesker/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/0xAshwesker/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/0xAshwesker/CVE-2026-24061">
+- [0xBlackash/CVE-2026-24061](https://github.com/0xBlackash/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-24061">
 - [HD0x01/CVE-2026-24061-NSE](https://github.com/HD0x01/CVE-2026-24061-NSE)	<img alt="forks" src="https://img.shields.io/github/forks/HD0x01/CVE-2026-24061-NSE">	<img alt="stars" src="https://img.shields.io/github/stars/HD0x01/CVE-2026-24061-NSE">
 - [przemytn/CVE-2026-24061](https://github.com/przemytn/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/przemytn/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/przemytn/CVE-2026-24061">
 
@@ -1387,6 +1387,7 @@
 ## CVE-2026-21643 ()
 > 
 - [DarkSploits/CVE-2026-21643-Exploit](https://github.com/DarkSploits/CVE-2026-21643-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/DarkSploits/CVE-2026-21643-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/DarkSploits/CVE-2026-21643-Exploit">
+- [alirezac0/CVE-2026-21643](https://github.com/alirezac0/CVE-2026-21643)	<img alt="forks" src="https://img.shields.io/github/forks/alirezac0/CVE-2026-21643">	<img alt="stars" src="https://img.shields.io/github/stars/alirezac0/CVE-2026-21643">
 
 ---
 ## CVE-2026-21627 ()
