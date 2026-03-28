@@ -125,6 +125,11 @@
 - [rootdirective-sec/CVE-2026-3395-Lab](https://github.com/rootdirective-sec/CVE-2026-3395-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-3395-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-3395-Lab">
 
 ---
+## CVE-2026-33937 ()
+> 
+- [dinhvaren/cve-2026-33937](https://github.com/dinhvaren/cve-2026-33937)	<img alt="forks" src="https://img.shields.io/github/forks/dinhvaren/cve-2026-33937">	<img alt="stars" src="https://img.shields.io/github/stars/dinhvaren/cve-2026-33937">
+
+---
 ## CVE-2026-33868 ()
 > 
 - [O99099O/By-Poloss..-..CVE-2026-33868](https://github.com/O99099O/By-Poloss..-..CVE-2026-33868)	<img alt="forks" src="https://img.shields.io/github/forks/O99099O/By-Poloss..-..CVE-2026-33868">	<img alt="stars" src="https://img.shields.io/github/stars/O99099O/By-Poloss..-..CVE-2026-33868">
