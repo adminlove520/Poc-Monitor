@@ -23,7 +23,7 @@
 ---
 ## CVE-2026-5281 ()
 > 
-- [umair-aziz025/CVE-2026-5281](https://github.com/umair-aziz025/CVE-2026-5281)	<img alt="forks" src="https://img.shields.io/github/forks/umair-aziz025/CVE-2026-5281">	<img alt="stars" src="https://img.shields.io/github/stars/umair-aziz025/CVE-2026-5281">
+- [umair-aziz025/CVE-2026-5281-Research-Toolkit](https://github.com/umair-aziz025/CVE-2026-5281-Research-Toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/umair-aziz025/CVE-2026-5281-Research-Toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/umair-aziz025/CVE-2026-5281-Research-Toolkit">
 
 ---
 ## CVE-2026-5252 ()
@@ -110,6 +110,11 @@
 - [Yucaerin/CVE-2026-3584](https://github.com/Yucaerin/CVE-2026-3584)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2026-3584">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2026-3584">
 
 ---
+## CVE-2026-34828 ()
+> 
+- [0xmrma/CVE-2026-34828](https://github.com/0xmrma/CVE-2026-34828)	<img alt="forks" src="https://img.shields.io/github/forks/0xmrma/CVE-2026-34828">	<img alt="stars" src="https://img.shields.io/github/stars/0xmrma/CVE-2026-34828">
+
+---
 ## CVE-2026-3442 ()
 > 
 - [hacker1337itme/CVE-2026-3442](https://github.com/hacker1337itme/CVE-2026-3442)	<img alt="forks" src="https://img.shields.io/github/forks/hacker1337itme/CVE-2026-3442">	<img alt="stars" src="https://img.shields.io/github/stars/hacker1337itme/CVE-2026-3442">
@@ -149,6 +154,11 @@
 ## CVE-2026-33937 ()
 > 
 - [dinhvaren/cve-2026-33937](https://github.com/dinhvaren/cve-2026-33937)	<img alt="forks" src="https://img.shields.io/github/forks/dinhvaren/cve-2026-33937">	<img alt="stars" src="https://img.shields.io/github/stars/dinhvaren/cve-2026-33937">
+
+---
+## CVE-2026-33936 ()
+> 
+- [0xmrma/CVE-2026-33936](https://github.com/0xmrma/CVE-2026-33936)	<img alt="forks" src="https://img.shields.io/github/forks/0xmrma/CVE-2026-33936">	<img alt="stars" src="https://img.shields.io/github/stars/0xmrma/CVE-2026-33936">
 
 ---
 ## CVE-2026-33868 ()
