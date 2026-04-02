@@ -21,6 +21,11 @@
 - [MonsterWsr-hub/CVE-2026-6111](https://github.com/MonsterWsr-hub/CVE-2026-6111)	<img alt="forks" src="https://img.shields.io/github/forks/MonsterWsr-hub/CVE-2026-6111">	<img alt="stars" src="https://img.shields.io/github/stars/MonsterWsr-hub/CVE-2026-6111">
 
 ---
+## CVE-2026-5281 ()
+> 
+- [umair-aziz025/CVE-2026-5281](https://github.com/umair-aziz025/CVE-2026-5281)	<img alt="forks" src="https://img.shields.io/github/forks/umair-aziz025/CVE-2026-5281">	<img alt="stars" src="https://img.shields.io/github/stars/umair-aziz025/CVE-2026-5281">
+
+---
 ## CVE-2026-5252 ()
 > 
 - [aydin5245/CVE-2026-5252-CVE-POC-ivanti](https://github.com/aydin5245/CVE-2026-5252-CVE-POC-ivanti)	<img alt="forks" src="https://img.shields.io/github/forks/aydin5245/CVE-2026-5252-CVE-POC-ivanti">	<img alt="stars" src="https://img.shields.io/github/stars/aydin5245/CVE-2026-5252-CVE-POC-ivanti">
@@ -277,6 +282,7 @@
 ---
 ## CVE-2026-31900 ()
 > 
+- [Batosay1337Lab/CVE-2026-31900](https://github.com/Batosay1337Lab/CVE-2026-31900)	<img alt="forks" src="https://img.shields.io/github/forks/Batosay1337Lab/CVE-2026-31900">	<img alt="stars" src="https://img.shields.io/github/stars/Batosay1337Lab/CVE-2026-31900">
 - [Batosay1337Lab/CVE-2026-31900](https://github.com/Batosay1337Lab/CVE-2026-31900)	<img alt="forks" src="https://img.shields.io/github/forks/Batosay1337Lab/CVE-2026-31900">	<img alt="stars" src="https://img.shields.io/github/stars/Batosay1337Lab/CVE-2026-31900">
 
 ---
