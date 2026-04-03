@@ -117,6 +117,11 @@
 - [Yucaerin/CVE-2026-3584](https://github.com/Yucaerin/CVE-2026-3584)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2026-3584">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2026-3584">
 
 ---
+## CVE-2026-35045 ()
+> 
+- [FilipeGaudard/CVE-2026-35045-PoC](https://github.com/FilipeGaudard/CVE-2026-35045-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/FilipeGaudard/CVE-2026-35045-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/FilipeGaudard/CVE-2026-35045-PoC">
+
+---
 ## CVE-2026-34828 ()
 > 
 - [0xmrma/CVE-2026-34828](https://github.com/0xmrma/CVE-2026-34828)	<img alt="forks" src="https://img.shields.io/github/forks/0xmrma/CVE-2026-34828">	<img alt="stars" src="https://img.shields.io/github/stars/0xmrma/CVE-2026-34828">
@@ -140,6 +145,11 @@
 ## CVE-2026-34200 ()
 > 
 - [skoveit/CVE-2026-34200](https://github.com/skoveit/CVE-2026-34200)	<img alt="forks" src="https://img.shields.io/github/forks/skoveit/CVE-2026-34200">	<img alt="stars" src="https://img.shields.io/github/stars/skoveit/CVE-2026-34200">
+
+---
+## CVE-2026-34156 ()
+> 
+- [0xBlackash/CVE-2026-34156](https://github.com/0xBlackash/CVE-2026-34156)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-34156">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-34156">
 
 ---
 ## CVE-2026-34070 ()
