@@ -6573,6 +6573,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [zaryouhashraf/CVE-2024-3094](https://github.com/zaryouhashraf/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/zaryouhashraf/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/zaryouhashraf/CVE-2024-3094">
 - [michalAshurov/writeup-CVE-2024-3094](https://github.com/michalAshurov/writeup-CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/michalAshurov/writeup-CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/michalAshurov/writeup-CVE-2024-3094">
 - [extracoding-dozen/CVE-2024-3094](https://github.com/extracoding-dozen/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/extracoding-dozen/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/extracoding-dozen/CVE-2024-3094">
+- [ElinaNotElina/cve-2024-3094-analysis](https://github.com/ElinaNotElina/cve-2024-3094-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/ElinaNotElina/cve-2024-3094-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/ElinaNotElina/cve-2024-3094-analysis">
 
 ---
 ## CVE-2024-30937 ()
