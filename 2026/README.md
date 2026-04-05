@@ -648,6 +648,11 @@
 - [Rohitberiwala/CVE-2026-28372](https://github.com/Rohitberiwala/CVE-2026-28372)	<img alt="forks" src="https://img.shields.io/github/forks/Rohitberiwala/CVE-2026-28372">	<img alt="stars" src="https://img.shields.io/github/stars/Rohitberiwala/CVE-2026-28372">
 
 ---
+## CVE-2026-28363 ()
+> 
+- [kaleth4/CVE-2026-28363](https://github.com/kaleth4/CVE-2026-28363)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-28363">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-28363">
+
+---
 ## CVE-2026-28289 ()
 > 
 - [0xAshwesker/CVE-2026-28289](https://github.com/0xAshwesker/CVE-2026-28289)	<img alt="forks" src="https://img.shields.io/github/forks/0xAshwesker/CVE-2026-28289">	<img alt="stars" src="https://img.shields.io/github/stars/0xAshwesker/CVE-2026-28289">
