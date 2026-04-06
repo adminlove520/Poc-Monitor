@@ -122,6 +122,7 @@
 > 
 - [0xBlackash/CVE-2026-35616](https://github.com/0xBlackash/CVE-2026-35616)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-35616">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-35616">
 - [z3r0h3ro/CVE-2026-35616-poc](https://github.com/z3r0h3ro/CVE-2026-35616-poc)	<img alt="forks" src="https://img.shields.io/github/forks/z3r0h3ro/CVE-2026-35616-poc">	<img alt="stars" src="https://img.shields.io/github/stars/z3r0h3ro/CVE-2026-35616-poc">
+- [fevar54/CVE-2026-35616-detector.py](https://github.com/fevar54/CVE-2026-35616-detector.py)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-35616-detector.py">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-35616-detector.py">
 
 ---
 ## CVE-2026-35570 ()
