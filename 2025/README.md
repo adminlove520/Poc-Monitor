@@ -9351,6 +9351,7 @@
 ## CVE-2025-20282 ()
 > 
 - [skadevare/CiscoISE-CVE-2025-20282-POC](https://github.com/skadevare/CiscoISE-CVE-2025-20282-POC)	<img alt="forks" src="https://img.shields.io/github/forks/skadevare/CiscoISE-CVE-2025-20282-POC">	<img alt="stars" src="https://img.shields.io/github/stars/skadevare/CiscoISE-CVE-2025-20282-POC">
+- [pwnc4t/cve-2025-20282](https://github.com/pwnc4t/cve-2025-20282)	<img alt="forks" src="https://img.shields.io/github/forks/pwnc4t/cve-2025-20282">	<img alt="stars" src="https://img.shields.io/github/stars/pwnc4t/cve-2025-20282">
 
 ---
 ## CVE-2025-20281 ()
