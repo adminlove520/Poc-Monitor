@@ -1573,6 +1573,11 @@
 - [moltengama/CVE-2026-22686-RemoteCodeExecution-RCE-PoC](https://github.com/moltengama/CVE-2026-22686-RemoteCodeExecution-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/moltengama/CVE-2026-22686-RemoteCodeExecution-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/moltengama/CVE-2026-22686-RemoteCodeExecution-RCE-PoC">
 
 ---
+## CVE-2026-22666 ()
+> 
+- [JivaSecurity/DOLIBARR-RCE-CVE-2026-22666](https://github.com/JivaSecurity/DOLIBARR-RCE-CVE-2026-22666)	<img alt="forks" src="https://img.shields.io/github/forks/JivaSecurity/DOLIBARR-RCE-CVE-2026-22666">	<img alt="stars" src="https://img.shields.io/github/stars/JivaSecurity/DOLIBARR-RCE-CVE-2026-22666">
+
+---
 ## CVE-2026-22610 ()
 > 
 - [ashizZz/CVE-2026-22610](https://github.com/ashizZz/CVE-2026-22610)	<img alt="forks" src="https://img.shields.io/github/forks/ashizZz/CVE-2026-22610">	<img alt="stars" src="https://img.shields.io/github/stars/ashizZz/CVE-2026-22610">
