@@ -3142,6 +3142,11 @@
 - [Yashodhanvivek/Agatsa-EasyTouch-Plus---CVE-2025-56019](https://github.com/Yashodhanvivek/Agatsa-EasyTouch-Plus---CVE-2025-56019)	<img alt="forks" src="https://img.shields.io/github/forks/Yashodhanvivek/Agatsa-EasyTouch-Plus---CVE-2025-56019">	<img alt="stars" src="https://img.shields.io/github/stars/Yashodhanvivek/Agatsa-EasyTouch-Plus---CVE-2025-56019">
 
 ---
+## CVE-2025-56015 ()
+> 
+- [e1st/CVE-2025-56015](https://github.com/e1st/CVE-2025-56015)	<img alt="forks" src="https://img.shields.io/github/forks/e1st/CVE-2025-56015">	<img alt="stars" src="https://img.shields.io/github/stars/e1st/CVE-2025-56015">
+
+---
 ## CVE-2025-56005 ()
 > 
 - [bohmiiidd/Undocumument_RCE_PLY-yacc-CVE-2025-56005](https://github.com/bohmiiidd/Undocumument_RCE_PLY-yacc-CVE-2025-56005)	<img alt="forks" src="https://img.shields.io/github/forks/bohmiiidd/Undocumument_RCE_PLY-yacc-CVE-2025-56005">	<img alt="stars" src="https://img.shields.io/github/stars/bohmiiidd/Undocumument_RCE_PLY-yacc-CVE-2025-56005">
