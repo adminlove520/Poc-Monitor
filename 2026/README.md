@@ -358,6 +358,7 @@
 ## CVE-2026-3288 ()
 > 
 - [SnailSploit/CVE-2026-3288](https://github.com/SnailSploit/CVE-2026-3288)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2026-3288">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2026-3288">
+- [bvabhishek/CVE-2026-3288-lab](https://github.com/bvabhishek/CVE-2026-3288-lab)	<img alt="forks" src="https://img.shields.io/github/forks/bvabhishek/CVE-2026-3288-lab">	<img alt="stars" src="https://img.shields.io/github/stars/bvabhishek/CVE-2026-3288-lab">
 
 ---
 ## CVE-2026-32809 ()
