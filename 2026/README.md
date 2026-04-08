@@ -93,6 +93,11 @@
 - [g0w6y/CVE-2026-4092](https://github.com/g0w6y/CVE-2026-4092)	<img alt="forks" src="https://img.shields.io/github/forks/g0w6y/CVE-2026-4092">	<img alt="stars" src="https://img.shields.io/github/stars/g0w6y/CVE-2026-4092">
 
 ---
+## CVE-2026-39363 ()
+> 
+- [Firebasky/CVE-2026-39363](https://github.com/Firebasky/CVE-2026-39363)	<img alt="forks" src="https://img.shields.io/github/forks/Firebasky/CVE-2026-39363">	<img alt="stars" src="https://img.shields.io/github/stars/Firebasky/CVE-2026-39363">
+
+---
 ## CVE-2026-39324 ()
 > 
 - [sm1ee/CVE-2026-39324](https://github.com/sm1ee/CVE-2026-39324)	<img alt="forks" src="https://img.shields.io/github/forks/sm1ee/CVE-2026-39324">	<img alt="stars" src="https://img.shields.io/github/stars/sm1ee/CVE-2026-39324">
@@ -2226,6 +2231,11 @@
 ## CVE-2026-0745 ()
 > 
 - [blackhatlegend/CVE-2026-0745](https://github.com/blackhatlegend/CVE-2026-0745)	<img alt="forks" src="https://img.shields.io/github/forks/blackhatlegend/CVE-2026-0745">	<img alt="stars" src="https://img.shields.io/github/stars/blackhatlegend/CVE-2026-0745">
+
+---
+## CVE-2026-0740 ()
+> 
+- [xShadow-Here/CVE-2026-0740](https://github.com/xShadow-Here/CVE-2026-0740)	<img alt="forks" src="https://img.shields.io/github/forks/xShadow-Here/CVE-2026-0740">	<img alt="stars" src="https://img.shields.io/github/stars/xShadow-Here/CVE-2026-0740">
 
 ---
 ## CVE-2026-0730 ()
