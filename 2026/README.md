@@ -26,6 +26,11 @@
 - [Lechansky/CVE-2026-5733](https://github.com/Lechansky/CVE-2026-5733)	<img alt="forks" src="https://img.shields.io/github/forks/Lechansky/CVE-2026-5733">	<img alt="stars" src="https://img.shields.io/github/stars/Lechansky/CVE-2026-5733">
 
 ---
+## CVE-2026-5530 ()
+> 
+- [davidrxchester/CVE-2026-5530](https://github.com/davidrxchester/CVE-2026-5530)	<img alt="forks" src="https://img.shields.io/github/forks/davidrxchester/CVE-2026-5530">	<img alt="stars" src="https://img.shields.io/github/stars/davidrxchester/CVE-2026-5530">
+
+---
 ## CVE-2026-5465 ()
 > 
 - [kaleth4/CVE-2026-5465](https://github.com/kaleth4/CVE-2026-5465)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-5465">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-5465">
@@ -171,6 +176,11 @@
 - [z3r0h3ro/CVE-2026-35616-poc](https://github.com/z3r0h3ro/CVE-2026-35616-poc)	<img alt="forks" src="https://img.shields.io/github/forks/z3r0h3ro/CVE-2026-35616-poc">	<img alt="stars" src="https://img.shields.io/github/stars/z3r0h3ro/CVE-2026-35616-poc">
 - [fevar54/CVE-2026-35616-detector.py](https://github.com/fevar54/CVE-2026-35616-detector.py)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-35616-detector.py">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-35616-detector.py">
 - [BishopFox/CVE-2026-35616-check](https://github.com/BishopFox/CVE-2026-35616-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2026-35616-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2026-35616-check">
+
+---
+## CVE-2026-35584 ()
+> 
+- [LeonardoNovais7/CVE-2026-35584](https://github.com/LeonardoNovais7/CVE-2026-35584)	<img alt="forks" src="https://img.shields.io/github/forks/LeonardoNovais7/CVE-2026-35584">	<img alt="stars" src="https://img.shields.io/github/stars/LeonardoNovais7/CVE-2026-35584">
 
 ---
 ## CVE-2026-35570 ()
