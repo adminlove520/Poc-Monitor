@@ -241,6 +241,7 @@
 - [DEVSECURITYSPRO/CVE-2026-34197](https://github.com/DEVSECURITYSPRO/CVE-2026-34197)	<img alt="forks" src="https://img.shields.io/github/forks/DEVSECURITYSPRO/CVE-2026-34197">	<img alt="stars" src="https://img.shields.io/github/stars/DEVSECURITYSPRO/CVE-2026-34197">
 - [AtoposX-J/CVE-2026-34197-Apache-ActiveMQ-RCE](https://github.com/AtoposX-J/CVE-2026-34197-Apache-ActiveMQ-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AtoposX-J/CVE-2026-34197-Apache-ActiveMQ-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AtoposX-J/CVE-2026-34197-Apache-ActiveMQ-RCE">
 - [KONDORDEVSECURITYCORP/CVE-2026-34197](https://github.com/KONDORDEVSECURITYCORP/CVE-2026-34197)	<img alt="forks" src="https://img.shields.io/github/forks/KONDORDEVSECURITYCORP/CVE-2026-34197">	<img alt="stars" src="https://img.shields.io/github/stars/KONDORDEVSECURITYCORP/CVE-2026-34197">
+- [hg0434hongzh0/CVE-2026-34197](https://github.com/hg0434hongzh0/CVE-2026-34197)	<img alt="forks" src="https://img.shields.io/github/forks/hg0434hongzh0/CVE-2026-34197">	<img alt="stars" src="https://img.shields.io/github/stars/hg0434hongzh0/CVE-2026-34197">
 
 ---
 ## CVE-2026-34156 ()
@@ -354,6 +355,11 @@
 ## CVE-2026-3304 ()
 > 
 - [Mkway/CVE-2026-3304](https://github.com/Mkway/CVE-2026-3304)	<img alt="forks" src="https://img.shields.io/github/forks/Mkway/CVE-2026-3304">	<img alt="stars" src="https://img.shields.io/github/stars/Mkway/CVE-2026-3304">
+
+---
+## CVE-2026-33033 ()
+> 
+- [ch4n3-yoon/CVE-2026-33033-PoC](https://github.com/ch4n3-yoon/CVE-2026-33033-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ch4n3-yoon/CVE-2026-33033-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ch4n3-yoon/CVE-2026-33033-PoC">
 
 ---
 ## CVE-2026-33032 ()
@@ -2206,6 +2212,11 @@
 - [rootdirective-sec/CVE-2026-1357-Lab](https://github.com/rootdirective-sec/CVE-2026-1357-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-1357-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-1357-Lab">
 - [CVEs-Labs/CVE-2026-1357](https://github.com/CVEs-Labs/CVE-2026-1357)	<img alt="forks" src="https://img.shields.io/github/forks/CVEs-Labs/CVE-2026-1357">	<img alt="stars" src="https://img.shields.io/github/stars/CVEs-Labs/CVE-2026-1357">
 - [Nxploited/CVE-2026-1357](https://github.com/Nxploited/CVE-2026-1357)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-1357">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-1357">
+
+---
+## CVE-2026-1312 ()
+> 
+- [alpinine/CVE-2026-1312-Testing](https://github.com/alpinine/CVE-2026-1312-Testing)	<img alt="forks" src="https://img.shields.io/github/forks/alpinine/CVE-2026-1312-Testing">	<img alt="stars" src="https://img.shields.io/github/stars/alpinine/CVE-2026-1312-Testing">
 
 ---
 ## CVE-2026-1311 ()
