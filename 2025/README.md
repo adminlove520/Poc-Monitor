@@ -4070,6 +4070,7 @@
 - [oscar-mine/R2SAE](https://github.com/oscar-mine/R2SAE)	<img alt="forks" src="https://img.shields.io/github/forks/oscar-mine/R2SAE">	<img alt="stars" src="https://img.shields.io/github/stars/oscar-mine/R2SAE">
 - [DeDnY/CVE-2025-55182-poc-panel](https://github.com/DeDnY/CVE-2025-55182-poc-panel)	<img alt="forks" src="https://img.shields.io/github/forks/DeDnY/CVE-2025-55182-poc-panel">	<img alt="stars" src="https://img.shields.io/github/stars/DeDnY/CVE-2025-55182-poc-panel">
 - [AbdullahMaqbool22/Explosive-As-Hell-MCS-Qualifer-Web-500](https://github.com/AbdullahMaqbool22/Explosive-As-Hell-MCS-Qualifer-Web-500)	<img alt="forks" src="https://img.shields.io/github/forks/AbdullahMaqbool22/Explosive-As-Hell-MCS-Qualifer-Web-500">	<img alt="stars" src="https://img.shields.io/github/stars/AbdullahMaqbool22/Explosive-As-Hell-MCS-Qualifer-Web-500">
+- [opsecramdan/react2shell-cve-2025-55182](https://github.com/opsecramdan/react2shell-cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/opsecramdan/react2shell-cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/opsecramdan/react2shell-cve-2025-55182">
 
 ---
 ## CVE-2025-55130 ()
