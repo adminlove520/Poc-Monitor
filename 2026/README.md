@@ -298,6 +298,12 @@
 - [KeulenR01/Remediate-AdobeAcrobat-CVE-2026-34621](https://github.com/KeulenR01/Remediate-AdobeAcrobat-CVE-2026-34621)	<img alt="forks" src="https://img.shields.io/github/forks/KeulenR01/Remediate-AdobeAcrobat-CVE-2026-34621">	<img alt="stars" src="https://img.shields.io/github/stars/KeulenR01/Remediate-AdobeAcrobat-CVE-2026-34621">
 
 ---
+## CVE-2026-34486 ()
+> 
+- [AirSkye/CVE-2026-34486-poc](https://github.com/AirSkye/CVE-2026-34486-poc)	<img alt="forks" src="https://img.shields.io/github/forks/AirSkye/CVE-2026-34486-poc">	<img alt="stars" src="https://img.shields.io/github/stars/AirSkye/CVE-2026-34486-poc">
+- [punitdarji/tomcat-cve-2026-34486](https://github.com/punitdarji/tomcat-cve-2026-34486)	<img alt="forks" src="https://img.shields.io/github/forks/punitdarji/tomcat-cve-2026-34486">	<img alt="stars" src="https://img.shields.io/github/stars/punitdarji/tomcat-cve-2026-34486">
+
+---
 ## CVE-2026-34444 ()
 > 
 - [redyank/CVE-2026-34444](https://github.com/redyank/CVE-2026-34444)	<img alt="forks" src="https://img.shields.io/github/forks/redyank/CVE-2026-34444">	<img alt="stars" src="https://img.shields.io/github/stars/redyank/CVE-2026-34444">

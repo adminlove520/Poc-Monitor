@@ -4813,6 +4813,11 @@
 - [ajtazer/CVE-2025-51471-POC](https://github.com/ajtazer/CVE-2025-51471-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ajtazer/CVE-2025-51471-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ajtazer/CVE-2025-51471-POC">
 
 ---
+## CVE-2025-51458 ()
+> 
+- [q1uf3ng/CVE-2025-51458-exp](https://github.com/q1uf3ng/CVE-2025-51458-exp)	<img alt="forks" src="https://img.shields.io/github/forks/q1uf3ng/CVE-2025-51458-exp">	<img alt="stars" src="https://img.shields.io/github/stars/q1uf3ng/CVE-2025-51458-exp">
+
+---
 ## CVE-2025-51411 ()
 > 
 - [tansique-17/CVE-2025-51411](https://github.com/tansique-17/CVE-2025-51411)	<img alt="forks" src="https://img.shields.io/github/forks/tansique-17/CVE-2025-51411">	<img alt="stars" src="https://img.shields.io/github/stars/tansique-17/CVE-2025-51411">
