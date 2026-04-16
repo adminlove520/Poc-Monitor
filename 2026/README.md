@@ -338,6 +338,7 @@
 - [punitdarji/tomcat-cve-2026-34486](https://github.com/punitdarji/tomcat-cve-2026-34486)	<img alt="forks" src="https://img.shields.io/github/forks/punitdarji/tomcat-cve-2026-34486">	<img alt="stars" src="https://img.shields.io/github/stars/punitdarji/tomcat-cve-2026-34486">
 - [404-src/CVE-2026-34486](https://github.com/404-src/CVE-2026-34486)	<img alt="forks" src="https://img.shields.io/github/forks/404-src/CVE-2026-34486">	<img alt="stars" src="https://img.shields.io/github/stars/404-src/CVE-2026-34486">
 - [404-src/CVE-2026-34486](https://github.com/404-src/CVE-2026-34486)	<img alt="forks" src="https://img.shields.io/github/forks/404-src/CVE-2026-34486">	<img alt="stars" src="https://img.shields.io/github/stars/404-src/CVE-2026-34486">
+- [helGayhub233/CVE-2026-34486-Tribes](https://github.com/helGayhub233/CVE-2026-34486-Tribes)	<img alt="forks" src="https://img.shields.io/github/forks/helGayhub233/CVE-2026-34486-Tribes">	<img alt="stars" src="https://img.shields.io/github/stars/helGayhub233/CVE-2026-34486-Tribes">
 
 ---
 ## CVE-2026-34444 ()
@@ -2366,6 +2367,11 @@
 ## CVE-2026-1953 ()
 > 
 - [carlosbudiman/CVE-2026-1953-Disclosure](https://github.com/carlosbudiman/CVE-2026-1953-Disclosure)	<img alt="forks" src="https://img.shields.io/github/forks/carlosbudiman/CVE-2026-1953-Disclosure">	<img alt="stars" src="https://img.shields.io/github/stars/carlosbudiman/CVE-2026-1953-Disclosure">
+
+---
+## CVE-2026-1880 ()
+> 
+- [seokjohn/CVE-2026-1880](https://github.com/seokjohn/CVE-2026-1880)	<img alt="forks" src="https://img.shields.io/github/forks/seokjohn/CVE-2026-1880">	<img alt="stars" src="https://img.shields.io/github/stars/seokjohn/CVE-2026-1880">
 
 ---
 ## CVE-2026-1862 ()
