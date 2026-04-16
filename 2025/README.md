@@ -2612,6 +2612,7 @@
 - [Kamigold/Flowise-RCE](https://github.com/Kamigold/Flowise-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Kamigold/Flowise-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Kamigold/Flowise-RCE">
 - [AzureADTrent/CVE-2025-58434-59528](https://github.com/AzureADTrent/CVE-2025-58434-59528)	<img alt="forks" src="https://img.shields.io/github/forks/AzureADTrent/CVE-2025-58434-59528">	<img alt="stars" src="https://img.shields.io/github/stars/AzureADTrent/CVE-2025-58434-59528">
 - [vanhari/CVE-2025-59528](https://github.com/vanhari/CVE-2025-59528)	<img alt="forks" src="https://img.shields.io/github/forks/vanhari/CVE-2025-59528">	<img alt="stars" src="https://img.shields.io/github/stars/vanhari/CVE-2025-59528">
+- [danhle5402/CVE-2025-59528](https://github.com/danhle5402/CVE-2025-59528)	<img alt="forks" src="https://img.shields.io/github/forks/danhle5402/CVE-2025-59528">	<img alt="stars" src="https://img.shields.io/github/stars/danhle5402/CVE-2025-59528">
 
 ---
 ## CVE-2025-59503 ()
