@@ -1396,6 +1396,8 @@
 - [EQSTLab/CVE-2026-25253](https://github.com/EQSTLab/CVE-2026-25253)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-25253">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-25253">
 - [FrigateCaptain/openclaw_vulnerabilities_and_solutions](https://github.com/FrigateCaptain/openclaw_vulnerabilities_and_solutions)	<img alt="forks" src="https://img.shields.io/github/forks/FrigateCaptain/openclaw_vulnerabilities_and_solutions">	<img alt="stars" src="https://img.shields.io/github/stars/FrigateCaptain/openclaw_vulnerabilities_and_solutions">
 - [Ckokoski/moatbot-security](https://github.com/Ckokoski/moatbot-security)	<img alt="forks" src="https://img.shields.io/github/forks/Ckokoski/moatbot-security">	<img alt="stars" src="https://img.shields.io/github/stars/Ckokoski/moatbot-security">
+- [msaleme/start-here](https://github.com/msaleme/start-here)	<img alt="forks" src="https://img.shields.io/github/forks/msaleme/start-here">	<img alt="stars" src="https://img.shields.io/github/stars/msaleme/start-here">
+- [ZhaoymOvO/openclaw-1click-rce-env](https://github.com/ZhaoymOvO/openclaw-1click-rce-env)	<img alt="forks" src="https://img.shields.io/github/forks/ZhaoymOvO/openclaw-1click-rce-env">	<img alt="stars" src="https://img.shields.io/github/stars/ZhaoymOvO/openclaw-1click-rce-env">
 
 ---
 ## CVE-2026-25242 ()
