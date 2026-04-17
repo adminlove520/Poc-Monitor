@@ -932,6 +932,7 @@
 - [0xW1LD/CVE-2026-29000](https://github.com/0xW1LD/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/0xW1LD/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/0xW1LD/CVE-2026-29000">
 - [yasirr10/CVE-2026-29000](https://github.com/yasirr10/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/yasirr10/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/yasirr10/CVE-2026-29000">
 - [Gajraj238/CVE-2026-29000](https://github.com/Gajraj238/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/Gajraj238/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/Gajraj238/CVE-2026-29000">
+- [cipher1x1/CVE-2026-29000](https://github.com/cipher1x1/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/cipher1x1/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/cipher1x1/CVE-2026-29000">
 
 ---
 ## CVE-2026-2898 ()
