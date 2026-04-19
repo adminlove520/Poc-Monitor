@@ -1536,6 +1536,11 @@
 - [0xr2r/CVE-2017-11317-auto-exploit-](https://github.com/0xr2r/CVE-2017-11317-auto-exploit-)	<img alt="forks" src="https://img.shields.io/github/forks/0xr2r/CVE-2017-11317-auto-exploit-">	<img alt="stars" src="https://img.shields.io/github/stars/0xr2r/CVE-2017-11317-auto-exploit-">
 
 ---
+## CVE-2017-11176 ()
+> 
+- [Cyb3rCr0wCC/cve-2017-11176](https://github.com/Cyb3rCr0wCC/cve-2017-11176)	<img alt="forks" src="https://img.shields.io/github/forks/Cyb3rCr0wCC/cve-2017-11176">	<img alt="stars" src="https://img.shields.io/github/stars/Cyb3rCr0wCC/cve-2017-11176">
+
+---
 ## CVE-2017-11165 ()
 > 
 - [xymbiot-solution/CVE-2017-11165](https://github.com/xymbiot-solution/CVE-2017-11165)	<img alt="forks" src="https://img.shields.io/github/forks/xymbiot-solution/CVE-2017-11165">	<img alt="stars" src="https://img.shields.io/github/stars/xymbiot-solution/CVE-2017-11165">
