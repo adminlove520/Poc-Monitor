@@ -321,6 +321,8 @@
 - [fevar54/CVE-2026-35616-detector.py](https://github.com/fevar54/CVE-2026-35616-detector.py)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-35616-detector.py">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-35616-detector.py">
 - [BishopFox/CVE-2026-35616-check](https://github.com/BishopFox/CVE-2026-35616-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2026-35616-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2026-35616-check">
 - [Alaatk/CVE-2026-35616](https://github.com/Alaatk/CVE-2026-35616)	<img alt="forks" src="https://img.shields.io/github/forks/Alaatk/CVE-2026-35616">	<img alt="stars" src="https://img.shields.io/github/stars/Alaatk/CVE-2026-35616">
+- [keraattin/CVE-2026-35616](https://github.com/keraattin/CVE-2026-35616)	<img alt="forks" src="https://img.shields.io/github/forks/keraattin/CVE-2026-35616">	<img alt="stars" src="https://img.shields.io/github/stars/keraattin/CVE-2026-35616">
+- [fevar54/forticlient_ems_cve_2026_35616_poc.py](https://github.com/fevar54/forticlient_ems_cve_2026_35616_poc.py)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/forticlient_ems_cve_2026_35616_poc.py">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/forticlient_ems_cve_2026_35616_poc.py">
 
 ---
 ## CVE-2026-35585 ()
