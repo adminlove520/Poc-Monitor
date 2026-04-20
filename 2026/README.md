@@ -324,6 +324,7 @@
 - [Alaatk/CVE-2026-35616](https://github.com/Alaatk/CVE-2026-35616)	<img alt="forks" src="https://img.shields.io/github/forks/Alaatk/CVE-2026-35616">	<img alt="stars" src="https://img.shields.io/github/stars/Alaatk/CVE-2026-35616">
 - [keraattin/CVE-2026-35616](https://github.com/keraattin/CVE-2026-35616)	<img alt="forks" src="https://img.shields.io/github/forks/keraattin/CVE-2026-35616">	<img alt="stars" src="https://img.shields.io/github/stars/keraattin/CVE-2026-35616">
 - [fevar54/forticlient_ems_cve_2026_35616_poc.py](https://github.com/fevar54/forticlient_ems_cve_2026_35616_poc.py)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/forticlient_ems_cve_2026_35616_poc.py">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/forticlient_ems_cve_2026_35616_poc.py">
+- [wa6n3r/CVE-2026-35616](https://github.com/wa6n3r/CVE-2026-35616)	<img alt="forks" src="https://img.shields.io/github/forks/wa6n3r/CVE-2026-35616">	<img alt="stars" src="https://img.shields.io/github/stars/wa6n3r/CVE-2026-35616">
 
 ---
 ## CVE-2026-35585 ()
