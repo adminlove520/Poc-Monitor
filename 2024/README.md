@@ -5807,6 +5807,7 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [Zedocun/PAN-OS-CVE-2024-3400-Command-Injection-Investigation](https://github.com/Zedocun/PAN-OS-CVE-2024-3400-Command-Injection-Investigation)	<img alt="forks" src="https://img.shields.io/github/forks/Zedocun/PAN-OS-CVE-2024-3400-Command-Injection-Investigation">	<img alt="stars" src="https://img.shields.io/github/stars/Zedocun/PAN-OS-CVE-2024-3400-Command-Injection-Investigation">
 - [SimoesCTT/-CTT-PAN-OS-EXPLOIT-CVE-2024-340](https://github.com/SimoesCTT/-CTT-PAN-OS-EXPLOIT-CVE-2024-340)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/-CTT-PAN-OS-EXPLOIT-CVE-2024-340">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/-CTT-PAN-OS-EXPLOIT-CVE-2024-340">
 - [GhassanSabir/CVE-2024-3400-poc](https://github.com/GhassanSabir/CVE-2024-3400-poc)	<img alt="forks" src="https://img.shields.io/github/forks/GhassanSabir/CVE-2024-3400-poc">	<img alt="stars" src="https://img.shields.io/github/stars/GhassanSabir/CVE-2024-3400-poc">
+- [wa6n3r/CVE-2024-3400](https://github.com/wa6n3r/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/wa6n3r/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/wa6n3r/CVE-2024-3400">
 
 ---
 ## CVE-2024-340 ()
