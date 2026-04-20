@@ -1371,6 +1371,11 @@
 - [diegobaelen/CVE-2026-26012](https://github.com/diegobaelen/CVE-2026-26012)	<img alt="forks" src="https://img.shields.io/github/forks/diegobaelen/CVE-2026-26012">	<img alt="stars" src="https://img.shields.io/github/stars/diegobaelen/CVE-2026-26012">
 
 ---
+## CVE-2026-2600 ()
+> 
+- [FOLKS-iwd/CVE-2026-2600-POC](https://github.com/FOLKS-iwd/CVE-2026-2600-POC)	<img alt="forks" src="https://img.shields.io/github/forks/FOLKS-iwd/CVE-2026-2600-POC">	<img alt="stars" src="https://img.shields.io/github/stars/FOLKS-iwd/CVE-2026-2600-POC">
+
+---
 ## CVE-2026-25994 ()
 > 
 - [VABISMO/cve-2026-25994_PJSIP](https://github.com/VABISMO/cve-2026-25994_PJSIP)	<img alt="forks" src="https://img.shields.io/github/forks/VABISMO/cve-2026-25994_PJSIP">	<img alt="stars" src="https://img.shields.io/github/stars/VABISMO/cve-2026-25994_PJSIP">
