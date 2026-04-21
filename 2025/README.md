@@ -10398,6 +10398,11 @@
 - [Hazelooks/CVE-2025-11499-Exploit](https://github.com/Hazelooks/CVE-2025-11499-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Hazelooks/CVE-2025-11499-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Hazelooks/CVE-2025-11499-Exploit">
 
 ---
+## CVE-2025-11460 ()
+> 
+- [lylzjnqe/CVE-2025-11460-Chrome-RCE](https://github.com/lylzjnqe/CVE-2025-11460-Chrome-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/lylzjnqe/CVE-2025-11460-Chrome-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/lylzjnqe/CVE-2025-11460-Chrome-RCE">
+
+---
 ## CVE-2025-11449 ()
 > 
 - [DanielMadsenDK/ServiceNow-CVE-2025-11449-CVE-2025-11450-Mitigation-Script](https://github.com/DanielMadsenDK/ServiceNow-CVE-2025-11449-CVE-2025-11450-Mitigation-Script)	<img alt="forks" src="https://img.shields.io/github/forks/DanielMadsenDK/ServiceNow-CVE-2025-11449-CVE-2025-11450-Mitigation-Script">	<img alt="stars" src="https://img.shields.io/github/stars/DanielMadsenDK/ServiceNow-CVE-2025-11449-CVE-2025-11450-Mitigation-Script">
