@@ -4115,6 +4115,7 @@
 - [AbdullahMaqbool22/Explosive-As-Hell-MCS-Qualifer-Web-500](https://github.com/AbdullahMaqbool22/Explosive-As-Hell-MCS-Qualifer-Web-500)	<img alt="forks" src="https://img.shields.io/github/forks/AbdullahMaqbool22/Explosive-As-Hell-MCS-Qualifer-Web-500">	<img alt="stars" src="https://img.shields.io/github/stars/AbdullahMaqbool22/Explosive-As-Hell-MCS-Qualifer-Web-500">
 - [opsecramdan/react2shell-cve-2025-55182](https://github.com/opsecramdan/react2shell-cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/opsecramdan/react2shell-cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/opsecramdan/react2shell-cve-2025-55182">
 - [Mohamedniane/cve-2025-55182-analysis](https://github.com/Mohamedniane/cve-2025-55182-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Mohamedniane/cve-2025-55182-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Mohamedniane/cve-2025-55182-analysis">
+- [joaoreis13/flight-risk](https://github.com/joaoreis13/flight-risk)	<img alt="forks" src="https://img.shields.io/github/forks/joaoreis13/flight-risk">	<img alt="stars" src="https://img.shields.io/github/stars/joaoreis13/flight-risk">
 
 ---
 ## CVE-2025-55130 ()
