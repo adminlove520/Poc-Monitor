@@ -16,6 +16,11 @@
 - [davidrxchester/CVE-2026-7720](https://github.com/davidrxchester/CVE-2026-7720)	<img alt="forks" src="https://img.shields.io/github/forks/davidrxchester/CVE-2026-7720">	<img alt="stars" src="https://img.shields.io/github/stars/davidrxchester/CVE-2026-7720">
 
 ---
+## CVE-2026-7020 ()
+> 
+- [davidrxchester/CVE-2026-7020](https://github.com/davidrxchester/CVE-2026-7020)	<img alt="forks" src="https://img.shields.io/github/forks/davidrxchester/CVE-2026-7020">	<img alt="stars" src="https://img.shields.io/github/stars/davidrxchester/CVE-2026-7020">
+
+---
 ## CVE-2026-6849 ()
 > 
 - [osmancanvural/CVE-2026-6849](https://github.com/osmancanvural/CVE-2026-6849)	<img alt="forks" src="https://img.shields.io/github/forks/osmancanvural/CVE-2026-6849">	<img alt="stars" src="https://img.shields.io/github/stars/osmancanvural/CVE-2026-6849">
@@ -327,6 +332,7 @@
 - [tausifzaman/CVE-2026-3844](https://github.com/tausifzaman/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/tausifzaman/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/tausifzaman/CVE-2026-3844">
 - [0xgh057r3c0n/CVE-2026-3844](https://github.com/0xgh057r3c0n/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2026-3844">
 - [im-hanzou/CVE-2026-3844](https://github.com/im-hanzou/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/im-hanzou/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/im-hanzou/CVE-2026-3844">
+- [dinosn/CVE-2026-3844](https://github.com/dinosn/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/CVE-2026-3844">
 
 ---
 ## CVE-2026-3805 ()
