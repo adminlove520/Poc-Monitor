@@ -105,6 +105,7 @@
 ## CVE-2019-9511 ()
 > 
 - [harley-ghostie/CVE-2019-9511_Priority-Churn-Data-Dribble](https://github.com/harley-ghostie/CVE-2019-9511_Priority-Churn-Data-Dribble)	<img alt="forks" src="https://img.shields.io/github/forks/harley-ghostie/CVE-2019-9511_Priority-Churn-Data-Dribble">	<img alt="stars" src="https://img.shields.io/github/stars/harley-ghostie/CVE-2019-9511_Priority-Churn-Data-Dribble">
+- [flyniu666/ingress-nginx-0.21-1.19.5](https://github.com/flyniu666/ingress-nginx-0.21-1.19.5)	<img alt="forks" src="https://img.shields.io/github/forks/flyniu666/ingress-nginx-0.21-1.19.5">	<img alt="stars" src="https://img.shields.io/github/stars/flyniu666/ingress-nginx-0.21-1.19.5">
 
 ---
 ## CVE-2019-9433 (2019-09-27T19:15:00)
