@@ -239,6 +239,8 @@
 - [adriyansyah-mf/cve-2026-41940-poc](https://github.com/adriyansyah-mf/cve-2026-41940-poc)	<img alt="forks" src="https://img.shields.io/github/forks/adriyansyah-mf/cve-2026-41940-poc">	<img alt="stars" src="https://img.shields.io/github/stars/adriyansyah-mf/cve-2026-41940-poc">
 - [debugactiveprocess/cPanel-WHM-AuthBypass-Session-Checker](https://github.com/debugactiveprocess/cPanel-WHM-AuthBypass-Session-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/debugactiveprocess/cPanel-WHM-AuthBypass-Session-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/debugactiveprocess/cPanel-WHM-AuthBypass-Session-Checker">
 - [ilmndwntr/CVE-2026-41940-MASS-EXPLOIT](https://github.com/ilmndwntr/CVE-2026-41940-MASS-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/ilmndwntr/CVE-2026-41940-MASS-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/ilmndwntr/CVE-2026-41940-MASS-EXPLOIT">
+- [0xabdoulaye/CPANEL-CVE-2026-41940](https://github.com/0xabdoulaye/CPANEL-CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/0xabdoulaye/CPANEL-CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/0xabdoulaye/CPANEL-CVE-2026-41940">
+- [rfxn/cpanel-sessionscribe](https://github.com/rfxn/cpanel-sessionscribe)	<img alt="forks" src="https://img.shields.io/github/forks/rfxn/cpanel-sessionscribe">	<img alt="stars" src="https://img.shields.io/github/stars/rfxn/cpanel-sessionscribe">
 
 ---
 ## CVE-2026-41679 ()
@@ -340,6 +342,11 @@
 ## CVE-2026-39983 ()
 > 
 - [zebbernCVE/CVE-2026-39983](https://github.com/zebbernCVE/CVE-2026-39983)	<img alt="forks" src="https://img.shields.io/github/forks/zebbernCVE/CVE-2026-39983">	<img alt="stars" src="https://img.shields.io/github/stars/zebbernCVE/CVE-2026-39983">
+
+---
+## CVE-2026-39973 ()
+> 
+- [frawlaboy/CVE-2026-39973-PoC](https://github.com/frawlaboy/CVE-2026-39973-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/frawlaboy/CVE-2026-39973-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/frawlaboy/CVE-2026-39973-PoC">
 
 ---
 ## CVE-2026-39912 ()
@@ -980,6 +987,7 @@
 ## CVE-2026-32202 ()
 > 
 - [solarlynxsqueeze/CVE-2026-32202](https://github.com/solarlynxsqueeze/CVE-2026-32202)	<img alt="forks" src="https://img.shields.io/github/forks/solarlynxsqueeze/CVE-2026-32202">	<img alt="stars" src="https://img.shields.io/github/stars/solarlynxsqueeze/CVE-2026-32202">
+- [virus-or-not/CVE-2026-32202](https://github.com/virus-or-not/CVE-2026-32202)	<img alt="forks" src="https://img.shields.io/github/forks/virus-or-not/CVE-2026-32202">	<img alt="stars" src="https://img.shields.io/github/stars/virus-or-not/CVE-2026-32202">
 
 ---
 ## CVE-2026-32201 ()
@@ -1404,6 +1412,7 @@
 - [yasirr10/CVE-2026-29000](https://github.com/yasirr10/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/yasirr10/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/yasirr10/CVE-2026-29000">
 - [Gajraj238/CVE-2026-29000](https://github.com/Gajraj238/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/Gajraj238/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/Gajraj238/CVE-2026-29000">
 - [cipher1x1/CVE-2026-29000](https://github.com/cipher1x1/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/cipher1x1/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/cipher1x1/CVE-2026-29000">
+- [jake-young-dev/CVE-2026-29000](https://github.com/jake-young-dev/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/jake-young-dev/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/jake-young-dev/CVE-2026-29000">
 
 ---
 ## CVE-2026-2898 ()
