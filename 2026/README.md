@@ -241,6 +241,8 @@
 - [ilmndwntr/CVE-2026-41940-MASS-EXPLOIT](https://github.com/ilmndwntr/CVE-2026-41940-MASS-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/ilmndwntr/CVE-2026-41940-MASS-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/ilmndwntr/CVE-2026-41940-MASS-EXPLOIT">
 - [0xabdoulaye/CPANEL-CVE-2026-41940](https://github.com/0xabdoulaye/CPANEL-CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/0xabdoulaye/CPANEL-CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/0xabdoulaye/CPANEL-CVE-2026-41940">
 - [rfxn/cpanel-sessionscribe](https://github.com/rfxn/cpanel-sessionscribe)	<img alt="forks" src="https://img.shields.io/github/forks/rfxn/cpanel-sessionscribe">	<img alt="stars" src="https://img.shields.io/github/stars/rfxn/cpanel-sessionscribe">
+- [AndreiG6/cpanel-cve-2026-41940-ioc](https://github.com/AndreiG6/cpanel-cve-2026-41940-ioc)	<img alt="forks" src="https://img.shields.io/github/forks/AndreiG6/cpanel-cve-2026-41940-ioc">	<img alt="stars" src="https://img.shields.io/github/stars/AndreiG6/cpanel-cve-2026-41940-ioc">
+- [shahidmallaofficial/cpanel-cve-2026-41940-fix](https://github.com/shahidmallaofficial/cpanel-cve-2026-41940-fix)	<img alt="forks" src="https://img.shields.io/github/forks/shahidmallaofficial/cpanel-cve-2026-41940-fix">	<img alt="stars" src="https://img.shields.io/github/stars/shahidmallaofficial/cpanel-cve-2026-41940-fix">
 
 ---
 ## CVE-2026-41679 ()
@@ -1151,6 +1153,10 @@
 - [weirdindiankid/copy-fail](https://github.com/weirdindiankid/copy-fail)	<img alt="forks" src="https://img.shields.io/github/forks/weirdindiankid/copy-fail">	<img alt="stars" src="https://img.shields.io/github/stars/weirdindiankid/copy-fail">
 - [mhdgning131/CopyFail-Patcher](https://github.com/mhdgning131/CopyFail-Patcher)	<img alt="forks" src="https://img.shields.io/github/forks/mhdgning131/CopyFail-Patcher">	<img alt="stars" src="https://img.shields.io/github/stars/mhdgning131/CopyFail-Patcher">
 - [vynazevedo/fail-CVE-2026-31431](https://github.com/vynazevedo/fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/vynazevedo/fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/vynazevedo/fail-CVE-2026-31431">
+- [Dabbleam/CVE-2026-31431-mitigation](https://github.com/Dabbleam/CVE-2026-31431-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/Dabbleam/CVE-2026-31431-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/Dabbleam/CVE-2026-31431-mitigation">
+- [pcdoyle/copy-fail-cve-2026-31431](https://github.com/pcdoyle/copy-fail-cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/pcdoyle/copy-fail-cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/pcdoyle/copy-fail-cve-2026-31431">
+- [Koke-Seas/CVE-2026-31431-CopyFail](https://github.com/Koke-Seas/CVE-2026-31431-CopyFail)	<img alt="forks" src="https://img.shields.io/github/forks/Koke-Seas/CVE-2026-31431-CopyFail">	<img alt="stars" src="https://img.shields.io/github/stars/Koke-Seas/CVE-2026-31431-CopyFail">
+- [websecnl/CVE-2026-31431](https://github.com/websecnl/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/websecnl/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/websecnl/CVE-2026-31431">
 
 ---
 ## CVE-2026-31413 ()
