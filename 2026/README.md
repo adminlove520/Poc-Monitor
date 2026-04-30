@@ -211,6 +211,11 @@
 - [0xgh057r3c0n/CVE-2026-4257](https://github.com/0xgh057r3c0n/CVE-2026-4257)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2026-4257">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2026-4257">
 
 ---
+## CVE-2026-42281 ()
+> 
+- [Astaruf/CVE-2026-42281](https://github.com/Astaruf/CVE-2026-42281)	<img alt="forks" src="https://img.shields.io/github/forks/Astaruf/CVE-2026-42281">	<img alt="stars" src="https://img.shields.io/github/stars/Astaruf/CVE-2026-42281">
+
+---
 ## CVE-2026-42208 ()
 > 
 - [imjdl/CVE-2026-42208_lab](https://github.com/imjdl/CVE-2026-42208_lab)	<img alt="forks" src="https://img.shields.io/github/forks/imjdl/CVE-2026-42208_lab">	<img alt="stars" src="https://img.shields.io/github/stars/imjdl/CVE-2026-42208_lab">
@@ -243,6 +248,7 @@
 - [rfxn/cpanel-sessionscribe](https://github.com/rfxn/cpanel-sessionscribe)	<img alt="forks" src="https://img.shields.io/github/forks/rfxn/cpanel-sessionscribe">	<img alt="stars" src="https://img.shields.io/github/stars/rfxn/cpanel-sessionscribe">
 - [AndreiG6/cpanel-cve-2026-41940-ioc](https://github.com/AndreiG6/cpanel-cve-2026-41940-ioc)	<img alt="forks" src="https://img.shields.io/github/forks/AndreiG6/cpanel-cve-2026-41940-ioc">	<img alt="stars" src="https://img.shields.io/github/stars/AndreiG6/cpanel-cve-2026-41940-ioc">
 - [shahidmallaofficial/cpanel-cve-2026-41940-fix](https://github.com/shahidmallaofficial/cpanel-cve-2026-41940-fix)	<img alt="forks" src="https://img.shields.io/github/forks/shahidmallaofficial/cpanel-cve-2026-41940-fix">	<img alt="stars" src="https://img.shields.io/github/stars/shahidmallaofficial/cpanel-cve-2026-41940-fix">
+- [zedxod/CVE-2026-41940-POC](https://github.com/zedxod/CVE-2026-41940-POC)	<img alt="forks" src="https://img.shields.io/github/forks/zedxod/CVE-2026-41940-POC">	<img alt="stars" src="https://img.shields.io/github/stars/zedxod/CVE-2026-41940-POC">
 
 ---
 ## CVE-2026-41679 ()
@@ -1160,6 +1166,21 @@
 - [liamromanis101/CVE-2026-31431-Copy-Fail---Vulnerability-Detection-Script](https://github.com/liamromanis101/CVE-2026-31431-Copy-Fail---Vulnerability-Detection-Script)	<img alt="forks" src="https://img.shields.io/github/forks/liamromanis101/CVE-2026-31431-Copy-Fail---Vulnerability-Detection-Script">	<img alt="stars" src="https://img.shields.io/github/stars/liamromanis101/CVE-2026-31431-Copy-Fail---Vulnerability-Detection-Script">
 - [DENNISDGR/CVE-2026-31431-poc](https://github.com/DENNISDGR/CVE-2026-31431-poc)	<img alt="forks" src="https://img.shields.io/github/forks/DENNISDGR/CVE-2026-31431-poc">	<img alt="stars" src="https://img.shields.io/github/stars/DENNISDGR/CVE-2026-31431-poc">
 - [yuspring/cve-2026-31431-poc](https://github.com/yuspring/cve-2026-31431-poc)	<img alt="forks" src="https://img.shields.io/github/forks/yuspring/cve-2026-31431-poc">	<img alt="stars" src="https://img.shields.io/github/stars/yuspring/cve-2026-31431-poc">
+- [B1gN0Se/copy-fail-CVE-2026-31431](https://github.com/B1gN0Se/copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/B1gN0Se/copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/B1gN0Se/copy-fail-CVE-2026-31431">
+- [mym0us3r/COPY-FAIL-Detection-with-Wazuh-4.14.4](https://github.com/mym0us3r/COPY-FAIL-Detection-with-Wazuh-4.14.4)	<img alt="forks" src="https://img.shields.io/github/forks/mym0us3r/COPY-FAIL-Detection-with-Wazuh-4.14.4">	<img alt="stars" src="https://img.shields.io/github/stars/mym0us3r/COPY-FAIL-Detection-with-Wazuh-4.14.4">
+- [meowteusz/copyfailautopatch](https://github.com/meowteusz/copyfailautopatch)	<img alt="forks" src="https://img.shields.io/github/forks/meowteusz/copyfailautopatch">	<img alt="stars" src="https://img.shields.io/github/stars/meowteusz/copyfailautopatch">
+- [mishl-dev/CVE_2026_31431](https://github.com/mishl-dev/CVE_2026_31431)	<img alt="forks" src="https://img.shields.io/github/forks/mishl-dev/CVE_2026_31431">	<img alt="stars" src="https://img.shields.io/github/stars/mishl-dev/CVE_2026_31431">
+- [Juguitos/copy-fail](https://github.com/Juguitos/copy-fail)	<img alt="forks" src="https://img.shields.io/github/forks/Juguitos/copy-fail">	<img alt="stars" src="https://img.shields.io/github/stars/Juguitos/copy-fail">
+- [devstuff/harden-docker-seccomp](https://github.com/devstuff/harden-docker-seccomp)	<img alt="forks" src="https://img.shields.io/github/forks/devstuff/harden-docker-seccomp">	<img alt="stars" src="https://img.shields.io/github/stars/devstuff/harden-docker-seccomp">
+- [diemoeve/copyfail-rs](https://github.com/diemoeve/copyfail-rs)	<img alt="forks" src="https://img.shields.io/github/forks/diemoeve/copyfail-rs">	<img alt="stars" src="https://img.shields.io/github/stars/diemoeve/copyfail-rs">
+- [selectel/mks-copy-fail-mitigation](https://github.com/selectel/mks-copy-fail-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/selectel/mks-copy-fail-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/selectel/mks-copy-fail-mitigation">
+- [Koke-Seas/COPY-FAIL-CVE](https://github.com/Koke-Seas/COPY-FAIL-CVE)	<img alt="forks" src="https://img.shields.io/github/forks/Koke-Seas/COPY-FAIL-CVE">	<img alt="stars" src="https://img.shields.io/github/stars/Koke-Seas/COPY-FAIL-CVE">
+- [ShorterKing/Copyfail-rust](https://github.com/ShorterKing/Copyfail-rust)	<img alt="forks" src="https://img.shields.io/github/forks/ShorterKing/Copyfail-rust">	<img alt="stars" src="https://img.shields.io/github/stars/ShorterKing/Copyfail-rust">
+
+---
+## CVE-2026-3143 ()
+> 
+- [maniakh/CVE-2026-3143---Copy-Fail-PoC](https://github.com/maniakh/CVE-2026-3143---Copy-Fail-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/maniakh/CVE-2026-3143---Copy-Fail-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/maniakh/CVE-2026-3143---Copy-Fail-PoC">
 
 ---
 ## CVE-2026-31413 ()
