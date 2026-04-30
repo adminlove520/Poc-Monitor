@@ -1157,6 +1157,9 @@
 - [pcdoyle/copy-fail-cve-2026-31431](https://github.com/pcdoyle/copy-fail-cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/pcdoyle/copy-fail-cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/pcdoyle/copy-fail-cve-2026-31431">
 - [Koke-Seas/CVE-2026-31431-CopyFail](https://github.com/Koke-Seas/CVE-2026-31431-CopyFail)	<img alt="forks" src="https://img.shields.io/github/forks/Koke-Seas/CVE-2026-31431-CopyFail">	<img alt="stars" src="https://img.shields.io/github/stars/Koke-Seas/CVE-2026-31431-CopyFail">
 - [websecnl/CVE-2026-31431](https://github.com/websecnl/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/websecnl/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/websecnl/CVE-2026-31431">
+- [liamromanis101/CVE-2026-31431-Copy-Fail---Vulnerability-Detection-Script](https://github.com/liamromanis101/CVE-2026-31431-Copy-Fail---Vulnerability-Detection-Script)	<img alt="forks" src="https://img.shields.io/github/forks/liamromanis101/CVE-2026-31431-Copy-Fail---Vulnerability-Detection-Script">	<img alt="stars" src="https://img.shields.io/github/stars/liamromanis101/CVE-2026-31431-Copy-Fail---Vulnerability-Detection-Script">
+- [DENNISDGR/CVE-2026-31431-poc](https://github.com/DENNISDGR/CVE-2026-31431-poc)	<img alt="forks" src="https://img.shields.io/github/forks/DENNISDGR/CVE-2026-31431-poc">	<img alt="stars" src="https://img.shields.io/github/stars/DENNISDGR/CVE-2026-31431-poc">
+- [yuspring/cve-2026-31431-poc](https://github.com/yuspring/cve-2026-31431-poc)	<img alt="forks" src="https://img.shields.io/github/forks/yuspring/cve-2026-31431-poc">	<img alt="stars" src="https://img.shields.io/github/stars/yuspring/cve-2026-31431-poc">
 
 ---
 ## CVE-2026-31413 ()
