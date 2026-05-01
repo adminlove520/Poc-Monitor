@@ -263,6 +263,7 @@
 - [0dev1337/cpanelscanner](https://github.com/0dev1337/cpanelscanner)	<img alt="forks" src="https://img.shields.io/github/forks/0dev1337/cpanelscanner">	<img alt="stars" src="https://img.shields.io/github/stars/0dev1337/cpanelscanner">
 - [Jenderal92/CVE-2026-41940](https://github.com/Jenderal92/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2026-41940">
 - [kmaruthisrikar/CVE-2026-41940-cPanel-Auth-Bypass-Exploit](https://github.com/kmaruthisrikar/CVE-2026-41940-cPanel-Auth-Bypass-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/kmaruthisrikar/CVE-2026-41940-cPanel-Auth-Bypass-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/kmaruthisrikar/CVE-2026-41940-cPanel-Auth-Bypass-Exploit">
+- [XsanFlip/poc-cpanel-cve-2026-41940](https://github.com/XsanFlip/poc-cpanel-cve-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/XsanFlip/poc-cpanel-cve-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/XsanFlip/poc-cpanel-cve-2026-41940">
 
 ---
 ## CVE-2026-41679 ()
@@ -1236,6 +1237,7 @@
 - [ben-slates/CVE-2026-31431-Exploit](https://github.com/ben-slates/CVE-2026-31431-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ben-slates/CVE-2026-31431-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ben-slates/CVE-2026-31431-Exploit">
 - [ExploitEoom/CVE-2026-31431](https://github.com/ExploitEoom/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/ExploitEoom/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/ExploitEoom/CVE-2026-31431">
 - [sercuritycyber/COPY-FAIL-CVE-2026-31431](https://github.com/sercuritycyber/COPY-FAIL-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/sercuritycyber/COPY-FAIL-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/sercuritycyber/COPY-FAIL-CVE-2026-31431">
+- [1amBa7Man/Linux-copy-fail-cve-2026-31431](https://github.com/1amBa7Man/Linux-copy-fail-cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/1amBa7Man/Linux-copy-fail-cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/1amBa7Man/Linux-copy-fail-cve-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
