@@ -1245,6 +1245,7 @@
 - [bootsareme/copyfail-deconstructed](https://github.com/bootsareme/copyfail-deconstructed)	<img alt="forks" src="https://img.shields.io/github/forks/bootsareme/copyfail-deconstructed">	<img alt="stars" src="https://img.shields.io/github/stars/bootsareme/copyfail-deconstructed">
 - [mrunalp/block-copyfail](https://github.com/mrunalp/block-copyfail)	<img alt="forks" src="https://img.shields.io/github/forks/mrunalp/block-copyfail">	<img alt="stars" src="https://img.shields.io/github/stars/mrunalp/block-copyfail">
 - [Lyutoon/CopyFail-Experiment](https://github.com/Lyutoon/CopyFail-Experiment)	<img alt="forks" src="https://img.shields.io/github/forks/Lyutoon/CopyFail-Experiment">	<img alt="stars" src="https://img.shields.io/github/stars/Lyutoon/CopyFail-Experiment">
+- [Shotafry/CopyFail-Exploits-CVE-2026-31431](https://github.com/Shotafry/CopyFail-Exploits-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Shotafry/CopyFail-Exploits-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Shotafry/CopyFail-Exploits-CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
