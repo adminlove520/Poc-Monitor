@@ -256,6 +256,7 @@
 - [Lutfifakee-Project/CVE-2026-41940](https://github.com/Lutfifakee-Project/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/Lutfifakee-Project/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/Lutfifakee-Project/CVE-2026-41940">
 - [unteikyou/CVE-2026-41940-AuthBypass-Detector](https://github.com/unteikyou/CVE-2026-41940-AuthBypass-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/unteikyou/CVE-2026-41940-AuthBypass-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/unteikyou/CVE-2026-41940-AuthBypass-Detector">
 - [NULL200OK/cve-2026-41940-tool](https://github.com/NULL200OK/cve-2026-41940-tool)	<img alt="forks" src="https://img.shields.io/github/forks/NULL200OK/cve-2026-41940-tool">	<img alt="stars" src="https://img.shields.io/github/stars/NULL200OK/cve-2026-41940-tool">
+- [ynsmroztas/cPanelSniper](https://github.com/ynsmroztas/cPanelSniper)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/cPanelSniper">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/cPanelSniper">
 
 ---
 ## CVE-2026-41679 ()
@@ -1211,6 +1212,13 @@
 - [RecoFu/CVE-2026-31431-Copy-Fail](https://github.com/RecoFu/CVE-2026-31431-Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/RecoFu/CVE-2026-31431-Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/RecoFu/CVE-2026-31431-Copy-Fail">
 - [FrosterDL/CVE-2026-31431](https://github.com/FrosterDL/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/FrosterDL/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/FrosterDL/CVE-2026-31431">
 - [kvakirsanov/CVE-2026-31431-live-process-code-injection](https://github.com/kvakirsanov/CVE-2026-31431-live-process-code-injection)	<img alt="forks" src="https://img.shields.io/github/forks/kvakirsanov/CVE-2026-31431-live-process-code-injection">	<img alt="stars" src="https://img.shields.io/github/stars/kvakirsanov/CVE-2026-31431-live-process-code-injection">
+- [sbeteta42/CVE-2026-31431_je_sappelle_RoOt](https://github.com/sbeteta42/CVE-2026-31431_je_sappelle_RoOt)	<img alt="forks" src="https://img.shields.io/github/forks/sbeteta42/CVE-2026-31431_je_sappelle_RoOt">	<img alt="stars" src="https://img.shields.io/github/stars/sbeteta42/CVE-2026-31431_je_sappelle_RoOt">
+- [beatbeast007/Linux-CopyFail-C-Version-CVE-2026-31431](https://github.com/beatbeast007/Linux-CopyFail-C-Version-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/beatbeast007/Linux-CopyFail-C-Version-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/beatbeast007/Linux-CopyFail-C-Version-CVE-2026-31431">
+- [atgreen/block-copyfail](https://github.com/atgreen/block-copyfail)	<img alt="forks" src="https://img.shields.io/github/forks/atgreen/block-copyfail">	<img alt="stars" src="https://img.shields.io/github/stars/atgreen/block-copyfail">
+- [MarioHY/cve_2026_31431_audit](https://github.com/MarioHY/cve_2026_31431_audit)	<img alt="forks" src="https://img.shields.io/github/forks/MarioHY/cve_2026_31431_audit">	<img alt="stars" src="https://img.shields.io/github/stars/MarioHY/cve_2026_31431_audit">
+- [toxy4ny/copy-fail-exploit-on-c-redteam](https://github.com/toxy4ny/copy-fail-exploit-on-c-redteam)	<img alt="forks" src="https://img.shields.io/github/forks/toxy4ny/copy-fail-exploit-on-c-redteam">	<img alt="stars" src="https://img.shields.io/github/stars/toxy4ny/copy-fail-exploit-on-c-redteam">
+- [Koke-Seas/CVE-2026-31431-CopyFail](https://github.com/Koke-Seas/CVE-2026-31431-CopyFail)	<img alt="forks" src="https://img.shields.io/github/forks/Koke-Seas/CVE-2026-31431-CopyFail">	<img alt="stars" src="https://img.shields.io/github/stars/Koke-Seas/CVE-2026-31431-CopyFail">
+- [Nu1i/exploit_cve_2026_31431_py36](https://github.com/Nu1i/exploit_cve_2026_31431_py36)	<img alt="forks" src="https://img.shields.io/github/forks/Nu1i/exploit_cve_2026_31431_py36">	<img alt="stars" src="https://img.shields.io/github/stars/Nu1i/exploit_cve_2026_31431_py36">
 
 ---
 ## CVE-2026-3143 ()
