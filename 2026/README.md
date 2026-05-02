@@ -1318,6 +1318,7 @@
 - [Sl4cK0TH/CVE-2026-31431-PoC](https://github.com/Sl4cK0TH/CVE-2026-31431-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Sl4cK0TH/CVE-2026-31431-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Sl4cK0TH/CVE-2026-31431-PoC">
 - [Huchangzhi/autorootlinux](https://github.com/Huchangzhi/autorootlinux)	<img alt="forks" src="https://img.shields.io/github/forks/Huchangzhi/autorootlinux">	<img alt="stars" src="https://img.shields.io/github/stars/Huchangzhi/autorootlinux">
 - [Gr-1m/CVE-2026-31431](https://github.com/Gr-1m/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Gr-1m/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Gr-1m/CVE-2026-31431">
+- [CybroZeus/Copy-Fail-Exploit-CVE-2026-31431](https://github.com/CybroZeus/Copy-Fail-Exploit-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/CybroZeus/Copy-Fail-Exploit-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/CybroZeus/Copy-Fail-Exploit-CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
