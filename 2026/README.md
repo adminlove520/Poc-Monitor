@@ -16,6 +16,11 @@
 - [davidrxchester/CVE-2026-7720](https://github.com/davidrxchester/CVE-2026-7720)	<img alt="forks" src="https://img.shields.io/github/forks/davidrxchester/CVE-2026-7720">	<img alt="stars" src="https://img.shields.io/github/stars/davidrxchester/CVE-2026-7720">
 
 ---
+## CVE-2026-7671 ()
+> 
+- [CaginKyr/CVE-2026-7671](https://github.com/CaginKyr/CVE-2026-7671)	<img alt="forks" src="https://img.shields.io/github/forks/CaginKyr/CVE-2026-7671">	<img alt="stars" src="https://img.shields.io/github/stars/CaginKyr/CVE-2026-7671">
+
+---
 ## CVE-2026-7567 ()
 > 
 - [amirhosseinjamshidi64/CVE-2026-7567-POC](https://github.com/amirhosseinjamshidi64/CVE-2026-7567-POC)	<img alt="forks" src="https://img.shields.io/github/forks/amirhosseinjamshidi64/CVE-2026-7567-POC">	<img alt="stars" src="https://img.shields.io/github/stars/amirhosseinjamshidi64/CVE-2026-7567-POC">
@@ -286,6 +291,7 @@
 - [MrAriaNet/cPanel-Fix](https://github.com/MrAriaNet/cPanel-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/MrAriaNet/cPanel-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/MrAriaNet/cPanel-Fix">
 - [vineet7800/cpanel-malware-cleaner-cve-2026](https://github.com/vineet7800/cpanel-malware-cleaner-cve-2026)	<img alt="forks" src="https://img.shields.io/github/forks/vineet7800/cpanel-malware-cleaner-cve-2026">	<img alt="stars" src="https://img.shields.io/github/stars/vineet7800/cpanel-malware-cleaner-cve-2026">
 - [ThatNotEasy/CVE-2026-41940](https://github.com/ThatNotEasy/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/ThatNotEasy/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/ThatNotEasy/CVE-2026-41940">
+- [linko-iheb/cve-2026-41940-scanner](https://github.com/linko-iheb/cve-2026-41940-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/linko-iheb/cve-2026-41940-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/linko-iheb/cve-2026-41940-scanner">
 
 ---
 ## CVE-2026-41679 ()
@@ -1306,7 +1312,7 @@
 - [mmionf/copy-fail-CVE-2026-31431](https://github.com/mmionf/copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/mmionf/copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/mmionf/copy-fail-CVE-2026-31431">
 - [pulentoski/CVE-2026-31431-](https://github.com/pulentoski/CVE-2026-31431-)	<img alt="forks" src="https://img.shields.io/github/forks/pulentoski/CVE-2026-31431-">	<img alt="stars" src="https://img.shields.io/github/stars/pulentoski/CVE-2026-31431-">
 - [GOVIND28/-copy-fail-CVE-2026-31431](https://github.com/GOVIND28/-copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/GOVIND28/-copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/GOVIND28/-copy-fail-CVE-2026-31431">
-- [joltcan/ansible-cve-2026-31431-role](https://github.com/joltcan/ansible-cve-2026-31431-role)	<img alt="forks" src="https://img.shields.io/github/forks/joltcan/ansible-cve-2026-31431-role">	<img alt="stars" src="https://img.shields.io/github/stars/joltcan/ansible-cve-2026-31431-role">
+- [joltcan/ansible-role-cve-2026-31431](https://github.com/joltcan/ansible-role-cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/joltcan/ansible-role-cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/joltcan/ansible-role-cve-2026-31431">
 - [pulentoski/CVE-2026-31431](https://github.com/pulentoski/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/pulentoski/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/pulentoski/CVE-2026-31431">
 - [Sl4cK0TH/CVE-2026-31431-PoC](https://github.com/Sl4cK0TH/CVE-2026-31431-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Sl4cK0TH/CVE-2026-31431-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Sl4cK0TH/CVE-2026-31431-PoC">
 - [Huchangzhi/autorootlinux](https://github.com/Huchangzhi/autorootlinux)	<img alt="forks" src="https://img.shields.io/github/forks/Huchangzhi/autorootlinux">	<img alt="stars" src="https://img.shields.io/github/stars/Huchangzhi/autorootlinux">
