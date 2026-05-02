@@ -1305,6 +1305,11 @@
 - [cxwx/cpp-CVE-2026-31431](https://github.com/cxwx/cpp-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/cxwx/cpp-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/cxwx/cpp-CVE-2026-31431">
 - [mmionf/copy-fail-CVE-2026-31431](https://github.com/mmionf/copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/mmionf/copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/mmionf/copy-fail-CVE-2026-31431">
 - [pulentoski/CVE-2026-31431-](https://github.com/pulentoski/CVE-2026-31431-)	<img alt="forks" src="https://img.shields.io/github/forks/pulentoski/CVE-2026-31431-">	<img alt="stars" src="https://img.shields.io/github/stars/pulentoski/CVE-2026-31431-">
+- [GOVIND28/-copy-fail-CVE-2026-31431](https://github.com/GOVIND28/-copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/GOVIND28/-copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/GOVIND28/-copy-fail-CVE-2026-31431">
+- [joltcan/ansible-cve-2026-31431-role](https://github.com/joltcan/ansible-cve-2026-31431-role)	<img alt="forks" src="https://img.shields.io/github/forks/joltcan/ansible-cve-2026-31431-role">	<img alt="stars" src="https://img.shields.io/github/stars/joltcan/ansible-cve-2026-31431-role">
+- [pulentoski/CVE-2026-31431](https://github.com/pulentoski/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/pulentoski/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/pulentoski/CVE-2026-31431">
+- [Sl4cK0TH/CVE-2026-31431-PoC](https://github.com/Sl4cK0TH/CVE-2026-31431-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Sl4cK0TH/CVE-2026-31431-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Sl4cK0TH/CVE-2026-31431-PoC">
+- [Huchangzhi/autorootlinux](https://github.com/Huchangzhi/autorootlinux)	<img alt="forks" src="https://img.shields.io/github/forks/Huchangzhi/autorootlinux">	<img alt="stars" src="https://img.shields.io/github/stars/Huchangzhi/autorootlinux">
 
 ---
 ## CVE-2026-3143 ()
