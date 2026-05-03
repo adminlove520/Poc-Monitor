@@ -582,6 +582,16 @@
 - [yuhuamiao/CVE-2026-36358](https://github.com/yuhuamiao/CVE-2026-36358)	<img alt="forks" src="https://img.shields.io/github/forks/yuhuamiao/CVE-2026-36358">	<img alt="stars" src="https://img.shields.io/github/stars/yuhuamiao/CVE-2026-36358">
 
 ---
+## CVE-2026-36356 ()
+> 
+- [totekuh/CVE-2026-36356](https://github.com/totekuh/CVE-2026-36356)	<img alt="forks" src="https://img.shields.io/github/forks/totekuh/CVE-2026-36356">	<img alt="stars" src="https://img.shields.io/github/stars/totekuh/CVE-2026-36356">
+
+---
+## CVE-2026-36355 ()
+> 
+- [totekuh/CVE-2026-36355](https://github.com/totekuh/CVE-2026-36355)	<img alt="forks" src="https://img.shields.io/github/forks/totekuh/CVE-2026-36355">	<img alt="stars" src="https://img.shields.io/github/stars/totekuh/CVE-2026-36355">
+
+---
 ## CVE-2026-3587 ()
 > 
 - [z3r0h3ro/cve-2026-3587-poc](https://github.com/z3r0h3ro/cve-2026-3587-poc)	<img alt="forks" src="https://img.shields.io/github/forks/z3r0h3ro/cve-2026-3587-poc">	<img alt="stars" src="https://img.shields.io/github/stars/z3r0h3ro/cve-2026-3587-poc">
