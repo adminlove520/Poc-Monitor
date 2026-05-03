@@ -303,6 +303,9 @@
 - [MrOplus/CVE-2026-41940](https://github.com/MrOplus/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/MrOplus/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/MrOplus/CVE-2026-41940">
 - [imbas007/POC_CVE-2026-41940](https://github.com/imbas007/POC_CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/POC_CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/POC_CVE-2026-41940">
 - [tfawnies/CVE-2026-41940-next](https://github.com/tfawnies/CVE-2026-41940-next)	<img alt="forks" src="https://img.shields.io/github/forks/tfawnies/CVE-2026-41940-next">	<img alt="stars" src="https://img.shields.io/github/stars/tfawnies/CVE-2026-41940-next">
+- [cy3erm/CVE-2026-41940-POC](https://github.com/cy3erm/CVE-2026-41940-POC)	<img alt="forks" src="https://img.shields.io/github/forks/cy3erm/CVE-2026-41940-POC">	<img alt="stars" src="https://img.shields.io/github/stars/cy3erm/CVE-2026-41940-POC">
+- [Underh0st/CPanel-Audit-Remediation-Tool](https://github.com/Underh0st/CPanel-Audit-Remediation-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/Underh0st/CPanel-Audit-Remediation-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/Underh0st/CPanel-Audit-Remediation-Tool">
+- [tahaXafous/CVE_2026_41940_scan_exploit](https://github.com/tahaXafous/CVE_2026_41940_scan_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tahaXafous/CVE_2026_41940_scan_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tahaXafous/CVE_2026_41940_scan_exploit">
 
 ---
 ## CVE-2026-41679 ()
@@ -1362,6 +1365,7 @@
 - [jdarkcaos-kai/cve-2026-31431-medium-unpriv-t](https://github.com/jdarkcaos-kai/cve-2026-31431-medium-unpriv-t)	<img alt="forks" src="https://img.shields.io/github/forks/jdarkcaos-kai/cve-2026-31431-medium-unpriv-t">	<img alt="stars" src="https://img.shields.io/github/stars/jdarkcaos-kai/cve-2026-31431-medium-unpriv-t">
 - [mCub3/CVE-2026-31431](https://github.com/mCub3/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/mCub3/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/mCub3/CVE-2026-31431">
 - [kaleth4/CVE-2026-31431](https://github.com/kaleth4/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-31431">
+- [juliosuas/copyfail-guard](https://github.com/juliosuas/copyfail-guard)	<img alt="forks" src="https://img.shields.io/github/forks/juliosuas/copyfail-guard">	<img alt="stars" src="https://img.shields.io/github/stars/juliosuas/copyfail-guard">
 
 ---
 ## CVE-2026-3143 ()
