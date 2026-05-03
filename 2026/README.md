@@ -1353,6 +1353,7 @@
 - [ncmprbll/copy-fail-rs](https://github.com/ncmprbll/copy-fail-rs)	<img alt="forks" src="https://img.shields.io/github/forks/ncmprbll/copy-fail-rs">	<img alt="stars" src="https://img.shields.io/github/stars/ncmprbll/copy-fail-rs">
 - [ravindercodes/copy-fail-CVE-2026-31431](https://github.com/ravindercodes/copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/ravindercodes/copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/ravindercodes/copy-fail-CVE-2026-31431">
 - [tfawnies/CVE-2026-31431](https://github.com/tfawnies/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/tfawnies/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/tfawnies/CVE-2026-31431">
+- [ChernStepanov/CopyFail-for-dummies](https://github.com/ChernStepanov/CopyFail-for-dummies)	<img alt="forks" src="https://img.shields.io/github/forks/ChernStepanov/CopyFail-for-dummies">	<img alt="stars" src="https://img.shields.io/github/stars/ChernStepanov/CopyFail-for-dummies">
 
 ---
 ## CVE-2026-3143 ()
