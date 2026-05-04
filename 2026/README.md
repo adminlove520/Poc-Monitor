@@ -1428,6 +1428,13 @@
 - [alvaroguzmancode/CVE-2026-31431-mitigacion](https://github.com/alvaroguzmancode/CVE-2026-31431-mitigacion)	<img alt="forks" src="https://img.shields.io/github/forks/alvaroguzmancode/CVE-2026-31431-mitigacion">	<img alt="stars" src="https://img.shields.io/github/stars/alvaroguzmancode/CVE-2026-31431-mitigacion">
 - [AdityaBhatt3010/CVE-2026-31431](https://github.com/AdityaBhatt3010/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2026-31431">
 - [KhaosFarbauti/CVE-2026-31431](https://github.com/KhaosFarbauti/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/KhaosFarbauti/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/KhaosFarbauti/CVE-2026-31431">
+- [Silent4Labs/check-copyfail-cve-2026-31431](https://github.com/Silent4Labs/check-copyfail-cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Silent4Labs/check-copyfail-cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Silent4Labs/check-copyfail-cve-2026-31431">
+- [jshDevs/CVE_kernellinux_jsh](https://github.com/jshDevs/CVE_kernellinux_jsh)	<img alt="forks" src="https://img.shields.io/github/forks/jshDevs/CVE_kernellinux_jsh">	<img alt="stars" src="https://img.shields.io/github/stars/jshDevs/CVE_kernellinux_jsh">
+- [net0bsd/Mitigaciones](https://github.com/net0bsd/Mitigaciones)	<img alt="forks" src="https://img.shields.io/github/forks/net0bsd/Mitigaciones">	<img alt="stars" src="https://img.shields.io/github/stars/net0bsd/Mitigaciones">
+- [xeloxa/copyfail-exploit](https://github.com/xeloxa/copyfail-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/xeloxa/copyfail-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/xeloxa/copyfail-exploit">
+- [Qengineering/RK35xx-CopyFail-Hotfix](https://github.com/Qengineering/RK35xx-CopyFail-Hotfix)	<img alt="forks" src="https://img.shields.io/github/forks/Qengineering/RK35xx-CopyFail-Hotfix">	<img alt="stars" src="https://img.shields.io/github/stars/Qengineering/RK35xx-CopyFail-Hotfix">
+- [mirr81/cve-2026_31431](https://github.com/mirr81/cve-2026_31431)	<img alt="forks" src="https://img.shields.io/github/forks/mirr81/cve-2026_31431">	<img alt="stars" src="https://img.shields.io/github/stars/mirr81/cve-2026_31431">
+- [g1nt0n1x/copy-fail-CVE-2026-31431-shell](https://github.com/g1nt0n1x/copy-fail-CVE-2026-31431-shell)	<img alt="forks" src="https://img.shields.io/github/forks/g1nt0n1x/copy-fail-CVE-2026-31431-shell">	<img alt="stars" src="https://img.shields.io/github/stars/g1nt0n1x/copy-fail-CVE-2026-31431-shell">
 
 ---
 ## CVE-2026-3143 ()
