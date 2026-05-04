@@ -324,6 +324,7 @@
 - [tahaXafous/CVE_2026_41940_scan_exploit](https://github.com/tahaXafous/CVE_2026_41940_scan_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tahaXafous/CVE_2026_41940_scan_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tahaXafous/CVE_2026_41940_scan_exploit">
 - [Yuri08loveElaina/cve-2026-41940](https://github.com/Yuri08loveElaina/cve-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/Yuri08loveElaina/cve-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/Yuri08loveElaina/cve-2026-41940">
 - [sercanokur/CVE-2026-41940-cPanel-WHM-Verification-Tool](https://github.com/sercanokur/CVE-2026-41940-cPanel-WHM-Verification-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/sercanokur/CVE-2026-41940-cPanel-WHM-Verification-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/sercanokur/CVE-2026-41940-cPanel-WHM-Verification-Tool">
+- [iSee857/cPanel-WHM-CVE-2026-41940-AuthBypass](https://github.com/iSee857/cPanel-WHM-CVE-2026-41940-AuthBypass)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/cPanel-WHM-CVE-2026-41940-AuthBypass">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/cPanel-WHM-CVE-2026-41940-AuthBypass">
 
 ---
 ## CVE-2026-41679 ()
@@ -1416,6 +1417,8 @@
 - [MetaspIoit/CVE-2026-31431](https://github.com/MetaspIoit/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/MetaspIoit/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/MetaspIoit/CVE-2026-31431">
 - [Mrhudson69/cve-2026-31431](https://github.com/Mrhudson69/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Mrhudson69/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Mrhudson69/cve-2026-31431">
 - [imkk000/play-go-copy-fail-cve-2026-31431](https://github.com/imkk000/play-go-copy-fail-cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/imkk000/play-go-copy-fail-cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/imkk000/play-go-copy-fail-cve-2026-31431">
+- [alvaroguzmancode/CVE-2026-31431-mitigacion](https://github.com/alvaroguzmancode/CVE-2026-31431-mitigacion)	<img alt="forks" src="https://img.shields.io/github/forks/alvaroguzmancode/CVE-2026-31431-mitigacion">	<img alt="stars" src="https://img.shields.io/github/stars/alvaroguzmancode/CVE-2026-31431-mitigacion">
+- [AdityaBhatt3010/CVE-2026-31431](https://github.com/AdityaBhatt3010/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
@@ -3119,6 +3122,11 @@
 ## CVE-2026-21385 ()
 > 
 - [unionnx/CVE-2026-21385](https://github.com/unionnx/CVE-2026-21385)	<img alt="forks" src="https://img.shields.io/github/forks/unionnx/CVE-2026-21385">	<img alt="stars" src="https://img.shields.io/github/stars/unionnx/CVE-2026-21385">
+
+---
+## CVE-2026-21250 ()
+> 
+- [kaleth4/CVE-2026-21250](https://github.com/kaleth4/CVE-2026-21250)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-21250">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-21250">
 
 ---
 ## CVE-2026-2113 ()
