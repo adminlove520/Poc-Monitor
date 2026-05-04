@@ -235,6 +235,11 @@
 - [dinosn/CVE-2026-42779](https://github.com/dinosn/CVE-2026-42779)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/CVE-2026-42779">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/CVE-2026-42779">
 
 ---
+## CVE-2026-42778 ()
+> 
+- [Akinfue/CVE-2026-42778-POC](https://github.com/Akinfue/CVE-2026-42778-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Akinfue/CVE-2026-42778-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Akinfue/CVE-2026-42778-POC">
+
+---
 ## CVE-2026-4257 ()
 > 
 - [bootstrapbool/cve-2026-4257](https://github.com/bootstrapbool/cve-2026-4257)	<img alt="forks" src="https://img.shields.io/github/forks/bootstrapbool/cve-2026-4257">	<img alt="stars" src="https://img.shields.io/github/stars/bootstrapbool/cve-2026-4257">
@@ -1410,6 +1415,7 @@
 - [kvendler/BigFix-CopyFail-AlmaLinux-Content](https://github.com/kvendler/BigFix-CopyFail-AlmaLinux-Content)	<img alt="forks" src="https://img.shields.io/github/forks/kvendler/BigFix-CopyFail-AlmaLinux-Content">	<img alt="stars" src="https://img.shields.io/github/stars/kvendler/BigFix-CopyFail-AlmaLinux-Content">
 - [MetaspIoit/CVE-2026-31431](https://github.com/MetaspIoit/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/MetaspIoit/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/MetaspIoit/CVE-2026-31431">
 - [Mrhudson69/cve-2026-31431](https://github.com/Mrhudson69/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Mrhudson69/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Mrhudson69/cve-2026-31431">
+- [imkk000/play-go-copy-fail-cve-2026-31431](https://github.com/imkk000/play-go-copy-fail-cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/imkk000/play-go-copy-fail-cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/imkk000/play-go-copy-fail-cve-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
