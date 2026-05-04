@@ -689,7 +689,7 @@
 ---
 ## CVE-2026-3494 ()
 > 
-- [KKongTen/CVE-2026-3494](https://github.com/KKongTen/CVE-2026-3494)	<img alt="forks" src="https://img.shields.io/github/forks/KKongTen/CVE-2026-3494">	<img alt="stars" src="https://img.shields.io/github/stars/KKongTen/CVE-2026-3494">
+- [KKongTen/CVE-2026-3494_Verfication](https://github.com/KKongTen/CVE-2026-3494_Verfication)	<img alt="forks" src="https://img.shields.io/github/forks/KKongTen/CVE-2026-3494_Verfication">	<img alt="stars" src="https://img.shields.io/github/stars/KKongTen/CVE-2026-3494_Verfication">
 - [romain-deperne/CVE-2026-34940](https://github.com/romain-deperne/CVE-2026-34940)	<img alt="forks" src="https://img.shields.io/github/forks/romain-deperne/CVE-2026-34940">	<img alt="stars" src="https://img.shields.io/github/stars/romain-deperne/CVE-2026-34940">
 
 ---
