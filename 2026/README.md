@@ -81,6 +81,11 @@
 - [mlgzackfly/CVE-2026-6643](https://github.com/mlgzackfly/CVE-2026-6643)	<img alt="forks" src="https://img.shields.io/github/forks/mlgzackfly/CVE-2026-6643">	<img alt="stars" src="https://img.shields.io/github/stars/mlgzackfly/CVE-2026-6643">
 
 ---
+## CVE-2026-6379 ()
+> 
+- [dinosn/cve-2026-6379](https://github.com/dinosn/cve-2026-6379)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/cve-2026-6379">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/cve-2026-6379">
+
+---
 ## CVE-2026-6356 ()
 > 
 - [Penguinsecq/CVE-2026-6356](https://github.com/Penguinsecq/CVE-2026-6356)	<img alt="forks" src="https://img.shields.io/github/forks/Penguinsecq/CVE-2026-6356">	<img alt="stars" src="https://img.shields.io/github/stars/Penguinsecq/CVE-2026-6356">
@@ -1390,6 +1395,12 @@
 - [ctzisme/copyfail-guard](https://github.com/ctzisme/copyfail-guard)	<img alt="forks" src="https://img.shields.io/github/forks/ctzisme/copyfail-guard">	<img alt="stars" src="https://img.shields.io/github/stars/ctzisme/copyfail-guard">
 - [codesource/copyfail-check](https://github.com/codesource/copyfail-check)	<img alt="forks" src="https://img.shields.io/github/forks/codesource/copyfail-check">	<img alt="stars" src="https://img.shields.io/github/stars/codesource/copyfail-check">
 - [xn0kkx/CVE-2026-31431_CopyFail_LinuxKernel_LPE](https://github.com/xn0kkx/CVE-2026-31431_CopyFail_LinuxKernel_LPE)	<img alt="forks" src="https://img.shields.io/github/forks/xn0kkx/CVE-2026-31431_CopyFail_LinuxKernel_LPE">	<img alt="stars" src="https://img.shields.io/github/stars/xn0kkx/CVE-2026-31431_CopyFail_LinuxKernel_LPE">
+- [ochebotar/copy-fail-CVE-2026-31431-detection-probe](https://github.com/ochebotar/copy-fail-CVE-2026-31431-detection-probe)	<img alt="forks" src="https://img.shields.io/github/forks/ochebotar/copy-fail-CVE-2026-31431-detection-probe">	<img alt="stars" src="https://img.shields.io/github/stars/ochebotar/copy-fail-CVE-2026-31431-detection-probe">
+- [samanzamani/copy-fail-checker](https://github.com/samanzamani/copy-fail-checker)	<img alt="forks" src="https://img.shields.io/github/forks/samanzamani/copy-fail-checker">	<img alt="stars" src="https://img.shields.io/github/stars/samanzamani/copy-fail-checker">
+- [mgiay/CVE_2026_31431_FIXED](https://github.com/mgiay/CVE_2026_31431_FIXED)	<img alt="forks" src="https://img.shields.io/github/forks/mgiay/CVE_2026_31431_FIXED">	<img alt="stars" src="https://img.shields.io/github/stars/mgiay/CVE_2026_31431_FIXED">
+- [chavezvic/CopyFail-Penguin](https://github.com/chavezvic/CopyFail-Penguin)	<img alt="forks" src="https://img.shields.io/github/forks/chavezvic/CopyFail-Penguin">	<img alt="stars" src="https://img.shields.io/github/stars/chavezvic/CopyFail-Penguin">
+- [kvendler/BigFix-CopyFail-AlmaLinux-Content](https://github.com/kvendler/BigFix-CopyFail-AlmaLinux-Content)	<img alt="forks" src="https://img.shields.io/github/forks/kvendler/BigFix-CopyFail-AlmaLinux-Content">	<img alt="stars" src="https://img.shields.io/github/stars/kvendler/BigFix-CopyFail-AlmaLinux-Content">
+- [MetaspIoit/CVE-2026-31431](https://github.com/MetaspIoit/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/MetaspIoit/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/MetaspIoit/CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
@@ -1773,6 +1784,11 @@
 > 
 - [romain-deperne/CVE-2026-27825](https://github.com/romain-deperne/CVE-2026-27825)	<img alt="forks" src="https://img.shields.io/github/forks/romain-deperne/CVE-2026-27825">	<img alt="stars" src="https://img.shields.io/github/stars/romain-deperne/CVE-2026-27825">
 - [plutosecurity/MCPwnfluence](https://github.com/plutosecurity/MCPwnfluence)	<img alt="forks" src="https://img.shields.io/github/forks/plutosecurity/MCPwnfluence">	<img alt="stars" src="https://img.shields.io/github/stars/plutosecurity/MCPwnfluence">
+
+---
+## CVE-2026-27778 ()
+> 
+- [KimJ6/PoC-Simulator_CVE-2026-27778](https://github.com/KimJ6/PoC-Simulator_CVE-2026-27778)	<img alt="forks" src="https://img.shields.io/github/forks/KimJ6/PoC-Simulator_CVE-2026-27778">	<img alt="stars" src="https://img.shields.io/github/stars/KimJ6/PoC-Simulator_CVE-2026-27778">
 
 ---
 ## CVE-2026-27739 ()
