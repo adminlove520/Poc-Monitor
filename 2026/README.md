@@ -2123,6 +2123,11 @@
 - [NetVanguard-cmd/CVE-2026-26198](https://github.com/NetVanguard-cmd/CVE-2026-26198)	<img alt="forks" src="https://img.shields.io/github/forks/NetVanguard-cmd/CVE-2026-26198">	<img alt="stars" src="https://img.shields.io/github/stars/NetVanguard-cmd/CVE-2026-26198">
 
 ---
+## CVE-2026-26128 ()
+> 
+- [jarnovandenbrink/CVE-2026-26128](https://github.com/jarnovandenbrink/CVE-2026-26128)	<img alt="forks" src="https://img.shields.io/github/forks/jarnovandenbrink/CVE-2026-26128">	<img alt="stars" src="https://img.shields.io/github/stars/jarnovandenbrink/CVE-2026-26128">
+
+---
 ## CVE-2026-26114 ()
 > 
 - [huynambka/cve-2026-26114](https://github.com/huynambka/cve-2026-26114)	<img alt="forks" src="https://img.shields.io/github/forks/huynambka/cve-2026-26114">	<img alt="stars" src="https://img.shields.io/github/stars/huynambka/cve-2026-26114">
