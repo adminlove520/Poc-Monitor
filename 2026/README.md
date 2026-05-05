@@ -371,6 +371,11 @@
 - [kaleth4/CVE-2026-41303](https://github.com/kaleth4/CVE-2026-41303)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-41303">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-41303">
 
 ---
+## CVE-2026-41285 ()
+> 
+- [Rat5ak/CVE-2026-41285-OpenBSD-v6daemons-go-brrr](https://github.com/Rat5ak/CVE-2026-41285-OpenBSD-v6daemons-go-brrr)	<img alt="forks" src="https://img.shields.io/github/forks/Rat5ak/CVE-2026-41285-OpenBSD-v6daemons-go-brrr">	<img alt="stars" src="https://img.shields.io/github/stars/Rat5ak/CVE-2026-41285-OpenBSD-v6daemons-go-brrr">
+
+---
 ## CVE-2026-41242 ()
 > 
 - [4chech/CVE-2026-41242](https://github.com/4chech/CVE-2026-41242)	<img alt="forks" src="https://img.shields.io/github/forks/4chech/CVE-2026-41242">	<img alt="stars" src="https://img.shields.io/github/stars/4chech/CVE-2026-41242">
@@ -1452,6 +1457,7 @@
 - [TheMalwareGuardian/CVE-2026-31431](https://github.com/TheMalwareGuardian/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2026-31431">
 - [Rat5ak/CVE-2026-31431-CopyFail-static-ELF--POC](https://github.com/Rat5ak/CVE-2026-31431-CopyFail-static-ELF--POC)	<img alt="forks" src="https://img.shields.io/github/forks/Rat5ak/CVE-2026-31431-CopyFail-static-ELF--POC">	<img alt="stars" src="https://img.shields.io/github/stars/Rat5ak/CVE-2026-31431-CopyFail-static-ELF--POC">
 - [Industri4l-H3ll-Xpl0it3rs/CVE-2026-31431-Copy-Fail](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-31431-Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2026-31431-Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2026-31431-Copy-Fail">
+- [sudoytang/copyfail-arm64](https://github.com/sudoytang/copyfail-arm64)	<img alt="forks" src="https://img.shields.io/github/forks/sudoytang/copyfail-arm64">	<img alt="stars" src="https://img.shields.io/github/stars/sudoytang/copyfail-arm64">
 
 ---
 ## CVE-2026-3143 ()
@@ -2100,6 +2106,11 @@
 - [NetVanguard-cmd/CVE-2026-26198](https://github.com/NetVanguard-cmd/CVE-2026-26198)	<img alt="forks" src="https://img.shields.io/github/forks/NetVanguard-cmd/CVE-2026-26198">	<img alt="stars" src="https://img.shields.io/github/stars/NetVanguard-cmd/CVE-2026-26198">
 
 ---
+## CVE-2026-26114 ()
+> 
+- [huynambka/cve-2026-26114](https://github.com/huynambka/cve-2026-26114)	<img alt="forks" src="https://img.shields.io/github/forks/huynambka/cve-2026-26114">	<img alt="stars" src="https://img.shields.io/github/stars/huynambka/cve-2026-26114">
+
+---
 ## CVE-2026-26030 ()
 > 
 - [mbanyamer/CVE-2026-26030-Microsoft-Semantic-Kernel-1.39.4-RCE](https://github.com/mbanyamer/CVE-2026-26030-Microsoft-Semantic-Kernel-1.39.4-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-26030-Microsoft-Semantic-Kernel-1.39.4-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-26030-Microsoft-Semantic-Kernel-1.39.4-RCE">
@@ -2658,6 +2669,7 @@
 > 
 - [qassam-315/CVE-2026-23918-Elite-Auditor](https://github.com/qassam-315/CVE-2026-23918-Elite-Auditor)	<img alt="forks" src="https://img.shields.io/github/forks/qassam-315/CVE-2026-23918-Elite-Auditor">	<img alt="stars" src="https://img.shields.io/github/stars/qassam-315/CVE-2026-23918-Elite-Auditor">
 - [12lie20/CVE-2026-23918-test](https://github.com/12lie20/CVE-2026-23918-test)	<img alt="forks" src="https://img.shields.io/github/forks/12lie20/CVE-2026-23918-test">	<img alt="stars" src="https://img.shields.io/github/stars/12lie20/CVE-2026-23918-test">
+- [rshosting/Apache-CVE-2026-23918-fix](https://github.com/rshosting/Apache-CVE-2026-23918-fix)	<img alt="forks" src="https://img.shields.io/github/forks/rshosting/Apache-CVE-2026-23918-fix">	<img alt="stars" src="https://img.shields.io/github/stars/rshosting/Apache-CVE-2026-23918-fix">
 
 ---
 ## CVE-2026-23885 ()
