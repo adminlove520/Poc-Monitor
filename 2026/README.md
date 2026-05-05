@@ -220,6 +220,11 @@
 - [Hann1bl3L3ct3r/CVE-2026-4406](https://github.com/Hann1bl3L3ct3r/CVE-2026-4406)	<img alt="forks" src="https://img.shields.io/github/forks/Hann1bl3L3ct3r/CVE-2026-4406">	<img alt="stars" src="https://img.shields.io/github/stars/Hann1bl3L3ct3r/CVE-2026-4406">
 
 ---
+## CVE-2026-43893 ()
+> 
+- [Dobby153/CVE-2026-43893](https://github.com/Dobby153/CVE-2026-43893)	<img alt="forks" src="https://img.shields.io/github/forks/Dobby153/CVE-2026-43893">	<img alt="stars" src="https://img.shields.io/github/stars/Dobby153/CVE-2026-43893">
+
+---
 ## CVE-2026-4350 ()
 > 
 - [whyiamsobusy/CVE-2026-4350](https://github.com/whyiamsobusy/CVE-2026-4350)	<img alt="forks" src="https://img.shields.io/github/forks/whyiamsobusy/CVE-2026-4350">	<img alt="stars" src="https://img.shields.io/github/stars/whyiamsobusy/CVE-2026-4350">
@@ -1435,6 +1440,9 @@
 - [Qengineering/RK35xx-CopyFail-Hotfix](https://github.com/Qengineering/RK35xx-CopyFail-Hotfix)	<img alt="forks" src="https://img.shields.io/github/forks/Qengineering/RK35xx-CopyFail-Hotfix">	<img alt="stars" src="https://img.shields.io/github/stars/Qengineering/RK35xx-CopyFail-Hotfix">
 - [mirr81/cve-2026_31431](https://github.com/mirr81/cve-2026_31431)	<img alt="forks" src="https://img.shields.io/github/forks/mirr81/cve-2026_31431">	<img alt="stars" src="https://img.shields.io/github/stars/mirr81/cve-2026_31431">
 - [g1nt0n1x/copy-fail-CVE-2026-31431-shell](https://github.com/g1nt0n1x/copy-fail-CVE-2026-31431-shell)	<img alt="forks" src="https://img.shields.io/github/forks/g1nt0n1x/copy-fail-CVE-2026-31431-shell">	<img alt="stars" src="https://img.shields.io/github/stars/g1nt0n1x/copy-fail-CVE-2026-31431-shell">
+- [6abc/Copy-Fail-CVE-2026-31431](https://github.com/6abc/Copy-Fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/6abc/Copy-Fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/6abc/Copy-Fail-CVE-2026-31431">
+- [Silent4Labs/check-copyfail-cve-2026-31431](https://github.com/Silent4Labs/check-copyfail-cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Silent4Labs/check-copyfail-cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Silent4Labs/check-copyfail-cve-2026-31431">
+- [rippsec/CVE-2026-31431-Copy-Fail](https://github.com/rippsec/CVE-2026-31431-Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/rippsec/CVE-2026-31431-Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/rippsec/CVE-2026-31431-Copy-Fail">
 
 ---
 ## CVE-2026-3143 ()
