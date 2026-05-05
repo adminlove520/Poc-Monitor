@@ -1475,6 +1475,7 @@
 - [mrmtwoj/ubuntu-cve-2026-31431-mitigation](https://github.com/mrmtwoj/ubuntu-cve-2026-31431-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/mrmtwoj/ubuntu-cve-2026-31431-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/mrmtwoj/ubuntu-cve-2026-31431-mitigation">
 - [devtint/CVE-2026-31431](https://github.com/devtint/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/devtint/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/devtint/CVE-2026-31431">
 - [Raptoratack/CopyFail-Scanner-CVE-2026-31431](https://github.com/Raptoratack/CopyFail-Scanner-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Raptoratack/CopyFail-Scanner-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Raptoratack/CopyFail-Scanner-CVE-2026-31431">
+- [RazvanDuda/GhostShell](https://github.com/RazvanDuda/GhostShell)	<img alt="forks" src="https://img.shields.io/github/forks/RazvanDuda/GhostShell">	<img alt="stars" src="https://img.shields.io/github/stars/RazvanDuda/GhostShell">
 
 ---
 ## CVE-2026-3143 ()
@@ -1748,6 +1749,7 @@
 - [cipher1x1/CVE-2026-29000](https://github.com/cipher1x1/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/cipher1x1/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/cipher1x1/CVE-2026-29000">
 - [jake-young-dev/CVE-2026-29000](https://github.com/jake-young-dev/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/jake-young-dev/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/jake-young-dev/CVE-2026-29000">
 - [strikoder/CVE-2026-29000-pac4j-jwt](https://github.com/strikoder/CVE-2026-29000-pac4j-jwt)	<img alt="forks" src="https://img.shields.io/github/forks/strikoder/CVE-2026-29000-pac4j-jwt">	<img alt="stars" src="https://img.shields.io/github/stars/strikoder/CVE-2026-29000-pac4j-jwt">
+- [zF-tm/CVE-2026-29000](https://github.com/zF-tm/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/zF-tm/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/zF-tm/CVE-2026-29000">
 
 ---
 ## CVE-2026-2898 ()
@@ -3669,6 +3671,12 @@
 > 
 - [TeeyaR/CVE-2026-0227-Palo-Alto](https://github.com/TeeyaR/CVE-2026-0227-Palo-Alto)	<img alt="forks" src="https://img.shields.io/github/forks/TeeyaR/CVE-2026-0227-Palo-Alto">	<img alt="stars" src="https://img.shields.io/github/stars/TeeyaR/CVE-2026-0227-Palo-Alto">
 - [CkAbhijit/CVE-2026-0227-Advanced-Scanner](https://github.com/CkAbhijit/CVE-2026-0227-Advanced-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/CkAbhijit/CVE-2026-0227-Advanced-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/CkAbhijit/CVE-2026-0227-Advanced-Scanner">
+
+---
+## CVE-2026-0073 ()
+> 
+- [SecTestAnnaQuinn/CVE-2026-0073-Android-adbd-authentication-bypass-POC](https://github.com/SecTestAnnaQuinn/CVE-2026-0073-Android-adbd-authentication-bypass-POC)	<img alt="forks" src="https://img.shields.io/github/forks/SecTestAnnaQuinn/CVE-2026-0073-Android-adbd-authentication-bypass-POC">	<img alt="stars" src="https://img.shields.io/github/stars/SecTestAnnaQuinn/CVE-2026-0073-Android-adbd-authentication-bypass-POC">
+- [novaek/CVE-2026-0073-Research](https://github.com/novaek/CVE-2026-0073-Research)	<img alt="forks" src="https://img.shields.io/github/forks/novaek/CVE-2026-0073-Research">	<img alt="stars" src="https://img.shields.io/github/stars/novaek/CVE-2026-0073-Research">
 
 ---
 ## CVE-2026-0047 ()
