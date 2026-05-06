@@ -1095,6 +1095,11 @@
 - [0xmrma/CVE-2026-32722](https://github.com/0xmrma/CVE-2026-32722)	<img alt="forks" src="https://img.shields.io/github/forks/0xmrma/CVE-2026-32722">	<img alt="stars" src="https://img.shields.io/github/stars/0xmrma/CVE-2026-32722">
 
 ---
+## CVE-2026-32710 ()
+> 
+- [dinosn/CVE-2026-32710](https://github.com/dinosn/CVE-2026-32710)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/CVE-2026-32710">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/CVE-2026-32710">
+
+---
 ## CVE-2026-32699 ()
 > 
 - [TurkiOS/cve-2026-32699-facturascripts-nick-bypass](https://github.com/TurkiOS/cve-2026-32699-facturascripts-nick-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/TurkiOS/cve-2026-32699-facturascripts-nick-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/TurkiOS/cve-2026-32699-facturascripts-nick-bypass">
@@ -1492,6 +1497,9 @@
 - [zenzue/CVE-2026-31431-Checker-Mitigator](https://github.com/zenzue/CVE-2026-31431-Checker-Mitigator)	<img alt="forks" src="https://img.shields.io/github/forks/zenzue/CVE-2026-31431-Checker-Mitigator">	<img alt="stars" src="https://img.shields.io/github/stars/zenzue/CVE-2026-31431-Checker-Mitigator">
 - [voxcia-io/copy-fail](https://github.com/voxcia-io/copy-fail)	<img alt="forks" src="https://img.shields.io/github/forks/voxcia-io/copy-fail">	<img alt="stars" src="https://img.shields.io/github/stars/voxcia-io/copy-fail">
 - [reubensammut/CVE-2026-31431-Copy-Fail](https://github.com/reubensammut/CVE-2026-31431-Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/reubensammut/CVE-2026-31431-Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/reubensammut/CVE-2026-31431-Copy-Fail">
+- [Dullpurple-sloop726/CVE-2026-31431-Linux-Copy-Fail](https://github.com/Dullpurple-sloop726/CVE-2026-31431-Linux-Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/Dullpurple-sloop726/CVE-2026-31431-Linux-Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/Dullpurple-sloop726/CVE-2026-31431-Linux-Copy-Fail">
+- [0xN7y/CVE-2026-31431](https://github.com/0xN7y/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/0xN7y/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/0xN7y/CVE-2026-31431">
+- [Liverwortenuresis371/copyfail-rs](https://github.com/Liverwortenuresis371/copyfail-rs)	<img alt="forks" src="https://img.shields.io/github/forks/Liverwortenuresis371/copyfail-rs">	<img alt="stars" src="https://img.shields.io/github/stars/Liverwortenuresis371/copyfail-rs">
 
 ---
 ## CVE-2026-3143 ()
@@ -2719,6 +2727,8 @@
 - [sibersan/cve-2026-23918](https://github.com/sibersan/cve-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/sibersan/cve-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/sibersan/cve-2026-23918">
 - [aa022/CVE-2026-23918-Passive-Audit](https://github.com/aa022/CVE-2026-23918-Passive-Audit)	<img alt="forks" src="https://img.shields.io/github/forks/aa022/CVE-2026-23918-Passive-Audit">	<img alt="stars" src="https://img.shields.io/github/stars/aa022/CVE-2026-23918-Passive-Audit">
 - [rhasan-com/CVE-2026-23918](https://github.com/rhasan-com/CVE-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/rhasan-com/CVE-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/rhasan-com/CVE-2026-23918">
+- [seguridadentrerios/CVE-2026-23918](https://github.com/seguridadentrerios/CVE-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/seguridadentrerios/CVE-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/seguridadentrerios/CVE-2026-23918">
+- [seguridadentrerios/-CVE-2026-23918](https://github.com/seguridadentrerios/-CVE-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/seguridadentrerios/-CVE-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/seguridadentrerios/-CVE-2026-23918">
 
 ---
 ## CVE-2026-23885 ()
@@ -3688,6 +3698,9 @@
 ## CVE-2026-0300 ()
 > 
 - [mr-r3b00t/CVE-2026-0300](https://github.com/mr-r3b00t/CVE-2026-0300)	<img alt="forks" src="https://img.shields.io/github/forks/mr-r3b00t/CVE-2026-0300">	<img alt="stars" src="https://img.shields.io/github/stars/mr-r3b00t/CVE-2026-0300">
+- [TailwindRG/cve-2026-0300-audit](https://github.com/TailwindRG/cve-2026-0300-audit)	<img alt="forks" src="https://img.shields.io/github/forks/TailwindRG/cve-2026-0300-audit">	<img alt="stars" src="https://img.shields.io/github/stars/TailwindRG/cve-2026-0300-audit">
+- [0xBlackash/CVE-2026-0300](https://github.com/0xBlackash/CVE-2026-0300)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-0300">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-0300">
+- [qassam-315/PAN-OS-User-ID-Buffer-Overflow-PoC](https://github.com/qassam-315/PAN-OS-User-ID-Buffer-Overflow-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/qassam-315/PAN-OS-User-ID-Buffer-Overflow-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/qassam-315/PAN-OS-User-ID-Buffer-Overflow-PoC">
 
 ---
 ## CVE-2026-0227 ()
