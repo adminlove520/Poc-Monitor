@@ -220,6 +220,11 @@
 - [NetVanguard-cmd/CVE-2026-4447](https://github.com/NetVanguard-cmd/CVE-2026-4447)	<img alt="forks" src="https://img.shields.io/github/forks/NetVanguard-cmd/CVE-2026-4447">	<img alt="stars" src="https://img.shields.io/github/stars/NetVanguard-cmd/CVE-2026-4447">
 
 ---
+## CVE-2026-44262 ()
+> 
+- [joshuavanderpoll/CVE-2026-44262](https://github.com/joshuavanderpoll/CVE-2026-44262)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2026-44262">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2026-44262">
+
+---
 ## CVE-2026-44109 ()
 > 
 - [CryptReaper12/CVE-2026-44109](https://github.com/CryptReaper12/CVE-2026-44109)	<img alt="forks" src="https://img.shields.io/github/forks/CryptReaper12/CVE-2026-44109">	<img alt="stars" src="https://img.shields.io/github/stars/CryptReaper12/CVE-2026-44109">
