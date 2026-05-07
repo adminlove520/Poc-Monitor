@@ -1540,6 +1540,7 @@
 - [gubaiovo/CVE-2026-31431](https://github.com/gubaiovo/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/gubaiovo/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/gubaiovo/CVE-2026-31431">
 - [sgkdev/page_inject](https://github.com/sgkdev/page_inject)	<img alt="forks" src="https://img.shields.io/github/forks/sgkdev/page_inject">	<img alt="stars" src="https://img.shields.io/github/stars/sgkdev/page_inject">
 - [Mr-bv/Copy-fail-CVE-2026-31431-Exploit-in-C](https://github.com/Mr-bv/Copy-fail-CVE-2026-31431-Exploit-in-C)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-bv/Copy-fail-CVE-2026-31431-Exploit-in-C">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-bv/Copy-fail-CVE-2026-31431-Exploit-in-C">
+- [cx330zer0/CVE-2026-31431-Copy-Fail-add-arm64](https://github.com/cx330zer0/CVE-2026-31431-Copy-Fail-add-arm64)	<img alt="forks" src="https://img.shields.io/github/forks/cx330zer0/CVE-2026-31431-Copy-Fail-add-arm64">	<img alt="stars" src="https://img.shields.io/github/stars/cx330zer0/CVE-2026-31431-Copy-Fail-add-arm64">
 
 ---
 ## CVE-2026-3143 ()
@@ -3781,6 +3782,7 @@
 - [ByteWraith1/CVE-2026-0073](https://github.com/ByteWraith1/CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/ByteWraith1/CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/ByteWraith1/CVE-2026-0073">
 - [MartinPSDev/CVE-2026-0073-Android-ADBD-bypass-POC](https://github.com/MartinPSDev/CVE-2026-0073-Android-ADBD-bypass-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MartinPSDev/CVE-2026-0073-Android-ADBD-bypass-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MartinPSDev/CVE-2026-0073-Android-ADBD-bypass-POC">
 - [ByteWraith1/CVE-2026-0073](https://github.com/ByteWraith1/CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/ByteWraith1/CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/ByteWraith1/CVE-2026-0073">
+- [u33pk/CVE-2026-0073-poc](https://github.com/u33pk/CVE-2026-0073-poc)	<img alt="forks" src="https://img.shields.io/github/forks/u33pk/CVE-2026-0073-poc">	<img alt="stars" src="https://img.shields.io/github/stars/u33pk/CVE-2026-0073-poc">
 
 ---
 ## CVE-2026-0047 ()
