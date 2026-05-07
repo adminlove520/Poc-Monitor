@@ -1565,6 +1565,13 @@
 - [Mr-bv/Copy-fail-CVE-2026-31431-Exploit-in-C](https://github.com/Mr-bv/Copy-fail-CVE-2026-31431-Exploit-in-C)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-bv/Copy-fail-CVE-2026-31431-Exploit-in-C">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-bv/Copy-fail-CVE-2026-31431-Exploit-in-C">
 - [cx330zer0/CVE-2026-31431-Copy-Fail-add-arm64](https://github.com/cx330zer0/CVE-2026-31431-Copy-Fail-add-arm64)	<img alt="forks" src="https://img.shields.io/github/forks/cx330zer0/CVE-2026-31431-Copy-Fail-add-arm64">	<img alt="stars" src="https://img.shields.io/github/stars/cx330zer0/CVE-2026-31431-Copy-Fail-add-arm64">
 - [abdelkabirouadoukou/CVE-2026-31431-Analysis-and-Fix](https://github.com/abdelkabirouadoukou/CVE-2026-31431-Analysis-and-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/abdelkabirouadoukou/CVE-2026-31431-Analysis-and-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/abdelkabirouadoukou/CVE-2026-31431-Analysis-and-Fix">
+- [gagaltotal/cve-2026-31431-copy-fail](https://github.com/gagaltotal/cve-2026-31431-copy-fail)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/cve-2026-31431-copy-fail">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/cve-2026-31431-copy-fail">
+- [tang-yikai/copy-fail-mitigation-with-bpftrace](https://github.com/tang-yikai/copy-fail-mitigation-with-bpftrace)	<img alt="forks" src="https://img.shields.io/github/forks/tang-yikai/copy-fail-mitigation-with-bpftrace">	<img alt="stars" src="https://img.shields.io/github/stars/tang-yikai/copy-fail-mitigation-with-bpftrace">
+- [pvpaulo01/cve-2026-31431](https://github.com/pvpaulo01/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/pvpaulo01/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/pvpaulo01/cve-2026-31431">
+- [Vatson112/deny-af-alg-bpf](https://github.com/Vatson112/deny-af-alg-bpf)	<img alt="forks" src="https://img.shields.io/github/forks/Vatson112/deny-af-alg-bpf">	<img alt="stars" src="https://img.shields.io/github/stars/Vatson112/deny-af-alg-bpf">
+- [kw-soft/copyfail](https://github.com/kw-soft/copyfail)	<img alt="forks" src="https://img.shields.io/github/forks/kw-soft/copyfail">	<img alt="stars" src="https://img.shields.io/github/stars/kw-soft/copyfail">
+- [361way/CVE-2026-31431](https://github.com/361way/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/361way/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/361way/CVE-2026-31431">
+- [ikow/CVE-2026-31431-live-code-corruption](https://github.com/ikow/CVE-2026-31431-live-code-corruption)	<img alt="forks" src="https://img.shields.io/github/forks/ikow/CVE-2026-31431-live-code-corruption">	<img alt="stars" src="https://img.shields.io/github/stars/ikow/CVE-2026-31431-live-code-corruption">
 
 ---
 ## CVE-2026-3143 ()
@@ -2814,6 +2821,7 @@
 - [xeloxa/CVE-2026-23918-Apache-H2-PoC](https://github.com/xeloxa/CVE-2026-23918-Apache-H2-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/xeloxa/CVE-2026-23918-Apache-H2-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/xeloxa/CVE-2026-23918-Apache-H2-PoC">
 - [hackervlogofficial/CVE-2026-23918](https://github.com/hackervlogofficial/CVE-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/hackervlogofficial/CVE-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/hackervlogofficial/CVE-2026-23918">
 - [CYFARE/CVE-2026-23918-Apache-HTTP-Server-DoubleFree-PoC](https://github.com/CYFARE/CVE-2026-23918-Apache-HTTP-Server-DoubleFree-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/CYFARE/CVE-2026-23918-Apache-HTTP-Server-DoubleFree-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/CYFARE/CVE-2026-23918-Apache-HTTP-Server-DoubleFree-PoC">
+- [alt3kx/CVE-2026-23918](https://github.com/alt3kx/CVE-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/alt3kx/CVE-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/alt3kx/CVE-2026-23918">
 
 ---
 ## CVE-2026-23885 ()
