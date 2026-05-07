@@ -639,6 +639,16 @@
 - [sahmsec/CVE-2026-3844](https://github.com/sahmsec/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/sahmsec/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/sahmsec/CVE-2026-3844">
 
 ---
+## CVE-2026-38361 ()
+> 
+- [a1ohadance/CVE-2026-38361](https://github.com/a1ohadance/CVE-2026-38361)	<img alt="forks" src="https://img.shields.io/github/forks/a1ohadance/CVE-2026-38361">	<img alt="stars" src="https://img.shields.io/github/stars/a1ohadance/CVE-2026-38361">
+
+---
+## CVE-2026-38360 ()
+> 
+- [a1ohadance/CVE-2026-38360](https://github.com/a1ohadance/CVE-2026-38360)	<img alt="forks" src="https://img.shields.io/github/forks/a1ohadance/CVE-2026-38360">	<img alt="stars" src="https://img.shields.io/github/stars/a1ohadance/CVE-2026-38360">
+
+---
 ## CVE-2026-3805 ()
 > 
 - [Rat5ak/CVE-2026-3805-curl-SMB-UAF](https://github.com/Rat5ak/CVE-2026-3805-curl-SMB-UAF)	<img alt="forks" src="https://img.shields.io/github/forks/Rat5ak/CVE-2026-3805-curl-SMB-UAF">	<img alt="stars" src="https://img.shields.io/github/stars/Rat5ak/CVE-2026-3805-curl-SMB-UAF">
