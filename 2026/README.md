@@ -34,6 +34,7 @@
 ## CVE-2026-7482 ()
 > 
 - [0x0OZ/CVE-2026-7482-PoC](https://github.com/0x0OZ/CVE-2026-7482-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0x0OZ/CVE-2026-7482-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0x0OZ/CVE-2026-7482-PoC">
+- [szybnev/CVE-2026-7482](https://github.com/szybnev/CVE-2026-7482)	<img alt="forks" src="https://img.shields.io/github/forks/szybnev/CVE-2026-7482">	<img alt="stars" src="https://img.shields.io/github/stars/szybnev/CVE-2026-7482">
 
 ---
 ## CVE-2026-7401 ()
@@ -385,6 +386,7 @@
 - [Richflexpix/cpanel-pwn](https://github.com/Richflexpix/cpanel-pwn)	<img alt="forks" src="https://img.shields.io/github/forks/Richflexpix/cpanel-pwn">	<img alt="stars" src="https://img.shields.io/github/stars/Richflexpix/cpanel-pwn">
 - [Defacto-ridgepole254/CVE-2026-41940-Exploit-PoC](https://github.com/Defacto-ridgepole254/CVE-2026-41940-Exploit-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Defacto-ridgepole254/CVE-2026-41940-Exploit-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Defacto-ridgepole254/CVE-2026-41940-Exploit-PoC">
 - [murrez/CVE-2026-41940](https://github.com/murrez/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-41940">
+- [thekawix/CVE-2026-41940](https://github.com/thekawix/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/thekawix/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/thekawix/CVE-2026-41940">
 
 ---
 ## CVE-2026-41679 ()
@@ -1562,6 +1564,7 @@
 - [sgkdev/page_inject](https://github.com/sgkdev/page_inject)	<img alt="forks" src="https://img.shields.io/github/forks/sgkdev/page_inject">	<img alt="stars" src="https://img.shields.io/github/stars/sgkdev/page_inject">
 - [Mr-bv/Copy-fail-CVE-2026-31431-Exploit-in-C](https://github.com/Mr-bv/Copy-fail-CVE-2026-31431-Exploit-in-C)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-bv/Copy-fail-CVE-2026-31431-Exploit-in-C">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-bv/Copy-fail-CVE-2026-31431-Exploit-in-C">
 - [cx330zer0/CVE-2026-31431-Copy-Fail-add-arm64](https://github.com/cx330zer0/CVE-2026-31431-Copy-Fail-add-arm64)	<img alt="forks" src="https://img.shields.io/github/forks/cx330zer0/CVE-2026-31431-Copy-Fail-add-arm64">	<img alt="stars" src="https://img.shields.io/github/stars/cx330zer0/CVE-2026-31431-Copy-Fail-add-arm64">
+- [abdelkabirouadoukou/CVE-2026-31431-Analysis-and-Fix](https://github.com/abdelkabirouadoukou/CVE-2026-31431-Analysis-and-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/abdelkabirouadoukou/CVE-2026-31431-Analysis-and-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/abdelkabirouadoukou/CVE-2026-31431-Analysis-and-Fix">
 
 ---
 ## CVE-2026-3143 ()
