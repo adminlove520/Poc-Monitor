@@ -402,6 +402,7 @@
 - [Defacto-ridgepole254/CVE-2026-41940-Exploit-PoC](https://github.com/Defacto-ridgepole254/CVE-2026-41940-Exploit-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Defacto-ridgepole254/CVE-2026-41940-Exploit-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Defacto-ridgepole254/CVE-2026-41940-Exploit-PoC">
 - [murrez/CVE-2026-41940](https://github.com/murrez/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-41940">
 - [thekawix/CVE-2026-41940](https://github.com/thekawix/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/thekawix/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/thekawix/CVE-2026-41940">
+- [branixsolutions/Security-CVE-2026-41940-cPanel-WHM-WP2](https://github.com/branixsolutions/Security-CVE-2026-41940-cPanel-WHM-WP2)	<img alt="forks" src="https://img.shields.io/github/forks/branixsolutions/Security-CVE-2026-41940-cPanel-WHM-WP2">	<img alt="stars" src="https://img.shields.io/github/stars/branixsolutions/Security-CVE-2026-41940-cPanel-WHM-WP2">
 
 ---
 ## CVE-2026-41679 ()
@@ -647,6 +648,7 @@
 - [dinosn/CVE-2026-3844](https://github.com/dinosn/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/CVE-2026-3844">
 - [halilkirazkaya/CVE-2026-3844](https://github.com/halilkirazkaya/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/halilkirazkaya/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/halilkirazkaya/CVE-2026-3844">
 - [sahmsec/CVE-2026-3844](https://github.com/sahmsec/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/sahmsec/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/sahmsec/CVE-2026-3844">
+- [rootdirective-sec/CVE-2026-3844-Lab](https://github.com/rootdirective-sec/CVE-2026-3844-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-3844-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-3844-Lab">
 
 ---
 ## CVE-2026-38361 ()
@@ -785,6 +787,11 @@
 > 
 - [killercd/CVE-2026-35414](https://github.com/killercd/CVE-2026-35414)	<img alt="forks" src="https://img.shields.io/github/forks/killercd/CVE-2026-35414">	<img alt="stars" src="https://img.shields.io/github/stars/killercd/CVE-2026-35414">
 - [dehobbs/cve_2026_35414](https://github.com/dehobbs/cve_2026_35414)	<img alt="forks" src="https://img.shields.io/github/forks/dehobbs/cve_2026_35414">	<img alt="stars" src="https://img.shields.io/github/stars/dehobbs/cve_2026_35414">
+
+---
+## CVE-2026-35397 ()
+> 
+- [HiteshGorana/susvibes-jupyter-server-cve-2026-35397](https://github.com/HiteshGorana/susvibes-jupyter-server-cve-2026-35397)	<img alt="forks" src="https://img.shields.io/github/forks/HiteshGorana/susvibes-jupyter-server-cve-2026-35397">	<img alt="stars" src="https://img.shields.io/github/stars/HiteshGorana/susvibes-jupyter-server-cve-2026-35397">
 
 ---
 ## CVE-2026-35250 ()
