@@ -281,6 +281,11 @@
 - [guzrex/CVE-2026-42879](https://github.com/guzrex/CVE-2026-42879)	<img alt="forks" src="https://img.shields.io/github/forks/guzrex/CVE-2026-42879">	<img alt="stars" src="https://img.shields.io/github/stars/guzrex/CVE-2026-42879">
 
 ---
+## CVE-2026-42796 ()
+> 
+- [ameerhamza-malik/CVE-2026-42796](https://github.com/ameerhamza-malik/CVE-2026-42796)	<img alt="forks" src="https://img.shields.io/github/forks/ameerhamza-malik/CVE-2026-42796">	<img alt="stars" src="https://img.shields.io/github/stars/ameerhamza-malik/CVE-2026-42796">
+
+---
 ## CVE-2026-42779 ()
 > 
 - [dinosn/CVE-2026-42779](https://github.com/dinosn/CVE-2026-42779)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/CVE-2026-42779">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/CVE-2026-42779">
@@ -1178,6 +1183,11 @@
 ## CVE-2026-32710 ()
 > 
 - [dinosn/CVE-2026-32710](https://github.com/dinosn/CVE-2026-32710)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/CVE-2026-32710">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/CVE-2026-32710">
+
+---
+## CVE-2026-32707 ()
+> 
+- [mbanyamer/CVE-2026-32707-PX4-Autopilot-tattu_can-Stack-Buffer-Overflow-DoS-](https://github.com/mbanyamer/CVE-2026-32707-PX4-Autopilot-tattu_can-Stack-Buffer-Overflow-DoS-)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-32707-PX4-Autopilot-tattu_can-Stack-Buffer-Overflow-DoS-">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-32707-PX4-Autopilot-tattu_can-Stack-Buffer-Overflow-DoS-">
 
 ---
 ## CVE-2026-32699 ()
