@@ -286,6 +286,7 @@
 - [dixyes/dirtypatch](https://github.com/dixyes/dirtypatch)	<img alt="forks" src="https://img.shields.io/github/forks/dixyes/dirtypatch">	<img alt="stars" src="https://img.shields.io/github/stars/dixyes/dirtypatch">
 - [Percivalll/Dirty-Frag-Kubernetes-PoC](https://github.com/Percivalll/Dirty-Frag-Kubernetes-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Percivalll/Dirty-Frag-Kubernetes-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Percivalll/Dirty-Frag-Kubernetes-PoC">
 - [scriptzteam/Paranoid-Dirty-Frag-CVE-2026-43284](https://github.com/scriptzteam/Paranoid-Dirty-Frag-CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/scriptzteam/Paranoid-Dirty-Frag-CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/scriptzteam/Paranoid-Dirty-Frag-CVE-2026-43284">
+- [suominen/CVE-2026-43284](https://github.com/suominen/CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/CVE-2026-43284">
 
 ---
 ## CVE-2026-42940 ()
@@ -1202,6 +1203,7 @@
 ## CVE-2026-32743 ()
 > 
 - [mbanyamer/CVE-2026-32743-PX4-Autopilot-MavlinkLogHandler-Stack-Buffer-Overflow-DoS-](https://github.com/mbanyamer/CVE-2026-32743-PX4-Autopilot-MavlinkLogHandler-Stack-Buffer-Overflow-DoS-)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-32743-PX4-Autopilot-MavlinkLogHandler-Stack-Buffer-Overflow-DoS-">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-32743-PX4-Autopilot-MavlinkLogHandler-Stack-Buffer-Overflow-DoS-">
+- [SimoesCTT/CTT-Enhanced-PX4-Autopilot-Exploit-CVE-2026-32743](https://github.com/SimoesCTT/CTT-Enhanced-PX4-Autopilot-Exploit-CVE-2026-32743)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/CTT-Enhanced-PX4-Autopilot-Exploit-CVE-2026-32743">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/CTT-Enhanced-PX4-Autopilot-Exploit-CVE-2026-32743">
 
 ---
 ## CVE-2026-32731 ()
@@ -1411,7 +1413,7 @@
 - [JuanBindez/CVE-2026-31431](https://github.com/JuanBindez/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/JuanBindez/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/JuanBindez/CVE-2026-31431">
 - [eximiait/CVE-2026-31431](https://github.com/eximiait/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/eximiait/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/eximiait/CVE-2026-31431">
 - [dicatalin/Copy_Fail_CVE-2026-31431_test_and_fix](https://github.com/dicatalin/Copy_Fail_CVE-2026-31431_test_and_fix)	<img alt="forks" src="https://img.shields.io/github/forks/dicatalin/Copy_Fail_CVE-2026-31431_test_and_fix">	<img alt="stars" src="https://img.shields.io/github/stars/dicatalin/Copy_Fail_CVE-2026-31431_test_and_fix">
-- [attaattaatta/CVE-2026-31431](https://github.com/attaattaatta/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/attaattaatta/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/attaattaatta/CVE-2026-31431">
+- [attaattaatta/CVE-2026-43284](https://github.com/attaattaatta/CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/attaattaatta/CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/attaattaatta/CVE-2026-43284">
 - [Webhosting4U/Copy-Fail_Detect_and_mitigate_CVE-2026-31431](https://github.com/Webhosting4U/Copy-Fail_Detect_and_mitigate_CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Webhosting4U/Copy-Fail_Detect_and_mitigate_CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Webhosting4U/Copy-Fail_Detect_and_mitigate_CVE-2026-31431">
 - [gmeghnag/TEST-CVE-2026-31431](https://github.com/gmeghnag/TEST-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/gmeghnag/TEST-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/gmeghnag/TEST-CVE-2026-31431">
 - [Boos4721/copyfail-rs](https://github.com/Boos4721/copyfail-rs)	<img alt="forks" src="https://img.shields.io/github/forks/Boos4721/copyfail-rs">	<img alt="stars" src="https://img.shields.io/github/stars/Boos4721/copyfail-rs">
