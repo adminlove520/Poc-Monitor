@@ -818,6 +818,7 @@
 > 
 - [Ak-cybe/CVE-2025-68664-LangGrinch-PoC](https://github.com/Ak-cybe/CVE-2025-68664-LangGrinch-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Ak-cybe/CVE-2025-68664-LangGrinch-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Ak-cybe/CVE-2025-68664-LangGrinch-PoC">
 - [comerc/CVE-2025-68664](https://github.com/comerc/CVE-2025-68664)	<img alt="forks" src="https://img.shields.io/github/forks/comerc/CVE-2025-68664">	<img alt="stars" src="https://img.shields.io/github/stars/comerc/CVE-2025-68664">
+- [Johnnyzhou666/langgrinch-cve-2025-68664-analysis](https://github.com/Johnnyzhou666/langgrinch-cve-2025-68664-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Johnnyzhou666/langgrinch-cve-2025-68664-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Johnnyzhou666/langgrinch-cve-2025-68664-analysis">
 
 ---
 ## CVE-2025-68645 ()
@@ -6263,6 +6264,7 @@
 > 
 - [Nefhara/CVE-2025-4396](https://github.com/Nefhara/CVE-2025-4396)	<img alt="forks" src="https://img.shields.io/github/forks/Nefhara/CVE-2025-4396">	<img alt="stars" src="https://img.shields.io/github/stars/Nefhara/CVE-2025-4396">
 - [far00t01/CVE-2025-43960](https://github.com/far00t01/CVE-2025-43960)	<img alt="forks" src="https://img.shields.io/github/forks/far00t01/CVE-2025-43960">	<img alt="stars" src="https://img.shields.io/github/stars/far00t01/CVE-2025-43960">
+- [sup3rDav3/CVE-2025-4396](https://github.com/sup3rDav3/CVE-2025-4396)	<img alt="forks" src="https://img.shields.io/github/forks/sup3rDav3/CVE-2025-4396">	<img alt="stars" src="https://img.shields.io/github/stars/sup3rDav3/CVE-2025-4396">
 
 ---
 ## CVE-2025-43929 ()
