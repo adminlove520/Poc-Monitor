@@ -446,6 +446,7 @@
 - [branixsolutions/Security-CVE-2026-41940-cPanel-WHM-WP2](https://github.com/branixsolutions/Security-CVE-2026-41940-cPanel-WHM-WP2)	<img alt="forks" src="https://img.shields.io/github/forks/branixsolutions/Security-CVE-2026-41940-cPanel-WHM-WP2">	<img alt="stars" src="https://img.shields.io/github/stars/branixsolutions/Security-CVE-2026-41940-cPanel-WHM-WP2">
 - [acuciureanu/cpanel2shell-honeypot](https://github.com/acuciureanu/cpanel2shell-honeypot)	<img alt="forks" src="https://img.shields.io/github/forks/acuciureanu/cpanel2shell-honeypot">	<img alt="stars" src="https://img.shields.io/github/stars/acuciureanu/cpanel2shell-honeypot">
 - [SreejaPuthan/cpanel-control-plane-exposure-check](https://github.com/SreejaPuthan/cpanel-control-plane-exposure-check)	<img alt="forks" src="https://img.shields.io/github/forks/SreejaPuthan/cpanel-control-plane-exposure-check">	<img alt="stars" src="https://img.shields.io/github/stars/SreejaPuthan/cpanel-control-plane-exposure-check">
+- [44pie/cpsniper](https://github.com/44pie/cpsniper)	<img alt="forks" src="https://img.shields.io/github/forks/44pie/cpsniper">	<img alt="stars" src="https://img.shields.io/github/stars/44pie/cpsniper">
 
 ---
 ## CVE-2026-41679 ()
@@ -3618,6 +3619,8 @@
 - [Sushilsin/CVE-2026-20131](https://github.com/Sushilsin/CVE-2026-20131)	<img alt="forks" src="https://img.shields.io/github/forks/Sushilsin/CVE-2026-20131">	<img alt="stars" src="https://img.shields.io/github/stars/Sushilsin/CVE-2026-20131">
 - [p3Nt3st3r-sTAr/CVE-2026-20131-POC](https://github.com/p3Nt3st3r-sTAr/CVE-2026-20131-POC)	<img alt="forks" src="https://img.shields.io/github/forks/p3Nt3st3r-sTAr/CVE-2026-20131-POC">	<img alt="stars" src="https://img.shields.io/github/stars/p3Nt3st3r-sTAr/CVE-2026-20131-POC">
 - [sak110/CVE-2026-20131](https://github.com/sak110/CVE-2026-20131)	<img alt="forks" src="https://img.shields.io/github/forks/sak110/CVE-2026-20131">	<img alt="stars" src="https://img.shields.io/github/stars/sak110/CVE-2026-20131">
+- [0xBlackash/CVE-2026-20131](https://github.com/0xBlackash/CVE-2026-20131)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-20131">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-20131">
+- [Hassan-Pouladi/Cisco-FMC-honeypot](https://github.com/Hassan-Pouladi/Cisco-FMC-honeypot)	<img alt="forks" src="https://img.shields.io/github/forks/Hassan-Pouladi/Cisco-FMC-honeypot">	<img alt="stars" src="https://img.shields.io/github/stars/Hassan-Pouladi/Cisco-FMC-honeypot">
 
 ---
 ## CVE-2026-20127 ()
