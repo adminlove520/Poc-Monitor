@@ -35,6 +35,7 @@
 > 
 - [0x0OZ/CVE-2026-7482-PoC](https://github.com/0x0OZ/CVE-2026-7482-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0x0OZ/CVE-2026-7482-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0x0OZ/CVE-2026-7482-PoC">
 - [szybnev/CVE-2026-7482](https://github.com/szybnev/CVE-2026-7482)	<img alt="forks" src="https://img.shields.io/github/forks/szybnev/CVE-2026-7482">	<img alt="stars" src="https://img.shields.io/github/stars/szybnev/CVE-2026-7482">
+- [kaleth4/CVE-2026-7482](https://github.com/kaleth4/CVE-2026-7482)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-7482">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-7482">
 
 ---
 ## CVE-2026-7458 ()
@@ -452,6 +453,7 @@
 - [acuciureanu/cpanel2shell-honeypot](https://github.com/acuciureanu/cpanel2shell-honeypot)	<img alt="forks" src="https://img.shields.io/github/forks/acuciureanu/cpanel2shell-honeypot">	<img alt="stars" src="https://img.shields.io/github/stars/acuciureanu/cpanel2shell-honeypot">
 - [SreejaPuthan/cpanel-control-plane-exposure-check](https://github.com/SreejaPuthan/cpanel-control-plane-exposure-check)	<img alt="forks" src="https://img.shields.io/github/forks/SreejaPuthan/cpanel-control-plane-exposure-check">	<img alt="stars" src="https://img.shields.io/github/stars/SreejaPuthan/cpanel-control-plane-exposure-check">
 - [44pie/cpsniper](https://github.com/44pie/cpsniper)	<img alt="forks" src="https://img.shields.io/github/forks/44pie/cpsniper">	<img alt="stars" src="https://img.shields.io/github/stars/44pie/cpsniper">
+- [ngksiva/cpanel-forensics](https://github.com/ngksiva/cpanel-forensics)	<img alt="forks" src="https://img.shields.io/github/forks/ngksiva/cpanel-forensics">	<img alt="stars" src="https://img.shields.io/github/stars/ngksiva/cpanel-forensics">
 
 ---
 ## CVE-2026-41679 ()
@@ -698,6 +700,7 @@
 - [halilkirazkaya/CVE-2026-3844](https://github.com/halilkirazkaya/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/halilkirazkaya/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/halilkirazkaya/CVE-2026-3844">
 - [sahmsec/CVE-2026-3844](https://github.com/sahmsec/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/sahmsec/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/sahmsec/CVE-2026-3844">
 - [rootdirective-sec/CVE-2026-3844-Lab](https://github.com/rootdirective-sec/CVE-2026-3844-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-3844-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-3844-Lab">
+- [zycoder0day/CVE-2026-3844](https://github.com/zycoder0day/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-3844">
 
 ---
 ## CVE-2026-38361 ()
