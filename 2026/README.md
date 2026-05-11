@@ -455,6 +455,7 @@
 - [SreejaPuthan/cpanel-control-plane-exposure-check](https://github.com/SreejaPuthan/cpanel-control-plane-exposure-check)	<img alt="forks" src="https://img.shields.io/github/forks/SreejaPuthan/cpanel-control-plane-exposure-check">	<img alt="stars" src="https://img.shields.io/github/stars/SreejaPuthan/cpanel-control-plane-exposure-check">
 - [44pie/cpsniper](https://github.com/44pie/cpsniper)	<img alt="forks" src="https://img.shields.io/github/forks/44pie/cpsniper">	<img alt="stars" src="https://img.shields.io/github/stars/44pie/cpsniper">
 - [ngksiva/cpanel-forensics](https://github.com/ngksiva/cpanel-forensics)	<img alt="forks" src="https://img.shields.io/github/forks/ngksiva/cpanel-forensics">	<img alt="stars" src="https://img.shields.io/github/stars/ngksiva/cpanel-forensics">
+- [anach-ai/CVE-2026-41940](https://github.com/anach-ai/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/anach-ai/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/anach-ai/CVE-2026-41940">
 
 ---
 ## CVE-2026-41679 ()
@@ -476,6 +477,10 @@
 - [baph00met/CVE-2026-41651](https://github.com/baph00met/CVE-2026-41651)	<img alt="forks" src="https://img.shields.io/github/forks/baph00met/CVE-2026-41651">	<img alt="stars" src="https://img.shields.io/github/stars/baph00met/CVE-2026-41651">
 - [dinosn/pack2theroot-lab](https://github.com/dinosn/pack2theroot-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/pack2theroot-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/pack2theroot-lab">
 - [Kowntaewook/CVE-2026-41651-analysis](https://github.com/Kowntaewook/CVE-2026-41651-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Kowntaewook/CVE-2026-41651-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Kowntaewook/CVE-2026-41651-analysis">
+- [mawussid/CVE-2026-41651-Python](https://github.com/mawussid/CVE-2026-41651-Python)	<img alt="forks" src="https://img.shields.io/github/forks/mawussid/CVE-2026-41651-Python">	<img alt="stars" src="https://img.shields.io/github/stars/mawussid/CVE-2026-41651-Python">
+- [aexdyhaxor/CVE-2026-41651](https://github.com/aexdyhaxor/CVE-2026-41651)	<img alt="forks" src="https://img.shields.io/github/forks/aexdyhaxor/CVE-2026-41651">	<img alt="stars" src="https://img.shields.io/github/stars/aexdyhaxor/CVE-2026-41651">
+- [mazofeifaalfaro/check_pack2theroot](https://github.com/mazofeifaalfaro/check_pack2theroot)	<img alt="forks" src="https://img.shields.io/github/forks/mazofeifaalfaro/check_pack2theroot">	<img alt="stars" src="https://img.shields.io/github/stars/mazofeifaalfaro/check_pack2theroot">
+- [shibaaa204/Pack2TheRoot](https://github.com/shibaaa204/Pack2TheRoot)	<img alt="forks" src="https://img.shields.io/github/forks/shibaaa204/Pack2TheRoot">	<img alt="stars" src="https://img.shields.io/github/stars/shibaaa204/Pack2TheRoot">
 
 ---
 ## CVE-2026-41575 ()
