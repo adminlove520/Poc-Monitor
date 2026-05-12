@@ -7167,8 +7167,11 @@ Users are recommended to upgrade to version 0.95.0, which fixes the issue.
 - [kyotozx/CVE-2024-2961-Remote-File-Read](https://github.com/kyotozx/CVE-2024-2961-Remote-File-Read)	<img alt="forks" src="https://img.shields.io/github/forks/kyotozx/CVE-2024-2961-Remote-File-Read">	<img alt="stars" src="https://img.shields.io/github/stars/kyotozx/CVE-2024-2961-Remote-File-Read">
 - [4wayhandshake/CVE-2024-2961](https://github.com/4wayhandshake/CVE-2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/4wayhandshake/CVE-2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/4wayhandshake/CVE-2024-2961">
 - [omarelshopky/exploit_cve-2023-26326_using_cve-2024-2961](https://github.com/omarelshopky/exploit_cve-2023-26326_using_cve-2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/omarelshopky/exploit_cve-2023-26326_using_cve-2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/omarelshopky/exploit_cve-2023-26326_using_cve-2024-2961">
-- [suce0155/CVE-2024-2961_buddyforms_2.7.7](https://github.com/suce0155/CVE-2024-2961_buddyforms_2.7.7)	<img alt="forks" src="https://img.shields.io/github/forks/suce0155/CVE-2024-2961_buddyforms_2.7.7">	<img alt="stars" src="https://img.shields.io/github/stars/suce0155/CVE-2024-2961_buddyforms_2.7.7">
+- [suce0155/CVE-2024-2961](https://github.com/suce0155/CVE-2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/suce0155/CVE-2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/suce0155/CVE-2024-2961">
 - [regantemudo/PHP-file-read-to-RCE-CVE-2024-2961-](https://github.com/regantemudo/PHP-file-read-to-RCE-CVE-2024-2961-)	<img alt="forks" src="https://img.shields.io/github/forks/regantemudo/PHP-file-read-to-RCE-CVE-2024-2961-">	<img alt="stars" src="https://img.shields.io/github/stars/regantemudo/PHP-file-read-to-RCE-CVE-2024-2961-">
+- [rcribelar-nucleus/demo-php-cve-2024-2961](https://github.com/rcribelar-nucleus/demo-php-cve-2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/rcribelar-nucleus/demo-php-cve-2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/rcribelar-nucleus/demo-php-cve-2024-2961">
+- [Clarissss/osTicketFileReadIntoRCE](https://github.com/Clarissss/osTicketFileReadIntoRCE)	<img alt="forks" src="https://img.shields.io/github/forks/Clarissss/osTicketFileReadIntoRCE">	<img alt="stars" src="https://img.shields.io/github/stars/Clarissss/osTicketFileReadIntoRCE">
+- [muffinthecoder/CNEXT_BufferOverflow_CVE2024-2961](https://github.com/muffinthecoder/CNEXT_BufferOverflow_CVE2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/muffinthecoder/CNEXT_BufferOverflow_CVE2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/muffinthecoder/CNEXT_BufferOverflow_CVE2024-2961">
 
 ---
 ## CVE-2024-29510 (2024-07-03T19:15:00)
@@ -11012,6 +11015,7 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 - [geniuszly/CVE-2024-0582](https://github.com/geniuszly/CVE-2024-0582)	<img alt="forks" src="https://img.shields.io/github/forks/geniuszly/CVE-2024-0582">	<img alt="stars" src="https://img.shields.io/github/stars/geniuszly/CVE-2024-0582">
 - [101010zyl/CVE-2024-0582-dataonly](https://github.com/101010zyl/CVE-2024-0582-dataonly)	<img alt="forks" src="https://img.shields.io/github/forks/101010zyl/CVE-2024-0582-dataonly">	<img alt="stars" src="https://img.shields.io/github/stars/101010zyl/CVE-2024-0582-dataonly">
 - [kuzeyardabulut/CVE-2024-0582](https://github.com/kuzeyardabulut/CVE-2024-0582)	<img alt="forks" src="https://img.shields.io/github/forks/kuzeyardabulut/CVE-2024-0582">	<img alt="stars" src="https://img.shields.io/github/stars/kuzeyardabulut/CVE-2024-0582">
+- [nanabingies/CVE-2024-0582](https://github.com/nanabingies/CVE-2024-0582)	<img alt="forks" src="https://img.shields.io/github/forks/nanabingies/CVE-2024-0582">	<img alt="stars" src="https://img.shields.io/github/stars/nanabingies/CVE-2024-0582">
 
 ---
 ## CVE-2024-0566 (2024-02-12T16:15:00)

@@ -380,6 +380,11 @@
 - [0xBlackash/CVE-2026-42569](https://github.com/0xBlackash/CVE-2026-42569)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-42569">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-42569">
 
 ---
+## CVE-2026-4255 ()
+> 
+- [Ard33/CVE-2026-4255](https://github.com/Ard33/CVE-2026-4255)	<img alt="forks" src="https://img.shields.io/github/forks/Ard33/CVE-2026-4255">	<img alt="stars" src="https://img.shields.io/github/stars/Ard33/CVE-2026-4255">
+
+---
 ## CVE-2026-42281 ()
 > 
 - [Astaruf/CVE-2026-42281](https://github.com/Astaruf/CVE-2026-42281)	<img alt="forks" src="https://img.shields.io/github/forks/Astaruf/CVE-2026-42281">	<img alt="stars" src="https://img.shields.io/github/stars/Astaruf/CVE-2026-42281">
@@ -967,6 +972,7 @@
 - [eduardorossi84/CVE-2026-34621-POC](https://github.com/eduardorossi84/CVE-2026-34621-POC)	<img alt="forks" src="https://img.shields.io/github/forks/eduardorossi84/CVE-2026-34621-POC">	<img alt="stars" src="https://img.shields.io/github/stars/eduardorossi84/CVE-2026-34621-POC">
 - [KeulenR01/Remediate-AdobeAcrobat-CVE-2026-34621](https://github.com/KeulenR01/Remediate-AdobeAcrobat-CVE-2026-34621)	<img alt="forks" src="https://img.shields.io/github/forks/KeulenR01/Remediate-AdobeAcrobat-CVE-2026-34621">	<img alt="stars" src="https://img.shields.io/github/stars/KeulenR01/Remediate-AdobeAcrobat-CVE-2026-34621">
 - [ercihan/CVE-2026-34621_PDF_SAMPLE](https://github.com/ercihan/CVE-2026-34621_PDF_SAMPLE)	<img alt="forks" src="https://img.shields.io/github/forks/ercihan/CVE-2026-34621_PDF_SAMPLE">	<img alt="stars" src="https://img.shields.io/github/stars/ercihan/CVE-2026-34621_PDF_SAMPLE">
+- [azefzafyoussef/CVE-2026-34621](https://github.com/azefzafyoussef/CVE-2026-34621)	<img alt="forks" src="https://img.shields.io/github/forks/azefzafyoussef/CVE-2026-34621">	<img alt="stars" src="https://img.shields.io/github/stars/azefzafyoussef/CVE-2026-34621">
 
 ---
 ## CVE-2026-3462 ()
