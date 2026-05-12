@@ -241,6 +241,11 @@
 - [cyberheartmi9/CVE-2026-4631-cockpit-RCE](https://github.com/cyberheartmi9/CVE-2026-4631-cockpit-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/cyberheartmi9/CVE-2026-4631-cockpit-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/cyberheartmi9/CVE-2026-4631-cockpit-RCE">
 
 ---
+## CVE-2026-45185 ()
+> 
+- [liamromanis101/Dead.Letter-CVE-2026-45185](https://github.com/liamromanis101/Dead.Letter-CVE-2026-45185)	<img alt="forks" src="https://img.shields.io/github/forks/liamromanis101/Dead.Letter-CVE-2026-45185">	<img alt="stars" src="https://img.shields.io/github/stars/liamromanis101/Dead.Letter-CVE-2026-45185">
+
+---
 ## CVE-2026-4484 ()
 > 
 - [Nxploited/CVE-2026-4484](https://github.com/Nxploited/CVE-2026-4484)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-4484">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-4484">
@@ -1760,6 +1765,7 @@
 - [polyakovavv/copyfail](https://github.com/polyakovavv/copyfail)	<img alt="forks" src="https://img.shields.io/github/forks/polyakovavv/copyfail">	<img alt="stars" src="https://img.shields.io/github/stars/polyakovavv/copyfail">
 - [gbonacini/CVE-2026-31431](https://github.com/gbonacini/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/gbonacini/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/gbonacini/CVE-2026-31431">
 - [studiogangster/CVE-2026-31431](https://github.com/studiogangster/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/studiogangster/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/studiogangster/CVE-2026-31431">
+- [paulorlima9/copyfail-fix](https://github.com/paulorlima9/copyfail-fix)	<img alt="forks" src="https://img.shields.io/github/forks/paulorlima9/copyfail-fix">	<img alt="stars" src="https://img.shields.io/github/stars/paulorlima9/copyfail-fix">
 
 ---
 ## CVE-2026-3143 ()
