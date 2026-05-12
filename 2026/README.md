@@ -1219,6 +1219,11 @@
 - [redyank/CVE-2026-33147](https://github.com/redyank/CVE-2026-33147)	<img alt="forks" src="https://img.shields.io/github/forks/redyank/CVE-2026-33147">	<img alt="stars" src="https://img.shields.io/github/stars/redyank/CVE-2026-33147">
 
 ---
+## CVE-2026-33067 ()
+> 
+- [Lopseg/cve-2026-33067](https://github.com/Lopseg/cve-2026-33067)	<img alt="forks" src="https://img.shields.io/github/forks/Lopseg/cve-2026-33067">	<img alt="stars" src="https://img.shields.io/github/stars/Lopseg/cve-2026-33067">
+
+---
 ## CVE-2026-3304 ()
 > 
 - [Mkway/CVE-2026-3304](https://github.com/Mkway/CVE-2026-3304)	<img alt="forks" src="https://img.shields.io/github/forks/Mkway/CVE-2026-3304">	<img alt="stars" src="https://img.shields.io/github/stars/Mkway/CVE-2026-3304">
@@ -1766,6 +1771,7 @@
 - [gbonacini/CVE-2026-31431](https://github.com/gbonacini/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/gbonacini/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/gbonacini/CVE-2026-31431">
 - [studiogangster/CVE-2026-31431](https://github.com/studiogangster/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/studiogangster/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/studiogangster/CVE-2026-31431">
 - [paulorlima9/copyfail-fix](https://github.com/paulorlima9/copyfail-fix)	<img alt="forks" src="https://img.shields.io/github/forks/paulorlima9/copyfail-fix">	<img alt="stars" src="https://img.shields.io/github/stars/paulorlima9/copyfail-fix">
+- [SystemVll/CVE-2026-31431-copyfail-aarch64](https://github.com/SystemVll/CVE-2026-31431-copyfail-aarch64)	<img alt="forks" src="https://img.shields.io/github/forks/SystemVll/CVE-2026-31431-copyfail-aarch64">	<img alt="stars" src="https://img.shields.io/github/stars/SystemVll/CVE-2026-31431-copyfail-aarch64">
 
 ---
 ## CVE-2026-3143 ()

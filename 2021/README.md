@@ -216,6 +216,7 @@
 ## CVE-2021-46078 ()
 > 
 - [sanupl/CVE-2021-46078](https://github.com/sanupl/CVE-2021-46078)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/CVE-2021-46078">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/CVE-2021-46078">
+- [sanupl/Vehicle-Service-Management-System-Multiple-File-upload-Leads-to-Stored-Cross-Site-Scripting](https://github.com/sanupl/Vehicle-Service-Management-System-Multiple-File-upload-Leads-to-Stored-Cross-Site-Scripting)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/Vehicle-Service-Management-System-Multiple-File-upload-Leads-to-Stored-Cross-Site-Scripting">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/Vehicle-Service-Management-System-Multiple-File-upload-Leads-to-Stored-Cross-Site-Scripting">
 
 ---
 ## CVE-2021-46076 ()
@@ -227,6 +228,7 @@
 ## CVE-2021-46075 ()
 > 
 - [sanupl/CVE-2021-46075](https://github.com/sanupl/CVE-2021-46075)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/CVE-2021-46075">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/CVE-2021-46075">
+- [sanupl/Vehicle-Service-Management-System-Multiple-Privilege-Escalation-Leads-to-CRUD-Operations](https://github.com/sanupl/Vehicle-Service-Management-System-Multiple-Privilege-Escalation-Leads-to-CRUD-Operations)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/Vehicle-Service-Management-System-Multiple-Privilege-Escalation-Leads-to-CRUD-Operations">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/Vehicle-Service-Management-System-Multiple-Privilege-Escalation-Leads-to-CRUD-Operations">
 
 ---
 ## CVE-2021-46074 ()
@@ -249,6 +251,7 @@
 ## CVE-2021-46071 ()
 > 
 - [sanupl/CVE-2021-46071](https://github.com/sanupl/CVE-2021-46071)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/CVE-2021-46071">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/CVE-2021-46071">
+- [sanupl/Vehicle-Service-Management-System-Category-List-Stored-Cross-Site-Scripting-XSS](https://github.com/sanupl/Vehicle-Service-Management-System-Category-List-Stored-Cross-Site-Scripting-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/Vehicle-Service-Management-System-Category-List-Stored-Cross-Site-Scripting-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/Vehicle-Service-Management-System-Category-List-Stored-Cross-Site-Scripting-XSS">
 
 ---
 ## CVE-2021-46070 ()
@@ -259,6 +262,7 @@
 ## CVE-2021-46069 ()
 > 
 - [sanupl/CVE-2021-46069](https://github.com/sanupl/CVE-2021-46069)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/CVE-2021-46069">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/CVE-2021-46069">
+- [sanupl/Vehicle-Service-Management-System-Mechanic-List-Stored-Cross-Site-Scripting-XSS](https://github.com/sanupl/Vehicle-Service-Management-System-Mechanic-List-Stored-Cross-Site-Scripting-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/Vehicle-Service-Management-System-Mechanic-List-Stored-Cross-Site-Scripting-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/Vehicle-Service-Management-System-Mechanic-List-Stored-Cross-Site-Scripting-XSS">
 
 ---
 ## CVE-2021-46068 ()
