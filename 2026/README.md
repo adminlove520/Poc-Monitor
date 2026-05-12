@@ -1743,6 +1743,7 @@
 - [Lutfifakee-Project/CVE-2026-31431](https://github.com/Lutfifakee-Project/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Lutfifakee-Project/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Lutfifakee-Project/CVE-2026-31431">
 - [dgrobinson0/CopyFile_CVE-2026-31431](https://github.com/dgrobinson0/CopyFile_CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/dgrobinson0/CopyFile_CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/dgrobinson0/CopyFile_CVE-2026-31431">
 - [mauricioportela/CVE-2026-31431-Analysis](https://github.com/mauricioportela/CVE-2026-31431-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/mauricioportela/CVE-2026-31431-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/mauricioportela/CVE-2026-31431-Analysis">
+- [polyakovavv/copyfail](https://github.com/polyakovavv/copyfail)	<img alt="forks" src="https://img.shields.io/github/forks/polyakovavv/copyfail">	<img alt="stars" src="https://img.shields.io/github/stars/polyakovavv/copyfail">
 
 ---
 ## CVE-2026-3143 ()
