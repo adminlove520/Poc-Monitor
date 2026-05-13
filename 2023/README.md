@@ -1301,6 +1301,8 @@ Users are recommended to upgrade to version 18.12.10
 - [huiwen-yayaya/CVE-2023-4863](https://github.com/huiwen-yayaya/CVE-2023-4863)	<img alt="forks" src="https://img.shields.io/github/forks/huiwen-yayaya/CVE-2023-4863">	<img alt="stars" src="https://img.shields.io/github/stars/huiwen-yayaya/CVE-2023-4863">
 - [jpselva/CVE-2023-4863](https://github.com/jpselva/CVE-2023-4863)	<img alt="forks" src="https://img.shields.io/github/forks/jpselva/CVE-2023-4863">	<img alt="stars" src="https://img.shields.io/github/stars/jpselva/CVE-2023-4863">
 - [JCasas59/Vulnerabilidad-CVE-2023-4863](https://github.com/JCasas59/Vulnerabilidad-CVE-2023-4863)	<img alt="forks" src="https://img.shields.io/github/forks/JCasas59/Vulnerabilidad-CVE-2023-4863">	<img alt="stars" src="https://img.shields.io/github/stars/JCasas59/Vulnerabilidad-CVE-2023-4863">
+- [pixelotes/lab-cve-2023-4863](https://github.com/pixelotes/lab-cve-2023-4863)	<img alt="forks" src="https://img.shields.io/github/forks/pixelotes/lab-cve-2023-4863">	<img alt="stars" src="https://img.shields.io/github/stars/pixelotes/lab-cve-2023-4863">
+- [577Industries/aegisgraph](https://github.com/577Industries/aegisgraph)	<img alt="forks" src="https://img.shields.io/github/forks/577Industries/aegisgraph">	<img alt="stars" src="https://img.shields.io/github/stars/577Industries/aegisgraph">
 
 ---
 ## CVE-2023-48292 ()
