@@ -1791,6 +1791,7 @@
 - [SystemVll/CVE-2026-31431-copyfail-aarch64](https://github.com/SystemVll/CVE-2026-31431-copyfail-aarch64)	<img alt="forks" src="https://img.shields.io/github/forks/SystemVll/CVE-2026-31431-copyfail-aarch64">	<img alt="stars" src="https://img.shields.io/github/stars/SystemVll/CVE-2026-31431-copyfail-aarch64">
 - [DroPZsec/SplicePrivillegeEscalationFIX](https://github.com/DroPZsec/SplicePrivillegeEscalationFIX)	<img alt="forks" src="https://img.shields.io/github/forks/DroPZsec/SplicePrivillegeEscalationFIX">	<img alt="stars" src="https://img.shields.io/github/stars/DroPZsec/SplicePrivillegeEscalationFIX">
 - [John-Popovici/CVE-2026-31431-CopyFail-Linux-PrivEsc](https://github.com/John-Popovici/CVE-2026-31431-CopyFail-Linux-PrivEsc)	<img alt="forks" src="https://img.shields.io/github/forks/John-Popovici/CVE-2026-31431-CopyFail-Linux-PrivEsc">	<img alt="stars" src="https://img.shields.io/github/stars/John-Popovici/CVE-2026-31431-CopyFail-Linux-PrivEsc">
+- [kuniyal08/Copy-Fail-CVE-2026-31431-Lab](https://github.com/kuniyal08/Copy-Fail-CVE-2026-31431-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/kuniyal08/Copy-Fail-CVE-2026-31431-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/kuniyal08/Copy-Fail-CVE-2026-31431-Lab">
 
 ---
 ## CVE-2026-3143 ()
