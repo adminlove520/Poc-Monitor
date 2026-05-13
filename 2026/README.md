@@ -6,6 +6,11 @@
 - [lasdjk/CVE-2026-99999-important-info](https://github.com/lasdjk/CVE-2026-99999-important-info)	<img alt="forks" src="https://img.shields.io/github/forks/lasdjk/CVE-2026-99999-important-info">	<img alt="stars" src="https://img.shields.io/github/stars/lasdjk/CVE-2026-99999-important-info">
 
 ---
+## CVE-2026-8196 ()
+> 
+- [HORKimhab/CVE-2026-8196](https://github.com/HORKimhab/CVE-2026-8196)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-8196">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-8196">
+
+---
 ## CVE-2026-8161 ()
 > 
 - [Ser0n-ath/CVE-2026-8161](https://github.com/Ser0n-ath/CVE-2026-8161)	<img alt="forks" src="https://img.shields.io/github/forks/Ser0n-ath/CVE-2026-8161">	<img alt="stars" src="https://img.shields.io/github/stars/Ser0n-ath/CVE-2026-8161">
@@ -1784,6 +1789,8 @@
 - [studiogangster/CVE-2026-31431](https://github.com/studiogangster/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/studiogangster/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/studiogangster/CVE-2026-31431">
 - [paulorlima9/copyfail-fix](https://github.com/paulorlima9/copyfail-fix)	<img alt="forks" src="https://img.shields.io/github/forks/paulorlima9/copyfail-fix">	<img alt="stars" src="https://img.shields.io/github/stars/paulorlima9/copyfail-fix">
 - [SystemVll/CVE-2026-31431-copyfail-aarch64](https://github.com/SystemVll/CVE-2026-31431-copyfail-aarch64)	<img alt="forks" src="https://img.shields.io/github/forks/SystemVll/CVE-2026-31431-copyfail-aarch64">	<img alt="stars" src="https://img.shields.io/github/stars/SystemVll/CVE-2026-31431-copyfail-aarch64">
+- [DroPZsec/SplicePrivillegeEscalationFIX](https://github.com/DroPZsec/SplicePrivillegeEscalationFIX)	<img alt="forks" src="https://img.shields.io/github/forks/DroPZsec/SplicePrivillegeEscalationFIX">	<img alt="stars" src="https://img.shields.io/github/stars/DroPZsec/SplicePrivillegeEscalationFIX">
+- [John-Popovici/CVE-2026-31431-CopyFail-Linux-PrivEsc](https://github.com/John-Popovici/CVE-2026-31431-CopyFail-Linux-PrivEsc)	<img alt="forks" src="https://img.shields.io/github/forks/John-Popovici/CVE-2026-31431-CopyFail-Linux-PrivEsc">	<img alt="stars" src="https://img.shields.io/github/stars/John-Popovici/CVE-2026-31431-CopyFail-Linux-PrivEsc">
 
 ---
 ## CVE-2026-3143 ()
@@ -3076,6 +3083,8 @@
 - [alt3kx/CVE-2026-23918](https://github.com/alt3kx/CVE-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/alt3kx/CVE-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/alt3kx/CVE-2026-23918">
 - [insomnisec/Detections-CVE-2026-23918](https://github.com/insomnisec/Detections-CVE-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/insomnisec/Detections-CVE-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/insomnisec/Detections-CVE-2026-23918">
 - [seguridadentrerios/CVE-2026-23918](https://github.com/seguridadentrerios/CVE-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/seguridadentrerios/CVE-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/seguridadentrerios/CVE-2026-23918">
+- [Bencodin/CVE-2026-23918-poc](https://github.com/Bencodin/CVE-2026-23918-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Bencodin/CVE-2026-23918-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Bencodin/CVE-2026-23918-poc">
+- [striga-ai/CVE-2026-23918](https://github.com/striga-ai/CVE-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/striga-ai/CVE-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/striga-ai/CVE-2026-23918">
 
 ---
 ## CVE-2026-23885 ()
@@ -4091,6 +4100,11 @@
 > 
 - [aydin5245/cve-2026-0006](https://github.com/aydin5245/cve-2026-0006)	<img alt="forks" src="https://img.shields.io/github/forks/aydin5245/cve-2026-0006">	<img alt="stars" src="https://img.shields.io/github/stars/aydin5245/cve-2026-0006">
 - [mobilehackinglab/CVE-2026-0006-openapv-poc](https://github.com/mobilehackinglab/CVE-2026-0006-openapv-poc)	<img alt="forks" src="https://img.shields.io/github/forks/mobilehackinglab/CVE-2026-0006-openapv-poc">	<img alt="stars" src="https://img.shields.io/github/stars/mobilehackinglab/CVE-2026-0006-openapv-poc">
+
+---
+## CVE-2026-0001 ()
+> 
+- [HORKimhab/CVE-2026-0001](https://github.com/HORKimhab/CVE-2026-0001)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-0001">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-0001">
 
 ---
 ## CVE-2026-00001 ()
