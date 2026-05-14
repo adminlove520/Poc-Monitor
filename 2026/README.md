@@ -251,6 +251,11 @@
 - [cyberheartmi9/CVE-2026-4631-cockpit-RCE](https://github.com/cyberheartmi9/CVE-2026-4631-cockpit-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/cyberheartmi9/CVE-2026-4631-cockpit-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/cyberheartmi9/CVE-2026-4631-cockpit-RCE">
 
 ---
+## CVE-2026-46300 ()
+> 
+- [HORKimhab/CVE-2026-46300](https://github.com/HORKimhab/CVE-2026-46300)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-46300">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-46300">
+
+---
 ## CVE-2026-45185 ()
 > 
 - [liamromanis101/Dead.Letter-CVE-2026-45185](https://github.com/liamromanis101/Dead.Letter-CVE-2026-45185)	<img alt="forks" src="https://img.shields.io/github/forks/liamromanis101/Dead.Letter-CVE-2026-45185">	<img alt="stars" src="https://img.shields.io/github/stars/liamromanis101/Dead.Letter-CVE-2026-45185">
@@ -277,6 +282,11 @@
 > 
 - [blackhatlegend/CVE-2026-4447](https://github.com/blackhatlegend/CVE-2026-4447)	<img alt="forks" src="https://img.shields.io/github/forks/blackhatlegend/CVE-2026-4447">	<img alt="stars" src="https://img.shields.io/github/stars/blackhatlegend/CVE-2026-4447">
 - [NetVanguard-cmd/CVE-2026-4447](https://github.com/NetVanguard-cmd/CVE-2026-4447)	<img alt="forks" src="https://img.shields.io/github/forks/NetVanguard-cmd/CVE-2026-4447">	<img alt="stars" src="https://img.shields.io/github/stars/NetVanguard-cmd/CVE-2026-4447">
+
+---
+## CVE-2026-44403 ()
+> 
+- [ZemarKhos/CVE-2026-44403-WingFTP-v8.1.2-POC-Exploit](https://github.com/ZemarKhos/CVE-2026-44403-WingFTP-v8.1.2-POC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ZemarKhos/CVE-2026-44403-WingFTP-v8.1.2-POC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ZemarKhos/CVE-2026-44403-WingFTP-v8.1.2-POC-Exploit">
 
 ---
 ## CVE-2026-44277 ()
@@ -365,6 +375,8 @@
 > 
 - [RyosukeDTomita/CVE-2026-42945](https://github.com/RyosukeDTomita/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/RyosukeDTomita/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/RyosukeDTomita/CVE-2026-42945">
 - [DepthFirstDisclosures/Nginx-Rift](https://github.com/DepthFirstDisclosures/Nginx-Rift)	<img alt="forks" src="https://img.shields.io/github/forks/DepthFirstDisclosures/Nginx-Rift">	<img alt="stars" src="https://img.shields.io/github/stars/DepthFirstDisclosures/Nginx-Rift">
+- [p3Nt3st3r-sTAr/CVE-2026-42945-POC](https://github.com/p3Nt3st3r-sTAr/CVE-2026-42945-POC)	<img alt="forks" src="https://img.shields.io/github/forks/p3Nt3st3r-sTAr/CVE-2026-42945-POC">	<img alt="stars" src="https://img.shields.io/github/stars/p3Nt3st3r-sTAr/CVE-2026-42945-POC">
+- [friparia/NGINX_RIFT_SCAN_CVE_2026_42945](https://github.com/friparia/NGINX_RIFT_SCAN_CVE_2026_42945)	<img alt="forks" src="https://img.shields.io/github/forks/friparia/NGINX_RIFT_SCAN_CVE_2026_42945">	<img alt="stars" src="https://img.shields.io/github/stars/friparia/NGINX_RIFT_SCAN_CVE_2026_42945">
 
 ---
 ## CVE-2026-42940 ()
@@ -935,6 +947,16 @@
 ## CVE-2026-35397 ()
 > 
 - [HiteshGorana/susvibes-jupyter-server-cve-2026-35397](https://github.com/HiteshGorana/susvibes-jupyter-server-cve-2026-35397)	<img alt="forks" src="https://img.shields.io/github/forks/HiteshGorana/susvibes-jupyter-server-cve-2026-35397">	<img alt="stars" src="https://img.shields.io/github/stars/HiteshGorana/susvibes-jupyter-server-cve-2026-35397">
+
+---
+## CVE-2026-35333 ()
+> 
+- [JohannesLks/CVE-2026-35333](https://github.com/JohannesLks/CVE-2026-35333)	<img alt="forks" src="https://img.shields.io/github/forks/JohannesLks/CVE-2026-35333">	<img alt="stars" src="https://img.shields.io/github/stars/JohannesLks/CVE-2026-35333">
+
+---
+## CVE-2026-35330 ()
+> 
+- [JohannesLks/CVE-2026-35330](https://github.com/JohannesLks/CVE-2026-35330)	<img alt="forks" src="https://img.shields.io/github/forks/JohannesLks/CVE-2026-35330">	<img alt="stars" src="https://img.shields.io/github/stars/JohannesLks/CVE-2026-35330">
 
 ---
 ## CVE-2026-35250 ()
@@ -1824,6 +1846,7 @@
 - [Diktrome/-cve_2026_31431_python3-5](https://github.com/Diktrome/-cve_2026_31431_python3-5)	<img alt="forks" src="https://img.shields.io/github/forks/Diktrome/-cve_2026_31431_python3-5">	<img alt="stars" src="https://img.shields.io/github/stars/Diktrome/-cve_2026_31431_python3-5">
 - [Koshmare-Blossom/Copyfail-sh](https://github.com/Koshmare-Blossom/Copyfail-sh)	<img alt="forks" src="https://img.shields.io/github/forks/Koshmare-Blossom/Copyfail-sh">	<img alt="stars" src="https://img.shields.io/github/stars/Koshmare-Blossom/Copyfail-sh">
 - [Sebastian294/cve-2026-31431](https://github.com/Sebastian294/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Sebastian294/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Sebastian294/cve-2026-31431">
+- [0xFuffM3/CVE-2026-31431-CopyFail](https://github.com/0xFuffM3/CVE-2026-31431-CopyFail)	<img alt="forks" src="https://img.shields.io/github/forks/0xFuffM3/CVE-2026-31431-CopyFail">	<img alt="stars" src="https://img.shields.io/github/stars/0xFuffM3/CVE-2026-31431-CopyFail">
 
 ---
 ## CVE-2026-3143 ()
@@ -3072,6 +3095,11 @@
 - [HD0x01/CVE-2026-24061-NSE](https://github.com/HD0x01/CVE-2026-24061-NSE)	<img alt="forks" src="https://img.shields.io/github/forks/HD0x01/CVE-2026-24061-NSE">	<img alt="stars" src="https://img.shields.io/github/stars/HD0x01/CVE-2026-24061-NSE">
 - [przemytn/CVE-2026-24061](https://github.com/przemytn/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/przemytn/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/przemytn/CVE-2026-24061">
 - [Risma2025/CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability](https://github.com/Risma2025/CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Risma2025/CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Risma2025/CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability">
+
+---
+## CVE-2026-24055 ()
+> 
+- [imzanggg/CVE-2026-24055-OAuth-Langfuse](https://github.com/imzanggg/CVE-2026-24055-OAuth-Langfuse)	<img alt="forks" src="https://img.shields.io/github/forks/imzanggg/CVE-2026-24055-OAuth-Langfuse">	<img alt="stars" src="https://img.shields.io/github/stars/imzanggg/CVE-2026-24055-OAuth-Langfuse">
 
 ---
 ## CVE-2026-2402 ()
