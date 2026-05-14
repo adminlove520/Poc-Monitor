@@ -9197,6 +9197,11 @@
 - [fsoc-ghost-0x/Fsociety-CVE-2025-24071-NTLM-Coercion](https://github.com/fsoc-ghost-0x/Fsociety-CVE-2025-24071-NTLM-Coercion)	<img alt="forks" src="https://img.shields.io/github/forks/fsoc-ghost-0x/Fsociety-CVE-2025-24071-NTLM-Coercion">	<img alt="stars" src="https://img.shields.io/github/stars/fsoc-ghost-0x/Fsociety-CVE-2025-24071-NTLM-Coercion">
 
 ---
+## CVE-2025-24055 ()
+> 
+- [imzanggg/CVE-2025-24055-OAuth-Langfuse](https://github.com/imzanggg/CVE-2025-24055-OAuth-Langfuse)	<img alt="forks" src="https://img.shields.io/github/forks/imzanggg/CVE-2025-24055-OAuth-Langfuse">	<img alt="stars" src="https://img.shields.io/github/stars/imzanggg/CVE-2025-24055-OAuth-Langfuse">
+
+---
 ## CVE-2025-24054 ()
 > 
 - [xigney/CVE-2025-24054-PoC](https://github.com/xigney/CVE-2025-24054-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/xigney/CVE-2025-24054-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/xigney/CVE-2025-24054-PoC">
