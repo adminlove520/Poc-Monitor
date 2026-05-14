@@ -254,6 +254,7 @@
 ## CVE-2026-46300 ()
 > 
 - [HORKimhab/CVE-2026-46300](https://github.com/HORKimhab/CVE-2026-46300)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-46300">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-46300">
+- [Sentebale/CVE-2026-46300](https://github.com/Sentebale/CVE-2026-46300)	<img alt="forks" src="https://img.shields.io/github/forks/Sentebale/CVE-2026-46300">	<img alt="stars" src="https://img.shields.io/github/stars/Sentebale/CVE-2026-46300">
 
 ---
 ## CVE-2026-45185 ()
