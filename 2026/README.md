@@ -380,6 +380,8 @@
 - [friparia/NGINX_RIFT_SCAN_CVE_2026_42945](https://github.com/friparia/NGINX_RIFT_SCAN_CVE_2026_42945)	<img alt="forks" src="https://img.shields.io/github/forks/friparia/NGINX_RIFT_SCAN_CVE_2026_42945">	<img alt="stars" src="https://img.shields.io/github/stars/friparia/NGINX_RIFT_SCAN_CVE_2026_42945">
 - [realityone/cve-2026-42945-scan](https://github.com/realityone/cve-2026-42945-scan)	<img alt="forks" src="https://img.shields.io/github/forks/realityone/cve-2026-42945-scan">	<img alt="stars" src="https://img.shields.io/github/stars/realityone/cve-2026-42945-scan">
 - [cipherspy/CVE-2026-42945-POC](https://github.com/cipherspy/CVE-2026-42945-POC)	<img alt="forks" src="https://img.shields.io/github/forks/cipherspy/CVE-2026-42945-POC">	<img alt="stars" src="https://img.shields.io/github/stars/cipherspy/CVE-2026-42945-POC">
+- [rheodev/CVE-2026-42945](https://github.com/rheodev/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/rheodev/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/rheodev/CVE-2026-42945">
+- [nanwinata/nginxrift-CVE-2026-42945](https://github.com/nanwinata/nginxrift-CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/nanwinata/nginxrift-CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/nanwinata/nginxrift-CVE-2026-42945">
 
 ---
 ## CVE-2026-42940 ()
