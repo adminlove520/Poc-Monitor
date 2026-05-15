@@ -11,6 +11,11 @@
 - [HORKimhab/CVE-2026-8196](https://github.com/HORKimhab/CVE-2026-8196)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-8196">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-8196">
 
 ---
+## CVE-2026-8181 ()
+> 
+- [zycoder0day/CVE-2026-8181](https://github.com/zycoder0day/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-8181">
+
+---
 ## CVE-2026-8161 ()
 > 
 - [Ser0n-ath/CVE-2026-8161](https://github.com/Ser0n-ath/CVE-2026-8161)	<img alt="forks" src="https://img.shields.io/github/forks/Ser0n-ath/CVE-2026-8161">	<img alt="stars" src="https://img.shields.io/github/stars/Ser0n-ath/CVE-2026-8161">
@@ -609,6 +614,11 @@
 ## CVE-2026-4112 ()
 > 
 - [Hann1bl3L3ct3r/CVE-2026-4112](https://github.com/Hann1bl3L3ct3r/CVE-2026-4112)	<img alt="forks" src="https://img.shields.io/github/forks/Hann1bl3L3ct3r/CVE-2026-4112">	<img alt="stars" src="https://img.shields.io/github/stars/Hann1bl3L3ct3r/CVE-2026-4112">
+
+---
+## CVE-2026-41096 ()
+> 
+- [mrk336/DNS-Mayhem-CVE-2026-41096-Deep-Dive](https://github.com/mrk336/DNS-Mayhem-CVE-2026-41096-Deep-Dive)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/DNS-Mayhem-CVE-2026-41096-Deep-Dive">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/DNS-Mayhem-CVE-2026-41096-Deep-Dive">
 
 ---
 ## CVE-2026-41044 ()
@@ -4100,6 +4110,7 @@
 - [0xgh057r3c0n/CVE-2026-0770](https://github.com/0xgh057r3c0n/CVE-2026-0770)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2026-0770">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2026-0770">
 - [Yetazyyy/CVE-2026-0770](https://github.com/Yetazyyy/CVE-2026-0770)	<img alt="forks" src="https://img.shields.io/github/forks/Yetazyyy/CVE-2026-0770">	<img alt="stars" src="https://img.shields.io/github/stars/Yetazyyy/CVE-2026-0770">
 - [0xBlackash/CVE-2026-0770](https://github.com/0xBlackash/CVE-2026-0770)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-0770">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-0770">
+- [Ez4rd1x1/CVE-2026-0770](https://github.com/Ez4rd1x1/CVE-2026-0770)	<img alt="forks" src="https://img.shields.io/github/forks/Ez4rd1x1/CVE-2026-0770">	<img alt="stars" src="https://img.shields.io/github/stars/Ez4rd1x1/CVE-2026-0770">
 
 ---
 ## CVE-2026-0766 ()
@@ -4111,6 +4122,7 @@
 > 
 - [blackhatlegend/CVE-2026-0745](https://github.com/blackhatlegend/CVE-2026-0745)	<img alt="forks" src="https://img.shields.io/github/forks/blackhatlegend/CVE-2026-0745">	<img alt="stars" src="https://img.shields.io/github/stars/blackhatlegend/CVE-2026-0745">
 - [NetVanguard-cmd/CVE-2026-0745](https://github.com/NetVanguard-cmd/CVE-2026-0745)	<img alt="forks" src="https://img.shields.io/github/forks/NetVanguard-cmd/CVE-2026-0745">	<img alt="stars" src="https://img.shields.io/github/stars/NetVanguard-cmd/CVE-2026-0745">
+- [HORKimhab/CVE-2026-0745](https://github.com/HORKimhab/CVE-2026-0745)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-0745">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-0745">
 
 ---
 ## CVE-2026-0740 ()
