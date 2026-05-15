@@ -14,6 +14,7 @@
 ## CVE-2026-8181 ()
 > 
 - [zycoder0day/CVE-2026-8181](https://github.com/zycoder0day/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-8181">
+- [murrez/CVE-2026-8181](https://github.com/murrez/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-8181">
 
 ---
 ## CVE-2026-8161 ()
@@ -393,6 +394,7 @@
 - [rheodev/CVE-2026-42945](https://github.com/rheodev/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/rheodev/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/rheodev/CVE-2026-42945">
 - [nanwinata/nginxrift-CVE-2026-42945](https://github.com/nanwinata/nginxrift-CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/nanwinata/nginxrift-CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/nanwinata/nginxrift-CVE-2026-42945">
 - [chenqin231/CVE-2026-42945](https://github.com/chenqin231/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/chenqin231/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/chenqin231/CVE-2026-42945">
+- [jelasin/CVE-2026-42945](https://github.com/jelasin/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/jelasin/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/jelasin/CVE-2026-42945">
 
 ---
 ## CVE-2026-42940 ()
