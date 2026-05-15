@@ -395,11 +395,17 @@
 - [nanwinata/nginxrift-CVE-2026-42945](https://github.com/nanwinata/nginxrift-CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/nanwinata/nginxrift-CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/nanwinata/nginxrift-CVE-2026-42945">
 - [chenqin231/CVE-2026-42945](https://github.com/chenqin231/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/chenqin231/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/chenqin231/CVE-2026-42945">
 - [jelasin/CVE-2026-42945](https://github.com/jelasin/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/jelasin/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/jelasin/CVE-2026-42945">
+- [soksofos/wazuh-nginx-cve-2026-42945-sca-lab](https://github.com/soksofos/wazuh-nginx-cve-2026-42945-sca-lab)	<img alt="forks" src="https://img.shields.io/github/forks/soksofos/wazuh-nginx-cve-2026-42945-sca-lab">	<img alt="stars" src="https://img.shields.io/github/stars/soksofos/wazuh-nginx-cve-2026-42945-sca-lab">
 
 ---
 ## CVE-2026-42940 ()
 > 
 - [ndhet/bot-CVE-2026-42940](https://github.com/ndhet/bot-CVE-2026-42940)	<img alt="forks" src="https://img.shields.io/github/forks/ndhet/bot-CVE-2026-42940">	<img alt="stars" src="https://img.shields.io/github/stars/ndhet/bot-CVE-2026-42940">
+
+---
+## CVE-2026-42897 ()
+> 
+- [atiilla/CVE-2026-42897](https://github.com/atiilla/CVE-2026-42897)	<img alt="forks" src="https://img.shields.io/github/forks/atiilla/CVE-2026-42897">	<img alt="stars" src="https://img.shields.io/github/stars/atiilla/CVE-2026-42897">
 
 ---
 ## CVE-2026-42879 ()
