@@ -387,6 +387,7 @@
 - [cipherspy/CVE-2026-42945-POC](https://github.com/cipherspy/CVE-2026-42945-POC)	<img alt="forks" src="https://img.shields.io/github/forks/cipherspy/CVE-2026-42945-POC">	<img alt="stars" src="https://img.shields.io/github/stars/cipherspy/CVE-2026-42945-POC">
 - [rheodev/CVE-2026-42945](https://github.com/rheodev/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/rheodev/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/rheodev/CVE-2026-42945">
 - [nanwinata/nginxrift-CVE-2026-42945](https://github.com/nanwinata/nginxrift-CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/nanwinata/nginxrift-CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/nanwinata/nginxrift-CVE-2026-42945">
+- [chenqin231/CVE-2026-42945](https://github.com/chenqin231/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/chenqin231/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/chenqin231/CVE-2026-42945">
 
 ---
 ## CVE-2026-42940 ()
@@ -459,6 +460,11 @@
 - [efeanilarslan/CVE-2026-42167-Exploit](https://github.com/efeanilarslan/CVE-2026-42167-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/efeanilarslan/CVE-2026-42167-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/efeanilarslan/CVE-2026-42167-Exploit">
 - [jimmexploit/CVE-2026-42167-PoC](https://github.com/jimmexploit/CVE-2026-42167-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jimmexploit/CVE-2026-42167-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jimmexploit/CVE-2026-42167-PoC">
 - [kaleth4/CVE-2026-42167](https://github.com/kaleth4/CVE-2026-42167)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-42167">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-42167">
+
+---
+## CVE-2026-42154 ()
+> 
+- [ShadowByte1/CVE-2026-42154](https://github.com/ShadowByte1/CVE-2026-42154)	<img alt="forks" src="https://img.shields.io/github/forks/ShadowByte1/CVE-2026-42154">	<img alt="stars" src="https://img.shields.io/github/stars/ShadowByte1/CVE-2026-42154">
 
 ---
 ## CVE-2026-42141 ()
@@ -1857,6 +1863,7 @@
 - [Koshmare-Blossom/Copyfail-sh](https://github.com/Koshmare-Blossom/Copyfail-sh)	<img alt="forks" src="https://img.shields.io/github/forks/Koshmare-Blossom/Copyfail-sh">	<img alt="stars" src="https://img.shields.io/github/stars/Koshmare-Blossom/Copyfail-sh">
 - [Sebastian294/cve-2026-31431](https://github.com/Sebastian294/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Sebastian294/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Sebastian294/cve-2026-31431">
 - [0xFuffM3/CVE-2026-31431-CopyFail](https://github.com/0xFuffM3/CVE-2026-31431-CopyFail)	<img alt="forks" src="https://img.shields.io/github/forks/0xFuffM3/CVE-2026-31431-CopyFail">	<img alt="stars" src="https://img.shields.io/github/stars/0xFuffM3/CVE-2026-31431-CopyFail">
+- [dotPY-hax/CopyFail](https://github.com/dotPY-hax/CopyFail)	<img alt="forks" src="https://img.shields.io/github/forks/dotPY-hax/CopyFail">	<img alt="stars" src="https://img.shields.io/github/stars/dotPY-hax/CopyFail">
 
 ---
 ## CVE-2026-3143 ()
