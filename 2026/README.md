@@ -428,6 +428,7 @@
 - [oseasfr/Scanner_CVE_2026-42945](https://github.com/oseasfr/Scanner_CVE_2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/oseasfr/Scanner_CVE_2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/oseasfr/Scanner_CVE_2026-42945">
 - [ChamsBouzaiene/ai-vuln-rediscovery-nginx-cve-2026-42945](https://github.com/ChamsBouzaiene/ai-vuln-rediscovery-nginx-cve-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/ChamsBouzaiene/ai-vuln-rediscovery-nginx-cve-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/ChamsBouzaiene/ai-vuln-rediscovery-nginx-cve-2026-42945">
 - [0xBlackash/CVE-2026-42945](https://github.com/0xBlackash/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-42945">
+- [dinosn/cve-2026-42945-nginx32-lab](https://github.com/dinosn/cve-2026-42945-nginx32-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/cve-2026-42945-nginx32-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/cve-2026-42945-nginx32-lab">
 
 ---
 ## CVE-2026-42940 ()
