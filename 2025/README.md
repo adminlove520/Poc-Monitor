@@ -9691,6 +9691,7 @@
 ## CVE-2025-20333 ()
 > 
 - [callinston/CVE-2025-20333](https://github.com/callinston/CVE-2025-20333)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-20333">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-20333">
+- [curtishoughton/Cisco-ASA-CVE-2025-20333-Scanner](https://github.com/curtishoughton/Cisco-ASA-CVE-2025-20333-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/curtishoughton/Cisco-ASA-CVE-2025-20333-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/curtishoughton/Cisco-ASA-CVE-2025-20333-Scanner">
 
 ---
 ## CVE-2025-20286 ()
