@@ -9666,6 +9666,11 @@
 - [Axselll/CVE-2025-20384](https://github.com/Axselll/CVE-2025-20384)	<img alt="forks" src="https://img.shields.io/github/forks/Axselll/CVE-2025-20384">	<img alt="stars" src="https://img.shields.io/github/stars/Axselll/CVE-2025-20384">
 
 ---
+## CVE-2025-20362 ()
+> 
+- [curtishoughton/CVE-2025-20362-Cisco-Scanner](https://github.com/curtishoughton/CVE-2025-20362-Cisco-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/curtishoughton/CVE-2025-20362-Cisco-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/curtishoughton/CVE-2025-20362-Cisco-Scanner">
+
+---
 ## CVE-2025-20354 ()
 > 
 - [allinsthon/CVE-2025-20354](https://github.com/allinsthon/CVE-2025-20354)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-20354">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-20354">
