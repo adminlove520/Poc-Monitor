@@ -285,6 +285,7 @@
 - [Sentebale/CVE-2026-46300](https://github.com/Sentebale/CVE-2026-46300)	<img alt="forks" src="https://img.shields.io/github/forks/Sentebale/CVE-2026-46300">	<img alt="stars" src="https://img.shields.io/github/stars/Sentebale/CVE-2026-46300">
 - [0xBlackash/CVE-2026-46300](https://github.com/0xBlackash/CVE-2026-46300)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-46300">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-46300">
 - [infiniroot/ansible-mitigate-copyfail-dirtyfrag](https://github.com/infiniroot/ansible-mitigate-copyfail-dirtyfrag)	<img alt="forks" src="https://img.shields.io/github/forks/infiniroot/ansible-mitigate-copyfail-dirtyfrag">	<img alt="stars" src="https://img.shields.io/github/stars/infiniroot/ansible-mitigate-copyfail-dirtyfrag">
+- [ExploitEoom/CVE-2026-46300](https://github.com/ExploitEoom/CVE-2026-46300)	<img alt="forks" src="https://img.shields.io/github/forks/ExploitEoom/CVE-2026-46300">	<img alt="stars" src="https://img.shields.io/github/stars/ExploitEoom/CVE-2026-46300">
 
 ---
 ## CVE-2026-45185 ()
@@ -1956,6 +1957,7 @@
 - [CharBay/Linux-CVE-2026-31431_Public](https://github.com/CharBay/Linux-CVE-2026-31431_Public)	<img alt="forks" src="https://img.shields.io/github/forks/CharBay/Linux-CVE-2026-31431_Public">	<img alt="stars" src="https://img.shields.io/github/stars/CharBay/Linux-CVE-2026-31431_Public">
 - [adityasingh108/CVE-2026-31431-Metasploit-exploit](https://github.com/adityasingh108/CVE-2026-31431-Metasploit-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/adityasingh108/CVE-2026-31431-Metasploit-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/adityasingh108/CVE-2026-31431-Metasploit-exploit">
 - [Maxime288/CVE-2026-31431-Copy-Fail-R-pertoire-de-Pr-vention](https://github.com/Maxime288/CVE-2026-31431-Copy-Fail-R-pertoire-de-Pr-vention)	<img alt="forks" src="https://img.shields.io/github/forks/Maxime288/CVE-2026-31431-Copy-Fail-R-pertoire-de-Pr-vention">	<img alt="stars" src="https://img.shields.io/github/stars/Maxime288/CVE-2026-31431-Copy-Fail-R-pertoire-de-Pr-vention">
+- [Aurillium/public-passwd](https://github.com/Aurillium/public-passwd)	<img alt="forks" src="https://img.shields.io/github/forks/Aurillium/public-passwd">	<img alt="stars" src="https://img.shields.io/github/stars/Aurillium/public-passwd">
 
 ---
 ## CVE-2026-3143 ()
