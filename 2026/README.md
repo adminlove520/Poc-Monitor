@@ -865,6 +865,11 @@
 - [DanielTangnes/CVE-2026-3888](https://github.com/DanielTangnes/CVE-2026-3888)	<img alt="forks" src="https://img.shields.io/github/forks/DanielTangnes/CVE-2026-3888">	<img alt="stars" src="https://img.shields.io/github/stars/DanielTangnes/CVE-2026-3888">
 
 ---
+## CVE-2026-38698 ()
+> 
+- [vital-information-resource-under-siege/CVE-2026-38698-and-CVE-2026-38699](https://github.com/vital-information-resource-under-siege/CVE-2026-38698-and-CVE-2026-38699)	<img alt="forks" src="https://img.shields.io/github/forks/vital-information-resource-under-siege/CVE-2026-38698-and-CVE-2026-38699">	<img alt="stars" src="https://img.shields.io/github/stars/vital-information-resource-under-siege/CVE-2026-38698-and-CVE-2026-38699">
+
+---
 ## CVE-2026-3854 ()
 > 
 - [5kr1pt/CVE-2026-3854](https://github.com/5kr1pt/CVE-2026-3854)	<img alt="forks" src="https://img.shields.io/github/forks/5kr1pt/CVE-2026-3854">	<img alt="stars" src="https://img.shields.io/github/stars/5kr1pt/CVE-2026-3854">
