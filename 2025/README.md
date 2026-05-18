@@ -8019,6 +8019,7 @@
 - [Nayekah/Next.js-Proof-of-Concept](https://github.com/Nayekah/Next.js-Proof-of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/Nayekah/Next.js-Proof-of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/Nayekah/Next.js-Proof-of-Concept">
 - [TheWaterbug/alpr-dashboard-patches](https://github.com/TheWaterbug/alpr-dashboard-patches)	<img alt="forks" src="https://img.shields.io/github/forks/TheWaterbug/alpr-dashboard-patches">	<img alt="stars" src="https://img.shields.io/github/stars/TheWaterbug/alpr-dashboard-patches">
 - [shahin-shadow/nextjs-auth-bypass](https://github.com/shahin-shadow/nextjs-auth-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/shahin-shadow/nextjs-auth-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/shahin-shadow/nextjs-auth-bypass">
+- [s11s11/CVE-2025-29927](https://github.com/s11s11/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/s11s11/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/s11s11/CVE-2025-29927">
 
 ---
 ## CVE-2025-29891 ()
@@ -10119,6 +10120,12 @@
 ## CVE-2025-14221 ()
 > 
 - [fatmatrabelsi17/CVE-2025-14221](https://github.com/fatmatrabelsi17/CVE-2025-14221)	<img alt="forks" src="https://img.shields.io/github/forks/fatmatrabelsi17/CVE-2025-14221">	<img alt="stars" src="https://img.shields.io/github/stars/fatmatrabelsi17/CVE-2025-14221">
+
+---
+## CVE-2025-14177 ()
+> 
+- [34zY/CVE-2025-14177](https://github.com/34zY/CVE-2025-14177)	<img alt="forks" src="https://img.shields.io/github/forks/34zY/CVE-2025-14177">	<img alt="stars" src="https://img.shields.io/github/stars/34zY/CVE-2025-14177">
+- [gl1tch0x1/PHP_8.1.x_Exploit](https://github.com/gl1tch0x1/PHP_8.1.x_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/gl1tch0x1/PHP_8.1.x_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/gl1tch0x1/PHP_8.1.x_Exploit">
 
 ---
 ## CVE-2025-14175 ()
