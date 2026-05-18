@@ -397,6 +397,7 @@
 - [haydenjames/dirty-frag-check](https://github.com/haydenjames/dirty-frag-check)	<img alt="forks" src="https://img.shields.io/github/forks/haydenjames/dirty-frag-check">	<img alt="stars" src="https://img.shields.io/github/stars/haydenjames/dirty-frag-check">
 - [vorkampfer/dirty_frag_mitigation](https://github.com/vorkampfer/dirty_frag_mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/vorkampfer/dirty_frag_mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/vorkampfer/dirty_frag_mitigation">
 - [AK777177/Dirty-Frag-Analysis](https://github.com/AK777177/Dirty-Frag-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/AK777177/Dirty-Frag-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/AK777177/Dirty-Frag-Analysis">
+- [DXC-0/linux-lpe-sigma](https://github.com/DXC-0/linux-lpe-sigma)	<img alt="forks" src="https://img.shields.io/github/forks/DXC-0/linux-lpe-sigma">	<img alt="stars" src="https://img.shields.io/github/stars/DXC-0/linux-lpe-sigma">
 
 ---
 ## CVE-2026-4350 ()
