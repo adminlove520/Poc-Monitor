@@ -215,6 +215,11 @@
 - [aydin5245/CVE-2026-5252-CVE-POC-ivanti](https://github.com/aydin5245/CVE-2026-5252-CVE-POC-ivanti)	<img alt="forks" src="https://img.shields.io/github/forks/aydin5245/CVE-2026-5252-CVE-POC-ivanti">	<img alt="stars" src="https://img.shields.io/github/stars/aydin5245/CVE-2026-5252-CVE-POC-ivanti">
 
 ---
+## CVE-2026-5203 ()
+> 
+- [CaginKyr/CVE-2026-5203](https://github.com/CaginKyr/CVE-2026-5203)	<img alt="forks" src="https://img.shields.io/github/forks/CaginKyr/CVE-2026-5203">	<img alt="stars" src="https://img.shields.io/github/stars/CaginKyr/CVE-2026-5203">
+
+---
 ## CVE-2026-5201 ()
 > 
 - [kagancapar/CVE-2026-5201](https://github.com/kagancapar/CVE-2026-5201)	<img alt="forks" src="https://img.shields.io/github/forks/kagancapar/CVE-2026-5201">	<img alt="stars" src="https://img.shields.io/github/stars/kagancapar/CVE-2026-5201">
@@ -1998,6 +2003,7 @@
 - [4xura/CVE-2026-31431-Copy-Fail](https://github.com/4xura/CVE-2026-31431-Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/4xura/CVE-2026-31431-Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/4xura/CVE-2026-31431-Copy-Fail">
 - [royayub/CVE-2026-31431](https://github.com/royayub/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/royayub/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/royayub/CVE-2026-31431">
 - [Yakovyakov/cve-2026-31431-mitigation](https://github.com/Yakovyakov/cve-2026-31431-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/Yakovyakov/cve-2026-31431-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/Yakovyakov/cve-2026-31431-mitigation">
+- [cj667113/OCI-Ansible-Fix-CVE-2026-31431](https://github.com/cj667113/OCI-Ansible-Fix-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/cj667113/OCI-Ansible-Fix-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/cj667113/OCI-Ansible-Fix-CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
