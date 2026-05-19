@@ -5195,6 +5195,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [secunnix/CVE-2024-36424](https://github.com/secunnix/CVE-2024-36424)	<img alt="forks" src="https://img.shields.io/github/forks/secunnix/CVE-2024-36424">	<img alt="stars" src="https://img.shields.io/github/stars/secunnix/CVE-2024-36424">
 
 ---
+## CVE-2024-36420 ()
+> 
+- [fineman999/POC_CVE-2024-36420](https://github.com/fineman999/POC_CVE-2024-36420)	<img alt="forks" src="https://img.shields.io/github/forks/fineman999/POC_CVE-2024-36420">	<img alt="stars" src="https://img.shields.io/github/stars/fineman999/POC_CVE-2024-36420">
+
+---
 ## CVE-2024-36416 (2024-06-10T20:15:00)
 > SuiteCRM is an open-source Customer Relationship Management (CRM) software application. Prior to versions 7.14.4 and 8.6.1, a deprecated v4 API example with no log rotation allows denial of service by logging excessive data. Versions 7.14.4 and 8.6.1 contain a fix for this issue.
 - [kva55/CVE-2024-36416](https://github.com/kva55/CVE-2024-36416)	<img alt="forks" src="https://img.shields.io/github/forks/kva55/CVE-2024-36416">	<img alt="stars" src="https://img.shields.io/github/stars/kva55/CVE-2024-36416">
