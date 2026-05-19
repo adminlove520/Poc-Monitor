@@ -8967,6 +8967,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [supportmango/CVE-2024-23222-patch](https://github.com/supportmango/CVE-2024-23222-patch)	<img alt="forks" src="https://img.shields.io/github/forks/supportmango/CVE-2024-23222-patch">	<img alt="stars" src="https://img.shields.io/github/stars/supportmango/CVE-2024-23222-patch">
 - [Rohitberiwala/-Apple-Ipados-CVE-2024-23222](https://github.com/Rohitberiwala/-Apple-Ipados-CVE-2024-23222)	<img alt="forks" src="https://img.shields.io/github/forks/Rohitberiwala/-Apple-Ipados-CVE-2024-23222">	<img alt="stars" src="https://img.shields.io/github/stars/Rohitberiwala/-Apple-Ipados-CVE-2024-23222">
 - [FuzzySecurity/Cassowary-CVE-2024-23222-x86_64](https://github.com/FuzzySecurity/Cassowary-CVE-2024-23222-x86_64)	<img alt="forks" src="https://img.shields.io/github/forks/FuzzySecurity/Cassowary-CVE-2024-23222-x86_64">	<img alt="stars" src="https://img.shields.io/github/stars/FuzzySecurity/Cassowary-CVE-2024-23222-x86_64">
+- [Umit-MHL/webkit-cve-2024-23222](https://github.com/Umit-MHL/webkit-cve-2024-23222)	<img alt="forks" src="https://img.shields.io/github/forks/Umit-MHL/webkit-cve-2024-23222">	<img alt="stars" src="https://img.shields.io/github/stars/Umit-MHL/webkit-cve-2024-23222">
 
 ---
 ## CVE-2024-23208 (2024-01-23T01:15:00)
