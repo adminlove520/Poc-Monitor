@@ -317,6 +317,7 @@
 > 
 - [liamromanis101/Dead.Letter-CVE-2026-45185](https://github.com/liamromanis101/Dead.Letter-CVE-2026-45185)	<img alt="forks" src="https://img.shields.io/github/forks/liamromanis101/Dead.Letter-CVE-2026-45185">	<img alt="stars" src="https://img.shields.io/github/stars/liamromanis101/Dead.Letter-CVE-2026-45185">
 - [materaj2/cve-2026-45185-detection-script](https://github.com/materaj2/cve-2026-45185-detection-script)	<img alt="forks" src="https://img.shields.io/github/forks/materaj2/cve-2026-45185-detection-script">	<img alt="stars" src="https://img.shields.io/github/stars/materaj2/cve-2026-45185-detection-script">
+- [MJ-bin/POC_CVE-2026-45185](https://github.com/MJ-bin/POC_CVE-2026-45185)	<img alt="forks" src="https://img.shields.io/github/forks/MJ-bin/POC_CVE-2026-45185">	<img alt="stars" src="https://img.shields.io/github/stars/MJ-bin/POC_CVE-2026-45185">
 
 ---
 ## CVE-2026-45091 ()
@@ -479,6 +480,9 @@
 - [imSre9/CVE-2026-42945](https://github.com/imSre9/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/imSre9/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/imSre9/CVE-2026-42945">
 - [RedCrazyGhost/CVE-2026-42945](https://github.com/RedCrazyGhost/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/RedCrazyGhost/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/RedCrazyGhost/CVE-2026-42945">
 - [hnytgl/cve-2026-42945](https://github.com/hnytgl/cve-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/hnytgl/cve-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/hnytgl/cve-2026-42945">
+- [gagaltotal/CVE-2026-42945-NGINX-Rift-Scanner](https://github.com/gagaltotal/CVE-2026-42945-NGINX-Rift-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-42945-NGINX-Rift-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-42945-NGINX-Rift-Scanner">
+- [fkj-src/fix_nginx_cve_2026_42945](https://github.com/fkj-src/fix_nginx_cve_2026_42945)	<img alt="forks" src="https://img.shields.io/github/forks/fkj-src/fix_nginx_cve_2026_42945">	<img alt="stars" src="https://img.shields.io/github/stars/fkj-src/fix_nginx_cve_2026_42945">
+- [BarAppTeam/nginx-cve-fix](https://github.com/BarAppTeam/nginx-cve-fix)	<img alt="forks" src="https://img.shields.io/github/forks/BarAppTeam/nginx-cve-fix">	<img alt="stars" src="https://img.shields.io/github/stars/BarAppTeam/nginx-cve-fix">
 
 ---
 ## CVE-2026-42940 ()
