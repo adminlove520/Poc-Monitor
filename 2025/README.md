@@ -6091,6 +6091,11 @@
 - [karenucqki/CVE-2025-4593](https://github.com/karenucqki/CVE-2025-4593)	<img alt="forks" src="https://img.shields.io/github/forks/karenucqki/CVE-2025-4593">	<img alt="stars" src="https://img.shields.io/github/stars/karenucqki/CVE-2025-4593">
 
 ---
+## CVE-2025-45809 ()
+> 
+- [learner202649/CVE-2025-45809-PoC](https://github.com/learner202649/CVE-2025-45809-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/learner202649/CVE-2025-45809-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/learner202649/CVE-2025-45809-PoC">
+
+---
 ## CVE-2025-45805 ()
 > 
 - [mhsinj/CVE-2025-45805](https://github.com/mhsinj/CVE-2025-45805)	<img alt="forks" src="https://img.shields.io/github/forks/mhsinj/CVE-2025-45805">	<img alt="stars" src="https://img.shields.io/github/stars/mhsinj/CVE-2025-45805">
@@ -10583,6 +10588,11 @@
 - [callinston/CVE-2025-11371](https://github.com/callinston/CVE-2025-11371)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-11371">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-11371">
 - [NetVanguard-cmd/CVE-2025-11371](https://github.com/NetVanguard-cmd/CVE-2025-11371)	<img alt="forks" src="https://img.shields.io/github/forks/NetVanguard-cmd/CVE-2025-11371">	<img alt="stars" src="https://img.shields.io/github/stars/NetVanguard-cmd/CVE-2025-11371">
 - [lap1nou/CVE-2025-11371](https://github.com/lap1nou/CVE-2025-11371)	<img alt="forks" src="https://img.shields.io/github/forks/lap1nou/CVE-2025-11371">	<img alt="stars" src="https://img.shields.io/github/stars/lap1nou/CVE-2025-11371">
+
+---
+## CVE-2025-11203 ()
+> 
+- [learner202649/CVE-2025-11203-PoC](https://github.com/learner202649/CVE-2025-11203-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/learner202649/CVE-2025-11203-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/learner202649/CVE-2025-11203-PoC">
 
 ---
 ## CVE-2025-11187 ()
