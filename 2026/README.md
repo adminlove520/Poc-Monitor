@@ -451,6 +451,9 @@
 - [liamromanis101/DirtyFrag-Detector](https://github.com/liamromanis101/DirtyFrag-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/liamromanis101/DirtyFrag-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/liamromanis101/DirtyFrag-Detector">
 - [whosfault/CVE-2026-43284](https://github.com/whosfault/CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/whosfault/CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/whosfault/CVE-2026-43284">
 - [kuniyal08/Dirty-Frag-CVE-2026-43284](https://github.com/kuniyal08/Dirty-Frag-CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/kuniyal08/Dirty-Frag-CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/kuniyal08/Dirty-Frag-CVE-2026-43284">
+- [LucasPDiniz/CVE-2026-43284](https://github.com/LucasPDiniz/CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/LucasPDiniz/CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/LucasPDiniz/CVE-2026-43284">
+- [First-John/CVE-2026-43500](https://github.com/First-John/CVE-2026-43500)	<img alt="forks" src="https://img.shields.io/github/forks/First-John/CVE-2026-43500">	<img alt="stars" src="https://img.shields.io/github/stars/First-John/CVE-2026-43500">
+- [ochebotar/copy-fail-CVE-2026-31431-detection-probe](https://github.com/ochebotar/copy-fail-CVE-2026-31431-detection-probe)	<img alt="forks" src="https://img.shields.io/github/forks/ochebotar/copy-fail-CVE-2026-31431-detection-probe">	<img alt="stars" src="https://img.shields.io/github/stars/ochebotar/copy-fail-CVE-2026-31431-detection-probe">
 
 ---
 ## CVE-2026-42945 ()
