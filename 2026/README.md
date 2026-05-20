@@ -2156,6 +2156,11 @@
 - [EQSTLab/CVE-2026-30951](https://github.com/EQSTLab/CVE-2026-30951)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-30951">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-30951">
 
 ---
+## CVE-2026-30950 ()
+> 
+- [ZeroPathAI/autogpt-CVE-2026-30950-poc](https://github.com/ZeroPathAI/autogpt-CVE-2026-30950-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroPathAI/autogpt-CVE-2026-30950-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroPathAI/autogpt-CVE-2026-30950-poc">
+
+---
 ## CVE-2026-30945 ()
 > 
 - [FilipeGaudard/CVE-2026-30945-PoC](https://github.com/FilipeGaudard/CVE-2026-30945-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/FilipeGaudard/CVE-2026-30945-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/FilipeGaudard/CVE-2026-30945-PoC">
@@ -4387,6 +4392,12 @@
 - [bannned-bit/CVE-2026-0300-PANOS](https://github.com/bannned-bit/CVE-2026-0300-PANOS)	<img alt="forks" src="https://img.shields.io/github/forks/bannned-bit/CVE-2026-0300-PANOS">	<img alt="stars" src="https://img.shields.io/github/stars/bannned-bit/CVE-2026-0300-PANOS">
 - [shizuku198411/CVE-2026-0300](https://github.com/shizuku198411/CVE-2026-0300)	<img alt="forks" src="https://img.shields.io/github/forks/shizuku198411/CVE-2026-0300">	<img alt="stars" src="https://img.shields.io/github/stars/shizuku198411/CVE-2026-0300">
 - [ByteWraith1/CVE-2026-0300](https://github.com/ByteWraith1/CVE-2026-0300)	<img alt="forks" src="https://img.shields.io/github/forks/ByteWraith1/CVE-2026-0300">	<img alt="stars" src="https://img.shields.io/github/stars/ByteWraith1/CVE-2026-0300">
+
+---
+## CVE-2026-0265 ()
+> 
+- [BishopFox/CVE-2026-0265-check](https://github.com/BishopFox/CVE-2026-0265-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2026-0265-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2026-0265-check">
+- [tstephens1080/palo-alto-cve-2026-0265-checker](https://github.com/tstephens1080/palo-alto-cve-2026-0265-checker)	<img alt="forks" src="https://img.shields.io/github/forks/tstephens1080/palo-alto-cve-2026-0265-checker">	<img alt="stars" src="https://img.shields.io/github/stars/tstephens1080/palo-alto-cve-2026-0265-checker">
 
 ---
 ## CVE-2026-0227 ()
