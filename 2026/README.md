@@ -6,6 +6,11 @@
 - [lasdjk/CVE-2026-99999-important-info](https://github.com/lasdjk/CVE-2026-99999-important-info)	<img alt="forks" src="https://img.shields.io/github/forks/lasdjk/CVE-2026-99999-important-info">	<img alt="stars" src="https://img.shields.io/github/stars/lasdjk/CVE-2026-99999-important-info">
 
 ---
+## CVE-2026-9082 ()
+> 
+- [0xBlackash/CVE-2026-9082](https://github.com/0xBlackash/CVE-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-9082">
+
+---
 ## CVE-2026-8838 ()
 > 
 - [Maxime288/CVE-2026-8838-RCE](https://github.com/Maxime288/CVE-2026-8838-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Maxime288/CVE-2026-8838-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Maxime288/CVE-2026-8838-RCE">
@@ -416,6 +421,7 @@
 - [AK777177/Dirty-Frag-Analysis](https://github.com/AK777177/Dirty-Frag-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/AK777177/Dirty-Frag-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/AK777177/Dirty-Frag-Analysis">
 - [DXC-0/linux-lpe-sigma](https://github.com/DXC-0/linux-lpe-sigma)	<img alt="forks" src="https://img.shields.io/github/forks/DXC-0/linux-lpe-sigma">	<img alt="stars" src="https://img.shields.io/github/stars/DXC-0/linux-lpe-sigma">
 - [First-John/CVE-2026-43500](https://github.com/First-John/CVE-2026-43500)	<img alt="forks" src="https://img.shields.io/github/forks/First-John/CVE-2026-43500">	<img alt="stars" src="https://img.shields.io/github/stars/First-John/CVE-2026-43500">
+- [Koshmare-Blossom/Dirtyfrag-go](https://github.com/Koshmare-Blossom/Dirtyfrag-go)	<img alt="forks" src="https://img.shields.io/github/forks/Koshmare-Blossom/Dirtyfrag-go">	<img alt="stars" src="https://img.shields.io/github/stars/Koshmare-Blossom/Dirtyfrag-go">
 
 ---
 ## CVE-2026-4350 ()
@@ -2064,6 +2070,7 @@
 - [First-John/CVE-2026-43500](https://github.com/First-John/CVE-2026-43500)	<img alt="forks" src="https://img.shields.io/github/forks/First-John/CVE-2026-43500">	<img alt="stars" src="https://img.shields.io/github/stars/First-John/CVE-2026-43500">
 - [GubiczaP/cve-2026-31431-checker](https://github.com/GubiczaP/cve-2026-31431-checker)	<img alt="forks" src="https://img.shields.io/github/forks/GubiczaP/cve-2026-31431-checker">	<img alt="stars" src="https://img.shields.io/github/stars/GubiczaP/cve-2026-31431-checker">
 - [sgkdev/ptrace_may_dream](https://github.com/sgkdev/ptrace_may_dream)	<img alt="forks" src="https://img.shields.io/github/forks/sgkdev/ptrace_may_dream">	<img alt="stars" src="https://img.shields.io/github/stars/sgkdev/ptrace_may_dream">
+- [yangh-beep/CVE-2026-31431-C](https://github.com/yangh-beep/CVE-2026-31431-C)	<img alt="forks" src="https://img.shields.io/github/forks/yangh-beep/CVE-2026-31431-C">	<img alt="stars" src="https://img.shields.io/github/stars/yangh-beep/CVE-2026-31431-C">
 
 ---
 ## CVE-2026-3143 ()
