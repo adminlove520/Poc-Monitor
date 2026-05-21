@@ -12,6 +12,7 @@
 - [7h30th3r0n3/CVE-2026-9082-Drupal-PoC](https://github.com/7h30th3r0n3/CVE-2026-9082-Drupal-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/7h30th3r0n3/CVE-2026-9082-Drupal-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/7h30th3r0n3/CVE-2026-9082-Drupal-PoC">
 - [lysophavin18/cve-2026-9082](https://github.com/lysophavin18/cve-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/lysophavin18/cve-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/lysophavin18/cve-2026-9082">
 - [HORKimhab/CVE-2026-9082](https://github.com/HORKimhab/CVE-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-9082">
+- [ywh-jfellus/CVE-2026-9082](https://github.com/ywh-jfellus/CVE-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/ywh-jfellus/CVE-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/ywh-jfellus/CVE-2026-9082">
 
 ---
 ## CVE-2026-8838 ()
@@ -798,6 +799,7 @@
 ## CVE-2026-40369 ()
 > 
 - [orinimron123/CVE-2026-40369-EXPLOIT](https://github.com/orinimron123/CVE-2026-40369-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/orinimron123/CVE-2026-40369-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/orinimron123/CVE-2026-40369-EXPLOIT">
+- [ercihan/CVE-2026-40369](https://github.com/ercihan/CVE-2026-40369)	<img alt="forks" src="https://img.shields.io/github/forks/ercihan/CVE-2026-40369">	<img alt="stars" src="https://img.shields.io/github/stars/ercihan/CVE-2026-40369">
 
 ---
 ## CVE-2026-40281 ()
@@ -3366,7 +3368,7 @@
 - [0xBlackash/CVE-2026-24061](https://github.com/0xBlackash/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-24061">
 - [HD0x01/CVE-2026-24061-NSE](https://github.com/HD0x01/CVE-2026-24061-NSE)	<img alt="forks" src="https://img.shields.io/github/forks/HD0x01/CVE-2026-24061-NSE">	<img alt="stars" src="https://img.shields.io/github/stars/HD0x01/CVE-2026-24061-NSE">
 - [przemytn/CVE-2026-24061](https://github.com/przemytn/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/przemytn/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/przemytn/CVE-2026-24061">
-- [Risma2025/CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability](https://github.com/Risma2025/CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Risma2025/CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Risma2025/CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability">
+- [Risma2025/Forensic-Investigation-on-CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability](https://github.com/Risma2025/Forensic-Investigation-on-CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Risma2025/Forensic-Investigation-on-CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Risma2025/Forensic-Investigation-on-CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability">
 
 ---
 ## CVE-2026-24055 ()
