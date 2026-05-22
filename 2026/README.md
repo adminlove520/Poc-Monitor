@@ -526,6 +526,7 @@
 - [BarAppTeam/nginx-cve-fix](https://github.com/BarAppTeam/nginx-cve-fix)	<img alt="forks" src="https://img.shields.io/github/forks/BarAppTeam/nginx-cve-fix">	<img alt="stars" src="https://img.shields.io/github/stars/BarAppTeam/nginx-cve-fix">
 - [gagaltotal/CVE-2026-42945-NGINX-Rift-Toolkit](https://github.com/gagaltotal/CVE-2026-42945-NGINX-Rift-Toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-42945-NGINX-Rift-Toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-42945-NGINX-Rift-Toolkit">
 - [yusufdalbudak/CVE-2026-42945](https://github.com/yusufdalbudak/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/yusufdalbudak/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/yusufdalbudak/CVE-2026-42945">
+- [F2u0a0d3/CVE-2026-42945-nginx-rift-poc](https://github.com/F2u0a0d3/CVE-2026-42945-nginx-rift-poc)	<img alt="forks" src="https://img.shields.io/github/forks/F2u0a0d3/CVE-2026-42945-nginx-rift-poc">	<img alt="stars" src="https://img.shields.io/github/stars/F2u0a0d3/CVE-2026-42945-nginx-rift-poc">
 
 ---
 ## CVE-2026-42940 ()
@@ -2129,6 +2130,7 @@
 - [erlangparasu/mitigate_cve_2026_31431-sh](https://github.com/erlangparasu/mitigate_cve_2026_31431-sh)	<img alt="forks" src="https://img.shields.io/github/forks/erlangparasu/mitigate_cve_2026_31431-sh">	<img alt="stars" src="https://img.shields.io/github/stars/erlangparasu/mitigate_cve_2026_31431-sh">
 - [4n4s4zi/copyfail-alpine](https://github.com/4n4s4zi/copyfail-alpine)	<img alt="forks" src="https://img.shields.io/github/forks/4n4s4zi/copyfail-alpine">	<img alt="stars" src="https://img.shields.io/github/stars/4n4s4zi/copyfail-alpine">
 - [waltrone1/copyfail-safe-check](https://github.com/waltrone1/copyfail-safe-check)	<img alt="forks" src="https://img.shields.io/github/forks/waltrone1/copyfail-safe-check">	<img alt="stars" src="https://img.shields.io/github/stars/waltrone1/copyfail-safe-check">
+- [wh1sky02/copy-fail-python](https://github.com/wh1sky02/copy-fail-python)	<img alt="forks" src="https://img.shields.io/github/forks/wh1sky02/copy-fail-python">	<img alt="stars" src="https://img.shields.io/github/stars/wh1sky02/copy-fail-python">
 
 ---
 ## CVE-2026-3143 ()
@@ -2559,6 +2561,11 @@
 ## CVE-2026-27906 ()
 > 
 - [ByteWraith1/CVE-2026-27906](https://github.com/ByteWraith1/CVE-2026-27906)	<img alt="forks" src="https://img.shields.io/github/forks/ByteWraith1/CVE-2026-27906">	<img alt="stars" src="https://img.shields.io/github/stars/ByteWraith1/CVE-2026-27906">
+
+---
+## CVE-2026-27886 ()
+> 
+- [BishopFox/CVE-2026-27886-check](https://github.com/BishopFox/CVE-2026-27886-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2026-27886-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2026-27886-check">
 
 ---
 ## CVE-2026-27884 ()
