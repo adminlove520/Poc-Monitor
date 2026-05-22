@@ -343,6 +343,11 @@
 - [fevar54/FULL-ANALYSIS---CVE-2026-45829-ChromaDB-](https://github.com/fevar54/FULL-ANALYSIS---CVE-2026-45829-ChromaDB-)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/FULL-ANALYSIS---CVE-2026-45829-ChromaDB-">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/FULL-ANALYSIS---CVE-2026-45829-ChromaDB-">
 
 ---
+## CVE-2026-45584 ()
+> 
+- [96613686/CVE-2026-45584](https://github.com/96613686/CVE-2026-45584)	<img alt="forks" src="https://img.shields.io/github/forks/96613686/CVE-2026-45584">	<img alt="stars" src="https://img.shields.io/github/stars/96613686/CVE-2026-45584">
+
+---
 ## CVE-2026-45185 ()
 > 
 - [liamromanis101/Dead.Letter-CVE-2026-45185](https://github.com/liamromanis101/Dead.Letter-CVE-2026-45185)	<img alt="forks" src="https://img.shields.io/github/forks/liamromanis101/Dead.Letter-CVE-2026-45185">	<img alt="stars" src="https://img.shields.io/github/stars/liamromanis101/Dead.Letter-CVE-2026-45185">
@@ -2106,6 +2111,7 @@
 - [JimmyPughtron/CVE-2026-31431-Copy-Fail---Minified-LPE-PoC](https://github.com/JimmyPughtron/CVE-2026-31431-Copy-Fail---Minified-LPE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/JimmyPughtron/CVE-2026-31431-Copy-Fail---Minified-LPE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/JimmyPughtron/CVE-2026-31431-Copy-Fail---Minified-LPE-PoC">
 - [erlangparasu/mitigate_cve_2026_31431-sh](https://github.com/erlangparasu/mitigate_cve_2026_31431-sh)	<img alt="forks" src="https://img.shields.io/github/forks/erlangparasu/mitigate_cve_2026_31431-sh">	<img alt="stars" src="https://img.shields.io/github/stars/erlangparasu/mitigate_cve_2026_31431-sh">
 - [4n4s4zi/copyfail-alpine](https://github.com/4n4s4zi/copyfail-alpine)	<img alt="forks" src="https://img.shields.io/github/forks/4n4s4zi/copyfail-alpine">	<img alt="stars" src="https://img.shields.io/github/stars/4n4s4zi/copyfail-alpine">
+- [waltrone1/copyfail-safe-check](https://github.com/waltrone1/copyfail-safe-check)	<img alt="forks" src="https://img.shields.io/github/forks/waltrone1/copyfail-safe-check">	<img alt="stars" src="https://img.shields.io/github/stars/waltrone1/copyfail-safe-check">
 
 ---
 ## CVE-2026-3143 ()
