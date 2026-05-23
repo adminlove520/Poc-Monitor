@@ -290,6 +290,12 @@
 - [0xBlackash/CVE-2026-5027](https://github.com/0xBlackash/CVE-2026-5027)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-5027">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-5027">
 
 ---
+## CVE-2026-4885 ()
+> 
+- [Jenderal92/CVE-2026-4885](https://github.com/Jenderal92/CVE-2026-4885)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2026-4885">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2026-4885">
+- [xShadow-Here/CVE-2026-4885](https://github.com/xShadow-Here/CVE-2026-4885)	<img alt="forks" src="https://img.shields.io/github/forks/xShadow-Here/CVE-2026-4885">	<img alt="stars" src="https://img.shields.io/github/stars/xShadow-Here/CVE-2026-4885">
+
+---
 ## CVE-2026-4882 ()
 > 
 - [xShadow-Here/CVE-2026-4882](https://github.com/xShadow-Here/CVE-2026-4882)	<img alt="forks" src="https://img.shields.io/github/forks/xShadow-Here/CVE-2026-4882">	<img alt="stars" src="https://img.shields.io/github/stars/xShadow-Here/CVE-2026-4882">
@@ -1890,7 +1896,7 @@
 - [grishinpv/CVE-2026-31431-old-python](https://github.com/grishinpv/CVE-2026-31431-old-python)	<img alt="forks" src="https://img.shields.io/github/forks/grishinpv/CVE-2026-31431-old-python">	<img alt="stars" src="https://img.shields.io/github/stars/grishinpv/CVE-2026-31431-old-python">
 - [yxdm02/CVE-2026-31431](https://github.com/yxdm02/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/yxdm02/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/yxdm02/CVE-2026-31431">
 - [rshosting/CVE-2026-31431-patch](https://github.com/rshosting/CVE-2026-31431-patch)	<img alt="forks" src="https://img.shields.io/github/forks/rshosting/CVE-2026-31431-patch">	<img alt="stars" src="https://img.shields.io/github/stars/rshosting/CVE-2026-31431-patch">
-- [rfxn/copyfail](https://github.com/rfxn/copyfail)	<img alt="forks" src="https://img.shields.io/github/forks/rfxn/copyfail">	<img alt="stars" src="https://img.shields.io/github/stars/rfxn/copyfail">
+- [rfxn/rfxn-defense](https://github.com/rfxn/rfxn-defense)	<img alt="forks" src="https://img.shields.io/github/forks/rfxn/rfxn-defense">	<img alt="stars" src="https://img.shields.io/github/stars/rfxn/rfxn-defense">
 - [cozystack/copy-fail-blocker](https://github.com/cozystack/copy-fail-blocker)	<img alt="forks" src="https://img.shields.io/github/forks/cozystack/copy-fail-blocker">	<img alt="stars" src="https://img.shields.io/github/stars/cozystack/copy-fail-blocker">
 - [professional-slacker/alg_check](https://github.com/professional-slacker/alg_check)	<img alt="forks" src="https://img.shields.io/github/forks/professional-slacker/alg_check">	<img alt="stars" src="https://img.shields.io/github/stars/professional-slacker/alg_check">
 - [wgnet/wg.copyfail.patch](https://github.com/wgnet/wg.copyfail.patch)	<img alt="forks" src="https://img.shields.io/github/forks/wgnet/wg.copyfail.patch">	<img alt="stars" src="https://img.shields.io/github/stars/wgnet/wg.copyfail.patch">
@@ -2163,6 +2169,7 @@
 - [4n4s4zi/copyfail-alpine](https://github.com/4n4s4zi/copyfail-alpine)	<img alt="forks" src="https://img.shields.io/github/forks/4n4s4zi/copyfail-alpine">	<img alt="stars" src="https://img.shields.io/github/stars/4n4s4zi/copyfail-alpine">
 - [waltrone1/copyfail-safe-check](https://github.com/waltrone1/copyfail-safe-check)	<img alt="forks" src="https://img.shields.io/github/forks/waltrone1/copyfail-safe-check">	<img alt="stars" src="https://img.shields.io/github/stars/waltrone1/copyfail-safe-check">
 - [wh1sky02/copy-fail-python](https://github.com/wh1sky02/copy-fail-python)	<img alt="forks" src="https://img.shields.io/github/forks/wh1sky02/copy-fail-python">	<img alt="stars" src="https://img.shields.io/github/stars/wh1sky02/copy-fail-python">
+- [ridhinva/copyfail-checker](https://github.com/ridhinva/copyfail-checker)	<img alt="forks" src="https://img.shields.io/github/forks/ridhinva/copyfail-checker">	<img alt="stars" src="https://img.shields.io/github/stars/ridhinva/copyfail-checker">
 
 ---
 ## CVE-2026-3143 ()
