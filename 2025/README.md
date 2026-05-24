@@ -10219,6 +10219,11 @@
 - [ThemeHackers/CVE-2025-13780](https://github.com/ThemeHackers/CVE-2025-13780)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2025-13780">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2025-13780">
 
 ---
+## CVE-2025-13673 ()
+> 
+- [dinosn/CVE-2025-13673](https://github.com/dinosn/CVE-2025-13673)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/CVE-2025-13673">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/CVE-2025-13673">
+
+---
 ## CVE-2025-13615 ()
 > 
 - [wor41fezil/CVE-2025-13615-POC](https://github.com/wor41fezil/CVE-2025-13615-POC)	<img alt="forks" src="https://img.shields.io/github/forks/wor41fezil/CVE-2025-13615-POC">	<img alt="stars" src="https://img.shields.io/github/stars/wor41fezil/CVE-2025-13615-POC">
