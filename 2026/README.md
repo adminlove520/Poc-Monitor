@@ -503,6 +503,7 @@
 ## CVE-2026-43494 ()
 > 
 - [0xBlackash/CVE-2026-43494](https://github.com/0xBlackash/CVE-2026-43494)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-43494">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-43494">
+- [jayhutajulu1/CVE-2026-43494-PinTheft-PoC](https://github.com/jayhutajulu1/CVE-2026-43494-PinTheft-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jayhutajulu1/CVE-2026-43494-PinTheft-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jayhutajulu1/CVE-2026-43494-PinTheft-PoC">
 
 ---
 ## CVE-2026-4342 ()
@@ -1264,6 +1265,11 @@
 ## CVE-2026-35250 ()
 > 
 - [xooxo/CVE-2026-35250](https://github.com/xooxo/CVE-2026-35250)	<img alt="forks" src="https://img.shields.io/github/forks/xooxo/CVE-2026-35250">	<img alt="stars" src="https://img.shields.io/github/stars/xooxo/CVE-2026-35250">
+
+---
+## CVE-2026-35196 ()
+> 
+- [kx00007/CVE-2026-35196](https://github.com/kx00007/CVE-2026-35196)	<img alt="forks" src="https://img.shields.io/github/forks/kx00007/CVE-2026-35196">	<img alt="stars" src="https://img.shields.io/github/stars/kx00007/CVE-2026-35196">
 
 ---
 ## CVE-2026-3516 ()
