@@ -1627,6 +1627,11 @@
 - [redyank/CVE-2026-33147](https://github.com/redyank/CVE-2026-33147)	<img alt="forks" src="https://img.shields.io/github/forks/redyank/CVE-2026-33147">	<img alt="stars" src="https://img.shields.io/github/stars/redyank/CVE-2026-33147">
 
 ---
+## CVE-2026-33137 ()
+> 
+- [portbuster1337/CVE-2026-33137](https://github.com/portbuster1337/CVE-2026-33137)	<img alt="forks" src="https://img.shields.io/github/forks/portbuster1337/CVE-2026-33137">	<img alt="stars" src="https://img.shields.io/github/stars/portbuster1337/CVE-2026-33137">
+
+---
 ## CVE-2026-33067 ()
 > 
 - [Lopseg/cve-2026-33067](https://github.com/Lopseg/cve-2026-33067)	<img alt="forks" src="https://img.shields.io/github/forks/Lopseg/cve-2026-33067">	<img alt="stars" src="https://img.shields.io/github/stars/Lopseg/cve-2026-33067">
@@ -4623,6 +4628,7 @@
 - [unnaim/adbHijacker](https://github.com/unnaim/adbHijacker)	<img alt="forks" src="https://img.shields.io/github/forks/unnaim/adbHijacker">	<img alt="stars" src="https://img.shields.io/github/stars/unnaim/adbHijacker">
 - [xqi1337/poc-CVE-2026-0073](https://github.com/xqi1337/poc-CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/xqi1337/poc-CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/xqi1337/poc-CVE-2026-0073">
 - [thakur2309/CVE-2026-0073-ZERO-CLICK](https://github.com/thakur2309/CVE-2026-0073-ZERO-CLICK)	<img alt="forks" src="https://img.shields.io/github/forks/thakur2309/CVE-2026-0073-ZERO-CLICK">	<img alt="stars" src="https://img.shields.io/github/stars/thakur2309/CVE-2026-0073-ZERO-CLICK">
+- [m00ddy/CVE-2026-0073-Android-client-TLS-auth-bypass](https://github.com/m00ddy/CVE-2026-0073-Android-client-TLS-auth-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/m00ddy/CVE-2026-0073-Android-client-TLS-auth-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/m00ddy/CVE-2026-0073-Android-client-TLS-auth-bypass">
 
 ---
 ## CVE-2026-0047 ()
