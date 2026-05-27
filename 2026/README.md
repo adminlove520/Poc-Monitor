@@ -883,6 +883,11 @@
 - [g0w6y/CVE-2026-4092](https://github.com/g0w6y/CVE-2026-4092)	<img alt="forks" src="https://img.shields.io/github/forks/g0w6y/CVE-2026-4092">	<img alt="stars" src="https://img.shields.io/github/stars/g0w6y/CVE-2026-4092">
 
 ---
+## CVE-2026-40897 ()
+> 
+- [EQSTLab/CVE-2026-40897](https://github.com/EQSTLab/CVE-2026-40897)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-40897">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-40897">
+
+---
 ## CVE-2026-40776 ()
 > 
 - [lorenzofradeani/CVE-2026-40776](https://github.com/lorenzofradeani/CVE-2026-40776)	<img alt="forks" src="https://img.shields.io/github/forks/lorenzofradeani/CVE-2026-40776">	<img alt="stars" src="https://img.shields.io/github/stars/lorenzofradeani/CVE-2026-40776">
