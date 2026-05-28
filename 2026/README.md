@@ -19,6 +19,9 @@
 ## CVE-2026-9256 ()
 > 
 - [suominen/CVE-2026-9256](https://github.com/suominen/CVE-2026-9256)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/CVE-2026-9256">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/CVE-2026-9256">
+- [3nou9h/CVE-2026-9256-Poc](https://github.com/3nou9h/CVE-2026-9256-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/3nou9h/CVE-2026-9256-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/3nou9h/CVE-2026-9256-Poc">
+- [W5M1n9/NGINX-ngx_http_rewrite_module-heap-buffer-overflow-CVE-2026-9256](https://github.com/W5M1n9/NGINX-ngx_http_rewrite_module-heap-buffer-overflow-CVE-2026-9256)	<img alt="forks" src="https://img.shields.io/github/forks/W5M1n9/NGINX-ngx_http_rewrite_module-heap-buffer-overflow-CVE-2026-9256">	<img alt="stars" src="https://img.shields.io/github/stars/W5M1n9/NGINX-ngx_http_rewrite_module-heap-buffer-overflow-CVE-2026-9256">
+- [friparia/NGINX_RIFT_SCAN_CVE_2026_42945](https://github.com/friparia/NGINX_RIFT_SCAN_CVE_2026_42945)	<img alt="forks" src="https://img.shields.io/github/forks/friparia/NGINX_RIFT_SCAN_CVE_2026_42945">	<img alt="stars" src="https://img.shields.io/github/stars/friparia/NGINX_RIFT_SCAN_CVE_2026_42945">
 
 ---
 ## CVE-2026-9082 ()
@@ -374,6 +377,7 @@
 > 
 - [HORKimhab/CVE-2026-48172](https://github.com/HORKimhab/CVE-2026-48172)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-48172">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-48172">
 - [retmakarunia/CVE-2026-48172](https://github.com/retmakarunia/CVE-2026-48172)	<img alt="forks" src="https://img.shields.io/github/forks/retmakarunia/CVE-2026-48172">	<img alt="stars" src="https://img.shields.io/github/stars/retmakarunia/CVE-2026-48172">
+- [fevar54/CVE-2026-48172---LiteSpeed-cPanel-Plugin-Version-Auditor](https://github.com/fevar54/CVE-2026-48172---LiteSpeed-cPanel-Plugin-Version-Auditor)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-48172---LiteSpeed-cPanel-Plugin-Version-Auditor">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-48172---LiteSpeed-cPanel-Plugin-Version-Auditor">
 
 ---
 ## CVE-2026-48030 ()
@@ -1068,6 +1072,11 @@
 ## CVE-2026-39324 ()
 > 
 - [sm1ee/CVE-2026-39324](https://github.com/sm1ee/CVE-2026-39324)	<img alt="forks" src="https://img.shields.io/github/forks/sm1ee/CVE-2026-39324">	<img alt="stars" src="https://img.shields.io/github/stars/sm1ee/CVE-2026-39324">
+
+---
+## CVE-2026-39292 ()
+> 
+- [krishnadevpmelevila/CVE-2026-39292](https://github.com/krishnadevpmelevila/CVE-2026-39292)	<img alt="forks" src="https://img.shields.io/github/forks/krishnadevpmelevila/CVE-2026-39292">	<img alt="stars" src="https://img.shields.io/github/stars/krishnadevpmelevila/CVE-2026-39292">
 
 ---
 ## CVE-2026-39107 ()
