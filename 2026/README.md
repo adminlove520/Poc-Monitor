@@ -44,6 +44,11 @@
 - [Maxime288/CVE-2026-8838-RCE](https://github.com/Maxime288/CVE-2026-8838-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Maxime288/CVE-2026-8838-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Maxime288/CVE-2026-8838-RCE">
 
 ---
+## CVE-2026-8380 ()
+> 
+- [tiagob0b/CVE-2026-8380](https://github.com/tiagob0b/CVE-2026-8380)	<img alt="forks" src="https://img.shields.io/github/forks/tiagob0b/CVE-2026-8380">	<img alt="stars" src="https://img.shields.io/github/stars/tiagob0b/CVE-2026-8380">
+
+---
 ## CVE-2026-8196 ()
 > 
 - [HORKimhab/CVE-2026-8196](https://github.com/HORKimhab/CVE-2026-8196)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-8196">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-8196">
@@ -385,6 +390,11 @@
 ## CVE-2026-4747 ()
 > 
 - [kaleth4/CVE-2026-4747](https://github.com/kaleth4/CVE-2026-4747)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-4747">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-4747">
+
+---
+## CVE-2026-47100 ()
+> 
+- [rootdirective-sec/CVE-2026-47100-Analysis-Lab](https://github.com/rootdirective-sec/CVE-2026-47100-Analysis-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-47100-Analysis-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-47100-Analysis-Lab">
 
 ---
 ## CVE-2026-46680 ()
@@ -2308,6 +2318,7 @@
 - [wh1sky02/copy-fail-python](https://github.com/wh1sky02/copy-fail-python)	<img alt="forks" src="https://img.shields.io/github/forks/wh1sky02/copy-fail-python">	<img alt="stars" src="https://img.shields.io/github/stars/wh1sky02/copy-fail-python">
 - [ridhinva/copyfail-checker](https://github.com/ridhinva/copyfail-checker)	<img alt="forks" src="https://img.shields.io/github/forks/ridhinva/copyfail-checker">	<img alt="stars" src="https://img.shields.io/github/stars/ridhinva/copyfail-checker">
 - [Iamliuxiaozhen/copy_fail](https://github.com/Iamliuxiaozhen/copy_fail)	<img alt="forks" src="https://img.shields.io/github/forks/Iamliuxiaozhen/copy_fail">	<img alt="stars" src="https://img.shields.io/github/stars/Iamliuxiaozhen/copy_fail">
+- [songzzzz/CVE-2026-31431](https://github.com/songzzzz/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/songzzzz/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/songzzzz/CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
