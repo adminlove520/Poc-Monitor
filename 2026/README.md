@@ -2940,6 +2940,7 @@
 - [dinosn/ghost-cve-2026-26980](https://github.com/dinosn/ghost-cve-2026-26980)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/ghost-cve-2026-26980">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/ghost-cve-2026-26980">
 - [Kulik-Labs-Development/Ghost-CMS-Code-Injection-Audit-CVE-2026-26980](https://github.com/Kulik-Labs-Development/Ghost-CMS-Code-Injection-Audit-CVE-2026-26980)	<img alt="forks" src="https://img.shields.io/github/forks/Kulik-Labs-Development/Ghost-CMS-Code-Injection-Audit-CVE-2026-26980">	<img alt="stars" src="https://img.shields.io/github/stars/Kulik-Labs-Development/Ghost-CMS-Code-Injection-Audit-CVE-2026-26980">
 - [EQSTLab/CVE-2026-26980](https://github.com/EQSTLab/CVE-2026-26980)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-26980">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-26980">
+- [ByteWraith1/CVE-2026-26980](https://github.com/ByteWraith1/CVE-2026-26980)	<img alt="forks" src="https://img.shields.io/github/forks/ByteWraith1/CVE-2026-26980">	<img alt="stars" src="https://img.shields.io/github/stars/ByteWraith1/CVE-2026-26980">
 
 ---
 ## CVE-2026-26903 ()
