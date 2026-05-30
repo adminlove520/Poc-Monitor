@@ -16,6 +16,11 @@
 - [dninhl/CVE-2026-9560](https://github.com/dninhl/CVE-2026-9560)	<img alt="forks" src="https://img.shields.io/github/forks/dninhl/CVE-2026-9560">	<img alt="stars" src="https://img.shields.io/github/stars/dninhl/CVE-2026-9560">
 
 ---
+## CVE-2026-9490 ()
+> 
+- [ugvxb/CVE-2026-9490](https://github.com/ugvxb/CVE-2026-9490)	<img alt="forks" src="https://img.shields.io/github/forks/ugvxb/CVE-2026-9490">	<img alt="stars" src="https://img.shields.io/github/stars/ugvxb/CVE-2026-9490">
+
+---
 ## CVE-2026-9256 ()
 > 
 - [suominen/CVE-2026-9256](https://github.com/suominen/CVE-2026-9256)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/CVE-2026-9256">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/CVE-2026-9256">
@@ -4768,6 +4773,7 @@
 > 
 - [akashsingh0454/CVE-2026-0257-PoC](https://github.com/akashsingh0454/CVE-2026-0257-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/akashsingh0454/CVE-2026-0257-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/akashsingh0454/CVE-2026-0257-PoC">
 - [sfewer-r7/CVE-2026-0257](https://github.com/sfewer-r7/CVE-2026-0257)	<img alt="forks" src="https://img.shields.io/github/forks/sfewer-r7/CVE-2026-0257">	<img alt="stars" src="https://img.shields.io/github/stars/sfewer-r7/CVE-2026-0257">
+- [0xBlackash/CVE-2026-0257](https://github.com/0xBlackash/CVE-2026-0257)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-0257">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-0257">
 
 ---
 ## CVE-2026-0227 ()
