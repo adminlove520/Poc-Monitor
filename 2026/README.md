@@ -85,7 +85,7 @@
 - [whattheslime/CVE-2026-8181](https://github.com/whattheslime/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/whattheslime/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/whattheslime/CVE-2026-8181">
 - [rootdirective-sec/CVE-2026-8181-Lab](https://github.com/rootdirective-sec/CVE-2026-8181-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-8181-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-8181-Lab">
 - [xShadow-Here/CVE-2026-8181](https://github.com/xShadow-Here/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/xShadow-Here/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/xShadow-Here/CVE-2026-8181">
-- [BastianXploited/CVE-2026-8181-mass](https://github.com/BastianXploited/CVE-2026-8181-mass)	<img alt="forks" src="https://img.shields.io/github/forks/BastianXploited/CVE-2026-8181-mass">	<img alt="stars" src="https://img.shields.io/github/stars/BastianXploited/CVE-2026-8181-mass">
+- [BastianXploited/CVE-2026-8181](https://github.com/BastianXploited/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/BastianXploited/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/BastianXploited/CVE-2026-8181">
 - [Yucaerin/CVE-2026-8181](https://github.com/Yucaerin/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2026-8181">
 - [x48ps/CVE-2026-8181](https://github.com/x48ps/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/x48ps/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/x48ps/CVE-2026-8181">
 
@@ -670,6 +670,8 @@
 - [Koshmare-Blossom/DirtyFrag-go](https://github.com/Koshmare-Blossom/DirtyFrag-go)	<img alt="forks" src="https://img.shields.io/github/forks/Koshmare-Blossom/DirtyFrag-go">	<img alt="stars" src="https://img.shields.io/github/stars/Koshmare-Blossom/DirtyFrag-go">
 - [Aiyakami/rust_dirtyfrag](https://github.com/Aiyakami/rust_dirtyfrag)	<img alt="forks" src="https://img.shields.io/github/forks/Aiyakami/rust_dirtyfrag">	<img alt="stars" src="https://img.shields.io/github/stars/Aiyakami/rust_dirtyfrag">
 - [jayhutajulu1/CVE-2026-43284-DirtyFrag-PoC](https://github.com/jayhutajulu1/CVE-2026-43284-DirtyFrag-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jayhutajulu1/CVE-2026-43284-DirtyFrag-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jayhutajulu1/CVE-2026-43284-DirtyFrag-PoC">
+- [K3ysTr0K3R/CVE-2026-43284-CVE-2026-43500-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2026-43284-CVE-2026-43500-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2026-43284-CVE-2026-43500-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2026-43284-CVE-2026-43500-EXPLOIT">
+- [DylanClaudio/Reporte-de-Escalada-de-Privilegios-Local-Dirty-Frag](https://github.com/DylanClaudio/Reporte-de-Escalada-de-Privilegios-Local-Dirty-Frag)	<img alt="forks" src="https://img.shields.io/github/forks/DylanClaudio/Reporte-de-Escalada-de-Privilegios-Local-Dirty-Frag">	<img alt="stars" src="https://img.shields.io/github/stars/DylanClaudio/Reporte-de-Escalada-de-Privilegios-Local-Dirty-Frag">
 
 ---
 ## CVE-2026-42945 ()
