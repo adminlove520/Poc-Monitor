@@ -516,6 +516,7 @@
 - [infiniroot/ansible-mitigate-copyfail-dirtyfrag](https://github.com/infiniroot/ansible-mitigate-copyfail-dirtyfrag)	<img alt="forks" src="https://img.shields.io/github/forks/infiniroot/ansible-mitigate-copyfail-dirtyfrag">	<img alt="stars" src="https://img.shields.io/github/stars/infiniroot/ansible-mitigate-copyfail-dirtyfrag">
 - [ExploitEoom/CVE-2026-46300](https://github.com/ExploitEoom/CVE-2026-46300)	<img alt="forks" src="https://img.shields.io/github/forks/ExploitEoom/CVE-2026-46300">	<img alt="stars" src="https://img.shields.io/github/stars/ExploitEoom/CVE-2026-46300">
 - [Maxime288/Fragnesia-CVE-2026-46300](https://github.com/Maxime288/Fragnesia-CVE-2026-46300)	<img alt="forks" src="https://img.shields.io/github/forks/Maxime288/Fragnesia-CVE-2026-46300">	<img alt="stars" src="https://img.shields.io/github/stars/Maxime288/Fragnesia-CVE-2026-46300">
+- [AzDevops143/fragnesia-cve-2026-46300](https://github.com/AzDevops143/fragnesia-cve-2026-46300)	<img alt="forks" src="https://img.shields.io/github/forks/AzDevops143/fragnesia-cve-2026-46300">	<img alt="stars" src="https://img.shields.io/github/stars/AzDevops143/fragnesia-cve-2026-46300">
 
 ---
 ## CVE-2026-45829 ()
@@ -3862,6 +3863,7 @@
 - [p1ctur3p3rf3ct/CVE-2026-23744](https://github.com/p1ctur3p3rf3ct/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/p1ctur3p3rf3ct/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/p1ctur3p3rf3ct/CVE-2026-23744">
 - [SuriyaBoon/DevHub-HackTheBox-ss11](https://github.com/SuriyaBoon/DevHub-HackTheBox-ss11)	<img alt="forks" src="https://img.shields.io/github/forks/SuriyaBoon/DevHub-HackTheBox-ss11">	<img alt="stars" src="https://img.shields.io/github/stars/SuriyaBoon/DevHub-HackTheBox-ss11">
 - [Least-Significant-Bit/CVE-2026-23744](https://github.com/Least-Significant-Bit/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/Least-Significant-Bit/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/Least-Significant-Bit/CVE-2026-23744">
+- [m2sousa/CVE-2026-23744](https://github.com/m2sousa/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/m2sousa/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/m2sousa/CVE-2026-23744">
 
 ---
 ## CVE-2026-23723 ()
@@ -4366,6 +4368,7 @@
 - [404godd/CVE-2026-20841-PoC](https://github.com/404godd/CVE-2026-20841-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/404godd/CVE-2026-20841-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/404godd/CVE-2026-20841-PoC">
 - [hamzamalik3461/CVE-2026-20841](https://github.com/hamzamalik3461/CVE-2026-20841)	<img alt="forks" src="https://img.shields.io/github/forks/hamzamalik3461/CVE-2026-20841">	<img alt="stars" src="https://img.shields.io/github/stars/hamzamalik3461/CVE-2026-20841">
 - [whiskeylab/notepad_CVE_2026_20841](https://github.com/whiskeylab/notepad_CVE_2026_20841)	<img alt="forks" src="https://img.shields.io/github/forks/whiskeylab/notepad_CVE_2026_20841">	<img alt="stars" src="https://img.shields.io/github/stars/whiskeylab/notepad_CVE_2026_20841">
+- [0xBlackash/CVE-2026-20841](https://github.com/0xBlackash/CVE-2026-20841)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-20841">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-20841">
 
 ---
 ## CVE-2026-20833 ()
