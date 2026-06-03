@@ -4728,6 +4728,11 @@
 - [ch4r0nn/CVE-2026-1056-POC](https://github.com/ch4r0nn/CVE-2026-1056-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ch4r0nn/CVE-2026-1056-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ch4r0nn/CVE-2026-1056-POC">
 
 ---
+## CVE-2026-10187 ()
+> 
+- [passwa11/CVE-2026-10187](https://github.com/passwa11/CVE-2026-10187)	<img alt="forks" src="https://img.shields.io/github/forks/passwa11/CVE-2026-10187">	<img alt="stars" src="https://img.shields.io/github/stars/passwa11/CVE-2026-10187">
+
+---
 ## CVE-2026-1 ()
 > 
 - [Pluto2362/CVE-2026-1](https://github.com/Pluto2362/CVE-2026-1)	<img alt="forks" src="https://img.shields.io/github/forks/Pluto2362/CVE-2026-1">	<img alt="stars" src="https://img.shields.io/github/stars/Pluto2362/CVE-2026-1">
@@ -4886,6 +4891,7 @@
 - [HORKimhab/CVE-2026-0257](https://github.com/HORKimhab/CVE-2026-0257)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-0257">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-0257">
 - [Mr-Robot-LP/CVE-2026-0257](https://github.com/Mr-Robot-LP/CVE-2026-0257)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-Robot-LP/CVE-2026-0257">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-Robot-LP/CVE-2026-0257">
 - [bolubey/CVE-2026-0257](https://github.com/bolubey/CVE-2026-0257)	<img alt="forks" src="https://img.shields.io/github/forks/bolubey/CVE-2026-0257">	<img alt="stars" src="https://img.shields.io/github/stars/bolubey/CVE-2026-0257">
+- [tushargurav28/CVE-2026-0257](https://github.com/tushargurav28/CVE-2026-0257)	<img alt="forks" src="https://img.shields.io/github/forks/tushargurav28/CVE-2026-0257">	<img alt="stars" src="https://img.shields.io/github/stars/tushargurav28/CVE-2026-0257">
 
 ---
 ## CVE-2026-0227 ()
