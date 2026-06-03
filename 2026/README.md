@@ -3884,6 +3884,7 @@
 - [Least-Significant-Bit/CVE-2026-23744](https://github.com/Least-Significant-Bit/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/Least-Significant-Bit/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/Least-Significant-Bit/CVE-2026-23744">
 - [m2sousa/CVE-2026-23744](https://github.com/m2sousa/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/m2sousa/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/m2sousa/CVE-2026-23744">
 - [TYehan/CVE-2026-23744](https://github.com/TYehan/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/TYehan/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/TYehan/CVE-2026-23744">
+- [MrR0b0t19/CVE-2026-23744-PoC](https://github.com/MrR0b0t19/CVE-2026-23744-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/MrR0b0t19/CVE-2026-23744-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/MrR0b0t19/CVE-2026-23744-PoC">
 
 ---
 ## CVE-2026-23723 ()
