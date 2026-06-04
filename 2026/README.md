@@ -474,6 +474,11 @@
 - [kaleth4/CVE-2026-4747](https://github.com/kaleth4/CVE-2026-4747)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-4747">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-4747">
 
 ---
+## CVE-2026-47423 ()
+> 
+- [Galaxy-sc/CVE-2026-47423-dompurify-xss-detector](https://github.com/Galaxy-sc/CVE-2026-47423-dompurify-xss-detector)	<img alt="forks" src="https://img.shields.io/github/forks/Galaxy-sc/CVE-2026-47423-dompurify-xss-detector">	<img alt="stars" src="https://img.shields.io/github/stars/Galaxy-sc/CVE-2026-47423-dompurify-xss-detector">
+
+---
 ## CVE-2026-47100 ()
 > 
 - [rootdirective-sec/CVE-2026-47100-Analysis-Lab](https://github.com/rootdirective-sec/CVE-2026-47100-Analysis-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-47100-Analysis-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-47100-Analysis-Lab">
