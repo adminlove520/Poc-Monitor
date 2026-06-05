@@ -393,6 +393,7 @@
 ## CVE-2026-5076 ()
 > 
 - [zycoder0day/CVE-2026-5076](https://github.com/zycoder0day/CVE-2026-5076)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-5076">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-5076">
+- [shootcannon/CVE-2026-5076](https://github.com/shootcannon/CVE-2026-5076)	<img alt="forks" src="https://img.shields.io/github/forks/shootcannon/CVE-2026-5076">	<img alt="stars" src="https://img.shields.io/github/stars/shootcannon/CVE-2026-5076">
 
 ---
 ## CVE-2026-5059 ()
