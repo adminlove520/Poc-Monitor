@@ -1619,6 +1619,11 @@
 - [romain-deperne/CVE-2026-34940](https://github.com/romain-deperne/CVE-2026-34940)	<img alt="forks" src="https://img.shields.io/github/forks/romain-deperne/CVE-2026-34940">	<img alt="stars" src="https://img.shields.io/github/stars/romain-deperne/CVE-2026-34940">
 
 ---
+## CVE-2026-34908 ()
+> 
+- [BishopFox/CVE-2026-34908-check](https://github.com/BishopFox/CVE-2026-34908-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2026-34908-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2026-34908-check">
+
+---
 ## CVE-2026-34838 ()
 > 
 - [bamuwe/CVE-2026-34838](https://github.com/bamuwe/CVE-2026-34838)	<img alt="forks" src="https://img.shields.io/github/forks/bamuwe/CVE-2026-34838">	<img alt="stars" src="https://img.shields.io/github/stars/bamuwe/CVE-2026-34838">
