@@ -2998,6 +2998,11 @@
 - [kaleth4/CVE-2026-28363](https://github.com/kaleth4/CVE-2026-28363)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-28363">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-28363">
 
 ---
+## CVE-2026-28318 ()
+> 
+- [johnniebozura31/CVE-2026-28318](https://github.com/johnniebozura31/CVE-2026-28318)	<img alt="forks" src="https://img.shields.io/github/forks/johnniebozura31/CVE-2026-28318">	<img alt="stars" src="https://img.shields.io/github/stars/johnniebozura31/CVE-2026-28318">
+
+---
 ## CVE-2026-28289 ()
 > 
 - [0xAshwesker/CVE-2026-28289](https://github.com/0xAshwesker/CVE-2026-28289)	<img alt="forks" src="https://img.shields.io/github/forks/0xAshwesker/CVE-2026-28289">	<img alt="stars" src="https://img.shields.io/github/stars/0xAshwesker/CVE-2026-28289">
@@ -3941,6 +3946,7 @@
 - [przemytn/CVE-2026-24061](https://github.com/przemytn/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/przemytn/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/przemytn/CVE-2026-24061">
 - [Risma2025/Forensic-Investigation-on-CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability](https://github.com/Risma2025/Forensic-Investigation-on-CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Risma2025/Forensic-Investigation-on-CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Risma2025/Forensic-Investigation-on-CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability">
 - [jacubes/CVE-2026-24061](https://github.com/jacubes/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/jacubes/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/jacubes/CVE-2026-24061">
+- [tc4dy/CVE-2026-24061-PoC-Exploit](https://github.com/tc4dy/CVE-2026-24061-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-24061-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-24061-PoC-Exploit">
 
 ---
 ## CVE-2026-24055 ()
