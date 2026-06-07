@@ -3889,6 +3889,16 @@
 - [Live-Hack-CVE/CVE-2020-1723](https://github.com/Live-Hack-CVE/CVE-2020-1723)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1723">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1723">
 
 ---
+## CVE-2020-17103 ()
+> 
+- [0xBlackash/CVE-2020-17103](https://github.com/0xBlackash/CVE-2020-17103)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2020-17103">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2020-17103">
+- [rfranca777/miniplasma-advisory](https://github.com/rfranca777/miniplasma-advisory)	<img alt="forks" src="https://img.shields.io/github/forks/rfranca777/miniplasma-advisory">	<img alt="stars" src="https://img.shields.io/github/stars/rfranca777/miniplasma-advisory">
+- [AlexLinov/MiniPlasma-Runner](https://github.com/AlexLinov/MiniPlasma-Runner)	<img alt="forks" src="https://img.shields.io/github/forks/AlexLinov/MiniPlasma-Runner">	<img alt="stars" src="https://img.shields.io/github/stars/AlexLinov/MiniPlasma-Runner">
+- [arch1m3d/MiniPlasma-Detection](https://github.com/arch1m3d/MiniPlasma-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/arch1m3d/MiniPlasma-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/arch1m3d/MiniPlasma-Detection">
+- [CaptainChicky/MiniPlasma](https://github.com/CaptainChicky/MiniPlasma)	<img alt="forks" src="https://img.shields.io/github/forks/CaptainChicky/MiniPlasma">	<img alt="stars" src="https://img.shields.io/github/stars/CaptainChicky/MiniPlasma">
+- [mohammadzarnian1357/MiniPlasma](https://github.com/mohammadzarnian1357/MiniPlasma)	<img alt="forks" src="https://img.shields.io/github/forks/mohammadzarnian1357/MiniPlasma">	<img alt="stars" src="https://img.shields.io/github/stars/mohammadzarnian1357/MiniPlasma">
+
+---
 ## CVE-2020-1709 (2020-03-20T15:15:00)
 > A vulnerability was found in all openshift/mediawiki 4.x.x versions prior to 4.3.0, where an insecure modification vulnerability in the /etc/passwd file was found in the openshift/mediawiki. An attacker with access to the container could use this flaw to modify /etc/passwd and escalate their privileges.
 - [Live-Hack-CVE/CVE-2020-1709](https://github.com/Live-Hack-CVE/CVE-2020-1709)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1709">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1709">
