@@ -633,6 +633,7 @@
 ## CVE-2026-4480 ()
 > 
 - [TheCyberGeek/CVE-2026-4480-PoC](https://github.com/TheCyberGeek/CVE-2026-4480-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TheCyberGeek/CVE-2026-4480-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TheCyberGeek/CVE-2026-4480-PoC">
+- [robinxiang/CVE-2026-4480](https://github.com/robinxiang/CVE-2026-4480)	<img alt="forks" src="https://img.shields.io/github/forks/robinxiang/CVE-2026-4480">	<img alt="stars" src="https://img.shields.io/github/stars/robinxiang/CVE-2026-4480">
 
 ---
 ## CVE-2026-44648 ()
@@ -1792,6 +1793,11 @@
 ## CVE-2026-34070 ()
 > 
 - [Rickidevs/CVE-2026-34070](https://github.com/Rickidevs/CVE-2026-34070)	<img alt="forks" src="https://img.shields.io/github/forks/Rickidevs/CVE-2026-34070">	<img alt="stars" src="https://img.shields.io/github/stars/Rickidevs/CVE-2026-34070">
+
+---
+## CVE-2026-34040 ()
+> 
+- [m0nk3ygod/CVE-2026-34040-PoC](https://github.com/m0nk3ygod/CVE-2026-34040-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/m0nk3ygod/CVE-2026-34040-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/m0nk3ygod/CVE-2026-34040-PoC">
 
 ---
 ## CVE-2026-34036 ()
