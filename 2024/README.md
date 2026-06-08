@@ -5952,6 +5952,11 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [julio-cfa/CVE-2024-33438](https://github.com/julio-cfa/CVE-2024-33438)	<img alt="forks" src="https://img.shields.io/github/forks/julio-cfa/CVE-2024-33438">	<img alt="stars" src="https://img.shields.io/github/stars/julio-cfa/CVE-2024-33438">
 
 ---
+## CVE-2024-33421 ()
+> 
+- [sp624/CVE-2024-33421](https://github.com/sp624/CVE-2024-33421)	<img alt="forks" src="https://img.shields.io/github/forks/sp624/CVE-2024-33421">	<img alt="stars" src="https://img.shields.io/github/stars/sp624/CVE-2024-33421">
+
+---
 ## CVE-2024-33386 (2024-05-14T15:37:00)
 > An issue in SoundCloud Prometheu v.2.5.1 and before allows a remote attacker to execute arbitrary code via the query parameter.
 - [keaidmmc/CVE-2024-33386](https://github.com/keaidmmc/CVE-2024-33386)	<img alt="forks" src="https://img.shields.io/github/forks/keaidmmc/CVE-2024-33386">	<img alt="stars" src="https://img.shields.io/github/stars/keaidmmc/CVE-2024-33386">
@@ -6439,6 +6444,16 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 ## CVE-2024-3154 (2024-04-26T04:15:00)
 > A flaw was found in cri-o, where an arbitrary systemd property can be injected via a Pod annotation. Any user who can create a pod with an arbitrary annotation may perform an arbitrary action on the host system.
 - [cdxiaodong/CVE-2024-3154-communication](https://github.com/cdxiaodong/CVE-2024-3154-communication)	<img alt="forks" src="https://img.shields.io/github/forks/cdxiaodong/CVE-2024-3154-communication">	<img alt="stars" src="https://img.shields.io/github/stars/cdxiaodong/CVE-2024-3154-communication">
+
+---
+## CVE-2024-31509 ()
+> 
+- [sp624/CVE-2024-31509](https://github.com/sp624/CVE-2024-31509)	<img alt="forks" src="https://img.shields.io/github/forks/sp624/CVE-2024-31509">	<img alt="stars" src="https://img.shields.io/github/stars/sp624/CVE-2024-31509">
+
+---
+## CVE-2024-31508 ()
+> 
+- [sp624/CVE-2024-31508](https://github.com/sp624/CVE-2024-31508)	<img alt="forks" src="https://img.shields.io/github/forks/sp624/CVE-2024-31508">	<img alt="stars" src="https://img.shields.io/github/stars/sp624/CVE-2024-31508">
 
 ---
 ## CVE-2024-31497 (2024-04-15T20:15:00)

@@ -39,6 +39,11 @@
 - [Live-Hack-CVE/CVE-2008-2364](https://github.com/Live-Hack-CVE/CVE-2008-2364)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2008-2364">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2008-2364">
 
 ---
+## CVE-2008-1930 ()
+> 
+- [HeisenbergH4X/CVE-2008-1930](https://github.com/HeisenbergH4X/CVE-2008-1930)	<img alt="forks" src="https://img.shields.io/github/forks/HeisenbergH4X/CVE-2008-1930">	<img alt="stars" src="https://img.shields.io/github/stars/HeisenbergH4X/CVE-2008-1930">
+
+---
 ## CVE-2008-1105 (2008-05-29T16:32:00)
 > Heap-based buffer overflow in the receive_smb_raw function in util/sock.c in Samba 3.0.0 through 3.0.29 allows remote attackers to execute arbitrary code via a crafted SMB response.
 - [Live-Hack-CVE/CVE-2008-1105](https://github.com/Live-Hack-CVE/CVE-2008-1105)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2008-1105">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2008-1105">
