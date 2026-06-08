@@ -48,6 +48,7 @@
 - [thinhap/CVE-2026-9082-PoC](https://github.com/thinhap/CVE-2026-9082-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/thinhap/CVE-2026-9082-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/thinhap/CVE-2026-9082-PoC">
 - [strobelpierre/CVE-2026-9082](https://github.com/strobelpierre/CVE-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/strobelpierre/CVE-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/strobelpierre/CVE-2026-9082">
 - [ambionics/cve-2026-9082-drupal-postgresql-rce](https://github.com/ambionics/cve-2026-9082-drupal-postgresql-rce)	<img alt="forks" src="https://img.shields.io/github/forks/ambionics/cve-2026-9082-drupal-postgresql-rce">	<img alt="stars" src="https://img.shields.io/github/stars/ambionics/cve-2026-9082-drupal-postgresql-rce">
+- [11romain/CVE-2026-9082](https://github.com/11romain/CVE-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/11romain/CVE-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/11romain/CVE-2026-9082">
 
 ---
 ## CVE-2026-9018 ()
@@ -3909,6 +3910,7 @@
 - [jacubes/CVE-2026-24061](https://github.com/jacubes/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/jacubes/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/jacubes/CVE-2026-24061">
 - [tc4dy/CVE-2026-24061-PoC-Exploit](https://github.com/tc4dy/CVE-2026-24061-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-24061-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-24061-PoC-Exploit">
 - [K3ysTr0K3R/CVE-2026-24061](https://github.com/K3ysTr0K3R/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2026-24061">
+- [achnouri/CVE-2026-24061-GNU-InetUtils-telnetd](https://github.com/achnouri/CVE-2026-24061-GNU-InetUtils-telnetd)	<img alt="forks" src="https://img.shields.io/github/forks/achnouri/CVE-2026-24061-GNU-InetUtils-telnetd">	<img alt="stars" src="https://img.shields.io/github/stars/achnouri/CVE-2026-24061-GNU-InetUtils-telnetd">
 
 ---
 ## CVE-2026-2406 ()
