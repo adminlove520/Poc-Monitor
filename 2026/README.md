@@ -641,6 +641,7 @@
 - [TheCyberGeek/CVE-2026-4480-PoC](https://github.com/TheCyberGeek/CVE-2026-4480-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TheCyberGeek/CVE-2026-4480-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TheCyberGeek/CVE-2026-4480-PoC">
 - [robinxiang/CVE-2026-4480](https://github.com/robinxiang/CVE-2026-4480)	<img alt="forks" src="https://img.shields.io/github/forks/robinxiang/CVE-2026-4480">	<img alt="stars" src="https://img.shields.io/github/stars/robinxiang/CVE-2026-4480">
 - [0xBlackash/CVE-2026-4480](https://github.com/0xBlackash/CVE-2026-4480)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-4480">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-4480">
+- [CarlosEduardoPM/CVE-2026-4480](https://github.com/CarlosEduardoPM/CVE-2026-4480)	<img alt="forks" src="https://img.shields.io/github/forks/CarlosEduardoPM/CVE-2026-4480">	<img alt="stars" src="https://img.shields.io/github/stars/CarlosEduardoPM/CVE-2026-4480">
 
 ---
 ## CVE-2026-44706 ()
@@ -3907,6 +3908,7 @@
 - [ahmadsadeeq/TelnetdBypass-](https://github.com/ahmadsadeeq/TelnetdBypass-)	<img alt="forks" src="https://img.shields.io/github/forks/ahmadsadeeq/TelnetdBypass-">	<img alt="stars" src="https://img.shields.io/github/stars/ahmadsadeeq/TelnetdBypass-">
 - [jacubes/CVE-2026-24061](https://github.com/jacubes/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/jacubes/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/jacubes/CVE-2026-24061">
 - [tc4dy/CVE-2026-24061-PoC-Exploit](https://github.com/tc4dy/CVE-2026-24061-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-24061-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-24061-PoC-Exploit">
+- [K3ysTr0K3R/CVE-2026-24061](https://github.com/K3ysTr0K3R/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2026-24061">
 
 ---
 ## CVE-2026-2406 ()
