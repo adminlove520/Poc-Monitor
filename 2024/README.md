@@ -9836,6 +9836,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [kursadalsan/CVE-2024-21182](https://github.com/kursadalsan/CVE-2024-21182)	<img alt="forks" src="https://img.shields.io/github/forks/kursadalsan/CVE-2024-21182">	<img alt="stars" src="https://img.shields.io/github/stars/kursadalsan/CVE-2024-21182">
 - [johnniebozura31/CVE-2024-21182](https://github.com/johnniebozura31/CVE-2024-21182)	<img alt="forks" src="https://img.shields.io/github/forks/johnniebozura31/CVE-2024-21182">	<img alt="stars" src="https://img.shields.io/github/stars/johnniebozura31/CVE-2024-21182">
 - [jenniferreire26/CVE-2024-21182](https://github.com/jenniferreire26/CVE-2024-21182)	<img alt="forks" src="https://img.shields.io/github/forks/jenniferreire26/CVE-2024-21182">	<img alt="stars" src="https://img.shields.io/github/stars/jenniferreire26/CVE-2024-21182">
+- [fevar54/CVE-2024-21182---Oracle-WebLogic-Server-JNDI-Injection-RCE](https://github.com/fevar54/CVE-2024-21182---Oracle-WebLogic-Server-JNDI-Injection-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2024-21182---Oracle-WebLogic-Server-JNDI-Injection-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2024-21182---Oracle-WebLogic-Server-JNDI-Injection-RCE">
 
 ---
 ## CVE-2024-21164 (2024-07-16T23:15:00)
