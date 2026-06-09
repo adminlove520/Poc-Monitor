@@ -923,6 +923,7 @@
 ## CVE-2026-42271 ()
 > 
 - [learner202649/CVE-2026-42271-PoC](https://github.com/learner202649/CVE-2026-42271-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/learner202649/CVE-2026-42271-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/learner202649/CVE-2026-42271-PoC">
+- [HORKimhab/CVE-2026-42271](https://github.com/HORKimhab/CVE-2026-42271)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-42271">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-42271">
 
 ---
 ## CVE-2026-42231 ()
