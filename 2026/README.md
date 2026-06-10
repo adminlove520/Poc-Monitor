@@ -51,6 +51,11 @@
 - [11romain/CVE-2026-9082](https://github.com/11romain/CVE-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/11romain/CVE-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/11romain/CVE-2026-9082">
 
 ---
+## CVE-2026-9067 ()
+> 
+- [Polosss/By-Poloss..-..CVE-2026-9067](https://github.com/Polosss/By-Poloss..-..CVE-2026-9067)	<img alt="forks" src="https://img.shields.io/github/forks/Polosss/By-Poloss..-..CVE-2026-9067">	<img alt="stars" src="https://img.shields.io/github/stars/Polosss/By-Poloss..-..CVE-2026-9067">
+
+---
 ## CVE-2026-9018 ()
 > 
 - [xxconi/CVE-2026-9018](https://github.com/xxconi/CVE-2026-9018)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-9018">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-9018">
@@ -441,6 +446,16 @@
 > 
 - [fevar54/Proof-of-Concept-POC---CVE-2026-49975-HTTP-2-Bomb-](https://github.com/fevar54/Proof-of-Concept-POC---CVE-2026-49975-HTTP-2-Bomb-)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/Proof-of-Concept-POC---CVE-2026-49975-HTTP-2-Bomb-">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/Proof-of-Concept-POC---CVE-2026-49975-HTTP-2-Bomb-">
 - [mrx-arafat/CVE-2026-49975-POC](https://github.com/mrx-arafat/CVE-2026-49975-POC)	<img alt="forks" src="https://img.shields.io/github/forks/mrx-arafat/CVE-2026-49975-POC">	<img alt="stars" src="https://img.shields.io/github/stars/mrx-arafat/CVE-2026-49975-POC">
+- [LiaoZiqi-GZFLS/CVE-2026-49975](https://github.com/LiaoZiqi-GZFLS/CVE-2026-49975)	<img alt="forks" src="https://img.shields.io/github/forks/LiaoZiqi-GZFLS/CVE-2026-49975">	<img alt="stars" src="https://img.shields.io/github/stars/LiaoZiqi-GZFLS/CVE-2026-49975">
+- [LSG-PolarBear/CVE-2026-49975](https://github.com/LSG-PolarBear/CVE-2026-49975)	<img alt="forks" src="https://img.shields.io/github/forks/LSG-PolarBear/CVE-2026-49975">	<img alt="stars" src="https://img.shields.io/github/stars/LSG-PolarBear/CVE-2026-49975">
+- [EQSTLab/CVE-2026-49975](https://github.com/EQSTLab/CVE-2026-49975)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-49975">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-49975">
+- [renzi25031469/CVE-2026-49975-HTTP-2-Bomb](https://github.com/renzi25031469/CVE-2026-49975-HTTP-2-Bomb)	<img alt="forks" src="https://img.shields.io/github/forks/renzi25031469/CVE-2026-49975-HTTP-2-Bomb">	<img alt="stars" src="https://img.shields.io/github/stars/renzi25031469/CVE-2026-49975-HTTP-2-Bomb">
+- [obrige/http2-bomb](https://github.com/obrige/http2-bomb)	<img alt="forks" src="https://img.shields.io/github/forks/obrige/http2-bomb">	<img alt="stars" src="https://img.shields.io/github/stars/obrige/http2-bomb">
+
+---
+## CVE-2026-49413 ()
+> 
+- [ii4gsp/CVE-2026-49413](https://github.com/ii4gsp/CVE-2026-49413)	<img alt="forks" src="https://img.shields.io/github/forks/ii4gsp/CVE-2026-49413">	<img alt="stars" src="https://img.shields.io/github/stars/ii4gsp/CVE-2026-49413">
 
 ---
 ## CVE-2026-49009 ()
@@ -5281,6 +5296,11 @@
 ## CVE-2026-0047 ()
 > 
 - [mobilehackinglab/CVE-2026-0047-poc](https://github.com/mobilehackinglab/CVE-2026-0047-poc)	<img alt="forks" src="https://img.shields.io/github/forks/mobilehackinglab/CVE-2026-0047-poc">	<img alt="stars" src="https://img.shields.io/github/stars/mobilehackinglab/CVE-2026-0047-poc">
+
+---
+## CVE-2026-0023 ()
+> 
+- [QM4RS/CVE-2026-0023-Update-Ownership-PoC](https://github.com/QM4RS/CVE-2026-0023-Update-Ownership-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/QM4RS/CVE-2026-0023-Update-Ownership-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/QM4RS/CVE-2026-0023-Update-Ownership-PoC">
 
 ---
 ## CVE-2026-0013 ()
