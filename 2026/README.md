@@ -435,6 +435,7 @@
 - [min8282/CVE-2026-5027](https://github.com/min8282/CVE-2026-5027)	<img alt="forks" src="https://img.shields.io/github/forks/min8282/CVE-2026-5027">	<img alt="stars" src="https://img.shields.io/github/stars/min8282/CVE-2026-5027">
 - [EQSTLab/CVE-2026-5027](https://github.com/EQSTLab/CVE-2026-5027)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-5027">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-5027">
 - [0xBlackash/CVE-2026-5027](https://github.com/0xBlackash/CVE-2026-5027)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-5027">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-5027">
+- [Layer-6/CVE-2026-5027-Langflow](https://github.com/Layer-6/CVE-2026-5027-Langflow)	<img alt="forks" src="https://img.shields.io/github/forks/Layer-6/CVE-2026-5027-Langflow">	<img alt="stars" src="https://img.shields.io/github/stars/Layer-6/CVE-2026-5027-Langflow">
 
 ---
 ## CVE-2026-50142 ()
@@ -548,6 +549,11 @@
 ## CVE-2026-47423 ()
 > 
 - [Galaxy-sc/CVE-2026-47423-dompurify-xss-detector](https://github.com/Galaxy-sc/CVE-2026-47423-dompurify-xss-detector)	<img alt="forks" src="https://img.shields.io/github/forks/Galaxy-sc/CVE-2026-47423-dompurify-xss-detector">	<img alt="stars" src="https://img.shields.io/github/stars/Galaxy-sc/CVE-2026-47423-dompurify-xss-detector">
+
+---
+## CVE-2026-47291 ()
+> 
+- [ManagerEmpty/CVE-2026-47291-httpsys](https://github.com/ManagerEmpty/CVE-2026-47291-httpsys)	<img alt="forks" src="https://img.shields.io/github/forks/ManagerEmpty/CVE-2026-47291-httpsys">	<img alt="stars" src="https://img.shields.io/github/stars/ManagerEmpty/CVE-2026-47291-httpsys">
 
 ---
 ## CVE-2026-47100 ()
@@ -897,6 +903,8 @@
 - [simota/nginx-rift-scanner](https://github.com/simota/nginx-rift-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/simota/nginx-rift-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/simota/nginx-rift-scanner">
 - [lowilol/CVE-2026-42945-NGINX-Rift-Check-Script](https://github.com/lowilol/CVE-2026-42945-NGINX-Rift-Check-Script)	<img alt="forks" src="https://img.shields.io/github/forks/lowilol/CVE-2026-42945-NGINX-Rift-Check-Script">	<img alt="stars" src="https://img.shields.io/github/stars/lowilol/CVE-2026-42945-NGINX-Rift-Check-Script">
 - [jenniferreire26/CVE-2026-42945](https://github.com/jenniferreire26/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/jenniferreire26/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/jenniferreire26/CVE-2026-42945">
+- [LiaoZiqi-GZFLS/CVE-2026-42945](https://github.com/LiaoZiqi-GZFLS/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/LiaoZiqi-GZFLS/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/LiaoZiqi-GZFLS/CVE-2026-42945">
+- [limo57640-crypto/nginx-rift-detector](https://github.com/limo57640-crypto/nginx-rift-detector)	<img alt="forks" src="https://img.shields.io/github/forks/limo57640-crypto/nginx-rift-detector">	<img alt="stars" src="https://img.shields.io/github/stars/limo57640-crypto/nginx-rift-detector">
 
 ---
 ## CVE-2026-42940 ()
@@ -5060,6 +5068,7 @@
 ## CVE-2026-11645 ()
 > 
 - [fevar54/CVE-2026-11645-Out-of-bounds-Read-Write](https://github.com/fevar54/CVE-2026-11645-Out-of-bounds-Read-Write)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-11645-Out-of-bounds-Read-Write">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-11645-Out-of-bounds-Read-Write">
+- [adamshaikhma/CVE-2026-11645](https://github.com/adamshaikhma/CVE-2026-11645)	<img alt="forks" src="https://img.shields.io/github/forks/adamshaikhma/CVE-2026-11645">	<img alt="stars" src="https://img.shields.io/github/stars/adamshaikhma/CVE-2026-11645">
 
 ---
 ## CVE-2026-1107 ()
