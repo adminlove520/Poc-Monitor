@@ -9125,6 +9125,7 @@
 - [suil12/CVE-2025-24813_presentation](https://github.com/suil12/CVE-2025-24813_presentation)	<img alt="forks" src="https://img.shields.io/github/forks/suil12/CVE-2025-24813_presentation">	<img alt="stars" src="https://img.shields.io/github/stars/suil12/CVE-2025-24813_presentation">
 - [Enzo-Tssn/PCS3844-CVE_2025_24813](https://github.com/Enzo-Tssn/PCS3844-CVE_2025_24813)	<img alt="forks" src="https://img.shields.io/github/forks/Enzo-Tssn/PCS3844-CVE_2025_24813">	<img alt="stars" src="https://img.shields.io/github/stars/Enzo-Tssn/PCS3844-CVE_2025_24813">
 - [JTMH37/ICT279-CVE-2025-24813](https://github.com/JTMH37/ICT279-CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/JTMH37/ICT279-CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/JTMH37/ICT279-CVE-2025-24813">
+- [Dhananjayasj/CVE-2025-24813-Apache-Tomcat-Partial-PUT-Deserialization-RCE-](https://github.com/Dhananjayasj/CVE-2025-24813-Apache-Tomcat-Partial-PUT-Deserialization-RCE-)	<img alt="forks" src="https://img.shields.io/github/forks/Dhananjayasj/CVE-2025-24813-Apache-Tomcat-Partial-PUT-Deserialization-RCE-">	<img alt="stars" src="https://img.shields.io/github/stars/Dhananjayasj/CVE-2025-24813-Apache-Tomcat-Partial-PUT-Deserialization-RCE-">
 
 ---
 ## CVE-2025-24801 ()
