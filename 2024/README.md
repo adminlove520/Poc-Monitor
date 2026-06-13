@@ -3783,6 +3783,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [ellenllen/CVE-2024-4367-PDFjs-Exploit-Framework](https://github.com/ellenllen/CVE-2024-4367-PDFjs-Exploit-Framework)	<img alt="forks" src="https://img.shields.io/github/forks/ellenllen/CVE-2024-4367-PDFjs-Exploit-Framework">	<img alt="stars" src="https://img.shields.io/github/stars/ellenllen/CVE-2024-4367-PDFjs-Exploit-Framework">
 - [xiaoqiesec0x1/CVE-2024-4367-PDF.js-xss](https://github.com/xiaoqiesec0x1/CVE-2024-4367-PDF.js-xss)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiesec0x1/CVE-2024-4367-PDF.js-xss">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiesec0x1/CVE-2024-4367-PDF.js-xss">
 - [Nishab-Khatiwada/cve_2024_4367_poc.pdf](https://github.com/Nishab-Khatiwada/cve_2024_4367_poc.pdf)	<img alt="forks" src="https://img.shields.io/github/forks/Nishab-Khatiwada/cve_2024_4367_poc.pdf">	<img alt="stars" src="https://img.shields.io/github/stars/Nishab-Khatiwada/cve_2024_4367_poc.pdf">
+- [J1nKsC/CVE-2024-4367_test](https://github.com/J1nKsC/CVE-2024-4367_test)	<img alt="forks" src="https://img.shields.io/github/forks/J1nKsC/CVE-2024-4367_test">	<img alt="stars" src="https://img.shields.io/github/stars/J1nKsC/CVE-2024-4367_test">
 
 ---
 ## CVE-2024-43639 ()
