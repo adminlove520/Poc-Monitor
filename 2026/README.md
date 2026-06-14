@@ -4334,6 +4334,7 @@
 - [jf-gondim/mcp-pwn](https://github.com/jf-gondim/mcp-pwn)	<img alt="forks" src="https://img.shields.io/github/forks/jf-gondim/mcp-pwn">	<img alt="stars" src="https://img.shields.io/github/stars/jf-gondim/mcp-pwn">
 - [alisster00/CVE-2026-23744-RCE](https://github.com/alisster00/CVE-2026-23744-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/alisster00/CVE-2026-23744-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/alisster00/CVE-2026-23744-RCE">
 - [afifudinmtop/MCPJam-Inspector-1.4.2-Remote-Code-Execution-CVE-2026-23744](https://github.com/afifudinmtop/MCPJam-Inspector-1.4.2-Remote-Code-Execution-CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/afifudinmtop/MCPJam-Inspector-1.4.2-Remote-Code-Execution-CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/afifudinmtop/MCPJam-Inspector-1.4.2-Remote-Code-Execution-CVE-2026-23744">
+- [rohit-sundar/cve-2026-23744](https://github.com/rohit-sundar/cve-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/rohit-sundar/cve-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/rohit-sundar/cve-2026-23744">
 
 ---
 ## CVE-2026-23723 ()
