@@ -369,6 +369,11 @@
 - [kaleth4/CVE-2026-5465](https://github.com/kaleth4/CVE-2026-5465)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-5465">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-5465">
 
 ---
+## CVE-2026-53787 ()
+> 
+- [webshellseo8/CVE-2026-53787-POC-](https://github.com/webshellseo8/CVE-2026-53787-POC-)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2026-53787-POC-">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2026-53787-POC-">
+
+---
 ## CVE-2026-5364 ()
 > 
 - [xxconi/CVE-2026-5364](https://github.com/xxconi/CVE-2026-5364)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-5364">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-5364">
@@ -4295,7 +4300,7 @@
 ---
 ## CVE-2026-23744 ()
 > 
-- [boroeurnprach/CVE-2026-23744-PoC](https://github.com/boroeurnprach/CVE-2026-23744-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/boroeurnprach/CVE-2026-23744-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/boroeurnprach/CVE-2026-23744-PoC">
+- [ibreakthingsforaliving/CVE-2026-23744-PoC](https://github.com/ibreakthingsforaliving/CVE-2026-23744-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ibreakthingsforaliving/CVE-2026-23744-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ibreakthingsforaliving/CVE-2026-23744-PoC">
 - [rootdirective-sec/CVE-2026-23744-Lab](https://github.com/rootdirective-sec/CVE-2026-23744-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-23744-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-23744-Lab">
 - [suljov/CVE-2026-23744-Remote-Code-Execution-POC](https://github.com/suljov/CVE-2026-23744-Remote-Code-Execution-POC)	<img alt="forks" src="https://img.shields.io/github/forks/suljov/CVE-2026-23744-Remote-Code-Execution-POC">	<img alt="stars" src="https://img.shields.io/github/stars/suljov/CVE-2026-23744-Remote-Code-Execution-POC">
 - [H1sok444/CVE-2026-23744-PoC](https://github.com/H1sok444/CVE-2026-23744-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/H1sok444/CVE-2026-23744-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/H1sok444/CVE-2026-23744-PoC">
@@ -5002,6 +5007,7 @@
 - [gigachadusers/cve-2026-20127](https://github.com/gigachadusers/cve-2026-20127)	<img alt="forks" src="https://img.shields.io/github/forks/gigachadusers/cve-2026-20127">	<img alt="stars" src="https://img.shields.io/github/stars/gigachadusers/cve-2026-20127">
 - [sfewer-r7/CVE-2026-20127](https://github.com/sfewer-r7/CVE-2026-20127)	<img alt="forks" src="https://img.shields.io/github/forks/sfewer-r7/CVE-2026-20127">	<img alt="stars" src="https://img.shields.io/github/stars/sfewer-r7/CVE-2026-20127">
 - [randeepajayasekara/CVE-2026-20127](https://github.com/randeepajayasekara/CVE-2026-20127)	<img alt="forks" src="https://img.shields.io/github/forks/randeepajayasekara/CVE-2026-20127">	<img alt="stars" src="https://img.shields.io/github/stars/randeepajayasekara/CVE-2026-20127">
+- [0xBlackash/CVE-2026-20127](https://github.com/0xBlackash/CVE-2026-20127)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-20127">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-20127">
 
 ---
 ## CVE-2026-20079 ()
