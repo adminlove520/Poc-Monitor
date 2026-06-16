@@ -365,6 +365,11 @@
 - [87achrafg-stack/CVE-2026-5513](https://github.com/87achrafg-stack/CVE-2026-5513)	<img alt="forks" src="https://img.shields.io/github/forks/87achrafg-stack/CVE-2026-5513">	<img alt="stars" src="https://img.shields.io/github/stars/87achrafg-stack/CVE-2026-5513">
 
 ---
+## CVE-2026-54686 ()
+> 
+- [Saku0512/CVE-2026-54686-poc](https://github.com/Saku0512/CVE-2026-54686-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Saku0512/CVE-2026-54686-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Saku0512/CVE-2026-54686-poc">
+
+---
 ## CVE-2026-5465 ()
 > 
 - [kaleth4/CVE-2026-5465](https://github.com/kaleth4/CVE-2026-5465)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-5465">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-5465">
