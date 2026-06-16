@@ -1471,6 +1471,11 @@
 - [frawlaboy/CVE-2026-39973-PoC](https://github.com/frawlaboy/CVE-2026-39973-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/frawlaboy/CVE-2026-39973-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/frawlaboy/CVE-2026-39973-PoC">
 
 ---
+## CVE-2026-39949 ()
+> 
+- [lukehebe/CVE-2026-39949](https://github.com/lukehebe/CVE-2026-39949)	<img alt="forks" src="https://img.shields.io/github/forks/lukehebe/CVE-2026-39949">	<img alt="stars" src="https://img.shields.io/github/stars/lukehebe/CVE-2026-39949">
+
+---
 ## CVE-2026-39912 ()
 > 
 - [Chocapikk/CVE-2026-39912](https://github.com/Chocapikk/CVE-2026-39912)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2026-39912">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2026-39912">
