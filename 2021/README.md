@@ -6570,6 +6570,8 @@
 - [ngtuonghung/CVE-2021-3156](https://github.com/ngtuonghung/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/ngtuonghung/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/ngtuonghung/CVE-2021-3156">
 - [calonnuotcabe/CVE-2021-3156](https://github.com/calonnuotcabe/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/calonnuotcabe/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/calonnuotcabe/CVE-2021-3156">
 - [Robblackcatchai/porfolio-Baron-Samedit](https://github.com/Robblackcatchai/porfolio-Baron-Samedit)	<img alt="forks" src="https://img.shields.io/github/forks/Robblackcatchai/porfolio-Baron-Samedit">	<img alt="stars" src="https://img.shields.io/github/stars/Robblackcatchai/porfolio-Baron-Samedit">
+- [Kranti08/CVE-2021-3156-Baron-Samedit](https://github.com/Kranti08/CVE-2021-3156-Baron-Samedit)	<img alt="forks" src="https://img.shields.io/github/forks/Kranti08/CVE-2021-3156-Baron-Samedit">	<img alt="stars" src="https://img.shields.io/github/stars/Kranti08/CVE-2021-3156-Baron-Samedit">
+- [DakerQirszh/cve-2021-3156](https://github.com/DakerQirszh/cve-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/DakerQirszh/cve-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/DakerQirszh/cve-2021-3156">
 
 ---
 ## CVE-2021-31525 (2021-05-27T13:15:00)
