@@ -420,6 +420,11 @@
 - [ossf-cve-benchmark/CVE-2020-8116](https://github.com/ossf-cve-benchmark/CVE-2020-8116)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2020-8116">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2020-8116">
 
 ---
+## CVE-2020-8036 ()
+> 
+- [yan5ui/ENV-CVE-2020-8036](https://github.com/yan5ui/ENV-CVE-2020-8036)	<img alt="forks" src="https://img.shields.io/github/forks/yan5ui/ENV-CVE-2020-8036">	<img alt="stars" src="https://img.shields.io/github/stars/yan5ui/ENV-CVE-2020-8036">
+
+---
 ## CVE-2020-8003 (2020-01-27T05:15:00)
 > A double-free vulnerability in vrend_renderer.c in virglrenderer through 0.8.1 allows attackers to cause a denial of service by triggering texture allocation failure, because vrend_renderer_resource_allocated_texture is not an appropriate place for a free.
 - [Live-Hack-CVE/CVE-2020-8003](https://github.com/Live-Hack-CVE/CVE-2020-8003)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8003">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8003">
@@ -466,6 +471,8 @@
 - [CrackerCat/CVE-2020-7961-Mass](https://github.com/CrackerCat/CVE-2020-7961-Mass)	<img alt="forks" src="https://img.shields.io/github/forks/CrackerCat/CVE-2020-7961-Mass">	<img alt="stars" src="https://img.shields.io/github/stars/CrackerCat/CVE-2020-7961-Mass">
 - [neverhavenamee/CVE-2020-7961](https://github.com/neverhavenamee/CVE-2020-7961)	<img alt="forks" src="https://img.shields.io/github/forks/neverhavenamee/CVE-2020-7961">	<img alt="stars" src="https://img.shields.io/github/stars/neverhavenamee/CVE-2020-7961">
 - [d4ngkh04w/CVE-2020-7961](https://github.com/d4ngkh04w/CVE-2020-7961)	<img alt="forks" src="https://img.shields.io/github/forks/d4ngkh04w/CVE-2020-7961">	<img alt="stars" src="https://img.shields.io/github/stars/d4ngkh04w/CVE-2020-7961">
+- [Alaa-abdulridha/POC-CVE-2020-7961-Token-iterate](https://github.com/Alaa-abdulridha/POC-CVE-2020-7961-Token-iterate)	<img alt="forks" src="https://img.shields.io/github/forks/Alaa-abdulridha/POC-CVE-2020-7961-Token-iterate">	<img alt="stars" src="https://img.shields.io/github/stars/Alaa-abdulridha/POC-CVE-2020-7961-Token-iterate">
+- [Alaa-abdulridha/GLiferay-CVE-2020-7961-golang](https://github.com/Alaa-abdulridha/GLiferay-CVE-2020-7961-golang)	<img alt="forks" src="https://img.shields.io/github/forks/Alaa-abdulridha/GLiferay-CVE-2020-7961-golang">	<img alt="stars" src="https://img.shields.io/github/stars/Alaa-abdulridha/GLiferay-CVE-2020-7961-golang">
 
 ---
 ## CVE-2020-7862 (2021-06-24T11:15:00)
