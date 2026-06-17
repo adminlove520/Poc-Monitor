@@ -8800,6 +8800,8 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [vmc8ll/poc-CVE-2024-23897](https://github.com/vmc8ll/poc-CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/vmc8ll/poc-CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/vmc8ll/poc-CVE-2024-23897">
 - [aldamd/CTF](https://github.com/aldamd/CTF)	<img alt="forks" src="https://img.shields.io/github/forks/aldamd/CTF">	<img alt="stars" src="https://img.shields.io/github/stars/aldamd/CTF">
 - [rivaedoardo62-boop/cve-2024-23897-jenkins-poc](https://github.com/rivaedoardo62-boop/cve-2024-23897-jenkins-poc)	<img alt="forks" src="https://img.shields.io/github/forks/rivaedoardo62-boop/cve-2024-23897-jenkins-poc">	<img alt="stars" src="https://img.shields.io/github/stars/rivaedoardo62-boop/cve-2024-23897-jenkins-poc">
+- [w41l3r/jenkins_scan](https://github.com/w41l3r/jenkins_scan)	<img alt="forks" src="https://img.shields.io/github/forks/w41l3r/jenkins_scan">	<img alt="stars" src="https://img.shields.io/github/stars/w41l3r/jenkins_scan">
+- [classic130/CVE-2024-23897-Jenkins-4.441](https://github.com/classic130/CVE-2024-23897-Jenkins-4.441)	<img alt="forks" src="https://img.shields.io/github/forks/classic130/CVE-2024-23897-Jenkins-4.441">	<img alt="stars" src="https://img.shields.io/github/stars/classic130/CVE-2024-23897-Jenkins-4.441">
 
 ---
 ## CVE-2024-2389 (2024-04-02T13:15:00)
@@ -10011,6 +10013,7 @@ Note: The IS-IS protocol is a routing protocol. To exploit this vulnerability, a
  This vulnerability is due to insufficient validation of arguments that are passed to specific configuration CLI commands. An attacker could exploit this vulnerability by including crafted input as the argument of an affected configuration CLI command. A successful exploit could allow the attacker to execute arbitrary commands on the underlying operating system with the privileges of root.
  Note: To successfully exploit this vulnerability on a Cisco NX-OS device, an attacker must have Administrator credentials.
 - [Blootus/CVE-2024-20399-Cisco-RCE](https://github.com/Blootus/CVE-2024-20399-Cisco-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Blootus/CVE-2024-20399-Cisco-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Blootus/CVE-2024-20399-Cisco-RCE">
+- [HORKimhab/CVE-2024-20399](https://github.com/HORKimhab/CVE-2024-20399)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2024-20399">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2024-20399">
 
 ---
 ## CVE-2024-20359 (2024-04-24T19:15:00)
