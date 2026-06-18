@@ -414,6 +414,14 @@
 - [iltosec/CVE-2026-54596](https://github.com/iltosec/CVE-2026-54596)	<img alt="forks" src="https://img.shields.io/github/forks/iltosec/CVE-2026-54596">	<img alt="stars" src="https://img.shields.io/github/stars/iltosec/CVE-2026-54596">
 
 ---
+## CVE-2026-54420 ()
+> 
+- [fevar54/CVE-2026-54420-LiteSpeed-Symlink-Exploit](https://github.com/fevar54/CVE-2026-54420-LiteSpeed-Symlink-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-54420-LiteSpeed-Symlink-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-54420-LiteSpeed-Symlink-Exploit">
+- [mahfuzreham/litespeed-cpanel-cve-2026-54420-fix](https://github.com/mahfuzreham/litespeed-cpanel-cve-2026-54420-fix)	<img alt="forks" src="https://img.shields.io/github/forks/mahfuzreham/litespeed-cpanel-cve-2026-54420-fix">	<img alt="stars" src="https://img.shields.io/github/stars/mahfuzreham/litespeed-cpanel-cve-2026-54420-fix">
+- [Resellnom/litespeed-cpanel-cve-2026-54420-fix](https://github.com/Resellnom/litespeed-cpanel-cve-2026-54420-fix)	<img alt="forks" src="https://img.shields.io/github/forks/Resellnom/litespeed-cpanel-cve-2026-54420-fix">	<img alt="stars" src="https://img.shields.io/github/stars/Resellnom/litespeed-cpanel-cve-2026-54420-fix">
+- [HORKimhab/CVE-2026-54420](https://github.com/HORKimhab/CVE-2026-54420)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-54420">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-54420">
+
+---
 ## CVE-2026-54316 ()
 > 
 - [InertFluid/cve-2026-54316-lab](https://github.com/InertFluid/cve-2026-54316-lab)	<img alt="forks" src="https://img.shields.io/github/forks/InertFluid/cve-2026-54316-lab">	<img alt="stars" src="https://img.shields.io/github/stars/InertFluid/cve-2026-54316-lab">
@@ -526,6 +534,11 @@
 - [bolubey/CVE-2026-50751](https://github.com/bolubey/CVE-2026-50751)	<img alt="forks" src="https://img.shields.io/github/forks/bolubey/CVE-2026-50751">	<img alt="stars" src="https://img.shields.io/github/stars/bolubey/CVE-2026-50751">
 
 ---
+## CVE-2026-50656 ()
+> 
+- [0xBlackash/CVE-2026-50656](https://github.com/0xBlackash/CVE-2026-50656)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-50656">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-50656">
+
+---
 ## CVE-2026-5059 ()
 > 
 - [venom203020/CVE-2026-5059-poc](https://github.com/venom203020/CVE-2026-5059-poc)	<img alt="forks" src="https://img.shields.io/github/forks/venom203020/CVE-2026-5059-poc">	<img alt="stars" src="https://img.shields.io/github/stars/venom203020/CVE-2026-5059-poc">
@@ -560,6 +573,7 @@
 - [renzi25031469/CVE-2026-49975-HTTP-2-Bomb](https://github.com/renzi25031469/CVE-2026-49975-HTTP-2-Bomb)	<img alt="forks" src="https://img.shields.io/github/forks/renzi25031469/CVE-2026-49975-HTTP-2-Bomb">	<img alt="stars" src="https://img.shields.io/github/stars/renzi25031469/CVE-2026-49975-HTTP-2-Bomb">
 - [obrige/http2-bomb](https://github.com/obrige/http2-bomb)	<img alt="forks" src="https://img.shields.io/github/forks/obrige/http2-bomb">	<img alt="stars" src="https://img.shields.io/github/stars/obrige/http2-bomb">
 - [razureink/cve-2026-49975-http2bomb_reproduction](https://github.com/razureink/cve-2026-49975-http2bomb_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2026-49975-http2bomb_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2026-49975-http2bomb_reproduction">
+- [0xc03307b/CVE-2026-49975](https://github.com/0xc03307b/CVE-2026-49975)	<img alt="forks" src="https://img.shields.io/github/forks/0xc03307b/CVE-2026-49975">	<img alt="stars" src="https://img.shields.io/github/stars/0xc03307b/CVE-2026-49975">
 
 ---
 ## CVE-2026-49952 ()
@@ -803,6 +817,11 @@
 - [BenedictEjepu/CVE-2026-46300-Fragnesia---TryHackMe-Lab-Walkthrough](https://github.com/BenedictEjepu/CVE-2026-46300-Fragnesia---TryHackMe-Lab-Walkthrough)	<img alt="forks" src="https://img.shields.io/github/forks/BenedictEjepu/CVE-2026-46300-Fragnesia---TryHackMe-Lab-Walkthrough">	<img alt="stars" src="https://img.shields.io/github/stars/BenedictEjepu/CVE-2026-46300-Fragnesia---TryHackMe-Lab-Walkthrough">
 - [1neptune/Fragnesia](https://github.com/1neptune/Fragnesia)	<img alt="forks" src="https://img.shields.io/github/forks/1neptune/Fragnesia">	<img alt="stars" src="https://img.shields.io/github/stars/1neptune/Fragnesia">
 - [cumakurt/linuxpi](https://github.com/cumakurt/linuxpi)	<img alt="forks" src="https://img.shields.io/github/forks/cumakurt/linuxpi">	<img alt="stars" src="https://img.shields.io/github/stars/cumakurt/linuxpi">
+
+---
+## CVE-2026-46215 ()
+> 
+- [0xCyberstan/CVE-2026-46215-POC](https://github.com/0xCyberstan/CVE-2026-46215-POC)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyberstan/CVE-2026-46215-POC">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyberstan/CVE-2026-46215-POC">
 
 ---
 ## CVE-2026-45829 ()
@@ -1505,6 +1524,9 @@
 > 
 - [orinimron123/CVE-2026-40369-EXPLOIT](https://github.com/orinimron123/CVE-2026-40369-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/orinimron123/CVE-2026-40369-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/orinimron123/CVE-2026-40369-EXPLOIT">
 - [ercihan/CVE-2026-40369](https://github.com/ercihan/CVE-2026-40369)	<img alt="forks" src="https://img.shields.io/github/forks/ercihan/CVE-2026-40369">	<img alt="stars" src="https://img.shields.io/github/stars/ercihan/CVE-2026-40369">
+- [0xBlackash/CVE-2026-40369](https://github.com/0xBlackash/CVE-2026-40369)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-40369">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-40369">
+- [Joe1sn/CVE_2026_40369](https://github.com/Joe1sn/CVE_2026_40369)	<img alt="forks" src="https://img.shields.io/github/forks/Joe1sn/CVE_2026_40369">	<img alt="stars" src="https://img.shields.io/github/stars/Joe1sn/CVE_2026_40369">
+- [piffd0s/ntoskrnl-metadata](https://github.com/piffd0s/ntoskrnl-metadata)	<img alt="forks" src="https://img.shields.io/github/forks/piffd0s/ntoskrnl-metadata">	<img alt="stars" src="https://img.shields.io/github/stars/piffd0s/ntoskrnl-metadata">
 
 ---
 ## CVE-2026-40281 ()
