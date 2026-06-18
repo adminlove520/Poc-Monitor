@@ -4774,6 +4774,7 @@
 ## CVE-2025-53024 ()
 > 
 - [minq0x1412/CVE-2025-53024](https://github.com/minq0x1412/CVE-2025-53024)	<img alt="forks" src="https://img.shields.io/github/forks/minq0x1412/CVE-2025-53024">	<img alt="stars" src="https://img.shields.io/github/stars/minq0x1412/CVE-2025-53024">
+- [minq0x1412/CVE-2025-53024](https://github.com/minq0x1412/CVE-2025-53024)	<img alt="forks" src="https://img.shields.io/github/forks/minq0x1412/CVE-2025-53024">	<img alt="stars" src="https://img.shields.io/github/stars/minq0x1412/CVE-2025-53024">
 
 ---
 ## CVE-2025-53020 ()
