@@ -3056,6 +3056,7 @@
 - [0xEhab/FreePBX-CVE-2025-57819-RCE](https://github.com/0xEhab/FreePBX-CVE-2025-57819-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/0xEhab/FreePBX-CVE-2025-57819-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/0xEhab/FreePBX-CVE-2025-57819-RCE">
 - [cybertechajju/cve-2025-57819](https://github.com/cybertechajju/cve-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/cybertechajju/cve-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/cybertechajju/cve-2025-57819">
 - [0xyngtg/FreePBX-CVE-2025-57819-CVE-2025-61678](https://github.com/0xyngtg/FreePBX-CVE-2025-57819-CVE-2025-61678)	<img alt="forks" src="https://img.shields.io/github/forks/0xyngtg/FreePBX-CVE-2025-57819-CVE-2025-61678">	<img alt="stars" src="https://img.shields.io/github/stars/0xyngtg/FreePBX-CVE-2025-57819-CVE-2025-61678">
+- [ozcanpng/CVE-2025-57819-FreePBX-RCE2Root](https://github.com/ozcanpng/CVE-2025-57819-FreePBX-RCE2Root)	<img alt="forks" src="https://img.shields.io/github/forks/ozcanpng/CVE-2025-57819-FreePBX-RCE2Root">	<img alt="stars" src="https://img.shields.io/github/stars/ozcanpng/CVE-2025-57819-FreePBX-RCE2Root">
 
 ---
 ## CVE-2025-57773 ()
