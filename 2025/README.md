@@ -2104,6 +2104,7 @@
 ## CVE-2025-6254 ()
 > 
 - [xxconi/CVE-2025-6254](https://github.com/xxconi/CVE-2025-6254)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2025-6254">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2025-6254">
+- [Yucaerin/CVE-2025-6254](https://github.com/Yucaerin/CVE-2025-6254)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2025-6254">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2025-6254">
 
 ---
 ## CVE-2025-62518 ()
