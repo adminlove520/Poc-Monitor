@@ -5510,6 +5510,11 @@
 - [0xBlackash/CVE-2026-11645](https://github.com/0xBlackash/CVE-2026-11645)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-11645">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-11645">
 
 ---
+## CVE-2026-11551 ()
+> 
+- [Polosss/By-Poloss..-..CVE-2026-11551-PoC](https://github.com/Polosss/By-Poloss..-..CVE-2026-11551-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Polosss/By-Poloss..-..CVE-2026-11551-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Polosss/By-Poloss..-..CVE-2026-11551-PoC">
+
+---
 ## CVE-2026-11417 ()
 > 
 - [HeshamASH/CVE-2026-11417-AWS-CDK-RCE](https://github.com/HeshamASH/CVE-2026-11417-AWS-CDK-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/HeshamASH/CVE-2026-11417-AWS-CDK-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/HeshamASH/CVE-2026-11417-AWS-CDK-RCE">
