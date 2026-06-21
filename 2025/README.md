@@ -5354,6 +5354,7 @@
 - [Cilectiy/CVE-2025-49844](https://github.com/Cilectiy/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/Cilectiy/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/Cilectiy/CVE-2025-49844">
 - [zbyszkok/CVE-2025-49844-RediShell-AI-made-Revshell](https://github.com/zbyszkok/CVE-2025-49844-RediShell-AI-made-Revshell)	<img alt="forks" src="https://img.shields.io/github/forks/zbyszkok/CVE-2025-49844-RediShell-AI-made-Revshell">	<img alt="stars" src="https://img.shields.io/github/stars/zbyszkok/CVE-2025-49844-RediShell-AI-made-Revshell">
 - [open-flaw/CVE-2025-49844](https://github.com/open-flaw/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/open-flaw/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/open-flaw/CVE-2025-49844">
+- [cc3305/CVE-2025-49844](https://github.com/cc3305/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/cc3305/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/cc3305/CVE-2025-49844">
 
 ---
 ## CVE-2025-49752 ()
@@ -10381,6 +10382,11 @@
 ## CVE-2025-13465 ()
 > 
 - [jaytarr-geo/nextjs-lodash-cve-2025-13465-repro](https://github.com/jaytarr-geo/nextjs-lodash-cve-2025-13465-repro)	<img alt="forks" src="https://img.shields.io/github/forks/jaytarr-geo/nextjs-lodash-cve-2025-13465-repro">	<img alt="stars" src="https://img.shields.io/github/stars/jaytarr-geo/nextjs-lodash-cve-2025-13465-repro">
+
+---
+## CVE-2025-13407 ()
+> 
+- [xxconi/CVE-2025-13407](https://github.com/xxconi/CVE-2025-13407)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2025-13407">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2025-13407">
 
 ---
 ## CVE-2025-13401 ()
