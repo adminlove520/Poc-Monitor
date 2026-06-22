@@ -669,6 +669,7 @@
 ## CVE-2026-48908 ()
 > 
 - [webshellseo8/CVE-2026-48908-POC](https://github.com/webshellseo8/CVE-2026-48908-POC)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2026-48908-POC">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2026-48908-POC">
+- [papageo75/CVE-2026-48908-PoC](https://github.com/papageo75/CVE-2026-48908-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/papageo75/CVE-2026-48908-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/papageo75/CVE-2026-48908-PoC">
 
 ---
 ## CVE-2026-48907 ()
@@ -883,6 +884,7 @@
 - [BenedictEjepu/CVE-2026-46300-Fragnesia---TryHackMe-Lab-Walkthrough](https://github.com/BenedictEjepu/CVE-2026-46300-Fragnesia---TryHackMe-Lab-Walkthrough)	<img alt="forks" src="https://img.shields.io/github/forks/BenedictEjepu/CVE-2026-46300-Fragnesia---TryHackMe-Lab-Walkthrough">	<img alt="stars" src="https://img.shields.io/github/stars/BenedictEjepu/CVE-2026-46300-Fragnesia---TryHackMe-Lab-Walkthrough">
 - [1neptune/Fragnesia](https://github.com/1neptune/Fragnesia)	<img alt="forks" src="https://img.shields.io/github/forks/1neptune/Fragnesia">	<img alt="stars" src="https://img.shields.io/github/stars/1neptune/Fragnesia">
 - [cumakurt/linuxpi](https://github.com/cumakurt/linuxpi)	<img alt="forks" src="https://img.shields.io/github/forks/cumakurt/linuxpi">	<img alt="stars" src="https://img.shields.io/github/stars/cumakurt/linuxpi">
+- [azilRababe/CVE-2026-46300](https://github.com/azilRababe/CVE-2026-46300)	<img alt="forks" src="https://img.shields.io/github/forks/azilRababe/CVE-2026-46300">	<img alt="stars" src="https://img.shields.io/github/stars/azilRababe/CVE-2026-46300">
 
 ---
 ## CVE-2026-46215 ()
@@ -1219,6 +1221,7 @@
 - [limo57640-crypto/nginx-rift-detector](https://github.com/limo57640-crypto/nginx-rift-detector)	<img alt="forks" src="https://img.shields.io/github/forks/limo57640-crypto/nginx-rift-detector">	<img alt="stars" src="https://img.shields.io/github/stars/limo57640-crypto/nginx-rift-detector">
 - [sec-sys/CVE-2026-42945-Reverse-Shell-POC](https://github.com/sec-sys/CVE-2026-42945-Reverse-Shell-POC)	<img alt="forks" src="https://img.shields.io/github/forks/sec-sys/CVE-2026-42945-Reverse-Shell-POC">	<img alt="stars" src="https://img.shields.io/github/stars/sec-sys/CVE-2026-42945-Reverse-Shell-POC">
 - [hulina9900-boop/DIY-CVE-2026-42945-POC](https://github.com/hulina9900-boop/DIY-CVE-2026-42945-POC)	<img alt="forks" src="https://img.shields.io/github/forks/hulina9900-boop/DIY-CVE-2026-42945-POC">	<img alt="stars" src="https://img.shields.io/github/stars/hulina9900-boop/DIY-CVE-2026-42945-POC">
+- [azilRababe/CVE-2026-42945](https://github.com/azilRababe/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/azilRababe/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/azilRababe/CVE-2026-42945">
 
 ---
 ## CVE-2026-42940 ()
@@ -4101,6 +4104,11 @@
 ## CVE-2026-25546 ()
 > 
 - [mbanyamer/CVE-2026-25546-godot-mcp-0.1.1-OS-Command-Injection](https://github.com/mbanyamer/CVE-2026-25546-godot-mcp-0.1.1-OS-Command-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-25546-godot-mcp-0.1.1-OS-Command-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-25546-godot-mcp-0.1.1-OS-Command-Injection">
+
+---
+## CVE-2026-25541 ()
+> 
+- [hanyvert/cve-2026-25541-fuel-analysis](https://github.com/hanyvert/cve-2026-25541-fuel-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/hanyvert/cve-2026-25541-fuel-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/hanyvert/cve-2026-25541-fuel-analysis">
 
 ---
 ## CVE-2026-25526 ()
