@@ -1331,6 +1331,11 @@
 - [rudSarkar/CVE-2026-42228](https://github.com/rudSarkar/CVE-2026-42228)	<img alt="forks" src="https://img.shields.io/github/forks/rudSarkar/CVE-2026-42228">	<img alt="stars" src="https://img.shields.io/github/stars/rudSarkar/CVE-2026-42228">
 
 ---
+## CVE-2026-42221 ()
+> 
+- [fuchiuebusi-lab/nginx-ui-CVE-2026-42221-CVE-2026-42238-](https://github.com/fuchiuebusi-lab/nginx-ui-CVE-2026-42221-CVE-2026-42238-)	<img alt="forks" src="https://img.shields.io/github/forks/fuchiuebusi-lab/nginx-ui-CVE-2026-42221-CVE-2026-42238-">	<img alt="stars" src="https://img.shields.io/github/stars/fuchiuebusi-lab/nginx-ui-CVE-2026-42221-CVE-2026-42238-">
+
+---
 ## CVE-2026-42208 ()
 > 
 - [imjdl/CVE-2026-42208_lab](https://github.com/imjdl/CVE-2026-42208_lab)	<img alt="forks" src="https://img.shields.io/github/forks/imjdl/CVE-2026-42208_lab">	<img alt="stars" src="https://img.shields.io/github/stars/imjdl/CVE-2026-42208_lab">
@@ -3967,6 +3972,7 @@
 ## CVE-2026-26030 ()
 > 
 - [mbanyamer/CVE-2026-26030-Microsoft-Semantic-Kernel-1.39.4-RCE](https://github.com/mbanyamer/CVE-2026-26030-Microsoft-Semantic-Kernel-1.39.4-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-26030-Microsoft-Semantic-Kernel-1.39.4-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-26030-Microsoft-Semantic-Kernel-1.39.4-RCE">
+- [InertFluid/sk-cve-2026-26030-lab](https://github.com/InertFluid/sk-cve-2026-26030-lab)	<img alt="forks" src="https://img.shields.io/github/forks/InertFluid/sk-cve-2026-26030-lab">	<img alt="stars" src="https://img.shields.io/github/stars/InertFluid/sk-cve-2026-26030-lab">
 
 ---
 ## CVE-2026-26026 ()
