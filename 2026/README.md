@@ -5671,6 +5671,11 @@
 - [M8seven/cve-2026-11837-ansible-posix-authorized-key](https://github.com/M8seven/cve-2026-11837-ansible-posix-authorized-key)	<img alt="forks" src="https://img.shields.io/github/forks/M8seven/cve-2026-11837-ansible-posix-authorized-key">	<img alt="stars" src="https://img.shields.io/github/stars/M8seven/cve-2026-11837-ansible-posix-authorized-key">
 
 ---
+## CVE-2026-11834 ()
+> 
+- [mattgsys/CVE-2026-11834](https://github.com/mattgsys/CVE-2026-11834)	<img alt="forks" src="https://img.shields.io/github/forks/mattgsys/CVE-2026-11834">	<img alt="stars" src="https://img.shields.io/github/stars/mattgsys/CVE-2026-11834">
+
+---
 ## CVE-2026-11784 ()
 > 
 - [AlexMihailEngineer/CVE-2026-11784-Optimole-CSRF](https://github.com/AlexMihailEngineer/CVE-2026-11784-Optimole-CSRF)	<img alt="forks" src="https://img.shields.io/github/forks/AlexMihailEngineer/CVE-2026-11784-Optimole-CSRF">	<img alt="stars" src="https://img.shields.io/github/stars/AlexMihailEngineer/CVE-2026-11784-Optimole-CSRF">
