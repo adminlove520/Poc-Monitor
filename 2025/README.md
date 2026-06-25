@@ -300,6 +300,7 @@
 - [mananispiwpiw/CVE-2025-8110-PoC](https://github.com/mananispiwpiw/CVE-2025-8110-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/mananispiwpiw/CVE-2025-8110-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/mananispiwpiw/CVE-2025-8110-PoC">
 - [get-xor/coreweave-demo-2026-05](https://github.com/get-xor/coreweave-demo-2026-05)	<img alt="forks" src="https://img.shields.io/github/forks/get-xor/coreweave-demo-2026-05">	<img alt="stars" src="https://img.shields.io/github/stars/get-xor/coreweave-demo-2026-05">
 - [SuriyaBoon/HackTheBox-Silentium](https://github.com/SuriyaBoon/HackTheBox-Silentium)	<img alt="forks" src="https://img.shields.io/github/forks/SuriyaBoon/HackTheBox-Silentium">	<img alt="stars" src="https://img.shields.io/github/stars/SuriyaBoon/HackTheBox-Silentium">
+- [joaquinrrr/CVE-2025-8110](https://github.com/joaquinrrr/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/joaquinrrr/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/joaquinrrr/CVE-2025-8110">
 
 ---
 ## CVE-2025-8088 ()
@@ -2421,6 +2422,7 @@
 > 
 - [pollotherunner/CVE-2025-61155](https://github.com/pollotherunner/CVE-2025-61155)	<img alt="forks" src="https://img.shields.io/github/forks/pollotherunner/CVE-2025-61155">	<img alt="stars" src="https://img.shields.io/github/stars/pollotherunner/CVE-2025-61155">
 - [sys0xFF/CVE-2025-61155](https://github.com/sys0xFF/CVE-2025-61155)	<img alt="forks" src="https://img.shields.io/github/forks/sys0xFF/CVE-2025-61155">	<img alt="stars" src="https://img.shields.io/github/stars/sys0xFF/CVE-2025-61155">
+- [I3r1h0n/Sigurd](https://github.com/I3r1h0n/Sigurd)	<img alt="forks" src="https://img.shields.io/github/forks/I3r1h0n/Sigurd">	<img alt="stars" src="https://img.shields.io/github/stars/I3r1h0n/Sigurd">
 
 ---
 ## CVE-2025-61148 ()
