@@ -139,6 +139,7 @@
 - [BastianXploited/CVE-2026-8181](https://github.com/BastianXploited/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/BastianXploited/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/BastianXploited/CVE-2026-8181">
 - [Yucaerin/CVE-2026-8181](https://github.com/Yucaerin/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2026-8181">
 - [x48ps/CVE-2026-8181](https://github.com/x48ps/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/x48ps/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/x48ps/CVE-2026-8181">
+- [Squamity/CVE-2026-8181-PoC](https://github.com/Squamity/CVE-2026-8181-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Squamity/CVE-2026-8181-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Squamity/CVE-2026-8181-PoC">
 
 ---
 ## CVE-2026-8161 ()
@@ -506,6 +507,11 @@
 - [AmesianX/CVE-2026-53435](https://github.com/AmesianX/CVE-2026-53435)	<img alt="forks" src="https://img.shields.io/github/forks/AmesianX/CVE-2026-53435">	<img alt="stars" src="https://img.shields.io/github/stars/AmesianX/CVE-2026-53435">
 
 ---
+## CVE-2026-53075 ()
+> 
+- [lottiedeyan/CVE-2026-53075poc](https://github.com/lottiedeyan/CVE-2026-53075poc)	<img alt="forks" src="https://img.shields.io/github/forks/lottiedeyan/CVE-2026-53075poc">	<img alt="stars" src="https://img.shields.io/github/stars/lottiedeyan/CVE-2026-53075poc">
+
+---
 ## CVE-2026-52885 ()
 > 
 - [v3s9er/CVE-2026-52885](https://github.com/v3s9er/CVE-2026-52885)	<img alt="forks" src="https://img.shields.io/github/forks/v3s9er/CVE-2026-52885">	<img alt="stars" src="https://img.shields.io/github/stars/v3s9er/CVE-2026-52885">
@@ -856,6 +862,11 @@
 ## CVE-2026-46586 ()
 > 
 - [lwd3c/CVE-2026-46586](https://github.com/lwd3c/CVE-2026-46586)	<img alt="forks" src="https://img.shields.io/github/forks/lwd3c/CVE-2026-46586">	<img alt="stars" src="https://img.shields.io/github/stars/lwd3c/CVE-2026-46586">
+
+---
+## CVE-2026-46552 ()
+> 
+- [0xmrma/CVE-2026-46552](https://github.com/0xmrma/CVE-2026-46552)	<img alt="forks" src="https://img.shields.io/github/forks/0xmrma/CVE-2026-46552">	<img alt="stars" src="https://img.shields.io/github/stars/0xmrma/CVE-2026-46552">
 
 ---
 ## CVE-2026-46529 ()
