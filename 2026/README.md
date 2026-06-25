@@ -1368,6 +1368,11 @@
 - [v4ltonn/CVE-2026-42530](https://github.com/v4ltonn/CVE-2026-42530)	<img alt="forks" src="https://img.shields.io/github/forks/v4ltonn/CVE-2026-42530">	<img alt="stars" src="https://img.shields.io/github/stars/v4ltonn/CVE-2026-42530">
 
 ---
+## CVE-2026-4253 ()
+> 
+- [renzi25031469/CVE-2026-4253-Scanner](https://github.com/renzi25031469/CVE-2026-4253-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/renzi25031469/CVE-2026-4253-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/renzi25031469/CVE-2026-4253-Scanner">
+
+---
 ## CVE-2026-42281 ()
 > 
 - [Astaruf/CVE-2026-42281](https://github.com/Astaruf/CVE-2026-42281)	<img alt="forks" src="https://img.shields.io/github/forks/Astaruf/CVE-2026-42281">	<img alt="stars" src="https://img.shields.io/github/stars/Astaruf/CVE-2026-42281">
