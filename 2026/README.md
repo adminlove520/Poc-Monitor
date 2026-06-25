@@ -4867,6 +4867,7 @@
 - [seguridadentrerios/CVE-2026-23111](https://github.com/seguridadentrerios/CVE-2026-23111)	<img alt="forks" src="https://img.shields.io/github/forks/seguridadentrerios/CVE-2026-23111">	<img alt="stars" src="https://img.shields.io/github/stars/seguridadentrerios/CVE-2026-23111">
 - [HORKimhab/CVE-2026-23111](https://github.com/HORKimhab/CVE-2026-23111)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-23111">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-23111">
 - [ishankaru/CVE-2026-23111-nftables-lab](https://github.com/ishankaru/CVE-2026-23111-nftables-lab)	<img alt="forks" src="https://img.shields.io/github/forks/ishankaru/CVE-2026-23111-nftables-lab">	<img alt="stars" src="https://img.shields.io/github/stars/ishankaru/CVE-2026-23111-nftables-lab">
+- [Baba01hacker666/CVE-2026-23111](https://github.com/Baba01hacker666/CVE-2026-23111)	<img alt="forks" src="https://img.shields.io/github/forks/Baba01hacker666/CVE-2026-23111">	<img alt="stars" src="https://img.shields.io/github/stars/Baba01hacker666/CVE-2026-23111">
 
 ---
 ## CVE-2026-22862 ()
@@ -5421,6 +5422,7 @@
 > 
 - [HORKimhab/CVE-2026-20230](https://github.com/HORKimhab/CVE-2026-20230)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-20230">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-20230">
 - [HalilDeniz/CVE-2026-20230-Scanner](https://github.com/HalilDeniz/CVE-2026-20230-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/HalilDeniz/CVE-2026-20230-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/HalilDeniz/CVE-2026-20230-Scanner">
+- [W5M1n9/Cisco-Unified-Communications-Manager-Server-Side-Forgery-Request-Vulnerability-CVE-2026-20230](https://github.com/W5M1n9/Cisco-Unified-Communications-Manager-Server-Side-Forgery-Request-Vulnerability-CVE-2026-20230)	<img alt="forks" src="https://img.shields.io/github/forks/W5M1n9/Cisco-Unified-Communications-Manager-Server-Side-Forgery-Request-Vulnerability-CVE-2026-20230">	<img alt="stars" src="https://img.shields.io/github/stars/W5M1n9/Cisco-Unified-Communications-Manager-Server-Side-Forgery-Request-Vulnerability-CVE-2026-20230">
 
 ---
 ## CVE-2026-20224 ()
