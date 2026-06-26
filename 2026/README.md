@@ -73,6 +73,11 @@
 - [xxconi/CVE-2026-9018](https://github.com/xxconi/CVE-2026-9018)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-9018">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-9018">
 
 ---
+## CVE-2026-8932 ()
+> 
+- [0xBlackash/CVE-2026-8932](https://github.com/0xBlackash/CVE-2026-8932)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-8932">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-8932">
+
+---
 ## CVE-2026-8838 ()
 > 
 - [Maxime288/CVE-2026-8838-RCE](https://github.com/Maxime288/CVE-2026-8838-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Maxime288/CVE-2026-8838-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Maxime288/CVE-2026-8838-RCE">
@@ -926,6 +931,7 @@
 ## CVE-2026-46331 ()
 > 
 - [0xBlackash/CVE-2026-46331](https://github.com/0xBlackash/CVE-2026-46331)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-46331">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-46331">
+- [sgkdev/packet_edit_meme](https://github.com/sgkdev/packet_edit_meme)	<img alt="forks" src="https://img.shields.io/github/forks/sgkdev/packet_edit_meme">	<img alt="stars" src="https://img.shields.io/github/stars/sgkdev/packet_edit_meme">
 
 ---
 ## CVE-2026-4631 ()
