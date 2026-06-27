@@ -736,6 +736,7 @@
 - [g0thamRabb1t/joomla-jce-cve-2026-48907-detection](https://github.com/g0thamRabb1t/joomla-jce-cve-2026-48907-detection)	<img alt="forks" src="https://img.shields.io/github/forks/g0thamRabb1t/joomla-jce-cve-2026-48907-detection">	<img alt="stars" src="https://img.shields.io/github/stars/g0thamRabb1t/joomla-jce-cve-2026-48907-detection">
 - [sec0x/CVE-2026-48907](https://github.com/sec0x/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/sec0x/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/sec0x/CVE-2026-48907">
 - [0xgh057r3c0n/CVE-2026-48907](https://github.com/0xgh057r3c0n/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2026-48907">
+- [gh1mau/masta-cve-2026-48907](https://github.com/gh1mau/masta-cve-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/gh1mau/masta-cve-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/gh1mau/masta-cve-2026-48907">
 
 ---
 ## CVE-2026-48866 ()
@@ -1214,6 +1215,11 @@
 ## CVE-2026-4350 ()
 > 
 - [whyiamsobusy/CVE-2026-4350](https://github.com/whyiamsobusy/CVE-2026-4350)	<img alt="forks" src="https://img.shields.io/github/forks/whyiamsobusy/CVE-2026-4350">	<img alt="stars" src="https://img.shields.io/github/stars/whyiamsobusy/CVE-2026-4350">
+
+---
+## CVE-2026-43499 ()
+> 
+- [MobiusM/CVE-2026-43499](https://github.com/MobiusM/CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/MobiusM/CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/MobiusM/CVE-2026-43499">
 
 ---
 ## CVE-2026-43494 ()
@@ -2106,6 +2112,11 @@
 ## CVE-2026-36956 ()
 > 
 - [kirubel-cve/CVE-2026-36956](https://github.com/kirubel-cve/CVE-2026-36956)	<img alt="forks" src="https://img.shields.io/github/forks/kirubel-cve/CVE-2026-36956">	<img alt="stars" src="https://img.shields.io/github/stars/kirubel-cve/CVE-2026-36956">
+
+---
+## CVE-2026-36834 ()
+> 
+- [kpatsakis/CVE-2026-36834](https://github.com/kpatsakis/CVE-2026-36834)	<img alt="forks" src="https://img.shields.io/github/forks/kpatsakis/CVE-2026-36834">	<img alt="stars" src="https://img.shields.io/github/stars/kpatsakis/CVE-2026-36834">
 
 ---
 ## CVE-2026-36826 ()
