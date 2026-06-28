@@ -767,6 +767,7 @@
 ## CVE-2025-69212 ()
 > 
 - [lukasz-rybak/CVE-2025-69212](https://github.com/lukasz-rybak/CVE-2025-69212)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2025-69212">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2025-69212">
+- [tohib09/CVE-2025-69212-PoC](https://github.com/tohib09/CVE-2025-69212-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/tohib09/CVE-2025-69212-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/tohib09/CVE-2025-69212-PoC">
 
 ---
 ## CVE-2025-69194 ()
