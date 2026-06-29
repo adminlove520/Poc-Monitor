@@ -1235,6 +1235,7 @@
 - [gl1tch0x1/DirtyClone](https://github.com/gl1tch0x1/DirtyClone)	<img alt="forks" src="https://img.shields.io/github/forks/gl1tch0x1/DirtyClone">	<img alt="stars" src="https://img.shields.io/github/stars/gl1tch0x1/DirtyClone">
 - [douglasmun/pagecache-lpe-containment-kit](https://github.com/douglasmun/pagecache-lpe-containment-kit)	<img alt="forks" src="https://img.shields.io/github/forks/douglasmun/pagecache-lpe-containment-kit">	<img alt="stars" src="https://img.shields.io/github/stars/douglasmun/pagecache-lpe-containment-kit">
 - [SecureWithUmer/CVE-2026-43503](https://github.com/SecureWithUmer/CVE-2026-43503)	<img alt="forks" src="https://img.shields.io/github/forks/SecureWithUmer/CVE-2026-43503">	<img alt="stars" src="https://img.shields.io/github/stars/SecureWithUmer/CVE-2026-43503">
+- [entra1337/DirtyClone](https://github.com/entra1337/DirtyClone)	<img alt="forks" src="https://img.shields.io/github/forks/entra1337/DirtyClone">	<img alt="stars" src="https://img.shields.io/github/stars/entra1337/DirtyClone">
 
 ---
 ## CVE-2026-43500 ()
