@@ -7096,6 +7096,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [ynwarcs/CVE-2023-24871](https://github.com/ynwarcs/CVE-2023-24871)	<img alt="forks" src="https://img.shields.io/github/forks/ynwarcs/CVE-2023-24871">	<img alt="stars" src="https://img.shields.io/github/stars/ynwarcs/CVE-2023-24871">
 
 ---
+## CVE-2023-24824 ()
+> 
+- [rootkiTED/graylog-cve-2023-24824-exploit](https://github.com/rootkiTED/graylog-cve-2023-24824-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/rootkiTED/graylog-cve-2023-24824-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/rootkiTED/graylog-cve-2023-24824-exploit">
+
+---
 ## CVE-2023-24813 ()
 > 
 - [platypus-perry03/CVE-2023-24813](https://github.com/platypus-perry03/CVE-2023-24813)	<img alt="forks" src="https://img.shields.io/github/forks/platypus-perry03/CVE-2023-24813">	<img alt="stars" src="https://img.shields.io/github/stars/platypus-perry03/CVE-2023-24813">
