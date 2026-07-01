@@ -441,6 +441,11 @@
 - [mirackayikci/CVE-2026-55584](https://github.com/mirackayikci/CVE-2026-55584)	<img alt="forks" src="https://img.shields.io/github/forks/mirackayikci/CVE-2026-55584">	<img alt="stars" src="https://img.shields.io/github/stars/mirackayikci/CVE-2026-55584">
 
 ---
+## CVE-2026-55488 ()
+> 
+- [thecodeb0ss/CVE-2026-55488](https://github.com/thecodeb0ss/CVE-2026-55488)	<img alt="forks" src="https://img.shields.io/github/forks/thecodeb0ss/CVE-2026-55488">	<img alt="stars" src="https://img.shields.io/github/stars/thecodeb0ss/CVE-2026-55488">
+
+---
 ## CVE-2026-5530 ()
 > 
 - [davidrxchester/CVE-2026-5530](https://github.com/davidrxchester/CVE-2026-5530)	<img alt="forks" src="https://img.shields.io/github/forks/davidrxchester/CVE-2026-5530">	<img alt="stars" src="https://img.shields.io/github/stars/davidrxchester/CVE-2026-5530">
@@ -1026,6 +1031,7 @@
 - [HORKimhab/CVE-2026-46331](https://github.com/HORKimhab/CVE-2026-46331)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-46331">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-46331">
 - [Quaerendir/cve-2026-46331-audit](https://github.com/Quaerendir/cve-2026-46331-audit)	<img alt="forks" src="https://img.shields.io/github/forks/Quaerendir/cve-2026-46331-audit">	<img alt="stars" src="https://img.shields.io/github/stars/Quaerendir/cve-2026-46331-audit">
 - [g0thamRabb1t/cve-2026-46331-pedit-cow-auditd-detection](https://github.com/g0thamRabb1t/cve-2026-46331-pedit-cow-auditd-detection)	<img alt="forks" src="https://img.shields.io/github/forks/g0thamRabb1t/cve-2026-46331-pedit-cow-auditd-detection">	<img alt="stars" src="https://img.shields.io/github/stars/g0thamRabb1t/cve-2026-46331-pedit-cow-auditd-detection">
+- [V0IDNETWORK/CVE-2026-46331](https://github.com/V0IDNETWORK/CVE-2026-46331)	<img alt="forks" src="https://img.shields.io/github/forks/V0IDNETWORK/CVE-2026-46331">	<img alt="stars" src="https://img.shields.io/github/stars/V0IDNETWORK/CVE-2026-46331">
 
 ---
 ## CVE-2026-4631 ()
