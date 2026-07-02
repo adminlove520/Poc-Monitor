@@ -411,6 +411,11 @@
 - [BiiTts/CVE-2026-58138-Conductor-Unauth-RCE](https://github.com/BiiTts/CVE-2026-58138-Conductor-Unauth-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-58138-Conductor-Unauth-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-58138-Conductor-Unauth-RCE">
 
 ---
+## CVE-2026-58116 ()
+> 
+- [Hunt-Benito/llama-factory-webui-rce-cve-2026-58116-trust-remote-code-model-path-injection](https://github.com/Hunt-Benito/llama-factory-webui-rce-cve-2026-58116-trust-remote-code-model-path-injection)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/llama-factory-webui-rce-cve-2026-58116-trust-remote-code-model-path-injection">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/llama-factory-webui-rce-cve-2026-58116-trust-remote-code-model-path-injection">
+
+---
 ## CVE-2026-5733 ()
 > 
 - [Lechansky/CVE-2026-5733](https://github.com/Lechansky/CVE-2026-5733)	<img alt="forks" src="https://img.shields.io/github/forks/Lechansky/CVE-2026-5733">	<img alt="stars" src="https://img.shields.io/github/stars/Lechansky/CVE-2026-5733">
@@ -6004,6 +6009,11 @@
 ## CVE-2026-1232 ()
 > 
 - [horrister/beyondtrust-cve-2026-1232](https://github.com/horrister/beyondtrust-cve-2026-1232)	<img alt="forks" src="https://img.shields.io/github/forks/horrister/beyondtrust-cve-2026-1232">	<img alt="stars" src="https://img.shields.io/github/stars/horrister/beyondtrust-cve-2026-1232">
+
+---
+## CVE-2026-12166 ()
+> 
+- [FzRsLLaSheR/CVE-2026-12166_CVE-2026-12167_CVE-2026-12168](https://github.com/FzRsLLaSheR/CVE-2026-12166_CVE-2026-12167_CVE-2026-12168)	<img alt="forks" src="https://img.shields.io/github/forks/FzRsLLaSheR/CVE-2026-12166_CVE-2026-12167_CVE-2026-12168">	<img alt="stars" src="https://img.shields.io/github/stars/FzRsLLaSheR/CVE-2026-12166_CVE-2026-12167_CVE-2026-12168">
 
 ---
 ## CVE-2026-1208 ()
